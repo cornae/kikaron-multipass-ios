@@ -93,11 +93,11 @@ class LandingProcessor: StateProcessor<LandingState, LandingAction, LandingEffec
             state.isCreateAccountButtonHidden = true
             await regionHelper.loadRegion()
             await refreshProfileState()
-            // Kikaron: no account yet -> open the Kikaron sign-in straight away, once per launch
+            // Kikaron: started without an account -> open the Kikaron sign-in straight away
             // (a cancelled or failed sheet leaves the "Log in with Kikaron" button).
-            if !KikaronAutoSignIn.attempted,
+            if KikaronAutoSignIn.pending,
                (try? await services.stateService.getAccounts())?.isEmpty ?? true {
-                KikaronAutoSignIn.attempted = true
+                KikaronAutoSignIn.pending = false
                 try? await Task.sleep(nanoseconds: 300_000_000) // let the screen settle first
                 coordinator.navigate(to: .enterpriseSingleSignOn(email: ""))
             }

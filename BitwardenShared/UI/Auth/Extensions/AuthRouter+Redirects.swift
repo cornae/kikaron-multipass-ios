@@ -237,6 +237,7 @@ extension AuthRouter {
             let introCarouselShown = await services.stateService.getIntroCarouselShown()
             let shouldShowCarousel = !introCarouselShown && !isInAppExtension
             _ = shouldShowCarousel // Kikaron: no intro carousel, straight to Log in with Kikaron
+            if !isInAppExtension { await MainActor.run { KikaronAutoSignIn.pending = true } }
             return .landing
         }
 
