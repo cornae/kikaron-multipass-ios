@@ -149,10 +149,19 @@ def info_plists():
     def app(d):
         rebrand_values(d)
         d["CFBundleName"] = PRODUCT_NAME
-        # Upstream's code belongs to Bitwarden's ASC account. Keep declaring
-        # non-exempt encryption (true); the code comes from our own ASC answer.
-        d["ITSAppUsesNonExemptEncryption"] = True
-        d.pop("ITSEncryptionExportComplianceCode", None)
+        # Upstream's compliance code belongs to Bitwarden's ASC account, and
+        # App Store Connect rejects an upload that says "true" without a code
+        # of ours ("Invalid Export Compliance Code"). So declare nothing: ASC
+        # then asks the encryption questions per build. NEVER set false.
+        # Once our own export-compliance documentation is approved, set
+        # COMPLIANCE_CODE and the pair goes back in.
+        code = os.environ.get("COMPLIANCE_CODE", "")
+        if code:
+            d["ITSAppUsesNonExemptEncryption"] = True
+            d["ITSEncryptionExportComplianceCode"] = code
+        else:
+            d.pop("ITSAppUsesNonExemptEncryption", None)
+            d.pop("ITSEncryptionExportComplianceCode", None)
         modes = [m for m in d.get("UIBackgroundModes", []) if m != "remote-notification"]
         if modes:
             d["UIBackgroundModes"] = modes
