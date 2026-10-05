@@ -10,21 +10,21 @@
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>zero</key>
-        <string>Ni allai Bitwarden ddadgryptio %d o eitemau cwpwrdd.</string>
+        <string>Ni allai Multipass ddadgryptio %d o eitemau cwpwrdd.</string>
         <key>NSStringFormatSpecTypeKey</key>
         <string>NSStringPluralRuleType</string>
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Ni allai Bitwarden ddadgryptio %d o eitemau cwpwrdd.</string>
+        <string>Ni allai Multipass ddadgryptio %d o eitemau cwpwrdd.</string>
         <key>two</key>
-        <string>Ni allai Bitwarden ddadgryptio %d o eitemau cwpwrdd.</string>
+        <string>Ni allai Multipass ddadgryptio %d o eitemau cwpwrdd.</string>
         <key>few</key>
-        <string>Ni allai Bitwarden ddadgryptio %d o eitemau cwpwrdd.</string>
+        <string>Ni allai Multipass ddadgryptio %d o eitemau cwpwrdd.</string>
         <key>many</key>
-        <string>Ni allai Bitwarden ddadgryptio %d o eitemau cwpwrdd.</string>
+        <string>Ni allai Multipass ddadgryptio %d o eitemau cwpwrdd.</string>
         <key>other</key>
-        <string>Ni allai Bitwarden ddadgryptio %d o eitemau cwpwrdd.</string>
+        <string>Ni allai Multipass ddadgryptio %d o eitemau cwpwrdd.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

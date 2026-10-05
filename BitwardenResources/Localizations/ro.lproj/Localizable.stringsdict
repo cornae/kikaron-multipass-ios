@@ -14,11 +14,11 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Bitwarden nu a putut decripta %d element al seifului.</string>
+        <string>Multipass nu a putut decripta %d element al seifului.</string>
         <key>few</key>
-        <string>Bitwarden nu a putut decripta %d elemente ale seifului.</string>
+        <string>Multipass nu a putut decripta %d elemente ale seifului.</string>
         <key>other</key>
-        <string>Bitwarden nu a putut decripta %d elemente ale seifului.</string>
+        <string>Multipass nu a putut decripta %d elemente ale seifului.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

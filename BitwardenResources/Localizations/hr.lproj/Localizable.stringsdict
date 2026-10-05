@@ -14,11 +14,11 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Bitwarden nije mogao dešifrirati jednu stavku trezora.</string>
+        <string>Multipass nije mogao dešifrirati jednu stavku trezora.</string>
         <key>few</key>
-        <string>Bitwarden nije mogao dešifrirati %d stavke trezora.</string>
+        <string>Multipass nije mogao dešifrirati %d stavke trezora.</string>
         <key>other</key>
-        <string>Bitwarden nije mogao dešifrirati %d stavki trezora.</string>
+        <string>Multipass nije mogao dešifrirati %d stavki trezora.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

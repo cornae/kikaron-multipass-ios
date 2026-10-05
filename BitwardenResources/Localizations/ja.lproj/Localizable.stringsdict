@@ -14,7 +14,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>Bitwarden は %d 件の保管庫のアイテムを復号できませんでした。</string>
+        <string>Multipass は %d 件の保管庫のアイテムを復号できませんでした。</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->
