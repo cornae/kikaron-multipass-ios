@@ -149,18 +149,26 @@ def info_plists():
     def app(d):
         rebrand_values(d)
         d["CFBundleName"] = PRODUCT_NAME
-        # Upstream's compliance code belongs to Bitwarden's ASC account, and
-        # App Store Connect rejects an upload that says "true" without a code
-        # of ours ("Invalid Export Compliance Code"). So declare nothing: ASC
-        # then asks the encryption questions per build. NEVER set false.
-        # Once our own export-compliance documentation is approved, set
-        # COMPLIANCE_CODE and the pair goes back in.
+        # EXPORT COMPLIANCE. ITSAppUsesNonExemptEncryption=false records
+        # Daniel's declaration of 2026-10-05, made in App Store Connect for
+        # builds 20261005.1531 and .1643: the app uses standard encryption
+        # algorithms in addition to Apple's operating system's, and is NOT
+        # distributed in France - which App Store Connect stores as "exempt"
+        # (usesNonExemptEncryption=false). With the key in the plist that
+        # answer no longer has to be given per build.
+        # REVISIT BEFORE A FRENCH OR PUBLIC (App Store) RELEASE: distribution
+        # in France, or a declaration that differs, needs the questions
+        # answered again and possibly our own compliance documentation.
+        # Upstream's compliance code belongs to Bitwarden's ASC account and is
+        # never used. With our own approved documentation, COMPLIANCE_CODE
+        # puts "true" plus that code in instead (ASC rejects "true" without a
+        # code of ours: "Invalid Export Compliance Code").
         code = os.environ.get("COMPLIANCE_CODE", "")
         if code:
             d["ITSAppUsesNonExemptEncryption"] = True
             d["ITSEncryptionExportComplianceCode"] = code
         else:
-            d.pop("ITSAppUsesNonExemptEncryption", None)
+            d["ITSAppUsesNonExemptEncryption"] = False
             d.pop("ITSEncryptionExportComplianceCode", None)
         modes = [m for m in d.get("UIBackgroundModes", []) if m != "remote-notification"]
         if modes:
