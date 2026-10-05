@@ -64,6 +64,7 @@ def edit_plist(rel, fn):
 
 
 BRAND = re.compile(r"\bBitwarden\b")
+MASTER_NL = re.compile(r"[Hh]oofdwachtwoord")
 
 
 def rebrand_values(obj):
@@ -209,6 +210,13 @@ def localizations():
                 out = DICT_STRING.sub(debrand, text)
             else:
                 out = STRINGS_LINE.sub(debrand, text)
+            if lproj == "nl.lproj":
+                # The vault's own word in Dutch (Daniel, 2026-10-05): not
+                # "hoofdwachtwoord" but "Multipass-wachtwoord", as the web
+                # vault says it (multipass/web in the Kikaron repo). Values
+                # only; a no-op once applied.
+                pat = DICT_STRING if name.endswith(".stringsdict") else STRINGS_LINE
+                out = pat.sub(lambda m: m.group(1) + MASTER_NL.sub("Multipass-wachtwoord", m.group(2)) + m.group(3), out)
             if out != text:
                 write(rel, out)
     replace("BitwardenShared/Core/Tools/Utilities/CredentialManagerFactory.swift",
