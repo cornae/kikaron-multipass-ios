@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ Täiendavate andmekadude vältimiseks kopeerige ja jagage see veaaruandlus klienditoega.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ Täiendavate andmekadude vältimiseks kopeerige ja jagage see veaaruandlus klienditoega.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass ei suutnud dekrüptida %d varahoidla üksust.</string>
+        <string>Bitwarden ei suutnud dekrüptida %d varahoidla üksust.</string>
         <key>other</key>
-        <string>Multipass ei suutnud dekrüptida %d varahoidla üksust.</string>
+        <string>Bitwarden ei suutnud dekrüptida %d varahoidla üksust.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ Скопіюйте цей звіт про помилку та поділіться ним зі службою підтримки, щоб уникнути втрати даних.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ Скопіюйте цей звіт про помилку та поділіться ним зі службою підтримки, щоб уникнути втрати даних.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,13 +14,13 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass не вдалося розшифрувати %d запис сховища.</string>
+        <string>Bitwarden не вдалося розшифрувати %d запис сховища.</string>
         <key>few</key>
-        <string>Multipass не вдалося розшифрувати %d записи сховища.</string>
+        <string>Bitwarden не вдалося розшифрувати %d записи сховища.</string>
         <key>many</key>
-        <string>Multipass не вдалося розшифрувати %d записів сховища.</string>
+        <string>Bitwarden не вдалося розшифрувати %d записів сховища.</string>
         <key>other</key>
-        <string>Multipass не вдалося розшифрувати %d записів сховища.</string>
+        <string>Bitwarden не вдалося розшифрувати %d записів сховища.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

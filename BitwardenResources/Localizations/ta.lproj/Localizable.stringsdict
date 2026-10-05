@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ கூடுதல் தரவு இழப்பைத் தவிர்க்க இந்த பிழை அறிக்கையை வாடிக்கையாளர் வெற்றிக் குழுவுடன் நகலெடுத்துப் பகிரவும்.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ கூடுதல் தரவு இழப்பைத் தவிர்க்க இந்த பிழை அறிக்கையை வாடிக்கையாளர் வெற்றிக் குழுவுடன் நகலெடுத்துப் பகிரவும்.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass %d பாதுகாப்பு பை பொருளை மறைகுறியாக்க முடியவில்லை.</string>
+        <string>Bitwarden %d பாதுகாப்பு பை பொருளை மறைகுறியாக்க முடியவில்லை.</string>
         <key>other</key>
-        <string>Multipass %d பாதுகாப்பு பை பொருட்களை மறைகுறியாக்க முடியவில்லை.</string>
+        <string>Bitwarden %d பாதுகாப்பு பை பொருட்களை மறைகுறியாக்க முடியவில்லை.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

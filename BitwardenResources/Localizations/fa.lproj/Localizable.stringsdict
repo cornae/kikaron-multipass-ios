@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ این گزارش خطا را کپی کرده و با پشتیبانی مشتری به اشتراک بگذارید تا جلوی از دست رفتن بیشتر داده‌ها گرفته شود.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ این گزارش خطا را کپی کرده و با پشتیبانی مشتری به اشتراک بگذارید تا جلوی از دست رفتن بیشتر داده‌ها گرفته شود.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass نتوانست %d مورد از موارد گاوصندوق را رمزگشایی کند.</string>
+        <string>Bitwarden نتوانست %d مورد از موارد گاوصندوق را رمزگشایی کند.</string>
         <key>other</key>
-        <string>Multipass نتوانست %d مورد از موارد گاوصندوق را رمزگشایی کند.</string>
+        <string>Bitwarden نتوانست %d مورد از موارد گاوصندوق را رمزگشایی کند.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ さらなるデータ損失を避けるためには、このエラーレポートをコピーしてカスタマーサクセスと共有します。</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ さらなるデータ損失を避けるためには、このエラーレポートをコピーしてカスタマーサクセスと共有します。</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,7 +14,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>Multipass は %d 件の保管庫のアイテムを復号できませんでした。</string>
+        <string>Bitwarden は %d 件の保管庫のアイテムを復号できませんでした。</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

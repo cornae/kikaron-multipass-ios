@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ Salin dan bagikan laporan kesalahan ini dengan dukungan pelanggan untuk menghindari kehilangan data tambahan.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ Salin dan bagikan laporan kesalahan ini dengan dukungan pelanggan untuk menghindari kehilangan data tambahan.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,7 +14,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>Multipass tidak dapat mendekripsi %d item brankas.</string>
+        <string>Bitwarden tidak dapat mendekripsi %d item brankas.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

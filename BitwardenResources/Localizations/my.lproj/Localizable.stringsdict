@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ နောက်ထပ် ဒေတာဆုံးရှုံးမှုကို ရှောင်ရှားရန် ဤအမှားအစီရင်ခံစာကို ကူးယူပြီး ဖောက်သည်အောင်မြင်ရေးအဖွဲ့ထံ မျှဝေပါ။</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ နောက်ထပ် ဒေတာဆုံးရှုံးမှုကို ရှောင်ရှားရန် ဤအမှားအစီရင်ခံစာကို ကူးယူပြီး ဖောက်သည်အောင်မြင်ရေးအဖွဲ့ထံ မျှဝေပါ။</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,7 +14,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>Multipass သည် ဗော်လ်တ်ပစ္စည်း %d ခုကို ကုဒ်ဖြင့်ဖွင့်၍ မရပါ။</string>
+        <string>Bitwarden သည် ဗော်လ်တ်ပစ္စည်း %d ခုကို ကုဒ်ဖြင့်ဖွင့်၍ မရပါ။</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

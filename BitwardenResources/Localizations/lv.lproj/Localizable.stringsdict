@@ -6,19 +6,19 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ Šis kļūdas ziņojums jāievieto starpliktuvē un jākopīgo ar klientu atbalstu, lai izvairītos no papildu datu zudumiem.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ Šis kļūdas ziņojums jāievieto starpliktuvē un jākopīgo ar klientu atbalstu, lai izvairītos no papildu datu zudumiem.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>zero</key>
-        <string>Multipass nevarēja atšifrēt %d glabātavas vienumus.</string>
+        <string>Bitwarden nevarēja atšifrēt %d glabātavas vienumus.</string>
         <key>NSStringFormatSpecTypeKey</key>
         <string>NSStringPluralRuleType</string>
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass nevarēja atšifrēt %d glabātavas vienumu.</string>
+        <string>Bitwarden nevarēja atšifrēt %d glabātavas vienumu.</string>
         <key>other</key>
-        <string>Multipass nevarēja atšifrēt %d glabātavas vienumus.</string>
+        <string>Bitwarden nevarēja atšifrēt %d glabātavas vienumus.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

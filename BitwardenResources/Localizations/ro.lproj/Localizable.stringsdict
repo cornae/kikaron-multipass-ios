@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ Copiază și distribuie acest raport de eroare către departamentul de succes al clienților pentru a evita pierderea suplimentară de date.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ Copiază și distribuie acest raport de eroare către departamentul de succes al clienților pentru a evita pierderea suplimentară de date.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,11 +14,11 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass nu a putut decripta %d element al seifului.</string>
+        <string>Bitwarden nu a putut decripta %d element al seifului.</string>
         <key>few</key>
-        <string>Multipass nu a putut decripta %d elemente ale seifului.</string>
+        <string>Bitwarden nu a putut decripta %d elemente ale seifului.</string>
         <key>other</key>
-        <string>Multipass nu a putut decripta %d elemente ale seifului.</string>
+        <string>Bitwarden nu a putut decripta %d elemente ale seifului.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

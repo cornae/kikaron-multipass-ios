@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ Копирайте доклада за грешката и го изпратете на поддръжката, за да избегнете загубата на данни.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ Копирайте доклада за грешката и го изпратете на поддръжката, за да избегнете загубата на данни.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>

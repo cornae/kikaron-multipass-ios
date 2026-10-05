@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>O Multipass não pôde descriptografar %d item do cofre.</string>
+        <string>O Bitwarden não pôde descriptografar %d item do cofre.</string>
         <key>other</key>
-        <string>O Multipass não pôde descriptografar %d itens do cofre.</string>
+        <string>O Bitwarden não pôde descriptografar %d itens do cofre.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

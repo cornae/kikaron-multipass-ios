@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ העתק ושתף דוח שגיאות זה עם שירות הלקוחות כדי למנוע אובדן נתונים נוסף.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ העתק ושתף דוח שגיאות זה עם שירות הלקוחות כדי למנוע אובדן נתונים נוסף.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,13 +14,13 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass לא הצליח לפענח %d פריט בכספת.</string>
+        <string>Bitwarden לא הצליח לפענח %d פריט בכספת.</string>
         <key>two</key>
-        <string>Multipass לא הצליח לפענח %d פריטים בכספת.</string>
+        <string>Bitwarden לא הצליח לפענח %d פריטים בכספת.</string>
         <key>many</key>
-        <string>Multipass לא הצליח לפענח %d פריטים בכספת.</string>
+        <string>Bitwarden לא הצליח לפענח %d פריטים בכספת.</string>
         <key>other</key>
-        <string>Multipass לא הצליח לפענח %d פריטים בכספת.</string>
+        <string>Bitwarden לא הצליח לפענח %d פריטים בכספת.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

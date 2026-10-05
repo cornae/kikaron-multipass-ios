@@ -99,6 +99,8 @@ def local_xcconfig():
     ]
     if MARKETING_VERSION:
         lines.append(f"MARKETING_VERSION = {MARKETING_VERSION}")
+    # Manual signing (make -f kikaron/Makefile profiles) writes this; absent = automatic.
+    lines.append('#include? "Local-signing.xcconfig"')
     write("Configs/Local-bwpm.xcconfig", "\n".join(lines) + "\n")
 
 
@@ -171,7 +173,8 @@ DICT_STRING = re.compile(r"(<string>)(.*?)(</string>)")
 
 def debrand(m):
     """Keep the key / markup (group 1 and 3), rebrand the value (group 2)."""
-    return m.group(1) + m.group(2).replace("Bitwarden", PRODUCT_NAME) + m.group(3)
+    # (?<!@): leave %#@BitwardenSomething@ plural variable names alone.
+    return m.group(1) + re.sub(r"(?<!@)Bitwarden", PRODUCT_NAME, m.group(2)) + m.group(3)
 
 
 def localizations():

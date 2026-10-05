@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@MultipassCouldNotDecryptVaultItems@ Kopier og del denne feilmeldinga med kundestøtte for å unngå ytterlegare datatap.</string>
+      <string>%#@BitwardenCouldNotDecryptVaultItems@ Kopier og del denne feilmeldinga med kundestøtte for å unngå ytterlegare datatap.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass kunne ikkje dekryptere %d kvelelement.</string>
+        <string>Bitwarden kunne ikkje dekryptere %d kvelelement.</string>
         <key>other</key>
-        <string>Multipass kunne ikkje dekryptere %d kvelelement.</string>
+        <string>Bitwarden kunne ikkje dekryptere %d kvelelement.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->
