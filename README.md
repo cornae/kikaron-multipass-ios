@@ -1,3 +1,44 @@
+# Kikaron Multipass (this fork)
+
+This branch (`kikaron`) is **Kikaron Multipass**: the GPL-3.0 password-manager
+app of [bitwarden/ios](https://github.com/bitwarden/ios) (based on open-source
+Bitwarden code), rebranded and pointed at Kikaron's Vaultwarden server
+`https://multipass.kikaron.com`. Only the `Bitwarden` (password manager)
+scheme is built: no Authenticator, no watch app, no notification extension,
+no Firebase/Crashlytics. The Bitwarden SDK binary (`sdk-swift`) is built from
+`bitwarden-uniffi` without the `bitwarden-license` feature, i.e. used under its
+GPL-3.0 option. Everything Kikaron-specific is in `kikaron/`; every other change
+is the *output* of `kikaron/brand.sh` and is committed separately.
+
+| | |
+|-|-|
+| Bundle IDs | `com.kikaron.multipass` (+ `.autofill`, `.share-extension`, `.find-login-action-extension`) |
+| Team / app group | `MS3X6X39RW` / `group.com.kikaron.multipass` |
+| Names | store / home screen "Kikaron Multipass", in the app "Multipass" |
+
+## Moving to a new upstream tag
+
+```bash
+git fetch upstream --tags
+TAG=$(git tag -l 'v*-bwpm' --sort=-v:refname | head -1)    # never -bwa
+git switch -c kikaron-${TAG#v} "$TAG"
+git checkout kikaron -- kikaron .gitignore                  # our scripts only
+git commit -m "kikaron: scripts"
+kikaron/brand.sh [path/to/icon-1024.png]                    # idempotent; fails loudly if an anchor moved
+git add -A && git commit -m "kikaron: apply branding ($TAG)"
+make -f kikaron/Makefile archive upload                    # needs mint (brew install mint && mint bootstrap)
+```
+
+If `brand.sh` reports an anchor that is gone, upstream moved that code: update
+the exact text in `kikaron/brand.py` (never hand-edit the branded files). The
+icon is any opaque 1024x1024 PNG; `python3 kikaron/icon.py concept-a OUT.png`
+re-renders the placeholder. The build number is the UTC date
+(`yyyymmdd.HHMM`), so it only rises whatever tag the branch sits on. The App
+Store Connect API key IDs are read from `kikaron/upload.local.mk` (gitignored)
+or the Kikaron iPhone apps' `upload.local.mk`.
+
+---
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset=".github/images/ios-dark.png">
