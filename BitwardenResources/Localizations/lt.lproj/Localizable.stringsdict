@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@BitwardenCouldNotDecryptVaultItems@ Nukopijuokite ir bendrinkite šią klaidų ataskaitą su klientų aptarnavimo tarnyba, kad išvengtumėte papildomų duomenų praradimų.</string>
+      <string>%#@MultipassCouldNotDecryptVaultItems@ Nukopijuokite ir bendrinkite šią klaidų ataskaitą su klientų aptarnavimo tarnyba, kad išvengtumėte papildomų duomenų praradimų.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,13 +14,13 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>„Bitwarden“ nepavyko iššifruoti %d saugyklos elemento.</string>
+        <string>„Multipass“ nepavyko iššifruoti %d saugyklos elemento.</string>
         <key>few</key>
-        <string>„Bitwarden“ nepavyko iššifruoti %d saugyklos elementų.</string>
+        <string>„Multipass“ nepavyko iššifruoti %d saugyklos elementų.</string>
         <key>many</key>
-        <string>„Bitwarden“ nepavyko iššifruoti %d saugyklos elementų.</string>
+        <string>„Multipass“ nepavyko iššifruoti %d saugyklos elementų.</string>
         <key>other</key>
-        <string>„Bitwarden“ nepavyko iššifruoti %d saugyklos elementų.</string>
+        <string>„Multipass“ nepavyko iššifruoti %d saugyklos elementų.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

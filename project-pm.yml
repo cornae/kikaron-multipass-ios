@@ -163,8 +163,6 @@ targets:
     templateAttributes:
       sourcesPath: Bitwarden
     sources:
-      - path: Bitwarden/Application/Support/GoogleService-Info.plist
-        buildPhase: resources
       - path: README.md
         buildPhase: none
       - path: swiftgen-pm.yml
@@ -174,16 +172,12 @@ targets:
       - target: BitwardenShared
       - target: BitwardenActionExtension
       - target: BitwardenAutoFillExtension
-      - target: BitwardenNotificationExtension
       - target: BitwardenShareExtension
-      - target: BitwardenWatchApp
       - target: BitwardenKit/AuthenticatorBridgeKit
       - target: BitwardenKit/BitwardenKit
       - target: BitwardenKit/BitwardenResources
       - target: BitwardenKit/Networking
       - package: BitwardenSdk
-      - package: Firebase
-        product: FirebaseCrashlytics
     preBuildScripts:
       - path: Scripts/update_acknowledgements.sh
         name: "Settings.bundle: Update Acknowledgements"

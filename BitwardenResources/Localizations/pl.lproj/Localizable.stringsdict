@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@BitwardenCouldNotDecryptVaultItems@ Skopiuj i udostępnij raport błędu działowi obsługi klienta, aby uniknąć dodatkowej utraty danych.</string>
+      <string>%#@MultipassCouldNotDecryptVaultItems@ Skopiuj i udostępnij raport błędu działowi obsługi klienta, aby uniknąć dodatkowej utraty danych.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,13 +14,13 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Bitwarden nie mógł odszyfrować %d elementu sejfu.</string>
+        <string>Multipass nie mógł odszyfrować %d elementu sejfu.</string>
         <key>few</key>
-        <string>Bitwarden nie mógł odszyfrować %d elementów sejfu.</string>
+        <string>Multipass nie mógł odszyfrować %d elementów sejfu.</string>
         <key>many</key>
-        <string>Bitwarden nie mógł odszyfrować %d elementów sejfu.</string>
+        <string>Multipass nie mógł odszyfrować %d elementów sejfu.</string>
         <key>other</key>
-        <string>Bitwarden nie mógł odszyfrować %d elementów sejfu.</string>
+        <string>Multipass nie mógł odszyfrować %d elementów sejfu.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@BitwardenCouldNotDecryptVaultItems@ Kopirajte i podijelite ovaj izvještaj o grešci s korisničkom podrškom kako biste izbjegli dodatni gubitak podataka.</string>
+      <string>%#@MultipassCouldNotDecryptVaultItems@ Kopirajte i podijelite ovaj izvještaj o grešci s korisničkom podrškom kako biste izbjegli dodatni gubitak podataka.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,11 +14,11 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Bitwarden nije mogao dešifrirati %d stavku trezora.</string>
+        <string>Multipass nije mogao dešifrirati %d stavku trezora.</string>
         <key>few</key>
-        <string>Bitwarden nije mogao dešifrirati %d stavke trezora.</string>
+        <string>Multipass nije mogao dešifrirati %d stavke trezora.</string>
         <key>other</key>
-        <string>Bitwarden nije mogao dešifrirati %d stavki trezora.</string>
+        <string>Multipass nije mogao dešifrirati %d stavki trezora.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

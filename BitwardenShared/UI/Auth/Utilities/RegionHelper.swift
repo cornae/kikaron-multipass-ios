@@ -53,7 +53,7 @@ class RegionHelper {
                         await self.delegate?.setRegion(region, urls)
                     } else {
                         await self.coordinator.navigate(
-                            to: .selfHosted(currentRegion: currentRegion ?? .unitedStates),
+                            to: .selfHosted(currentRegion: currentRegion ?? .selfHosted),
                             context: self.delegate,
                         )
                     }
@@ -73,7 +73,7 @@ class RegionHelper {
     ///
     func loadRegion() async {
         guard let urls = await stateService.getPreAuthEnvironmentURLs() else {
-            await delegate?.setRegion(.unitedStates, .defaultUS)
+            await delegate?.setRegion(.selfHosted, .defaultMultipass)
             return
         }
 

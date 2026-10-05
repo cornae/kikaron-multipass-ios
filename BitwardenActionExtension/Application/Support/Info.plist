@@ -4,18 +4,20 @@
 <dict>
 	<key>BitwardenAppIdentifier</key>
 	<string>$(BASE_BUNDLE_ID)</string>
-    <key>BitwardenKeychainAccessGroup</key>
-    <string>$(AppIdentifierPrefix)$(BASE_BUNDLE_ID)</string>
+	<key>BitwardenKeychainAccessGroup</key>
+	<string>$(AppIdentifierPrefix)$(BASE_BUNDLE_ID)</string>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>Autofill with Bitwarden</string>
-	<key>CFBundleName</key>
-	<string>Bitwarden Extension</string>
+	<string>Autofill with Multipass</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
-	<key>CFBundleShortVersionString</key>
-	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
 	<key>CFBundleLocalizations</key>
 	<array>
 		<string>af</string>
@@ -81,33 +83,24 @@
 		<string>zh-Hans</string>
 		<string>zh-Hant</string>
 	</array>
-	<key>CFBundleDevelopmentRegion</key>
-	<string>en</string>
-	<key>CFBundleInfoDictionaryVersion</key>
-	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Multipass Extension</string>
 	<key>CFBundlePackageType</key>
 	<string>XPC!</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
-	<key>CADisableMinimumFrameDurationOnPhone</key>
-	<true/>
-	<key>UIRequiredDeviceCapabilities</key>
-	<dict>
-		<key>arm64</key>
-		<true/>
-	</dict>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<true/>
 	<key>ITSEncryptionExportComplianceCode</key>
 	<string>ecf076d3-4824-4d7b-b716-2a9a47d7d296</string>
-	<key>NSFaceIDUsageDescription</key>
-	<string>Use Face ID to unlock your vault.</string>
 	<key>NSExtension</key>
 	<dict>
 		<key>NSExtensionAttributes</key>
 		<dict>
-			<key>NSExtensionJavaScriptPreprocessingFile</key>
-			<string>extension</string>
 			<key>NSExtensionActivationRule</key>
 			<string>SUBQUERY (
 					extensionItems,
@@ -115,23 +108,30 @@
 					SUBQUERY (
 						$extensionItem.attachments,
 						$attachment,
-						ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO &quot;public.url&quot;
-						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO &quot;public.plain-text&quot;
-						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO &quot;org.appextension.find-login-action&quot;
-						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO &quot;org.appextension.save-login-action&quot;
-						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO &quot;org.appextension.change-password-action&quot;
-						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO &quot;org.appextension.fill-webview-action&quot;
-						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO &quot;org.appextension.fill-browser-action&quot;
-						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO &quot;com.8bit.bitwarden.extension-setup&quot;
+						ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "public.url"
+						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "public.plain-text"
+						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "org.appextension.find-login-action"
+						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "org.appextension.save-login-action"
+						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "org.appextension.change-password-action"
+						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "org.appextension.fill-webview-action"
+						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "org.appextension.fill-browser-action"
+						||  ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "com.8bit.bitwarden.extension-setup"
 					).@count == $extensionItem.attachments.@count
 				).@count == 1</string>
+			<key>NSExtensionJavaScriptPreprocessingFile</key>
+			<string>extension</string>
 		</dict>
 		<key>NSExtensionMainStoryboard</key>
 		<string>MainInterface</string>
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.ui-services</string>
 	</dict>
-	<key>CFBundleVersion</key>
-	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Use Face ID to unlock your vault.</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>arm64</key>
+		<true/>
+	</dict>
 </dict>
 </plist>

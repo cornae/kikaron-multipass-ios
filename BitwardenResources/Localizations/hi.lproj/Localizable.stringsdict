@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@BitwardenCouldNotDecryptVaultItems@ अतिरिक्त डेटा हानि से बचने के लिए इस त्रुटि रिपोर्ट को कॉपी करें और ग्राहक सफलता टीम के साथ साझा करें।</string>
+      <string>%#@MultipassCouldNotDecryptVaultItems@ अतिरिक्त डेटा हानि से बचने के लिए इस त्रुटि रिपोर्ट को कॉपी करें और ग्राहक सफलता टीम के साथ साझा करें।</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Bitwarden %d वॉल्ट आइटम को डिक्रिप्ट नहीं कर सका।</string>
+        <string>Multipass %d वॉल्ट आइटम को डिक्रिप्ट नहीं कर सका।</string>
         <key>other</key>
-        <string>Bitwarden %d वॉल्ट आइटम को डिक्रिप्ट नहीं कर सका।</string>
+        <string>Multipass %d वॉल्ट आइटम को डिक्रिप्ट नहीं कर सका।</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

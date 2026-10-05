@@ -74,8 +74,8 @@ extension RegionType {
     /// offered as a selectable option.
     var isUserSelectable: Bool {
         switch self {
-        case .europe, .gov, .selfHosted, .unitedStates: true
-        case .internal: false
+        case .selfHosted: true
+        case .europe, .gov, .internal, .unitedStates: false
         }
     }
 }

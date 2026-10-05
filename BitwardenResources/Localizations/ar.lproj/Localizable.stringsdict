@@ -6,25 +6,25 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@BitwardenCouldNotDecryptVaultItems@ انسخ وشارك تقرير الخطأ هذا مع فريق دعم العملاء لتجنب فقدان بيانات إضافية.</string>
+      <string>%#@MultipassCouldNotDecryptVaultItems@ انسخ وشارك تقرير الخطأ هذا مع فريق دعم العملاء لتجنب فقدان بيانات إضافية.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>zero</key>
-        <string>تعذر على Bitwarden فك تشفير %d عنصر في الخزنة.</string>
+        <string>تعذر على Multipass فك تشفير %d عنصر في الخزنة.</string>
         <key>NSStringFormatSpecTypeKey</key>
         <string>NSStringPluralRuleType</string>
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>تعذر على Bitwarden فك تشفير عنصر %d في الخزنة.</string>
+        <string>تعذر على Multipass فك تشفير عنصر %d في الخزنة.</string>
         <key>two</key>
-        <string>تعذر على Bitwarden فك تشفير عنصرين %d في الخزنة.</string>
+        <string>تعذر على Multipass فك تشفير عنصرين %d في الخزنة.</string>
         <key>few</key>
-        <string>تعذر على Bitwarden فك تشفير %d عناصر في الخزنة.</string>
+        <string>تعذر على Multipass فك تشفير %d عناصر في الخزنة.</string>
         <key>many</key>
-        <string>تعذر على Bitwarden فك تشفير %d عنصرا في الخزنة.</string>
+        <string>تعذر على Multipass فك تشفير %d عنصرا في الخزنة.</string>
         <key>other</key>
-        <string>تعذر على Bitwarden فك تشفير %d عناصر في الخزنة.</string>
+        <string>تعذر على Multipass فك تشفير %d عناصر في الخزنة.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

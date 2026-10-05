@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@BitwardenCouldNotDecryptVaultItems@ Kopiatu eta partekatu errore-txosten hau bezeroarentzako arretarekin datu-galera gehiago saihesteko.</string>
+      <string>%#@MultipassCouldNotDecryptVaultItems@ Kopiatu eta partekatu errore-txosten hau bezeroarentzako arretarekin datu-galera gehiago saihesteko.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Bitwarden-ek ezin du %d kutxako elementu desenkriptatu.</string>
+        <string>Multipass-ek ezin du %d kutxako elementu desenkriptatu.</string>
         <key>other</key>
-        <string>Bitwarden-ek ezin du %d kutxako elementu desenkriptatu.</string>
+        <string>Multipass-ek ezin du %d kutxako elementu desenkriptatu.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

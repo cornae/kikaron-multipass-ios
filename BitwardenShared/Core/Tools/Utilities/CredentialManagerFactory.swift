@@ -75,7 +75,7 @@ extension ASCredentialExportManager: CredentialExportManager {
                 accounts: [importableAccount],
                 formatVersion: exportOptions.formatVersion,
                 exporterRelyingPartyIdentifier: Bundle.main.appIdentifier,
-                exporterDisplayName: "Bitwarden",
+                exporterDisplayName: "Multipass",
                 timestamp: Date.now,
             ),
         )

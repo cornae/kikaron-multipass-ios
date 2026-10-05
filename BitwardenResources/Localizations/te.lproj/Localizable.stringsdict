@@ -6,7 +6,7 @@
     <key>BitwardenCouldNotDecryptXVaultItemsDescriptionLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>%#@BitwardenCouldNotDecryptVaultItems@ అదనపు డేటా నష్టాన్ని నివారించడానికి ఈ లోపం నివేదికను కాపీ చేసి, కస్టమర్ సక్సెస్‌తో భాగస్వామ్యం చేయండి.</string>
+      <string>%#@MultipassCouldNotDecryptVaultItems@ అదనపు డేటా నష్టాన్ని నివారించడానికి ఈ లోపం నివేదికను కాపీ చేసి, కస్టమర్ సక్సెస్‌తో భాగస్వామ్యం చేయండి.</string>
       <key>BitwardenCouldNotDecryptVaultItems</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Bitwarden %d ఖజానా అంశాన్ని డీక్రిప్ట్ చేయలేకపోయింది.</string>
+        <string>Multipass %d ఖజానా అంశాన్ని డీక్రిప్ట్ చేయలేకపోయింది.</string>
         <key>other</key>
-        <string>Bitwarden %d ఖజానా అంశాలను డీక్రిప్ట్ చేయలేకపోయింది.</string>
+        <string>Multipass %d ఖజానా అంశాలను డీక్రిప్ట్ చేయలేకపోయింది.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

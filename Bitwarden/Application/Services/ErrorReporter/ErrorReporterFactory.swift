@@ -7,10 +7,6 @@ enum ErrorReporterFactory {
 
     /// Creates the default error reporter.
     static func makeDefaultErrorReporter() -> ErrorReporter {
-        #if DEBUG
-        OSLogErrorReporter()
-        #else
-        CrashlyticsErrorReporter.shared
-        #endif
+        OSLogErrorReporter() // Kikaron: no Crashlytics
     }
 }

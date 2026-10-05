@@ -49,7 +49,7 @@ struct LandingState: Equatable {
             shouldAlwaysHideAddAccount: true,
             showPlaceholderToolbarIcon: true,
         ),
-        region: RegionType = .unitedStates,
+        region: RegionType = .selfHosted,
     ) {
         self.email = email
         self.isCreateAccountButtonHidden = isCreateAccountButtonHidden
