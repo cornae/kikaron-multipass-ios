@@ -91,7 +91,7 @@ final class SingleSignOnProcessor: StateProcessor<SingleSignOnState, SingleSignO
         coordinator.hideLoadingOverlay()
         switch error {
         case ASWebAuthenticationSessionError.canceledLogin:
-            break
+            if state.email.isEmpty { coordinator.navigate(to: .dismiss) } // Kikaron
         case let IdentityTokenRequestError.twoFactorRequired(authMethodsData, _, _):
             rememberOrgIdentifierAndNavigate(to: .twoFactor(state.email, nil, authMethodsData, state.identifierText))
         case AuthError.requireSetPassword:

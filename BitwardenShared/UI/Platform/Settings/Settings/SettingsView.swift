@@ -68,9 +68,7 @@ struct SettingsView: View {
                 accountSecurityRow
                 autofillRow
                 vaultRow
-                if store.state.showPlanRow {
-                    planRow
-                }
+                // Kikaron: no Plan row (Bitwarden subscriptions).
                 appearanceRow
                 otherRow
                 aboutRow

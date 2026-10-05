@@ -23,7 +23,7 @@
     <key>MasterPasswordMustBeAtLeastXCharactersLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>Hoofdwachtwoord moet minstens %#@characters@ tekens lang zijn.</string>
+      <string>Multipass-wachtwoord moet minstens %#@characters@ tekens lang zijn.</string>
       <key>MasterPasswordMustBeAtLeastCharactersLong</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -31,9 +31,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Hoofdwachtwoord moet minstens %d teken lang zijn.</string>
+        <string>Multipass-wachtwoord moet minstens %d teken lang zijn.</string>
         <key>other</key>
-        <string>Hoofdwachtwoord moet minstens %d tekens lang zijn.</string>
+        <string>Multipass-wachtwoord moet minstens %d tekens lang zijn.</string>
       </dict>
     </dict>
     <!-- A warning if we have determined that a password has been exposed in a data breach. -->

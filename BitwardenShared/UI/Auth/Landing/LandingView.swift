@@ -108,15 +108,10 @@ struct LandingView: View {
         }
     }
 
-    /// The "Log in with Kikaron" section.
+    /// The "Log in with Kikaron" section: what is left after the automatic sign-in
+    /// sheet was cancelled (no title, the button is the way back in).
     private var kikaronLoginDetails: some View {
         VStack(spacing: 24) {
-            Text(Localizations.logInToBitwarden)
-                .styleGuide(.title2, weight: .semibold)
-                .multilineTextAlignment(.center)
-                .foregroundColor(SharedAsset.Colors.textPrimary.swiftUIColor)
-                .frame(maxWidth: .infinity)
-
             AsyncButton(KikaronStrings.logInWithKikaron) {
                 await store.perform(.kikaronSignInPressed)
             }
@@ -130,15 +125,6 @@ struct LandingView: View {
             .styleGuide(.footnote)
             .foregroundColor(SharedAsset.Colors.textInteraction.swiftUIColor)
             .frame(maxWidth: .infinity)
-
-            Button {
-                store.send(.showPreLoginSettings)
-            } label: {
-                Label(Localizations.appSettings, image: SharedAsset.Icons.cog16.swiftUIImage)
-            }
-            .accessibilityIdentifier("AppSettingsButton")
-            .buttonStyle(.bitwardenBorderless)
-            .frame(maxWidth: .infinity, alignment: .center)
         }
     }
 

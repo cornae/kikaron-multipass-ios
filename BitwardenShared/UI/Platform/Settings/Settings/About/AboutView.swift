@@ -19,7 +19,7 @@ struct AboutView: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 8) {
-            submitCrashLogs
+            // Kikaron: no crash-log submission (no Crashlytics).
 
             flightRecorderSection
 
@@ -74,13 +74,8 @@ struct AboutView: View {
     /// The section of miscellaneous about items.
     private var miscSection: some View {
         ContentBlock(dividerLeadingPadding: 16) {
-            externalLinkRow(Localizations.bitwardenHelpCenter, action: .helpCenterTapped)
-
-            externalLinkRow(Localizations.privacyPolicy, action: .privacyPolicyTapped)
-
+            // Kikaron: only the web vault (multipass.kikaron.com); no bitwarden.com links.
             externalLinkRow(Localizations.webVault, action: .webVaultTapped)
-
-            externalLinkRow(Localizations.learnOrg, action: .learnAboutOrganizationsTapped)
 
             SettingsListItem(store.state.version) {
                 Task {

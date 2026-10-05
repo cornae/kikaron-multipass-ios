@@ -28,7 +28,7 @@ struct OtherSettingsView: View {
 
                 allowUniversalClipboard
 
-                if store.state.shouldShowConnectToWatchToggle {
+                if store.state.shouldShowConnectToWatchToggle, false { // Kikaron: no watch app
                     connectToWatch
                 }
 

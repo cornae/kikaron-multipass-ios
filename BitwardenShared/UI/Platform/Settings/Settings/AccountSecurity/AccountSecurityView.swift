@@ -29,7 +29,7 @@ struct AccountSecurityView: View {
                 unlockOptionsSection
             }
 
-            authenticatorSyncSection
+            // Kikaron: no Bitwarden Authenticator sync.
 
             sessionTimeoutSection
 
