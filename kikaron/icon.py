@@ -15,7 +15,10 @@
 """
 import json
 import os
+import shutil
 import sys
+
+import numpy as np
 
 from PIL import Image, ImageChops, ImageDraw, ImageFont
 
@@ -138,17 +141,71 @@ MONO_ICONSETS = [
     "BitwardenActionExtension/Application/Support/Assets.xcassets/AppIcon-Beta.appiconset",
     "BitwardenActionExtension/Application/Support/Assets.xcassets/AppIcon-Dev.appiconset",
 ]
+# Xcode 26+ Icon Composer bundles: they WIN over an appiconset of the same name,
+# so they must carry our artwork too (upstream's hold the Bitwarden shield).
+ICON_BUNDLES = [
+    "Bitwarden/Application/Support/AppIcon.icon",
+    "Bitwarden/Application/Support/AppIcon-Beta.icon",
+    "Bitwarden/Application/Support/AppIcon-Dev.icon",
+]
 LOGO_IMAGESETS = [
     "Bitwarden/Application/Support/Assets.xcassets/logoBitwarden.imageset",
     "BitwardenShared/UI/Platform/Application/Support/Images.xcassets/logo.imageset",
 ]
 
 
+def icon_layer(icon):
+    """Split an opaque icon into (background colour, layer PNG).
+
+    If the icon is a flat background with white (or white-washed) artwork,
+    the layer is that artwork as white-with-alpha, so iOS can render the
+    dark / tinted / clear variants from it. Otherwise the layer is the whole
+    icon, opaque (the variants then simply show it as it is)."""
+    bg = np.array(icon.getpixel((4, 4)), dtype=float)
+    px = np.asarray(icon, dtype=float)
+    span = np.maximum(255.0 - bg, 1.0)
+    alpha = np.clip(((px - bg) / span).max(axis=2), 0.0, 1.0)
+    recon = bg + alpha[..., None] * (255.0 - bg)
+    if np.abs(recon - px).mean() < 2.0:
+        layer = np.zeros(px.shape[:2] + (4,), dtype=np.uint8)
+        layer[..., :3] = 255
+        layer[..., 3] = np.round(alpha * 255).astype(np.uint8)
+        return tuple(int(v) for v in bg), Image.fromarray(layer, "RGBA")
+    return tuple(int(v) for v in bg), icon.convert("RGBA")
+
+
+def write_icon_bundle(rel, icon):
+    full = os.path.join(ROOT, rel)
+    if os.path.isdir(full):
+        shutil.rmtree(full)
+    os.makedirs(os.path.join(full, "Assets"))
+    bg, layer = icon_layer(icon)
+    layer.save(os.path.join(full, "Assets", "Multipass.png"), "PNG", optimize=False)
+    srgb = "srgb:" + ",".join(f"{c / 255:.5f}" for c in bg) + ",1.00000"
+    doc = {
+        "fill-specializations": [{"value": {"solid": srgb}}, {"appearance": "dark", "value": "automatic"}],
+        "groups": [{
+            "hidden": False,
+            "layers": [{"glass": False, "hidden": False, "image-name": "Multipass.png", "name": "Multipass",
+                        "position": {"scale": 1, "translation-in-points": [0, 0]}}],
+            "shadow-specializations": [{"value": {"kind": "neutral", "opacity": 0.5}}],
+            "translucency-specializations": [{"value": {"enabled": False, "value": 0.5}}],
+        }],
+        "supported-platforms": {"squares": "shared"},
+    }
+    with open(os.path.join(full, "icon.json"), "w") as fh:
+        json.dump(doc, fh, indent=2, separators=(",", " : "))
+        fh.write("\n")
+
+
 def derive(icon_path):
     icon = load_icon(icon_path)
     for d in APP_ICONSETS:
         write_appiconset(d, "Icon-1024.png", icon)
-    mask = glyph_mask(icon)
+    for d in ICON_BUNDLES:
+        write_icon_bundle(d, icon)
+    bg, layer = icon_layer(icon)
+    mask = layer.getchannel("A") if layer.getpixel((4, 4))[3] == 0 else glyph_mask(icon)
     mono = solid(mask)
     for d in MONO_ICONSETS:
         if os.path.isdir(os.path.join(ROOT, d)):

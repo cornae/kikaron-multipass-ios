@@ -13,6 +13,9 @@ struct LandingView: View {
     /// The `Store` for this view.
     @ObservedObject var store: Store<LandingState, LandingAction, LandingEffect>
 
+    /// Kikaron: whether the secondary e-mail login is shown.
+    @State private var showEmailLogin = false
+
     var body: some View {
         ZStack {
             mainContent
@@ -95,7 +98,52 @@ struct LandingView: View {
     }
 
     /// The section of the view containing input fields, and action buttons.
-    private var landingDetails: some View {
+    /// Kikaron: the first screen is one action, "Log in with Kikaron" (the SSO flow);
+    /// e-mail + master password is only a secondary link. Added by kikaron/brand.sh.
+    @ViewBuilder private var landingDetails: some View {
+        if showEmailLogin {
+            emailLoginDetails
+        } else {
+            kikaronLoginDetails
+        }
+    }
+
+    /// The "Log in with Kikaron" section.
+    private var kikaronLoginDetails: some View {
+        VStack(spacing: 24) {
+            Text(Localizations.logInToBitwarden)
+                .styleGuide(.title2, weight: .semibold)
+                .multilineTextAlignment(.center)
+                .foregroundColor(SharedAsset.Colors.textPrimary.swiftUIColor)
+                .frame(maxWidth: .infinity)
+
+            AsyncButton(KikaronStrings.logInWithKikaron) {
+                await store.perform(.kikaronSignInPressed)
+            }
+            .accessibilityIdentifier("KikaronLoginButton")
+            .buttonStyle(.primary())
+
+            Button(KikaronStrings.logInWithEmail) {
+                showEmailLogin = true
+            }
+            .accessibilityIdentifier("EmailLoginButton")
+            .styleGuide(.footnote)
+            .foregroundColor(SharedAsset.Colors.textInteraction.swiftUIColor)
+            .frame(maxWidth: .infinity)
+
+            Button {
+                store.send(.showPreLoginSettings)
+            } label: {
+                Label(Localizations.appSettings, image: SharedAsset.Icons.cog16.swiftUIImage)
+            }
+            .accessibilityIdentifier("AppSettingsButton")
+            .buttonStyle(.bitwardenBorderless)
+            .frame(maxWidth: .infinity, alignment: .center)
+        }
+    }
+
+    /// The upstream e-mail section, behind the secondary link.
+    private var emailLoginDetails: some View {
         VStack(alignment: .leading, spacing: 24) {
             Text(Localizations.logInToBitwarden)
                 .styleGuide(.title2, weight: .semibold)

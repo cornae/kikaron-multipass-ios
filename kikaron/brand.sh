@@ -18,6 +18,7 @@ export MARKETING_VERSION="${MARKETING_VERSION:-$(sed -E 's/^v([0-9.]+)-bwpm$/\1/
 
 python3 kikaron/brand.py
 python3 kikaron/icon.py derive "$ICON"
+python3 kikaron/check_icons.py
 
 # Licence guard rail: nothing under the Bitwarden SDK License / commercial SDK.
 if grep -rIl --exclude-dir=.git --exclude-dir=build --exclude-dir=kikaron \

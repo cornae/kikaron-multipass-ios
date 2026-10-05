@@ -236,7 +236,8 @@ extension AuthRouter {
         guard let activeAccount = try? await configureActiveAccount(shouldSwitchAutomatically: true) else {
             let introCarouselShown = await services.stateService.getIntroCarouselShown()
             let shouldShowCarousel = !introCarouselShown && !isInAppExtension
-            return shouldShowCarousel ? .introCarousel : .landing
+            _ = shouldShowCarousel // Kikaron: no intro carousel, straight to Log in with Kikaron
+            return .landing
         }
 
         // If there's existing accounts, mark the carousel as shown.

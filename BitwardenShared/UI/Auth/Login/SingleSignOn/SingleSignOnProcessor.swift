@@ -138,6 +138,14 @@ final class SingleSignOnProcessor: StateProcessor<SingleSignOnState, SingleSignO
             coordinator.hideLoadingOverlay()
         }
 
+        // Kikaron: "Log in with Kikaron" has no e-mail; go straight to the web sign-in.
+        if state.email.isEmpty {
+            state.identifierText = "kikaron"
+            coordinator.hideLoadingOverlay()
+            await handleLoginTapped()
+            return
+        }
+
         // Get the single sign on details for the user.
         do {
             guard let organizationIdentifier = try await services.authRepository

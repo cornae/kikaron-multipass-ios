@@ -56,6 +56,7 @@ project:
 	cd $(ROOT) && mint run xcodegen --spec project-pm.yml --use-cache
 
 archive: project
+	cd $(ROOT) && python3 kikaron/check_icons.py
 	rm -rf $(ARCHIVE)
 	@$(UNLOCK)
 	cd $(ROOT) && CI=true xcodebuild -workspace Bitwarden.xcworkspace -scheme Bitwarden \

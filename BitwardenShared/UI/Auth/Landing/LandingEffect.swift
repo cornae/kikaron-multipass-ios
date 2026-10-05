@@ -13,4 +13,7 @@ enum LandingEffect: Equatable {
 
     /// The region button was pressed.
     case regionPressed
+
+    /// Kikaron: "Log in with Kikaron" was pressed.
+    case kikaronSignInPressed
 }

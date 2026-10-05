@@ -1,0 +1,18 @@
+# upstream icon/logo artwork at v2026.9.1-bwpm (git blob id, path) - kikaron/check_icons.py
+0106cdf96020ccf95decfeefb82d1aeabf3863f4 Bitwarden/Application/Support/Assets.xcassets/AppIcon-Dev.appiconset/AppIcon-Dev.png
+02f053c4645521f421eeafa1ce9fe2101e706a77 BitwardenActionExtension/Application/Support/Assets.xcassets/AppIcon-Dev.appiconset/AppIcon-Dev-Monochrome.png
+04623a250722e2991f29d3a04bf857feb42c0d0a Bitwarden/Application/Support/Assets.xcassets/AppIcon-Beta.appiconset/AppIcon-Beta.png
+110c8dc1d68e99ac2e156492e5baca365217f2a7 BitwardenActionExtension/Application/Support/Assets.xcassets/AppIcon-Beta.appiconset/AppIcon-Beta-Monochrome.png
+1bd27aa57c8d17fde955a2031f6dba9d3829fe33 Bitwarden/Application/Support/AppIcon.icon/Assets/Bitwarden shield.svg
+200fcd3992094fc8db45c63a6c79c25adf040d9f Bitwarden/Application/Support/AppIcon-Dev.icon/Assets/Dev.svg
+2a0ba60b9b13983200a2c921aa6793b3c1bf09ef Bitwarden/Application/Support/Assets.xcassets/logoBitwarden.imageset/logo@2x.png
+2a0ba60b9b13983200a2c921aa6793b3c1bf09ef BitwardenShared/UI/Platform/Application/Support/Images.xcassets/logo.imageset/logo@2x.png
+33ced5b12e05df53eb268ec0870e26b07af9ee6f Bitwarden/Application/Support/Assets.xcassets/logoBitwarden.imageset/logo.png
+33ced5b12e05df53eb268ec0870e26b07af9ee6f BitwardenShared/UI/Platform/Application/Support/Images.xcassets/logo.imageset/logo.png
+628c3f8c0aca72c00015fe09e8a99dd895ac1f73 BitwardenActionExtension/Application/Support/Assets.xcassets/AppIcon.appiconset/AppIcon-Monochrome.png
+6ec206d7370c44eb63102a6e8b50e58e8a8a9e3a Bitwarden/Application/Support/AppIcon-Beta.icon/Assets/Beta.svg
+90473167697b867ede9400b31c6dce93b7e39ebc Bitwarden/Application/Support/Assets.xcassets/logoBitwarden.imageset/logo@3x.png
+90473167697b867ede9400b31c6dce93b7e39ebc BitwardenShared/UI/Platform/Application/Support/Images.xcassets/logo.imageset/logo@3x.png
+e96f62fce9b8e10fe1f9fe69e0ebb68b5130c570 Bitwarden/Application/Support/Assets.xcassets/AppIcon.appiconset/Icon-1024.png
+ec74cb1dd69444bc6d365d0acbf2378e5c8432c6 Bitwarden/Application/Support/AppIcon-Beta.icon/Assets/Subtract.svg
+ec74cb1dd69444bc6d365d0acbf2378e5c8432c6 Bitwarden/Application/Support/AppIcon-Dev.icon/Assets/Subtract.svg

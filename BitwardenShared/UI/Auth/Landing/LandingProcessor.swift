@@ -89,13 +89,15 @@ class LandingProcessor: StateProcessor<LandingState, LandingAction, LandingEffec
     override func perform(_ effect: LandingEffect) async {
         switch effect {
         case .appeared:
-            state.isCreateAccountButtonHidden = await currentPreAuthServerConfig()?
-                .settings?.disableUserRegistration == true
+            // Kikaron: accounts are only ever created by signing in with Kikaron.
+            state.isCreateAccountButtonHidden = true
             await regionHelper.loadRegion()
             await refreshProfileState()
         case .continuePressed:
             updateRememberedEmail()
             await validateEmailAndContinue()
+        case .kikaronSignInPressed:
+            coordinator.navigate(to: .enterpriseSingleSignOn(email: ""))
         case let .profileSwitcher(profileEffect):
             await handleProfileSwitcherEffect(profileEffect)
         case .regionPressed:
