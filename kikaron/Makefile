@@ -14,7 +14,7 @@
 # The .p8 lives in ~/.appstoreconnect/private_keys/, never in this repository.
 
 ROOT := $(abspath $(dir $(lastword $(MAKEFILE_LIST)))/..)
-ICON ?= kikaron/icon-concept-a.png
+ICON ?= kikaron/icon.png
 DERIVED := $(ROOT)/build
 ARCHIVE := $(DERIVED)/Multipass.xcarchive
 # Date-based, so it only ever goes up, whatever upstream tag we sit on.
