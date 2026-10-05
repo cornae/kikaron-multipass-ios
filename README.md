@@ -26,14 +26,19 @@ git checkout kikaron -- kikaron .gitignore                  # our scripts only
 git commit -m "kikaron: scripts"
 kikaron/brand.sh [path/to/icon-1024.png]                    # idempotent; fails loudly if an anchor moved
 git add -A && git commit -m "kikaron: apply branding ($TAG)"
-make -f kikaron/Makefile archive upload                    # needs mint (brew install mint && mint bootstrap)
+make -f kikaron/Makefile profiles archive ipa upload       # needs mint (brew install mint && mint bootstrap)
 ```
 
 If `brand.sh` reports an anchor that is gone, upstream moved that code: update
 the exact text in `kikaron/brand.py` (never hand-edit the branded files). The
 icon is any opaque 1024x1024 PNG; `python3 kikaron/icon.py concept-a OUT.png`
 re-renders the placeholder. The build number is the UTC date
-(`yyyymmdd.HHMM`), so it only rises whatever tag the branch sits on. The App
+(`yyyymmdd.HHMM`), so it only rises whatever tag the branch sits on. Signing is manual: `profiles` makes the App Store
+profiles through the API (Xcode 27 cannot, with an API key) for the Apple
+Distribution certificate in `~/Library/Keychains/kikaron-signing.keychain-db`
+(its password: `~/.appstoreconnect/kikaron-signing.keychain-pass`). Export
+compliance keys are left out of Info.plist until we have our own compliance
+code (`COMPLIANCE_CODE=… kikaron/brand.sh`); until then ASC asks per build. The App
 Store Connect API key IDs are read from `kikaron/upload.local.mk` (gitignored)
 or the Kikaron iPhone apps' `upload.local.mk`.
 
