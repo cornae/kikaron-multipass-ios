@@ -42,10 +42,12 @@ def write(rel, text):
 def replace(rel, old, new):
     """Exact replacement; skip if `new` is already there, fail if neither."""
     text = read(rel)
-    if new in text:  # already applied (new may contain old: insertions)
+    if new and new in text:  # already applied (new may contain old: insertions)
         return
     if old in text:
         write(rel, text.replace(old, new, 1))
+    elif not new:  # a removal that is already done
+        return
     else:
         failures.append(f"{rel}: anchor not found:\n    {old!r}")
 
@@ -281,6 +283,42 @@ enum KikaronStrings {
         }
     }
 
+    static var unlockHint: String {
+        switch language {
+        case "nl": "Voer uw Multipass-wachtwoord in om uw kluis te openen."
+        case "de": "Geben Sie Ihr Multipass-Passwort ein, um Ihren Tresor zu öffnen."
+        case "fr": "Saisissez votre mot de passe Multipass pour ouvrir votre coffre."
+        default: "Enter your Multipass password to open your vault."
+        }
+    }
+
+    static var unlockHintPIN: String {
+        switch language {
+        case "nl": "Voer uw pincode in om uw kluis te openen."
+        case "de": "Geben Sie Ihre PIN ein, um Ihren Tresor zu öffnen."
+        case "fr": "Saisissez votre code PIN pour ouvrir votre coffre."
+        default: "Enter your PIN to open your vault."
+        }
+    }
+
+    static var multipassPassword: String {
+        switch language {
+        case "nl": "Multipass-wachtwoord"
+        case "de": "Multipass-Passwort"
+        case "fr": "Mot de passe Multipass"
+        default: "Multipass password"
+        }
+    }
+
+    static var unlock: String {
+        switch language {
+        case "nl": "Ontgrendel"
+        case "de": "Entsperren"
+        case "fr": "Déverrouiller"
+        default: "Unlock"
+        }
+    }
+
     static var logInWithEmail: String {
         switch language {
         case "nl": "Inloggen met e-mail en hoofdwachtwoord"
@@ -485,6 +523,90 @@ def settings():
                  "            externalLinkRow(Localizations.webVault, action: .webVaultTapped)\n")
 
 
+# --- 10. Unlock screen: as simple as the web vault's ------------------------
+
+def unlock_screen():
+    rel = "BitwardenShared/UI/Auth/VaultUnlock/VaultUnlockView.swift"
+    # Title "Multipass" (upstream: "Verify master password", truncated).
+    replace(rel, "    var navigationTitle: String {\n"
+                 "        store.state.unlockMethod == .pin\n"
+                 "            ? Localizations.verifyPIN\n"
+                 "            : Localizations.verifyMasterPassword\n"
+                 "    }\n",
+                 f"    var navigationTitle: String {{\n        \"{PRODUCT_NAME}\" // Kikaron\n    }}\n")
+    # No account switcher.
+    replace(rel, "        ZStack {\n            scrollView\n            profileSwitcher\n        }\n",
+                 "        ZStack {\n            scrollView // Kikaron: no account switcher\n        }\n")
+    # No avatar, no ⋮ menu (its Log out moves to a link under the button);
+    # the extensions keep their Cancel.
+    replace(rel, "                if store.state.isInAppExtension {\n"
+                 "                    cancelToolbarButton {\n"
+                 "                        store.send(.cancelPressed)\n"
+                 "                    }\n"
+                 "                } else {\n"
+                 "                    optionsToolbarMenu {\n"
+                 "                        Button(Localizations.logOut) {\n"
+                 "                            store.send(.logOut)\n"
+                 "                        }\n"
+                 "                    }\n"
+                 "                }\n"
+                 "            }\n"
+                 "            ToolbarItem(placement: .navigationBarLeading) {\n"
+                 "                profileSwitcherToolbarItem\n"
+                 "            }\n",
+                 "                if store.state.isInAppExtension {\n"
+                 "                    cancelToolbarButton {\n"
+                 "                        store.send(.cancelPressed)\n"
+                 "                    }\n"
+                 "                }\n"
+                 "            }\n")
+    # One hint line above the field; no "vault is locked / logged in as" footer.
+    replace(rel, "        VStack(spacing: 24) {\n"
+                 "            if store.state.shouldShowPasswordOrPinFields {\n"
+                 "                textField\n"
+                 "            }\n",
+                 "        VStack(spacing: 24) {\n"
+                 "            if store.state.shouldShowPasswordOrPinFields {\n"
+                 "                Text(store.state.unlockMethod == .pin ? KikaronStrings.unlockHintPIN : KikaronStrings.unlockHint)\n"
+                 "                    .styleGuide(.body)\n"
+                 "                    .multilineTextAlignment(.center)\n"
+                 "                    .foregroundColor(SharedAsset.Colors.textPrimary.swiftUIColor)\n"
+                 "                    .frame(maxWidth: .infinity)\n"
+                 "                textField\n"
+                 "            }\n")
+    footer = ("                footerContent: {\n"
+              "                    Text(footerText)\n"
+              "                        .styleGuide(.footnote)\n"
+              "                        .foregroundColor(SharedAsset.Colors.textSecondary.swiftUIColor)\n"
+              "                        .accessibilityIdentifier(\"UserAndEnvironmentDataLabel\")\n"
+              "                        .padding(.vertical, 12)\n"
+              "                },\n")
+    replace(rel, footer, "")  # password field
+    replace(rel, footer, "")  # PIN field
+    replace(rel, "                title: Localizations.masterPassword,\n",
+                 "                title: KikaronStrings.multipassPassword,\n")
+    replace(rel, "                        Text(Localizations.unlock)\n"
+                 "                    }\n"
+                 "                    .buttonStyle(.primary(shouldFillWidth: true))\n"
+                 "                    .accessibilityIdentifier(\"UnlockVaultButton\")\n"
+                 "                }\n"
+                 "            }\n",
+                 "                        Text(KikaronStrings.unlock)\n"
+                 "                    }\n"
+                 "                    .buttonStyle(.primary(shouldFillWidth: true))\n"
+                 "                    .accessibilityIdentifier(\"UnlockVaultButton\")\n"
+                 "                }\n"
+                 "            }\n\n"
+                 "            if !store.state.isInAppExtension { // Kikaron: Log out, was in the ⋮ menu\n"
+                 "                Button(Localizations.logOut) {\n"
+                 "                    store.send(.logOut)\n"
+                 "                }\n"
+                 "                .styleGuide(.footnote)\n"
+                 "                .foregroundColor(SharedAsset.Colors.textInteraction.swiftUIColor)\n"
+                 "                .accessibilityIdentifier(\"LogOutButton\")\n"
+                 "            }\n")
+
+
 def main():
     local_xcconfig()
     project()
@@ -494,6 +616,7 @@ def main():
     default_server()
     kikaron_sign_in()
     settings()
+    unlock_screen()
     colours()
     if failures:
         print("kikaron/brand.py: upstream moved, update the anchors:", file=sys.stderr)

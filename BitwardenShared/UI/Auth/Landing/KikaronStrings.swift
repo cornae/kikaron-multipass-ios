@@ -24,6 +24,42 @@ enum KikaronStrings {
         }
     }
 
+    static var unlockHint: String {
+        switch language {
+        case "nl": "Voer uw Multipass-wachtwoord in om uw kluis te openen."
+        case "de": "Geben Sie Ihr Multipass-Passwort ein, um Ihren Tresor zu öffnen."
+        case "fr": "Saisissez votre mot de passe Multipass pour ouvrir votre coffre."
+        default: "Enter your Multipass password to open your vault."
+        }
+    }
+
+    static var unlockHintPIN: String {
+        switch language {
+        case "nl": "Voer uw pincode in om uw kluis te openen."
+        case "de": "Geben Sie Ihre PIN ein, um Ihren Tresor zu öffnen."
+        case "fr": "Saisissez votre code PIN pour ouvrir votre coffre."
+        default: "Enter your PIN to open your vault."
+        }
+    }
+
+    static var multipassPassword: String {
+        switch language {
+        case "nl": "Multipass-wachtwoord"
+        case "de": "Multipass-Passwort"
+        case "fr": "Mot de passe Multipass"
+        default: "Multipass password"
+        }
+    }
+
+    static var unlock: String {
+        switch language {
+        case "nl": "Ontgrendel"
+        case "de": "Entsperren"
+        case "fr": "Déverrouiller"
+        default: "Unlock"
+        }
+    }
+
     static var logInWithEmail: String {
         switch language {
         case "nl": "Inloggen met e-mail en hoofdwachtwoord"

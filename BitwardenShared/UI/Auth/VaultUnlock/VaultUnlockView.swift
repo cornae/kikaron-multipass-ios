@@ -24,15 +24,12 @@ struct VaultUnlockView: View {
 
     /// The view's navigation title.
     var navigationTitle: String {
-        store.state.unlockMethod == .pin
-            ? Localizations.verifyPIN
-            : Localizations.verifyMasterPassword
+        "Multipass" // Kikaron
     }
 
     var body: some View {
         ZStack {
-            scrollView
-            profileSwitcher
+            scrollView // Kikaron: no account switcher
         }
         .navigationTitle(navigationTitle)
         .navigationBarTitleDisplayMode(.inline)
@@ -42,16 +39,7 @@ struct VaultUnlockView: View {
                     cancelToolbarButton {
                         store.send(.cancelPressed)
                     }
-                } else {
-                    optionsToolbarMenu {
-                        Button(Localizations.logOut) {
-                            store.send(.logOut)
-                        }
-                    }
                 }
-            }
-            ToolbarItem(placement: .navigationBarLeading) {
-                profileSwitcherToolbarItem
             }
         }
         .task {
@@ -67,6 +55,11 @@ struct VaultUnlockView: View {
     @ViewBuilder var scrollView: some View {
         VStack(spacing: 24) {
             if store.state.shouldShowPasswordOrPinFields {
+                Text(store.state.unlockMethod == .pin ? KikaronStrings.unlockHintPIN : KikaronStrings.unlockHint)
+                    .styleGuide(.body)
+                    .multilineTextAlignment(.center)
+                    .foregroundColor(SharedAsset.Colors.textPrimary.swiftUIColor)
+                    .frame(maxWidth: .infinity)
                 textField
             }
 
@@ -76,11 +69,20 @@ struct VaultUnlockView: View {
                     AsyncButton {
                         await store.perform(.unlockVault)
                     } label: {
-                        Text(Localizations.unlock)
+                        Text(KikaronStrings.unlock)
                     }
                     .buttonStyle(.primary(shouldFillWidth: true))
                     .accessibilityIdentifier("UnlockVaultButton")
                 }
+            }
+
+            if !store.state.isInAppExtension { // Kikaron: Log out, was in the ⋮ menu
+                Button(Localizations.logOut) {
+                    store.send(.logOut)
+                }
+                .styleGuide(.footnote)
+                .foregroundColor(SharedAsset.Colors.textInteraction.swiftUIColor)
+                .accessibilityIdentifier("LogOutButton")
             }
         }
         .scrollView()
@@ -138,7 +140,7 @@ struct VaultUnlockView: View {
         switch store.state.unlockMethod {
         case .password:
             BitwardenTextField(
-                title: Localizations.masterPassword,
+                title: KikaronStrings.multipassPassword,
                 text: store.binding(
                     get: \.masterPassword,
                     send: VaultUnlockAction.masterPasswordChanged,
@@ -150,13 +152,6 @@ struct VaultUnlockView: View {
                     get: \.isMasterPasswordRevealed,
                     send: VaultUnlockAction.revealMasterPasswordFieldPressed,
                 ),
-                footerContent: {
-                    Text(footerText)
-                        .styleGuide(.footnote)
-                        .foregroundColor(SharedAsset.Colors.textSecondary.swiftUIColor)
-                        .accessibilityIdentifier("UserAndEnvironmentDataLabel")
-                        .padding(.vertical, 12)
-                },
             )
             .textFieldConfiguration(.password)
             .submitLabel(.go)
@@ -179,13 +174,6 @@ struct VaultUnlockView: View {
                     get: \.isPinRevealed,
                     send: VaultUnlockAction.revealPinFieldPressed,
                 ),
-                footerContent: {
-                    Text(footerText)
-                        .styleGuide(.footnote)
-                        .foregroundColor(SharedAsset.Colors.textSecondary.swiftUIColor)
-                        .accessibilityIdentifier("UserAndEnvironmentDataLabel")
-                        .padding(.vertical, 12)
-                },
             )
             .textFieldConfiguration(.numeric(.password))
             .submitLabel(.go)

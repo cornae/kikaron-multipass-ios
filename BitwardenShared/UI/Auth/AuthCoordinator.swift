@@ -723,7 +723,7 @@ final class AuthCoordinator: NSObject, // swiftlint:disable:this type_body_lengt
 
         // prefersEphemeralWebBrowserSession should be false to allow access to the hCaptcha accessibility
         // cookie set in the default browser: https://www.hcaptcha.com/accessibility
-        session.prefersEphemeralWebBrowserSession = false
+        session.prefersEphemeralWebBrowserSession = true // Kikaron: SSO_EPHEMERAL=1
         session.presentationContextProvider = self
         session.start()
     }
