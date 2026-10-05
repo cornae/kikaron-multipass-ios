@@ -383,10 +383,14 @@ def kikaron_sign_in():
             "        }\n\n"
             "        // Get the single sign on details for the user.\n        do {\n")
 
-    # SSO_EPHEMERAL=1: a private browser session for the Kikaron sign-in. No iOS
-    # "wants to use ... to sign in" prompt, but no shared Safari session either
-    # (Kikaron credentials every time). Default off.
-    if os.environ.get("SSO_EPHEMERAL") == "1":
+    # A private browser session for the Kikaron sign-in (DEFAULT since Daniel,
+    # 2026-10-05: "I don't want to get this screen on iOS" - iOS's "'Multipass'
+    # wants to use 'multipass.kikaron.com' to sign in" sheet, shown only for a
+    # session that shares Safari's cookies). The price: the first sign-in shows
+    # Kikaron's login page in the sheet even when Safari is signed in; after
+    # that the app keeps its own refresh token and launches go to unlock.
+    # SSO_EPHEMERAL=0 brings back the shared session (and the prompt).
+    if os.environ.get("SSO_EPHEMERAL", "1") != "0":
         replace("BitwardenShared/UI/Auth/AuthCoordinator.swift",
                 "        // cookie set in the default browser: https://www.hcaptcha.com/accessibility\n"
                 "        session.prefersEphemeralWebBrowserSession = false\n"
