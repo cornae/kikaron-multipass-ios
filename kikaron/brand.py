@@ -19,7 +19,7 @@ APP_GROUP = "group." + BUNDLE_ID
 STORE_NAME = os.environ.get("STORE_NAME", "Kikaron Multipass")
 PRODUCT_NAME = os.environ.get("PRODUCT_NAME", "Multipass")
 SERVER_HOST = os.environ.get("SERVER_HOST", "multipass.kikaron.com")
-ORG_IDENTIFIER = os.environ.get("ORG_IDENTIFIER", "kikaron")  # Vaultwarden SSO identifier
+ORG_IDENTIFIER = os.environ.get("ORG_IDENTIFIER", "00000000-01DC-01DC-01DC-000000000000")  # Vaultwarden's fixed SSO org id (any other value: 401 on its org policies)
 MARKETING_VERSION = os.environ.get("MARKETING_VERSION", "")
 
 failures = []

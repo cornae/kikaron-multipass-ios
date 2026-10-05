@@ -140,7 +140,7 @@ final class SingleSignOnProcessor: StateProcessor<SingleSignOnState, SingleSignO
 
         // Kikaron: "Log in with Kikaron" has no e-mail; go straight to the web sign-in.
         if state.email.isEmpty {
-            state.identifierText = "kikaron"
+            state.identifierText = "00000000-01DC-01DC-01DC-000000000000"
             coordinator.hideLoadingOverlay()
             await handleLoginTapped()
             return
