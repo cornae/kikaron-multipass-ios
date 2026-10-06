@@ -3,7 +3,7 @@
 "AddFolder" = "Pievienot mapi";
 "AnErrorHasOccurred" = "Radusies kļūda.";
 "Back" = "Atpakaļ";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Atcelt";
 "Copy" = "Ievietot starpliktuvē";
 "CopyLicenseNumber" = "Ievietot licences numuru starpliktuvē";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "Paroļu vārdkopas bieži vien ir vieglāk atcerēties un rakstīt nekā nejaušas paroles. Tās var būt noderīgas, kad ir nepieciešams pieteikties kontos, kuros automātiskā aizpilde nav pieejama, piemēram, straumēšanas pakalpojumā tālrādī.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "Neatkārtojami lietotājvārdi pievieno papildu drošības slāni un var palīdzēt, lai traucētu urķiem kontu atrašanā.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "Šīs iespējas ir izmantojamas, lai pielāgotu savas paroles atbilstību konta tīmekļvietnes prasībām.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Pēc savas jaunās paroles saglabāšanas Bitwarden nevajadzētu aizmirst par tās atjaunināšanu sava konta tīmekļvietnē.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Pēc savas jaunās paroles saglabāšanas Multipass nevajadzētu aizmirst par tās atjaunināšanu sava konta tīmekļvietnē.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "Jāpievieno tīmekļa adrese, lai izmantotu automātisko aizpildi, lai piekļūtu šim kontam.";
 "Username" = "Lietotājvārds";
 "ValidationFieldRequired" = "Lauks \"%1$@\" ir nepieciešams.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "Atkārtoti iespējot lietotņu paplašinājumu";
 "ExtensionAlmostDone" = "Gandrīz pabeigts!";
 "ExtensionEnable" = "Iespējot lietotņu paplašinājumu";
-"ExtensionInSafari" = "Safari Bitwarden var atrast, izmantojot kopīgošanas ikonu (norāde: ritināt pa labi izvēlnes apakšējā rindā).";
+"ExtensionInSafari" = "Safari Multipass var atrast, izmantojot kopīgošanas ikonu (norāde: ritināt pa labi izvēlnes apakšējā rindā).";
 "ExtensionInstantAccess" = "Saņem tūlītēju piekļuvi savām parolēm!";
 "ExtensionReady" = "Tagad vari pieteikties.";
 "ExtensionSetup" = "Pieteikšanās vienumi tagad ir viegli pieejami Safari, Chrome un citās atbalstītās lietotnēs.";
-"ExtensionSetup2" = "Safari un Chrome Bitwarden var atrast, izmantojot kopīgošanas ikonu (norāde: ritināt pa labi kopīgošanas izvēlnes apakšējā rindā).";
-"ExtensionTapIcon" = "Piesist Bitwarden ikonai izvēlne, lai palaistu paplašinājumu.";
-"ExtensionTurnOn" = "Lai Bitwarden ieslēgtu Safari un citās lietotnēs, jāpiesit ikonai “vairāk” izvēlnes apakšējā rindā.";
+"ExtensionSetup2" = "Safari un Chrome Multipass var atrast, izmantojot kopīgošanas ikonu (norāde: ritināt pa labi kopīgošanas izvēlnes apakšējā rindā).";
+"ExtensionTapIcon" = "Piesist Multipass ikonai izvēlne, lai palaistu paplašinājumu.";
+"ExtensionTurnOn" = "Lai Multipass ieslēgtu Safari un citās lietotnēs, jāpiesit ikonai “vairāk” izvēlnes apakšējā rindā.";
 "Favorite" = "Izlasē";
 "Fingerprint" = "Pirkstu nospiedums";
 "GeneratePassword" = "Veidot paroli";
@@ -110,7 +110,7 @@
 "Immediately" = "Nekavējoties";
 "VaultTimeoutLogOutConfirmation" = "Atteikšanās noņems piekļuvi glabātavai un pieprasīs tiešsaistes pieteikšanos pēc noildzes laika. Vai tiešām izmantot šo iestatījumu?";
 "LoggingIn" = "Piesakās…";
-"LogInToBitwarden" = "Pieteikties Bitwarden";
+"LogInToBitwarden" = "Pieteikties Multipass";
 "MasterPasswordConfirmationValMessage" = "Paroles apstiprinājums nav pareizs.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "Galvenā parole ir parole, ko izmanto, lai piekļūtu savam kontam.";
 "MasterPasswordHint" = "Galvenās paroles norāde";
@@ -127,7 +127,7 @@
 "PasswordHint" = "Paroles norāde";
 "PasswordHintAlert" = "Mēs nosūtījām Tev e-pasta ziņojumu ar galvenās paroles norādi.";
 "PasswordOverrideAlert" = "Vai tiešām pārrakstīt esošo paroli?";
-"PushNotificationAlert" = "Bitwarden nodrošina glabātavas vienādošanu ar pašpiegādes paziņojumiem. Labākajai iespējamajai pieredzei lūgums atlasīt “Atļaut\" nākamajā uzvednē, kad tiks vaicāts iespējot pašpiegādes paziņojumus.";
+"PushNotificationAlert" = "Multipass nodrošina glabātavas vienādošanu ar pašpiegādes paziņojumiem. Labākajai iespējamajai pieredzei lūgums atlasīt “Atļaut\" nākamajā uzvednē, kad tiks vaicāts iespējot pašpiegādes paziņojumus.";
 "Security" = "Drošība";
 "Select" = "Atlasīt";
 "ItemUpdated" = "Vienums atjaunināts.";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Atslēgt ar Optic ID";
 "UnlockWithPIN" = "Atslēgt ar PIN kodu";
 "VerificationCode" = "Apliecinājuma kods";
-"WebVault" = "Bitwarden tīmekļa glabātava";
+"WebVault" = "Multipass tīmekļa glabātava";
 "Items" = "Vienumi";
 "ExtensionActivated" = "Paplašinājums iespējots!";
 "ItemsForUri" = "%1$@ vienumi";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "Vides URL ir saglabāti.";
 "IdentityUrl" = "Identitātes servera URL";
 "SelfHostedEnvironment" = "Pašuzturēta vide";
-"SelfHostedEnvironmentFooter" = "Norādīt pašuzstādīta Bitwarden pamata URL.";
+"SelfHostedEnvironmentFooter" = "Norādīt pašuzstādīta Multipass pamata URL.";
 "ServerUrl" = "Servera URL";
 "WebVaultUrl" = "Tīmekļa glabātavas servera URL";
 "CustomFields" = "Pielāgoti lauki";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "Rādīt tīmekļvietņu ikonas";
 "ShowWebsiteIconsDescription" = "Attēlot atpazīstamu attēlu pie katra pieteikšanās vienuma.";
 "IconsUrl" = "Ikonu servera URL";
-"AutofillWithBitwarden" = "Automātiski aizpildīt ar Bitwarden";
+"AutofillWithBitwarden" = "Automātiski aizpildīt ar Multipass";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "Krājumi";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. Jāpiesit “Paroles”";
 "AutofillTurnOn3" = "3. Jāpiesit “Automātiski aizpildīt paroles”";
 "AutofillTurnOn4" = "4. Jāieslēdz automātiskā aizpilde";
-"AutofillTurnOn5" = "5. Jāatlasa “Bitwarden”";
+"AutofillTurnOn5" = "5. Jāatlasa “Multipass”";
 "PasswordAutofill" = "Paroļu automātiska aizpilde";
-"BitwardenAutofillAlert2" = "Vieglākais veids, kā glabātavā pievienot jaunus pieteikšanās vienumus, ir ar Bitwarden automātiskās aizpildes paplašinājumu. Vairāk par to var uzzināt iestatījumu skatā.";
+"BitwardenAutofillAlert2" = "Vieglākais veids, kā glabātavā pievienot jaunus pieteikšanās vienumus, ir ar Multipass automātiskās aizpildes paplašinājumu. Vairāk par to var uzzināt iestatījumu skatā.";
 "InvalidEmail" = "Nederīga e-pasta adrese.";
 "InvalidEmailAddresses" = "Nederīgas e-pasta adreses";
 "NoEmailAddressesEntered" = "Nav ievadīta neviena e-pasta adrese";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "Pāriet uz privātuma nosacījumiem?";
 "ContinueToAppStore" = "Pāriet uz lietotņu veikalu?";
 "ContinueWithoutSyncing" = "Turpināt bez vienādošanas";
-"TwoStepLoginDescriptionLong" = "Savu kontu var padarīt drošāku ar divpakāpju pieteikšanās uzstādīšanu Bitwarden tīmekļa lietotnē.";
+"TwoStepLoginDescriptionLong" = "Savu kontu var padarīt drošāku ar divpakāpju pieteikšanās uzstādīšanu Multipass tīmekļa lietotnē.";
 "YouCanImportDataToYourVaultOnX" = "Ievietot datus savā glabātavā var %1$@.";
 "PrivacyPolicyDescriptionLong" = "Mūsu privātuma nosacījumi ir pārskatāmi bitwarden.com.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Vairāk sava Bitwarden konta iespēju var izpētīt tīmekļa vietnē.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Vairāk sava Multipass konta iespēju var izpētīt tīmekļa vietnē.";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden nodrošina iespēju kopīgot savas glabātavas vienumus ar citiem, kad tiek izmantota apvienība. Vairāk var uzzināt tīmekļvietnē bitwarden.com.";
-"RateAppDescriptionLong" = "Var palīdzēt citiem noskaidrot, vai Bitwarden tiem der. To var izdarīt lietotņu veikalā, atstājot vērtējumu.";
+"RateAppDescriptionLong" = "Var palīdzēt citiem noskaidrot, vai Multipass tiem der. To var izdarīt lietotņu veikalā, atstājot vērtējumu.";
 "CreatedX" = "Izveidots %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "Apvienības atļaujas tika atjauninātas, un tās pieprasa iestatīt galveno paroli.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "Apvienība pieprasa iestatīt galveno paroli.";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "Drošas pieteikšanās informācijas izveidošanas iepazīšana soli pa solim.";
 "ExportVaultFilePwProtectInfo" = "Šī datņu izgūšana būs aizsargāta ar paroli, un būs nepieciešama datnes parole, lai to atšifrētu.";
 "IntroCarouselPage1Title" = "Drošība pirmajā vietā";
-"IntroCarouselPage1Message" = "Pieteikšanās vienumu, karšu un identitāšu glabāšana savā drošajā glabātavā. Bitwarden izmanto nulles zināšanu pilnīgu šifrēšanu, lai aizsargātu to, kas Tev ir svarīgs.";
+"IntroCarouselPage1Message" = "Pieteikšanās vienumu, karšu un identitāšu glabāšana savā drošajā glabātavā. Multipass izmanto nulles zināšanu pilnīgu šifrēšanu, lai aizsargātu to, kas Tev ir svarīgs.";
 "IntroCarouselPage2Title" = "Ātra un vienkārša pieteikšanās";
 "IntroCarouselPage2Message" = "Iestati biometrisko atslēgšanu un automātiski aizpildi, lai pieteiktos savos kontos bez neviena burta ievadīšanas.";
 "IntroCarouselPage3Title" = "Uzlabo savu pieteikšanos";
 "IntroCarouselPage3Message" = "Veidotājs ir izmantojams, lai izveidotu un saglabātu spēcīgas, neatkārtojamas paroles visiem Taviem kontiem.";
 "IntroCarouselPage4Title" = "Tavi dati, kad un kur vien tie ir nepieciešami";
-"IntroCarouselPage4Message" = "Neierobežotu paroļu skaitu var saglabāt neierobežotā ierīdžu daudzumā ar Bitwarden mobilo, pārlūka un darbvirsmas lietotni.";
+"IntroCarouselPage4Message" = "Neierobežotu paroļu skaitu var saglabāt neierobežotā ierīdžu daudzumā ar Multipass mobilo, pārlūka un darbvirsmas lietotni.";
 "AccountSetup" = "Konta iestatīšana";
 "SetUpUnlock" = "Iestatīt atslēgšanu";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "Biometriju var iestatīt vai PIN kodu var izvēlēties, lai ātri piekļūtu savai glabātavai un automātiski aizpildītu pieteikšanās vienumus.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "Galvenā parole (nepieciešama)";
 "RetypeMasterPasswordRequired" = "Atkārtoti jāievada galvenā parole (nepieciešams)";
 "RetypeNewMasterPasswordRequired" = "Atkārtoti ievadīt jauno galvoeno paroli (nepieciešams)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden nevar atiestatīt pazaudētu vai aizmirstu galveno paroli.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass nevar atiestatīt pazaudētu vai aizmirstu galveno paroli.";
 "LearnAboutWaysToPreventAccountLockout" = "Vairāk par veidiem, kā nepieļaut nepiekļūšanu kontam, var uzzināt";
 "RestartRegistration" = "Sākt reģistrēšanos no jauna";
 "Expired" = "Beidzies izmantošanas laiks";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Kļūda savienojuma izveidošanā ar Duo pakalpojumu. Jāizmanto cits divpakāpju pieteikšanās veids vai jāvēršas pie Duo pēc palīdzības.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "Pre Auth URL nevarēja ielādēt, lai uzsāktu konta izveidi.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "Ierīces iestatījumos **jāieslēdz paroļu un piekļuves atslēgu automātiska aizpildīšana.***";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Jāizslēdz iCloud Keychain**, lai padarītu Bitwarden par galveno automātiskās aizpildes avotu.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Jāieslēdz Bitwarden**, lai izmantotu savas saglabātās paroles, lai pieteiktos savos kontos.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Jāizslēdz iCloud Keychain**, lai padarītu Multipass par galveno automātiskās aizpildes avotu.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Jāieslēdz Multipass**, lai izmantotu savas saglabātās paroles, lai pieteiktos savos kontos.";
 "TurnOnAutoFill" = "Ieslēgt automātisko aizpildi";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "Automātiskā aizpilde ir izmantojama, lai pieteiktos savos kontos ar vienu piesitienu.";
 "NeedHelpCheckOutAutofillHelp" = "Vajadzīga palīdzība? Apskatīt **[palīdzību par automātisko aizpildi](%1$@)**";
 "TurnOnLater" = "Ieslēgt vēlāk";
 "TurnOnAutoFillLaterQuestion" = "Ieslēgt automātisko aizpildi vēlāk?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "Pie šī soļa pabeigšanas var agriezties jebkurā brīdī iestatījumos.";
-"ContinueToBitwarden" = "Pāriet uz Bitwarden";
+"ContinueToBitwarden" = "Pāriet uz Multipass";
 "BackToSettings" = "Atpakaļ uz iestatījumiem";
 "YoureAllSet" = "Viss ir gatavs.";
-"AutoFillActivatedDescriptionLong" = "Tagad var izmantot automātisko aizpildi, lai pieteiktos lietotnēs un tīmekļvietnēs ar savām saglabātajām parolēm. Tagad var izpētīt visu pārējo, kas ir Bitwarden piedāvājumā.";
+"AutoFillActivatedDescriptionLong" = "Tagad var izmantot automātisko aizpildi, lai pieteiktos lietotnēs un tīmekļvietnēs ar savām saglabātajām parolēm. Tagad var izpētīt visu pārējo, kas ir Multipass piedāvājumā.";
 "GetStarted" = "Sākam";
 "Dismiss" = "Noraidīt";
 "SaveAndProtectYourData" = "Saglabā un aizsargā Tavus datus";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "Jāizmanto dators, lai ievietotu pieteikšanās vienumus no esoša paroļu pārvaldnieka.";
 "ImportLogins" = "Ievietot pieteikšanās vienumus";
 "GiveYourVaultAHeadStart" = "Sniedz savai glabātavai sākuma izrāvienu";
-"ImportLoginsDescriptionLong" = "Datorā jāseko šīm norādēm, lai izgūtu saglabātās paroles no pārlūka vai cita paroļu pārvaldnieka. Tad tās var ievietot Bitwarden.";
+"ImportLoginsDescriptionLong" = "Datorā jāseko šīm norādēm, lai izgūtu saglabātās paroles no pārlūka vai cita paroļu pārvaldnieka. Tad tās var ievietot Multipass.";
 "ImportLoginsLater" = "Ievietot pieteikšanās vienumus vēlāk";
 "ImportLoginsLaterQuestion" = "Ievietot pieteikšanās vienumus vēlāk?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "Pie šī soļa pabeigšanas var agriezties jebkurā brīdī iestatījumu sadaļā \"Glabātava\".";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "Šī datne ir izdzēšama pēc tam, kad ievietošana ir pabeigta.";
 "NeedHelpCheckOutImportHelp" = "Vajadzīga palīdzība? Apskatīt **[palīdzību par ievietošanu](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "Savā datorā jāatver jauna pārlūka cilne un **jādodas uz %1$@**";
-"LogInToTheBitwardenWebApp" = "**Jāpiesakās Bitwarden tīmekļa lietotnē.**";
-"ImportLoginsToBitwarden" = "Ievietot pieteikšanās vienumus Bitwarden";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Bitwarden izvēlnē **jāatrod \"Rīki\"** un **jāatlasa \"Ievietot datus\"**.";
+"LogInToTheBitwardenWebApp" = "**Jāpiesakās Multipass tīmekļa lietotnē.**";
+"ImportLoginsToBitwarden" = "Ievietot pieteikšanās vienumus Multipass";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Multipass izvēlnē **jāatrod \"Rīki\"** un **jāatlasa \"Ievietot datus\"**.";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "Jāaizpilda veidlapa un **jāievieto saglabātā paroļu datne**.";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "Tīmekļa lietotnē **jāatlasa \"Ievietot datus\"**, tad **\"Darīts\"**, lai pabeigtu sinhronizēšanu.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "Drošības dēļ jānodrošina, ka **paroļu datne tiek izdzēsta**.";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "Netika atrasts neviens konts. Lūgums pieteikties vēlreiz, ja šī kļūda joprojām ir redzama.";
 "ImportError" = "Ievietošanas kļūda";
 "NoLoginsWereImported" = "Netika ievietots neviens pieteikšanās vienums";
-"ThisIsNotARecognizedServerDescriptionLong" = "Šis nav atzīts Bitwarden serveris. Var būt nepieciešams vērsties pie nodrošinātāja, lai pārbaudītu, vai atjaunināt savu serveri.";
+"ThisIsNotARecognizedServerDescriptionLong" = "Šis nav atzīts Multipass serveris. Var būt nepieciešams vērsties pie nodrošinātāja, lai pārbaudītu, vai atjaunināt savu serveri.";
 "LoginsImported" = "Pieteikšanās vienumi ievietoti";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "Jāatceras datorā izdzēst savu ievietoto paroļu datni.";
 "SomethingWentWrong" = "Kaut kas nogājis greizi";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "Iespējot pagaidu žurnalēšanu, lai vietēji savāktu un izpētītu žurnālus. Kad iespējota, var tik žurnalēti lietotnes stāvokļi un tīkla izsaukumi, nekad jūtīga glabātavas informācija.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "Lai uzsāktu, jāiestata žunalēšanas ilgums. Žurnalēšana automātiski izslēsies pēc šī laika posma, dodot laiku tvert darbības, kamēr tiek atkārtotas jebkādas nebūšanas.";
 "LoggingDuration" = "Žurnalēšanas ilgums";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Žurnāli tiks automātiski izdzēsti pēc 30 dienām. Bitwarden var piekļūt žurnālu datiem tikai tad, kad tos kopīgo.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Žurnāli tiks automātiski izdzēsti pēc 30 dienām. Multipass var piekļūt žurnālu datiem tikai tad, kad tos kopīgo.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "Lai uzzinātu vairāk par to, kas tiek un netiek žurnalēts, jāapmeklē **[Bitwarden palīdzības centrs](%1$@)**.";
 "ShowMore" = "Rādīt vairāk";
 "ShowLess" = "Rādīt mazāk";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "Lūgums apstiprināt zemāk esošo domēnu ar savas apvienības pārvaldītāju.\n\nKey Connector domēns:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "Vai tiešām izdzēst šo žurnālu?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "Vai tiešām izdzēst visus ierakstītos žurnālus?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Šis konts drīzumā tiks izdzēsts. Jāpiesakās %1$@, lai turpinātu izmantot Bitwarden.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Šis konts drīzumā tiks izdzēsts. Jāpiesakās %1$@, lai turpinātu izmantot Multipass.";
 "AppSettings" = "Lietotnes iestatījumi";
 "ViewFileSend" = "Apskatīt datnes Send";
 "ViewTextSend" = "Apskatīt teksta Send";
@@ -942,7 +942,7 @@
 "LastEdited" = "Pēdējoreiz labots: %1$@";
 "PasswordLastUpdated" = "Parole pēdējoreiz atjaunināta: %1$@";
 "DecryptionError" = "Atšifrēšanas kļūda";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden nevarēja atšifrēt šo glabātavas vienumu. Šī kļūda jāievieto starpliktuvē un jākopīgo ar klientu atbalstu, lai izvairītos no papildu datu zudumiem.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass nevarēja atšifrēt šo glabātavas vienumu. Šī kļūda jāievieto starpliktuvē un jākopīgo ar klientu atbalstu, lai izvairītos no papildu datu zudumiem.";
 "CopyErrorReport" = "Ievietot kļūdas ziņojumu starpliktuvē";
 "ErrorCannotDecrypt" = "[kļūda: nevar atšifrēt]";
 "AccountsSyncedFromBitwardenApp" = "No Bitwarden lietotnes sinhronizētie konti";
@@ -1000,7 +1000,7 @@
 "Skip" = "Izlaist";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "Glabā visus savus pieteikšanās datus un vienādo apliecināšanas kodus tieši ar autentificētāja lietotni!";
-"SyncWithBrowserDescriptionLong" = "Lai savienotos ar %1$@, noklusējuma pārlūks jāvienādo ar Bitwarden viedierīces lietotni. Kad atvērsies pārlūks, jāpabeidz pieteikšanās, ja vaicāta. Tiklīdz vienādošana būs pabeigta, notiks pārvirzīšana atpakaļ uz šo lietotni.";
+"SyncWithBrowserDescriptionLong" = "Lai savienotos ar %1$@, noklusējuma pārlūks jāvienādo ar Multipass viedierīces lietotni. Kad atvērsies pārlūks, jāpabeidz pieteikšanās, ja vaicāta. Tiklīdz vienādošana būs pabeigta, notiks pārvirzīšana atpakaļ uz šo lietotni.";
 "SyncWithBitwardenApp" = "Vienādot ar Bitwarden lietotni";
 "SyncWithBrowser" = "Vienādot ar pārlūku";
 "SyncWithTheBitwardenApp" = "Vienādot ar Bitwarden lietotni";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "Atlasīt kontu";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "Konti";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI atbilstības noteikšana ietekmē, kā Bitwarden atpazīst automātiskās aizpildes ieteikumus.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI atbilstības noteikšana ietekmē, kā Multipass atpazīst automātiskās aizpildes ieteikumus.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“Sākas ar” ir lietpratējiem paredzēta iespēja ar paaugstinātu piekļuves datu atklāšanas bīstamību.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“Regulārā izteiksme” ir lietpratējiem paredzēta iespēja ar paaugstinātu piekļuves datu atklāšanas bīstamību.";
 "StartsWithAdvanced" = "Sākas ar (lietpratējiem)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "Jāsazinās ar savu pārvaldītāju, lai atgūtu piekļuvi.";
 "LeaveX" = "Pamest %1$@";
 "YouLeftTheOrganization" = "Tu pameti apvienību";
-"ItemTransferRequiresMainAppDescriptionLong" = "Apvienība pieprasa personīgo vienumu īpašumtiesības. Jāatver galvenā Bitwarden lietotne, lai pārskatītu un pabeigtu šo pieprasījumu.";
+"ItemTransferRequiresMainAppDescriptionLong" = "Apvienība pieprasa personīgo vienumu īpašumtiesības. Jāatver galvenā Multipass lietotne, lai pārskatītu un pabeigtu šo pieprasījumu.";
 "ThisSettingIsManagedByYourOrganization" = "Šo iestatījumu pārvalda apvienība.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "Apvienība ir iestatījusi lielāko pieļaujamo sesijas noildzi uz %1$@.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "Apvienība ir iestatījusi lielāko pieļaujamo sesijas noildzi uz “nekad”.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock notīrīts.";
 "SsoCookiesCleared" = "SSO sīkdatnes notīrītas";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "Pieprasījums tika pārtraukts, jo lietotnei bija nepieciešama atkārtota autentificēšanās. Lūgums mēģināt vēlreiz.";
-"AutofillWithBitwardenDescriptionLong" = "Bitwarden var ieteikt paroles un citus pieteikšanās datus, kad piesakies lietotnēs un tīmekļvietnēs.";
+"AutofillWithBitwardenDescriptionLong" = "Multipass var ieteikt paroles un citus pieteikšanās datus, kad piesakies lietotnēs un tīmekļvietnēs.";
 "LearnMoreAboutAutofill" = "Uzzināt vairāk par automātisko aizpildi";
 "TurnOnNow" = "Ieslēgt tūlīt";
 "AcceptTransfer" = "Pieņemt pārsūtīšanu";

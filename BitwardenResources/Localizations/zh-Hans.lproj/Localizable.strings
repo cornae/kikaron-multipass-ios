@@ -3,7 +3,7 @@
 "AddFolder" = "添加文件夹";
 "AnErrorHasOccurred" = "发生错误。";
 "Back" = "返回";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "取消";
 "Copy" = "复制";
 "CopyLicenseNumber" = "复制驾驶证号码";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "密码短语通常比随机密码更容易记忆和输入。它们有助于登录无法使用自动填充功能的账户，例如电视上的流媒体服务。";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "唯一的用户名增加了额外的安全性，有助于防止黑客轻易找到您的账户。";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "使用这些选项来调整您的密码，以使其符合您的账户网站的要求。";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "将新密码保存到 Bitwarden 后，不要忘记在您的账户网站上更新它。";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "将新密码保存到 Multipass 后，不要忘记在您的账户网站上更新它。";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "您必须添加一个网址才能使用自动填充来访问这个账户。";
 "Username" = "用户名";
 "ValidationFieldRequired" = "必须填写 %1$@ 字段。";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "重新激活 App 扩展";
 "ExtensionAlmostDone" = "就差一步！";
 "ExtensionEnable" = "激活 App 扩展";
-"ExtensionInSafari" = "在 Safari 中，使用分享图标找到 Bitwarden（提示：滚动到菜单最下面一行的右边）。";
+"ExtensionInSafari" = "在 Safari 中，使用分享图标找到 Multipass（提示：滚动到菜单最下面一行的右边）。";
 "ExtensionInstantAccess" = "即时访问您的密码！";
 "ExtensionReady" = "您已经准备好登录了！";
 "ExtensionSetup" = "现在，可以从 Safari、Chrome 以及其他支持的 App 轻松访问您的登录。";
-"ExtensionSetup2" = "在 Safari 和 Chrome 中，使用分享图标找到 Bitwarden（提示：滚动到菜单最下面一行的右边）。";
-"ExtensionTapIcon" = "点击菜单中的 Bitwarden 图标以启动此扩展。";
-"ExtensionTurnOn" = "要在 Safari 和其他 App 中打开 Bitwarden ，请点击菜单底部的「更多」图标。";
+"ExtensionSetup2" = "在 Safari 和 Chrome 中，使用分享图标找到 Multipass（提示：滚动到菜单最下面一行的右边）。";
+"ExtensionTapIcon" = "点击菜单中的 Multipass 图标以启动此扩展。";
+"ExtensionTurnOn" = "要在 Safari 和其他 App 中打开 Multipass ，请点击菜单底部的「更多」图标。";
 "Favorite" = "收藏";
 "Fingerprint" = "指纹";
 "GeneratePassword" = "生成密码";
@@ -110,7 +110,7 @@
 "Immediately" = "立即";
 "VaultTimeoutLogOutConfirmation" = "超时后注销账户将解除对密码库的所有访问权限，并需要进行在线身份验证。确定要使用此设置吗？";
 "LoggingIn" = "正在登录…";
-"LogInToBitwarden" = "登录到 Bitwarden";
+"LogInToBitwarden" = "登录到 Multipass";
 "MasterPasswordConfirmationValMessage" = "两次填写的密码不一致。";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "主密码是用于访问您的密码库的密码。";
 "MasterPasswordHint" = "主密码提示";
@@ -127,7 +127,7 @@
 "PasswordHint" = "密码提示";
 "PasswordHintAlert" = "我们已经向您发送了一封包含主密码提示的电子邮件。";
 "PasswordOverrideAlert" = "确定要覆盖当前密码吗？";
-"PushNotificationAlert" = "Bitwarden 使用推送通知来自动同步您的密码库。为了获得最佳体验，接下来询问是否开启通知时，请选择「允许」。";
+"PushNotificationAlert" = "Multipass 使用推送通知来自动同步您的密码库。为了获得最佳体验，接下来询问是否开启通知时，请选择「允许」。";
 "Security" = "安全";
 "Select" = "选择";
 "ItemUpdated" = "项目已保存";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "使用视控 ID 解锁";
 "UnlockWithPIN" = "使用 PIN 码解锁";
 "VerificationCode" = "验证码";
-"WebVault" = "Bitwarden 网页密码库";
+"WebVault" = "Multipass 网页密码库";
 "Items" = "项目";
 "ExtensionActivated" = "扩展已激活！";
 "ItemsForUri" = "适用于 %1$@ 的项目";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "环境 URL 已保存。";
 "IdentityUrl" = "身份服务器 URL";
 "SelfHostedEnvironment" = "自托管环境";
-"SelfHostedEnvironmentFooter" = "指定您本地托管的 Bitwarden 安装的基础 URL。";
+"SelfHostedEnvironmentFooter" = "指定您本地托管的 Multipass 安装的基础 URL。";
 "ServerUrl" = "服务器 URL";
 "WebVaultUrl" = "网页密码库服务器 URL";
 "CustomFields" = "自定义字段";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "显示网站图标";
 "ShowWebsiteIconsDescription" = "在每个登录项目旁边显示一个可识别的图像。";
 "IconsUrl" = "图标服务器 URL";
-"AutofillWithBitwarden" = "使用 Bitwarden 自动填充";
+"AutofillWithBitwarden" = "使用 Multipass 自动填充";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "集合";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. 点击「密码」";
 "AutofillTurnOn3" = "3. 点击「自动填充密码」";
 "AutofillTurnOn4" = "4. 启用自动填充";
-"AutofillTurnOn5" = "5. 选择「Bitwarden」";
+"AutofillTurnOn5" = "5. 选择「Multipass」";
 "PasswordAutofill" = "密码自动填充";
-"BitwardenAutofillAlert2" = "向您的密码库中添加新登录的最简单方法，就是使用 Bitwarden 密码自动填充扩展。转到「设置」界面进一步了解 Bitwarden 密码自动填充扩展的使用。";
+"BitwardenAutofillAlert2" = "向您的密码库中添加新登录的最简单方法，就是使用 Multipass 密码自动填充扩展。转到「设置」界面进一步了解 Multipass 密码自动填充扩展的使用。";
 "InvalidEmail" = "无效的电子邮箱地址。";
 "InvalidEmailAddresses" = "无效的电子邮箱地址";
 "NoEmailAddressesEntered" = "未输入电子邮箱地址";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "查看隐私政策吗？";
 "ContinueToAppStore" = "前往 App Store 吗？";
 "ContinueWithoutSyncing" = "继续而不同步";
-"TwoStepLoginDescriptionLong" = "在 Bitwarden 网页 App 中设置两步登录，让您的账户更加安全。";
+"TwoStepLoginDescriptionLong" = "在 Multipass 网页 App 中设置两步登录，让您的账户更加安全。";
 "YouCanImportDataToYourVaultOnX" = "您可以通过 %1$@ 将数据导入您的密码库。";
 "PrivacyPolicyDescriptionLong" = "在 bitwarden.com 上查看我们的隐私政策。";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "在网页 App 上探索您的 Bitwarden 账户的更多功能。";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "在网页 App 上探索您的 Multipass 账户的更多功能。";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden 允许您使用组织与他人共享您的密码库项目。访问 bitwarden.com 网站了解更多信息。";
-"RateAppDescriptionLong" = "帮助他人了解 Bitwarden 是否适合他们。立即访问 App Store 并留下评分。";
+"RateAppDescriptionLong" = "帮助他人了解 Multipass 是否适合他们。立即访问 App Store 并留下评分。";
 "CreatedX" = "创建于 %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "您的组织权限已更新，要求您设置主密码。";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "您的组织要求您设置主密码。";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "通过引导式教程，进一步了解有关生成安全登录凭据的信息。";
 "ExportVaultFilePwProtectInfo" = "此文件导出将受密码保护，需要文件密码才能解密。";
 "IntroCarouselPage1Title" = "以安全为首要";
-"IntroCarouselPage1Message" = "将登录、支付卡和身份保存到您的安全密码库。Bitwarden 使用零知识、端到端的加密来保护您的重要信息。";
+"IntroCarouselPage1Message" = "将登录、支付卡和身份保存到您的安全密码库。Multipass 使用零知识、端到端的加密来保护您的重要信息。";
 "IntroCarouselPage2Title" = "快速便捷的登录";
 "IntroCarouselPage2Message" = "设置生物识别解锁和自动填充，无需输入任何字符即可登录您的账户。";
 "IntroCarouselPage3Title" = "提升您的登录体验";
 "IntroCarouselPage3Message" = "使用生成器创建和保存强大且唯一的密码，以保护您的所有账户。";
 "IntroCarouselPage4Title" = "随时随地在您需要时获取您的数据";
-"IntroCarouselPage4Message" = "使用 Bitwarden 移动端、浏览器和桌面 App 在不限数量的设备上保存不限数量的密码。";
+"IntroCarouselPage4Message" = "使用 Multipass 移动端、浏览器和桌面 App 在不限数量的设备上保存不限数量的密码。";
 "AccountSetup" = "账户设置";
 "SetUpUnlock" = "设置解锁";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "设置生物识别或选择一个 PIN 码，以快速访问您的密码库以及自动填充您的登录。";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "主密码（必填）";
 "RetypeMasterPasswordRequired" = "再次输入主密码（必填）";
 "RetypeNewMasterPasswordRequired" = "再次输入新主密码（必填）";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden 无法重置丢失或遗忘的主密码。";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass 无法重置丢失或遗忘的主密码。";
 "LearnAboutWaysToPreventAccountLockout" = "了解防止账户被锁住的方法";
 "RestartRegistration" = "重启注册";
 "Expired" = "已过期";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "与 Duo 服务连接时出错。请使用其他两步登录方式或联系 Duo 寻求帮助。";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "无法加载预认证 URL 来启动账户创建。";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "在您的设备设置中，**打开自动填充密码和通行密钥**。";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**关闭 iCloud 钥匙串**使 Bitwarden 成为默认的自动填充源。";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**打开 Bitwarden** 使用已保存的密码登录您的账户。";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**关闭 iCloud 钥匙串**使 Multipass 成为默认的自动填充源。";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**打开 Multipass** 使用已保存的密码登录您的账户。";
 "TurnOnAutoFill" = "启用自动填充";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "使用自动填充，只需点击一下即可登录您的账户。";
 "NeedHelpCheckOutAutofillHelp" = "需要帮助吗？查看 **[自动填充帮助](%1$@)**";
 "TurnOnLater" = "稍后启用";
 "TurnOnAutoFillLaterQuestion" = "稍后启用自动填充吗？";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "您可以随时回到「设置」中完成此步骤。";
-"ContinueToBitwarden" = "前往 Bitwarden";
+"ContinueToBitwarden" = "前往 Multipass";
 "BackToSettings" = "返回设置";
 "YoureAllSet" = "一切就绪！";
-"AutoFillActivatedDescriptionLong" = "您现在可以使用自动填充功能，使用保存的密码来登录 App 和网站。也可以探索 Bitwarden 为您提供的其他便捷功能。";
+"AutoFillActivatedDescriptionLong" = "您现在可以使用自动填充功能，使用保存的密码来登录 App 和网站。也可以探索 Multipass 为您提供的其他便捷功能。";
 "GetStarted" = "开始使用";
 "Dismiss" = "忽略";
 "SaveAndProtectYourData" = "保存和保护您的数据";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "使用计算机从现有密码管理器导入登录信息。";
 "ImportLogins" = "导入登录信息";
 "GiveYourVaultAHeadStart" = "给您的密码库一个领先的开端";
-"ImportLoginsDescriptionLong" = "在您的计算机上，按照以下说明从浏览器或其他密码管理器中导出已保存的密码。然后，将它们安全地导入到 Bitwarden。";
+"ImportLoginsDescriptionLong" = "在您的计算机上，按照以下说明从浏览器或其他密码管理器中导出已保存的密码。然后，将它们安全地导入到 Multipass。";
 "ImportLoginsLater" = "稍后导入登录信息";
 "ImportLoginsLaterQuestion" = "稍后导入登录信息吗？";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "您可以随时回到「设置」中的「密码库」来完成此步骤。";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "导入完成后您应该删除此文件。";
 "NeedHelpCheckOutImportHelp" = "需要帮助吗？查看 **[导入帮助](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "在您的计算机上，打开一个新的浏览器标签页然后**访问 %1$@**。";
-"LogInToTheBitwardenWebApp" = "**登录到 Bitwarden 网页 App**。";
-"ImportLoginsToBitwarden" = "导入登录信息到 Bitwarden";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "在 Bitwarden 导航中，**找到「工具」选项**然后**选择「导入数据」**。";
+"LogInToTheBitwardenWebApp" = "**登录到 Multipass 网页 App**。";
+"ImportLoginsToBitwarden" = "导入登录信息到 Multipass";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "在 Multipass 导航中，**找到「工具」选项**然后**选择「导入数据」**。";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "填写表单然后**导入已保存的密码文件**。";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "在网页 App 中**选择「导入数据」**，点后点击**「完成」**以完成同步。";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "为了您的安全，请务必**删除已保存的密码文件**。";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "未找到账户。如果您继续看到此错误，请重新登录。";
 "ImportError" = "导入错误";
 "NoLoginsWereImported" = "未导入任何登录信息";
-"ThisIsNotARecognizedServerDescriptionLong" = "这是一个无法识别的 Bitwarden 服务器。您可能需要向您的提供商查询或更新您的服务器。";
+"ThisIsNotARecognizedServerDescriptionLong" = "这是一个无法识别的 Multipass 服务器。您可能需要向您的提供商查询或更新您的服务器。";
 "LoginsImported" = "登录信息已导入";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "记得从计算机中删除已导入的密码文件。";
 "SomethingWentWrong" = "出错了";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "启用临时日志记录，以在本地收集和检查日志。启用后，可能会记录应用程序状态和网络调用，但绝不会记录敏感的密码库信息。";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "要开始使用，请设置日志记录持续时间，以便您在复现问题时捕获相关活动。日志记录将在该时间段后自动停用。";
 "LoggingDuration" = "日志记录持续时间";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "日志将在 30 天后自动删除。只有当您分享它时，Bitwarden 才能访问您的日志数据。";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "日志将在 30 天后自动删除。只有当您分享它时，Multipass 才能访问您的日志数据。";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "要了解哪些内容会被记录、哪些不会被记录，请访问 **[Bitwarden 帮助中心](%1$@)**。";
 "ShowMore" = "显示更多";
 "ShowLess" = "显示更少";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "请与您的组织管理员确认下面的域名。\n\nKey Connector 域名：\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "确定要删除此日志吗？";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "确定要删除所有记录的日志吗？";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "此账户即将被删除。请在 %1$@ 前登录以继续使用 Bitwarden。";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "此账户即将被删除。请在 %1$@ 前登录以继续使用 Multipass。";
 "AppSettings" = "App 设置";
 "ViewFileSend" = "查看文件 Send";
 "ViewTextSend" = "查看文本 Send";
@@ -942,7 +942,7 @@
 "LastEdited" = "最后编辑于：%1$@";
 "PasswordLastUpdated" = "密码最后更新于：%1$@";
 "DecryptionError" = "解密错误";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden 无法解密此密码库项目。复制此错误报告并将其分享给客户成功团队，以避免进一步的数据丢失。";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass 无法解密此密码库项目。复制此错误报告并将其分享给客户成功团队，以避免进一步的数据丢失。";
 "CopyErrorReport" = "复制错误报告";
 "ErrorCannotDecrypt" = "[错误：无法解密]";
 "AccountsSyncedFromBitwardenApp" = "账户已从 Bitwarden App 同步";
@@ -1000,7 +1000,7 @@
 "Skip" = "跳过";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "保存您所有的登录信息并直接与验证器 App 同步验证码。";
-"SyncWithBrowserDescriptionLong" = "要连接到 %1$@，请将您的默认浏览器与 Bitwarden 移动 App 同步。浏览器打开后，如果提示登录，请完成登录。同步完成后，您将返回此 App。";
+"SyncWithBrowserDescriptionLong" = "要连接到 %1$@，请将您的默认浏览器与 Multipass 移动 App 同步。浏览器打开后，如果提示登录，请完成登录。同步完成后，您将返回此 App。";
 "SyncWithBitwardenApp" = "与 Bitwarden App 同步";
 "SyncWithBrowser" = "与浏览器同步";
 "SyncWithTheBitwardenApp" = "与 Bitwarden App 同步";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "选择账户";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "账户";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI 匹配检测控制 Bitwarden 如何识别自动填充建议。";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI 匹配检测控制 Multipass 如何识别自动填充建议。";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "「开始于」是一种高级选项，会增加暴露凭据的风险。";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "「正则表达方式」是一种高级选项，若使用不当，会增加暴露凭据的风险。";
 "StartsWithAdvanced" = "开始于（高级）";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "联系您的管理员以重新获取访问权限。";
 "LeaveX" = "退出 %1$@";
 "YouLeftTheOrganization" = "您已退出该组织";
-"ItemTransferRequiresMainAppDescriptionLong" = "某个组织正在请求您的个人项目的所有权。打开主 Bitwarden App 以审查并完成此请求。";
+"ItemTransferRequiresMainAppDescriptionLong" = "某个组织正在请求您的个人项目的所有权。打开主 Multipass App 以审查并完成此请求。";
 "ThisSettingIsManagedByYourOrganization" = "此设置由您的组织管理。";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "您的组织已将最大会话超时设置为 %1$@ 。";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "您的组织已将默认会话超时设置为「从不」。";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock 已清除。";
 "SsoCookiesCleared" = "SSO Cookie 已清除";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "由于 App 需要重新验证身份，您的请求被中断。请重试。";
-"AutofillWithBitwardenDescriptionLong" = "当您登录到 App 和网站时，Bitwarden 可以建议要使用的密码和其他凭据。";
+"AutofillWithBitwardenDescriptionLong" = "当您登录到 App 和网站时，Multipass 可以建议要使用的密码和其他凭据。";
 "LearnMoreAboutAutofill" = "进一步了解自动填充";
 "TurnOnNow" = "立即启用";
 "AcceptTransfer" = "接受转移";

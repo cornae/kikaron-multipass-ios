@@ -3,7 +3,7 @@
 "AddFolder" = "Adicionar pasta";
 "AnErrorHasOccurred" = "Ocorreu um erro.";
 "Back" = "Voltar";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Cancelar";
 "Copy" = "Copiar";
 "CopyLicenseNumber" = "Copiar número da carta de condução";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "As frases-chave são frequentemente mais fáceis de memorizar e de escrever do que as palavras-passe aleatórias. Podem ser úteis quando é necessário iniciar sessão em contas em que o preenchimento automático não está disponível, como um serviço de streaming na sua TV.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "Os nomes de utilizador únicos acrescentam uma camada extra de segurança e podem ajudar a impedir que os hackers encontrem as suas contas.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "Utilize estas opções para ajustar a sua palavra-passe de acordo com os requisitos do site da sua conta.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Depois de guardar a sua nova palavra-passe no Bitwarden, não se esqueça de a atualizar no site da sua conta.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Depois de guardar a sua nova palavra-passe no Multipass, não se esqueça de a atualizar no site da sua conta.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "É necessário adicionar um endereço web para utilizar o preenchimento automático para aceder a esta conta.";
 "Username" = "Nome de utilizador";
 "ValidationFieldRequired" = "O campo %1$@ é obrigatório.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "Reativar a extensão da app";
 "ExtensionAlmostDone" = "Quase pronto!";
 "ExtensionEnable" = "Ativar a extensão da app";
-"ExtensionInSafari" = "No Safari, encontre o Bitwarden utilizando o ícone de partilha (dica: deslize para a direita na linha inferior do menu).";
+"ExtensionInSafari" = "No Safari, encontre o Multipass utilizando o ícone de partilha (dica: deslize para a direita na linha inferior do menu).";
 "ExtensionInstantAccess" = "Obtenha acesso instantâneo às suas palavras-passe!";
 "ExtensionReady" = "Está pronto para iniciar sessão!";
 "ExtensionSetup" = "As suas credenciais estão agora facilmente acessíveis a partir do Safari, Chrome, e outras aplicações suportadas.";
-"ExtensionSetup2" = "No Safari e no Chrome, encontre o Bitwarden utilizando o ícone de partilha (dica: deslize para a direita na linha inferior do menu de partilha).";
-"ExtensionTapIcon" = "Toque no ícone do Bitwarden no menu para iniciar a extensão.";
-"ExtensionTurnOn" = "Para ativar o Bitwarden no Safari e noutras aplicações, toque no ícone “mais” na linha inferior do menu.";
+"ExtensionSetup2" = "No Safari e no Chrome, encontre o Multipass utilizando o ícone de partilha (dica: deslize para a direita na linha inferior do menu de partilha).";
+"ExtensionTapIcon" = "Toque no ícone do Multipass no menu para iniciar a extensão.";
+"ExtensionTurnOn" = "Para ativar o Multipass no Safari e noutras aplicações, toque no ícone “mais” na linha inferior do menu.";
 "Favorite" = "Adicionar aos favoritos";
 "Fingerprint" = "Impressão digital";
 "GeneratePassword" = "Gerar palavra-passe";
@@ -110,7 +110,7 @@
 "Immediately" = "Imediatamente";
 "VaultTimeoutLogOutConfirmation" = "Ao terminar sessão removerá todo o acesso ao seu cofre e requer autenticação online após o período de tempo limite. Tem a certeza de que pretende utilizar esta definição?";
 "LoggingIn" = "A iniciar sessão…";
-"LogInToBitwarden" = "Iniciar sessão no Bitwarden";
+"LogInToBitwarden" = "Iniciar sessão no Multipass";
 "MasterPasswordConfirmationValMessage" = "A confirmação da palavra-passe não está correta.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "A palavra-passe mestra é a palavra-passe que utiliza para aceder ao seu cofre.";
 "MasterPasswordHint" = "Dica da palavra-passe mestra";
@@ -127,7 +127,7 @@
 "PasswordHint" = "Dica da palavra-passe";
 "PasswordHintAlert" = "Enviámos-lhe um e-mail com a dica da sua palavra-passe mestra.";
 "PasswordOverrideAlert" = "Tem a certeza de que pretende substituir a palavra-passe atual?";
-"PushNotificationAlert" = "O Bitwarden mantém o seu cofre sincronizado automaticamente através de notificações push. Para obter a melhor experiência possível, selecione “Permitir” na seguinte mensagem quando lhe for pedido para permitir notificações push.";
+"PushNotificationAlert" = "O Multipass mantém o seu cofre sincronizado automaticamente através de notificações push. Para obter a melhor experiência possível, selecione “Permitir” na seguinte mensagem quando lhe for pedido para permitir notificações push.";
 "Security" = "Segurança";
 "Select" = "Selecionar";
 "ItemUpdated" = "Item guardado";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Desbloquear com Optic ID";
 "UnlockWithPIN" = "Desbloquear com código PIN";
 "VerificationCode" = "Código de verificação";
-"WebVault" = "Cofre web Bitwarden";
+"WebVault" = "Cofre web Multipass";
 "Items" = "Itens";
 "ExtensionActivated" = "Extensão ativada!";
 "ItemsForUri" = "Itens para %1$@";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "Os URLs de ambiente foram guardados.";
 "IdentityUrl" = "URL do servidor de identidade";
 "SelfHostedEnvironment" = "Ambiente auto-hospedado";
-"SelfHostedEnvironmentFooter" = "Especifique o URL de base da sua instalação local do Bitwarden.";
+"SelfHostedEnvironmentFooter" = "Especifique o URL de base da sua instalação local do Multipass.";
 "ServerUrl" = "URL do servidor";
 "WebVaultUrl" = "URL do servidor do cofre web";
 "CustomFields" = "Campos personalizados";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "Mostrar ícones do site";
 "ShowWebsiteIconsDescription" = "Mostrar uma imagem reconhecível junto a cada credencial.";
 "IconsUrl" = "URL do servidor de ícones";
-"AutofillWithBitwarden" = "Preencher automaticamente com o Bitwarden";
+"AutofillWithBitwarden" = "Preencher automaticamente com o Multipass";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "Coleções";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. Toque em “Palavras-passe”";
 "AutofillTurnOn3" = "3. Toque em “Autopreenchimento e palavras-passe”";
 "AutofillTurnOn4" = "4. Ative o Preenchimento automático";
-"AutofillTurnOn5" = "5. Selecione o Bitwarden";
+"AutofillTurnOn5" = "5. Selecione o Multipass";
 "PasswordAutofill" = "Preenchimento automático de palavras-passe";
-"BitwardenAutofillAlert2" = "A maneira mais fácil de adicionar novas credenciais ao seu cofre é utilizando a extensão de preenchimento automático de palavras-passe do Bitwarden. Saiba mais sobre como utilizar a extensão de preenchimento automático de palavras-passe do Bitwarden ao navegar até ao ecrã “Definições”.";
+"BitwardenAutofillAlert2" = "A maneira mais fácil de adicionar novas credenciais ao seu cofre é utilizando a extensão de preenchimento automático de palavras-passe do Multipass. Saiba mais sobre como utilizar a extensão de preenchimento automático de palavras-passe do Multipass ao navegar até ao ecrã “Definições”.";
 "InvalidEmail" = "Endereço de e-mail inválido.";
 "InvalidEmailAddresses" = "Endereços de e-mail inválidos";
 "NoEmailAddressesEntered" = "Nenhum endereço de e-mail introduzido";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "Continuar para a política de privacidade?";
 "ContinueToAppStore" = "Continuar para a loja de aplicações?";
 "ContinueWithoutSyncing" = "Continuar sem sincronizar";
-"TwoStepLoginDescriptionLong" = "Torne a sua conta mais segura configurando a verificação de dois passos na aplicação web Bitwarden.";
+"TwoStepLoginDescriptionLong" = "Torne a sua conta mais segura configurando a verificação de dois passos na aplicação web Multipass.";
 "YouCanImportDataToYourVaultOnX" = "Pode importar dados para o seu cofre em %1$@.";
 "PrivacyPolicyDescriptionLong" = "Consulte a nossa política de privacidade em bitwarden.com.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Explore mais funcionalidades da sua conta Bitwarden na aplicação web.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Explore mais funcionalidades da sua conta Multipass na aplicação web.";
 "LearnAboutOrganizationsDescriptionLong" = "O Bitwarden permite-lhe partilhar os seus itens do cofre com outras pessoas através da utilização de uma organização. Saiba mais no site bitwarden.com.";
-"RateAppDescriptionLong" = "Ajude outras pessoas a descobrir se o Bitwarden lhes é adequado. Visite a loja de aplicações e deixe uma classificação agora.";
+"RateAppDescriptionLong" = "Ajude outras pessoas a descobrir se o Multipass lhes é adequado. Visite a loja de aplicações e deixe uma classificação agora.";
 "CreatedX" = "Criado a %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "As permissões da sua organização foram atualizadas, exigindo a definição de uma palavra-passe mestra.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "A sua organização exige a definição de uma palavra-passe mestra.";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "Saiba mais sobre como gerar credenciais de início de sessão seguras com uma visita guiada.";
 "ExportVaultFilePwProtectInfo" = "A exportação deste ficheiro será protegida por uma palavra-passe e exigirá a palavra-passe do ficheiro para ser desencriptada.";
 "IntroCarouselPage1Title" = "Segurança, com prioridade";
-"IntroCarouselPage1Message" = "Guarde credenciais, cartões e identidades no seu cofre seguro. O Bitwarden utiliza encriptação de ponto a ponto e conhecimento zero para proteger o que é importante para si.";
+"IntroCarouselPage1Message" = "Guarde credenciais, cartões e identidades no seu cofre seguro. O Multipass utiliza encriptação de ponto a ponto e conhecimento zero para proteger o que é importante para si.";
 "IntroCarouselPage2Title" = "Início de sessão rápido e fácil";
 "IntroCarouselPage2Message" = "Configure o desbloqueio biométrico e o preenchimento automático para iniciar sessão nas suas contas sem escrever uma única letra.";
 "IntroCarouselPage3Title" = "Eleve o nível das suas credenciais";
 "IntroCarouselPage3Message" = "Utilize o gerador para criar e guardar palavras-passe fortes e únicas para todas as suas contas.";
 "IntroCarouselPage4Title" = "Os seus dados, quando e onde precisar";
-"IntroCarouselPage4Message" = "Guarde palavras-passe ilimitadas em dispositivos ilimitados com as apps Bitwarden para telemóvel, navegador e computador.";
+"IntroCarouselPage4Message" = "Guarde palavras-passe ilimitadas em dispositivos ilimitados com as apps Multipass para telemóvel, navegador e computador.";
 "AccountSetup" = "Configuração da conta";
 "SetUpUnlock" = "Configurar o desbloqueio";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "Configure a biometria ou escolha um código PIN para aceder rapidamente ao seu cofre e preencher automaticamente as suas credenciais.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "Palavra-passe mestra (obrigatório)";
 "RetypeMasterPasswordRequired" = "Reintroduzir palavra-passe mestra (obrigatório)";
 "RetypeNewMasterPasswordRequired" = "Reintroduzir a nova palavra-passe mestra (obrigatório)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "O Bitwarden não pode repor uma palavra-passe mestra perdida ou esquecida.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "O Multipass não pode repor uma palavra-passe mestra perdida ou esquecida.";
 "LearnAboutWaysToPreventAccountLockout" = "Saiba mais sobre formas de evitar o bloqueio da conta";
 "RestartRegistration" = "Reiniciar registo";
 "Expired" = "Expirado";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Erro ao ligar ao serviço Duo. Utilize um método de verificação de dois passos diferente ou contacte o Duo para obter assistência.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "Não foi possível carregar os URLs de pré-autorização para iniciar a criação da conta.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "Nas definições do dispositivo, **ative o preenchimento automático de palavras-passe e chaves de acesso.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Desative o Porta-chaves em iCloud** para tornar o Bitwarden a sua fonte de preenchimento automático predefinida.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Ative o Bitwarden** para utilizar as suas palavras-passe guardadas para iniciar sessão nas suas contas.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Desative o Porta-chaves em iCloud** para tornar o Multipass a sua fonte de preenchimento automático predefinida.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Ative o Multipass** para utilizar as suas palavras-passe guardadas para iniciar sessão nas suas contas.";
 "TurnOnAutoFill" = "Ativar o preenchimento automático";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "Utilize o preenchimento automático para iniciar sessão nas suas contas com um simples toque.";
 "NeedHelpCheckOutAutofillHelp" = "Precisa de ajuda? Consulte a **[ajuda com o preenchimento automático](%1$@)**";
 "TurnOnLater" = "Ativar mais tarde";
 "TurnOnAutoFillLaterQuestion" = "Ativar o preenchimento automático mais tarde?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "Pode voltar a concluir este passo a qualquer altura nas Definições.";
-"ContinueToBitwarden" = "Continuar para o Bitwarden";
+"ContinueToBitwarden" = "Continuar para o Multipass";
 "BackToSettings" = "Voltar às definições";
 "YoureAllSet" = "Tudo a postos!";
-"AutoFillActivatedDescriptionLong" = "Pode agora utilizar o preenchimento automático para iniciar sessão em aplicações e sites utilizando as suas palavras-passe guardadas. Agora, pode explorar tudo o que o Bitwarden tem para oferecer.";
+"AutoFillActivatedDescriptionLong" = "Pode agora utilizar o preenchimento automático para iniciar sessão em aplicações e sites utilizando as suas palavras-passe guardadas. Agora, pode explorar tudo o que o Multipass tem para oferecer.";
 "GetStarted" = "Começar";
 "Dismiss" = "Dispensar";
 "SaveAndProtectYourData" = "Guarde e proteja os seus dados";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "Utilize um computador para importar credenciais de um gestor de palavras-passe existente.";
 "ImportLogins" = "Importar credenciais";
 "GiveYourVaultAHeadStart" = "Dê um avanço ao seu cofre";
-"ImportLoginsDescriptionLong" = "A partir do seu computador, siga estas instruções para exportar as palavras-passe guardadas do seu navegador ou de outro gestor de palavras-passe. Em seguida, importe-as com segurança para o Bitwarden.";
+"ImportLoginsDescriptionLong" = "A partir do seu computador, siga estas instruções para exportar as palavras-passe guardadas do seu navegador ou de outro gestor de palavras-passe. Em seguida, importe-as com segurança para o Multipass.";
 "ImportLoginsLater" = "Importar credenciais mais tarde";
 "ImportLoginsLaterQuestion" = "Importar credenciais mais tarde?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "Pode voltar a concluir este passo a qualquer altura em Cofre, nas Definições.";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "Eliminará este ficheiro após concluir a importação.";
 "NeedHelpCheckOutImportHelp" = "Precisa de ajuda? Consulte a **[ajuda com a importação](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "No seu computador, abra um novo separador do navegador e **vá a %1$@**.";
-"LogInToTheBitwardenWebApp" = "**Iniciar sessão na aplicação web do Bitwarden.**";
-"ImportLoginsToBitwarden" = "Importar credenciais para o Bitwarden";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Na navegação do Bitwarden, **encontre a opção Ferramentas** e **selecione Importar dados.**";
+"LogInToTheBitwardenWebApp" = "**Iniciar sessão na aplicação web do Multipass.**";
+"ImportLoginsToBitwarden" = "Importar credenciais para o Multipass";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Na navegação do Multipass, **encontre a opção Ferramentas** e **selecione Importar dados.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "Preencha o formulário e **importe o seu ficheiro de palavras-passe guardado.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "**Selecione Importar dados** na aplicação web e, em seguida, **Concluído** para terminar a sincronização.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "Para sua segurança, certifique-se de que **elimina o ficheiro de palavras-passe guardadas.**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "Não foi encontrada nenhuma conta. Por favor, inicie sessão novamente se continuar a ver este erro.";
 "ImportError" = "Erro de importação";
 "NoLoginsWereImported" = "Não foram importadas credenciais";
-"ThisIsNotARecognizedServerDescriptionLong" = "Este não é um servidor Bitwarden reconhecido. Poderá ter de verificar com o seu fornecedor ou atualizar o seu servidor.";
+"ThisIsNotARecognizedServerDescriptionLong" = "Este não é um servidor Multipass reconhecido. Poderá ter de verificar com o seu fornecedor ou atualizar o seu servidor.";
 "LoginsImported" = "Credenciais importadas";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "Lembre-se de eliminar o ficheiro da palavra-passe importada do seu computador.";
 "SomethingWentWrong" = "Alguma coisa correu mal";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "Ative o registo temporário para recolher e inspecionar os registos localmente. Quando ativado, os estados da aplicação e as chamadas de rede podem ser registados — nunca informações sensíveis do cofre.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "Para começar, defina uma duração para o registo. O registo será automaticamente desligado após este período, dando-lhe tempo para capturar a atividade e reproduzir quaisquer problemas.";
 "LoggingDuration" = "Duração do registo";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Os registos serão automaticamente eliminados após 30 dias. O Bitwarden só pode aceder aos seus dados de registo quando os partilha.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Os registos serão automaticamente eliminados após 30 dias. O Multipass só pode aceder aos seus dados de registo quando os partilha.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "Para obter detalhes sobre o que é e o que não é registado, visite o **[Centro de ajuda do Bitwarden](%1$@)**.";
 "ShowMore" = "Mostrar mais";
 "ShowLess" = "Mostrar menos";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "Por favor, confirme o domínio abaixo com o administrador da sua organização.\n\nDomínio do Key Connector:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "Pretende realmente eliminar este registo?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "Pretende realmente eliminar todos os registos gravados?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Esta conta será eliminada em breve. Inicie sessão em %1$@ para continuar a utilizar o Bitwarden.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Esta conta será eliminada em breve. Inicie sessão em %1$@ para continuar a utilizar o Multipass.";
 "AppSettings" = "Definições da app";
 "ViewFileSend" = "Ver Send de ficheiro";
 "ViewTextSend" = "Ver Send de texto";
@@ -942,7 +942,7 @@
 "LastEdited" = "Última edição: %1$@";
 "PasswordLastUpdated" = "Última atualização da palavra-passe: %1$@";
 "DecryptionError" = "Erro de desencriptação";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "O Bitwarden não conseguiu desencriptar este item do cofre. Copie e partilhe este relatório de erro com o serviço de apoio ao cliente para evitar perdas de dados adicionais.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "O Multipass não conseguiu desencriptar este item do cofre. Copie e partilhe este relatório de erro com o serviço de apoio ao cliente para evitar perdas de dados adicionais.";
 "CopyErrorReport" = "Copiar relatório de erros";
 "ErrorCannotDecrypt" = "[erro: não é possível desencriptar]";
 "AccountsSyncedFromBitwardenApp" = "Contas sincronizadas a partir da app Bitwarden";
@@ -1000,7 +1000,7 @@
 "Skip" = "Saltar";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "Armazene todas as suas credenciais e sincronize os códigos de verificação diretamente com a app Authenticator.";
-"SyncWithBrowserDescriptionLong" = "Para ligar a %1$@, sincronize o seu navegador predefinido com a app móvel Bitwarden. Quando o navegador abrir, conclua a sessão, se lhe for solicitado. Após a sincronização estar concluída, regressará a esta aplicação.";
+"SyncWithBrowserDescriptionLong" = "Para ligar a %1$@, sincronize o seu navegador predefinido com a app móvel Multipass. Quando o navegador abrir, conclua a sessão, se lhe for solicitado. Após a sincronização estar concluída, regressará a esta aplicação.";
 "SyncWithBitwardenApp" = "Sincronizar com a app Bitwarden";
 "SyncWithBrowser" = "Sincronizar com o navegador";
 "SyncWithTheBitwardenApp" = "Sincronizar com a app Bitwarden";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "Selecionar conta";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "Contas";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "A deteção de correspondência de URI controla a forma como o Bitwarden identifica sugestões de preenchimento automático.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "A deteção de correspondência de URI controla a forma como o Multipass identifica sugestões de preenchimento automático.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“Começa com” é uma opção avançada com um risco acrescido de exposição de credenciais.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "A “Expressão regular” é uma opção avançada com um risco acrescido de expor credenciais se for utilizada incorretamente.";
 "StartsWithAdvanced" = "Começa com (avançado)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "Entre em contacto com o seu administrador para recuperar o acesso.";
 "LeaveX" = "Sair de %1$@";
 "YouLeftTheOrganization" = "Saiu da organização";
-"ItemTransferRequiresMainAppDescriptionLong" = "Uma organização está a solicitar a titularidade dos seus itens pessoais. Abra a app principal do Bitwarden para rever e concluir este pedido.";
+"ItemTransferRequiresMainAppDescriptionLong" = "Uma organização está a solicitar a titularidade dos seus itens pessoais. Abra a app principal do Multipass para rever e concluir este pedido.";
 "ThisSettingIsManagedByYourOrganization" = "Esta configuração é gerida pela sua organização.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "A sua organização definiu o tempo limite máximo da sessão para %1$@.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "A sua organização definiu o tempo limite predefinido da sessão como nunca.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock limpo.";
 "SsoCookiesCleared" = "Cookies de SSO limpos";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "O seu pedido foi interrompido porque a app precisou de voltar a autenticar. Por favor, tente novamente.";
-"AutofillWithBitwardenDescriptionLong" = "O Bitwarden pode sugerir as suas palavras-passe e outras credenciais quando inicia sessão em apps e sites.";
+"AutofillWithBitwardenDescriptionLong" = "O Multipass pode sugerir as suas palavras-passe e outras credenciais quando inicia sessão em apps e sites.";
 "LearnMoreAboutAutofill" = "Saiba mais sobre o preenchimento automático";
 "TurnOnNow" = "Ativar agora";
 "AcceptTransfer" = "Aceitar transferência";

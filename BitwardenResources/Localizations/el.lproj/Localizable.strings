@@ -3,7 +3,7 @@
 "AddFolder" = "Προσθήκη φακέλου";
 "AnErrorHasOccurred" = "Παρουσιάστηκε σφάλμα.";
 "Back" = "Πίσω";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Ακύρωση";
 "Copy" = "Αντιγραφή";
 "CopyLicenseNumber" = "Αντιγραφή αριθμού άδειας";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "Οι φράσεις πρόσβασης είναι συχνά πιο εύκολο να τις θυμάστε και να τις πληκτρολογείτε από τυχαίους κωδικούς πρόσβασης. Μπορούν να είναι χρήσιμες όταν χρειάζεται να συνδεθείτε σε λογαριασμούς όπου η αυτόματη συμπλήρωση δεν είναι διαθέσιμη, όπως σε μια υπηρεσία streaming στην τηλεόρασή σας.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "Τα μοναδικά ονόματα χρήστη προσθέτουν ένα επιπλέον επίπεδο ασφάλειας και μπορούν να βοηθήσουν στην αποτροπή των χάκερ από το να βρουν τους λογαριασμούς σας.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "Χρησιμοποιήστε αυτές τις επιλογές για να προσαρμόσετε τον κωδικό πρόσβασής σας ώστε να πληροί τις απαιτήσεις της ιστοσελίδας του λογαριασμού σας.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Αφού αποθηκεύσετε τον νέο κωδικό πρόσβασής σας στο Bitwarden, μην ξεχάσετε να τον ενημερώσετε στην ιστοσελίδα του λογαριασμού σας.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Αφού αποθηκεύσετε τον νέο κωδικό πρόσβασής σας στο Multipass, μην ξεχάσετε να τον ενημερώσετε στην ιστοσελίδα του λογαριασμού σας.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "Πρέπει να προσθέσετε μια διεύθυνση ιστού για να χρησιμοποιήσετε την αυτόματη συμπλήρωση για να αποκτήσετε πρόσβαση σε αυτόν το λογαριασμό.";
 "Username" = "Όνομα χρήστη";
 "ValidationFieldRequired" = "Το πεδίο %1$@ είναι υποχρεωτικό.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "Εκ νέου ενεργοποίηση επέκτασης εφαρμογής";
 "ExtensionAlmostDone" = "Σχεδόν ολοκληρώθηκε!";
 "ExtensionEnable" = "Ενεργοποίηση επέκτασης εφαρμογής";
-"ExtensionInSafari" = "Στο Safari, βρείτε το Bitwarden χρησιμοποιώντας το εικονίδιο κοινής χρήσης (μετακινηθείτε προς τα δεξιά στην κάτω σειρά του μενού).";
+"ExtensionInSafari" = "Στο Safari, βρείτε το Multipass χρησιμοποιώντας το εικονίδιο κοινής χρήσης (μετακινηθείτε προς τα δεξιά στην κάτω σειρά του μενού).";
 "ExtensionInstantAccess" = "Αποκτήστε άμεση πρόσβαση στους κωδικούς σας!";
 "ExtensionReady" = "Είστε έτοιμοι να συνδεθείτε!";
 "ExtensionSetup" = "Οι συνδέσεις σας είναι τώρα εύκολα προσβάσιμες από το Safari, το Chrome και απο άλλες υποστηριζόμενες εφαρμογές.";
-"ExtensionSetup2" = "Στο Safari, βρείτε το Bitwarden χρησιμοποιώντας το εικονίδιο κοινής χρήσης (μετακινηθείτε προς τα δεξιά στην κάτω σειρά του μενού).";
-"ExtensionTapIcon" = "Πατήστε στο εικονίδιο Bitwarden στο μενού για εκκίνηση της επέκτασης.";
-"ExtensionTurnOn" = "Για να ενεργοποιήσετε το Bitwarden στο Safari και σε άλλες εφαρμογές, πατήστε το εικονίδιο «περισσότερα» στην κάτω σειρά του μενού.";
+"ExtensionSetup2" = "Στο Safari, βρείτε το Multipass χρησιμοποιώντας το εικονίδιο κοινής χρήσης (μετακινηθείτε προς τα δεξιά στην κάτω σειρά του μενού).";
+"ExtensionTapIcon" = "Πατήστε στο εικονίδιο Multipass στο μενού για εκκίνηση της επέκτασης.";
+"ExtensionTurnOn" = "Για να ενεργοποιήσετε το Multipass στο Safari και σε άλλες εφαρμογές, πατήστε το εικονίδιο «περισσότερα» στην κάτω σειρά του μενού.";
 "Favorite" = "Αγαπημένο";
 "Fingerprint" = "Δακτυλικό αποτύπωμα";
 "GeneratePassword" = "Παραγωγή κωδικού";
@@ -110,7 +110,7 @@
 "Immediately" = "Άμεσα";
 "VaultTimeoutLogOutConfirmation" = "Η αποσύνδεση θα καταργήσει όλη την πρόσβαση στο vault σας και απαιτεί online έλεγχο ταυτότητας μετά το χρονικό όριο λήξης. Είστε βέβαιοι ότι θέλετε να χρησιμοποιήσετε αυτήν τη ρύθμιση;";
 "LoggingIn" = "Σύνδεση…";
-"LogInToBitwarden" = "Σύνδεση στο Bitwarden";
+"LogInToBitwarden" = "Σύνδεση στο Multipass";
 "MasterPasswordConfirmationValMessage" = "Η επιβεβαίωση του κύριου κωδικού δεν είναι σωστή.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "Ο κύριος κωδικός πρόσβασης είναι ο κωδικός πρόσβασης που χρησιμοποιείτε για να αποκτήσετε πρόσβαση στο θησαυροφυλάκιο σας.";
 "MasterPasswordHint" = "Υπόδειξη κύριου κωδικού πρόσβασης";
@@ -127,7 +127,7 @@
 "PasswordHint" = "Υπόδειξη κωδικού";
 "PasswordHintAlert" = "Σας έχουμε στείλει ένα email με την υπόδειξη του κύριου κωδικού πρόσβασής σας.";
 "PasswordOverrideAlert" = "Είστε βέβαιοι ότι θέλετε να αντικαταστήσετε τον τρέχον κωδικό;";
-"PushNotificationAlert" = "Το Bitwarden διατηρεί το θησαυροφυλάκιό σας αυτόματα συγχρονισμένο χρησιμοποιώντας ειδοποιήσεις push. Για την καλύτερη δυνατή εμπειρία, επιλέξτε «Να επιτρέπεται» στην παρακάτω προτροπή όταν σας ζητηθεί να επιτρέψετε τις ειδοποιήσεις push.";
+"PushNotificationAlert" = "Το Multipass διατηρεί το θησαυροφυλάκιό σας αυτόματα συγχρονισμένο χρησιμοποιώντας ειδοποιήσεις push. Για την καλύτερη δυνατή εμπειρία, επιλέξτε «Να επιτρέπεται» στην παρακάτω προτροπή όταν σας ζητηθεί να επιτρέψετε τις ειδοποιήσεις push.";
 "Security" = "Ασφάλεια";
 "Select" = "Επιλογή";
 "ItemUpdated" = "Το στοιχείο αποθηκεύτηκε";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Ξεκλείδωμα με Optic ID";
 "UnlockWithPIN" = "Ξεκλείδωμα με κωδικό PIN";
 "VerificationCode" = "Κωδικός επαλήθευσης";
-"WebVault" = "Διαδικτυακή κρύπτη Bitwarden";
+"WebVault" = "Διαδικτυακή κρύπτη Multipass";
 "Items" = "Στοιχεία";
 "ExtensionActivated" = "Η επέκταση ενεργοποιήθηκε!";
 "ItemsForUri" = "Στοιχεία για %1$@";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "Τα URL έχουν αποθηκευτεί.";
 "IdentityUrl" = "URL διακομιστή ταυτότητας";
 "SelfHostedEnvironment" = "Αυτο-Φιλοξενούμενο Περιβάλλον";
-"SelfHostedEnvironmentFooter" = "Καθορίστε το URL εγκατάστασης Bitwarden.";
+"SelfHostedEnvironmentFooter" = "Καθορίστε το URL εγκατάστασης Multipass.";
 "ServerUrl" = "URL Διακομιστή";
 "WebVaultUrl" = "URL διακομιστή διαδικτυακής κρύπτης";
 "CustomFields" = "Προσαρμοσμένα πεδία";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "Εμφάνιση εικονιδίων ιστοσελίδας";
 "ShowWebsiteIconsDescription" = "Εμφάνιση μιας αναγνωρίσιμης εικόνας δίπλα σε κάθε σύνδεση.";
 "IconsUrl" = "URL διακομιστή εικονιδίων";
-"AutofillWithBitwarden" = "Αυτόματη συμπλήρωση με Bitwarden";
+"AutofillWithBitwarden" = "Αυτόματη συμπλήρωση με Multipass";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "Συλλογές";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. Πατήστε «Συνθηματικά»";
 "AutofillTurnOn3" = "3. Πατήστε «Αυτοσυμπλήρωση συνθηματικών»";
 "AutofillTurnOn4" = "4. Ενεργοποιήστε την αυτόματη συμπλήρωση";
-"AutofillTurnOn5" = "5. Επιλέξτε «Bitwarden»";
+"AutofillTurnOn5" = "5. Επιλέξτε «Multipass»";
 "PasswordAutofill" = "Αυτόματη συμπλήρωση κωδικού";
-"BitwardenAutofillAlert2" = "Ο ευκολότερος τρόπος για να προσθέσετε νέες συνδέσεις στο θησαυροφυλάκιό σας είναι χρησιμοποιώντας την επέκταση Bitwarden Password AutoFill. Μάθετε περισσότερα σχετικά με τη χρήση της επέκτασης Bitwarden Password AutoFill μεταβαίνοντας στην οθόνη «Ρυθμίσεις».";
+"BitwardenAutofillAlert2" = "Ο ευκολότερος τρόπος για να προσθέσετε νέες συνδέσεις στο θησαυροφυλάκιό σας είναι χρησιμοποιώντας την επέκταση Multipass Password AutoFill. Μάθετε περισσότερα σχετικά με τη χρήση της επέκτασης Multipass Password AutoFill μεταβαίνοντας στην οθόνη «Ρυθμίσεις».";
 "InvalidEmail" = "Μη έγκυρη διεύθυνση email.";
 "InvalidEmailAddresses" = "Μη έγκυρες διευθύνσεις email";
 "NoEmailAddressesEntered" = "Δεν εισήχθησαν διευθύνσεις email";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "Συνέχεια στην πολιτική απορρήτου;";
 "ContinueToAppStore" = "Συνέχεια στο κατάστημα εφαρμογών;";
 "ContinueWithoutSyncing" = "Συνέχεια χωρίς συγχρονισμό";
-"TwoStepLoginDescriptionLong" = "Κάντε τον λογαριασμό σας πιο ασφαλή με τη ρύθμιση δύο βημάτων σύνδεσης στην εφαρμογή διαδικτύου Bitwarden.";
+"TwoStepLoginDescriptionLong" = "Κάντε τον λογαριασμό σας πιο ασφαλή με τη ρύθμιση δύο βημάτων σύνδεσης στην εφαρμογή διαδικτύου Multipass.";
 "YouCanImportDataToYourVaultOnX" = "Μπορείτε να εισαγάγετε δεδομένα στο vault σας στο %1$@.";
 "PrivacyPolicyDescriptionLong" = "Δείτε την πολιτική απορρήτου μας στο bitwarden.com.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Εξερευνήστε περισσότερες δυνατότητες του Bitwarden λογαριασμού σας, στην εφαρμογή διαδικτύου.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Εξερευνήστε περισσότερες δυνατότητες του Multipass λογαριασμού σας, στην εφαρμογή διαδικτύου.";
 "LearnAboutOrganizationsDescriptionLong" = "Το Bitwarden σας επιτρέπει να μοιράζεστε τα στοιχεία της κρύπτης σας με άλλους, χρησιμοποιώντας έναν λογαριασμό οργανισμού. Μάθετε περισσότερα στην ιστοσελίδα bitwarden.com.";
-"RateAppDescriptionLong" = "Βοηθήστε άλλους να μάθουν αν το Bitwarden είναι κατάλληλο για αυτούς. Επισκεφθείτε το κατάστημα εφαρμογών και αφήστε τώρα μια βαθμολογία.";
+"RateAppDescriptionLong" = "Βοηθήστε άλλους να μάθουν αν το Multipass είναι κατάλληλο για αυτούς. Επισκεφθείτε το κατάστημα εφαρμογών και αφήστε τώρα μια βαθμολογία.";
 "CreatedX" = "Δημιουργήθηκε %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "Τα δικαιώματα του οργανισμού σας ενημερώθηκαν, απαιτώντας από εσάς να ορίσετε έναν κύριο κωδικό πρόσβασης.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "Ο οργανισμός σας απαιτεί να ορίσετε έναν κύριο κωδικό πρόσβασης.";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "Μάθετε περισσότερα σχετικά με τη δημιουργία ασφαλών διαπιστευτηρίων σύνδεσης μέσω μιας ξενάγησης.";
 "ExportVaultFilePwProtectInfo" = "Αυτή η εξαγωγή αρχείου θα προστατεύεται με κωδικό πρόσβασης και θα απαιτείται ο κωδικός πρόσβασης του αρχείου για αποκρυπτογράφηση.";
 "IntroCarouselPage1Title" = "Η ασφάλεια σε προτεραιότητα";
-"IntroCarouselPage1Message" = "Αποθηκεύστε συνδέσεις, κάρτες και ταυτότητες στο ασφαλές θησαυροφυλάκιό σας. Το Bitwarden χρησιμοποιεί κρυπτογράφηση από άκρο σε άκρο και μηδενικής γνώσης για να προστατεύσει ό,τι είναι σημαντικό για εσάς.";
+"IntroCarouselPage1Message" = "Αποθηκεύστε συνδέσεις, κάρτες και ταυτότητες στο ασφαλές θησαυροφυλάκιό σας. Το Multipass χρησιμοποιεί κρυπτογράφηση από άκρο σε άκρο και μηδενικής γνώσης για να προστατεύσει ό,τι είναι σημαντικό για εσάς.";
 "IntroCarouselPage2Title" = "Γρήγορη και εύκολη σύνδεση";
 "IntroCarouselPage2Message" = "Ρυθμίστε το βιομετρικό ξεκλείδωμα και την αυτόματη συμπλήρωση για σύνδεση στους λογαριασμούς σας χωρίς να πληκτρολογήσετε ούτε ένα γράμμα.";
 "IntroCarouselPage3Title" = "Αναβαθμίστε τις συνδέσεις σας";
 "IntroCarouselPage3Message" = "Χρησιμοποιήστε τη γεννήτρια για να δημιουργήσετε και να αποθηκεύσετε ισχυρούς, μοναδικούς κωδικούς πρόσβασης για όλους τους λογαριασμούς σας.";
 "IntroCarouselPage4Title" = "Τα δεδομένα σας, όποτε και όπου τα χρειάζεστε";
-"IntroCarouselPage4Message" = "Αποθηκεύστε απεριόριστους κωδικούς πρόσβασης σε απεριόριστες συσκευές με τις εφαρμογές Bitwarden για κινητά, περιηγητές και υπολογιστές.";
+"IntroCarouselPage4Message" = "Αποθηκεύστε απεριόριστους κωδικούς πρόσβασης σε απεριόριστες συσκευές με τις εφαρμογές Multipass για κινητά, περιηγητές και υπολογιστές.";
 "AccountSetup" = "Ρύθμιση λογαριασμού";
 "SetUpUnlock" = "Ρύθμιση ξεκλειδώματος";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "Ρυθμίστε τα βιομετρικά στοιχεία ή επιλέξτε έναν κωδικό PIN για γρήγορη πρόσβαση στο θησαυ/κιο και αυτόματη συμπλήρωση των συνδέσεών σας.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "Κύριος κωδικός πρόσβασης (απαιτείται)";
 "RetypeMasterPasswordRequired" = "Επανεισάγετε τον κύριο κωδικό πρόσβασης (απαιτείται)";
 "RetypeNewMasterPasswordRequired" = "Πληκτρολογήστε ξανά τον νέο κύριο κωδικό πρόσβασης (απαιτείται)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Το Bitwarden δεν μπορεί να ανακτήσει έναν χαμένο ή ξεχασμένο κύριο κωδικό πρόσβασης.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Το Multipass δεν μπορεί να ανακτήσει έναν χαμένο ή ξεχασμένο κύριο κωδικό πρόσβασης.";
 "LearnAboutWaysToPreventAccountLockout" = "Μάθετε άλλους τρόπους για να αποτρέψετε το κλείδωμα λογαριασμού";
 "RestartRegistration" = "Επανεκκίνηση εγγραφής";
 "Expired" = "Έληξε";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Σφάλμα κατά τη σύνδεση με την υπηρεσία Duo. Χρησιμοποιήστε μια διαφορετική μέθοδο σύνδεσης δύο βημάτων ή επικοινωνήστε με την Duo για βοήθεια.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "Δεν ήταν δυνατή η φόρτωση των URL προ-εξουσιοδότησης για να ξεκινήσει η δημιουργία του λογαριασμού.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "Από τις ρυθμίσεις της συσκευής σας, **ενεργοποιήστε την αυτόματη συμπλήρωση κωδικών πρόσβασης και κλειδιών πρόσβασης.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Απενεργοποιήστε την Κλειδοθήκη iCloud** για να ορίσετε το Bitwarden ως την προεπιλεγμένη πηγή αυτόματης συμπλήρωσης.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Ενεργοποιήστε το Bitwarden** για να χρησιμοποιήσετε τους αποθηκευμένους κωδικούς πρόσβασής σας για τη σύνδεση στους λογαριασμούς σας.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Απενεργοποιήστε την Κλειδοθήκη iCloud** για να ορίσετε το Multipass ως την προεπιλεγμένη πηγή αυτόματης συμπλήρωσης.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Ενεργοποιήστε το Multipass** για να χρησιμοποιήσετε τους αποθηκευμένους κωδικούς πρόσβασής σας για τη σύνδεση στους λογαριασμούς σας.";
 "TurnOnAutoFill" = "Ενεργοποίηση αυτόματης συμπλήρωσης";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "Χρησιμοποιήστε την αυτόματη συμπλήρωση για τη σύνδεση σε λογαριασμούς με ένα μόνο πάτημα.";
 "NeedHelpCheckOutAutofillHelp" = "Χρειάζεστε βοήθεια; Δείτε τη **[βοήθεια με την αυτόματη συμπλήρωση](%1$@)**";
 "TurnOnLater" = "Ενεργοποίηση αργότερα";
 "TurnOnAutoFillLaterQuestion" = "Ενεργοποίηση αυτόματης συμπλήρωσης αργότερα;";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "Μπορείτε να επιστρέψετε για να ολοκληρώσετε αυτό το βήμα ανά πάσα στιγμή στις Ρυθμίσεις.";
-"ContinueToBitwarden" = "Συνέχεια στο Bitwarden";
+"ContinueToBitwarden" = "Συνέχεια στο Multipass";
 "BackToSettings" = "Επιστροφή στις ρυθμίσεις";
 "YoureAllSet" = "Όλα έτοιμα!";
-"AutoFillActivatedDescriptionLong" = "Μπορείτε πλέον να χρησιμοποιείτε την αυτόματη συμπλήρωση για να συνδέεστε σε εφαρμογές και ιστοτόπους με τους αποθηκευμένους κωδικούς πρόσβασής σας. Τώρα, μπορείτε να εξερευνήσετε όλα όσα έχει να προσφέρει το Bitwarden.";
+"AutoFillActivatedDescriptionLong" = "Μπορείτε πλέον να χρησιμοποιείτε την αυτόματη συμπλήρωση για να συνδέεστε σε εφαρμογές και ιστοτόπους με τους αποθηκευμένους κωδικούς πρόσβασής σας. Τώρα, μπορείτε να εξερευνήσετε όλα όσα έχει να προσφέρει το Multipass.";
 "GetStarted" = "Έναρξη";
 "Dismiss" = "Απόρριψη";
 "SaveAndProtectYourData" = "Αποθηκεύστε και προστατεύστε τα δεδομένα σας";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "Χρησιμοποιήστε έναν υπολογιστή για την εισαγωγή συνδέσεων από έναν υπάρχοντα διαχειριστή κωδικών πρόσβασης.";
 "ImportLogins" = "Εισαγωγή συνδέσεων";
 "GiveYourVaultAHeadStart" = "Δώστε στη κρύπτη σας ένα πλεονέκτημα";
-"ImportLoginsDescriptionLong" = "Από τον υπολογιστή σας, ακολουθήστε αυτές τις οδηγίες για να εξαγάγετε αποθηκευμένους κωδικούς πρόσβασης από το πρόγραμμα περιήγησης ή άλλο διαχειριστή κωδικών πρόσβασης. Στη συνέχεια, εισαγάγετε τους με ασφάλεια στο Bitwarden.";
+"ImportLoginsDescriptionLong" = "Από τον υπολογιστή σας, ακολουθήστε αυτές τις οδηγίες για να εξαγάγετε αποθηκευμένους κωδικούς πρόσβασης από το πρόγραμμα περιήγησης ή άλλο διαχειριστή κωδικών πρόσβασης. Στη συνέχεια, εισαγάγετε τους με ασφάλεια στο Multipass.";
 "ImportLoginsLater" = "Εισαγωγή συνδέσεων αργότερα";
 "ImportLoginsLaterQuestion" = "Εισαγωγή συνδέσεων αργότερα;";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "Μπορείτε να επιστρέψετε για να ολοκληρώσετε αυτό το βήμα οποιαδήποτε στιγμή στο Θησαυροφυλάκιο, στις Ρυθμίσεις.";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "Θα διαγράψετε αυτό το αρχείο μετά την ολοκλήρωση της εισαγωγής.";
 "NeedHelpCheckOutImportHelp" = "Χρειάζεστε βοήθεια; Δείτε τη **[βοήθεια εισαγωγής](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "Στον υπολογιστή σας, ανοίξτε μια νέα καρτέλα προγράμματος περιήγησης και **μεταβείτε στο %1$@**.";
-"LogInToTheBitwardenWebApp" = "**Συνδεθείτε στην εφαρμογή web του Bitwarden.**";
-"ImportLoginsToBitwarden" = "Εισαγωγή συνδέσεων στο Bitwarden";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Στην πλοήγηση του Bitwarden, **βρείτε την επιλογή Εργαλεία** και **επιλέξτε Εισαγωγή δεδομένων.**";
+"LogInToTheBitwardenWebApp" = "**Συνδεθείτε στην εφαρμογή web του Multipass.**";
+"ImportLoginsToBitwarden" = "Εισαγωγή συνδέσεων στο Multipass";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Στην πλοήγηση του Multipass, **βρείτε την επιλογή Εργαλεία** και **επιλέξτε Εισαγωγή δεδομένων.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "Συμπληρώστε τη φόρμα και **εισάγετε το αποθηκευμένο αρχείο κωδικών πρόσβασής σας.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "**Επιλέξτε Εισαγωγή δεδομένων** στην εφαρμογή web και, στη συνέχεια, **Τέλος** για να ολοκληρώσετε τον συγχρονισμό.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "Για την ασφάλειά σας, φροντίστε να **διαγράψετε το αποθηκευμένο αρχείο κωδικών πρόσβασής σας.**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "Δεν βρέθηκε λογαριασμός. Παρακαλώ συνδεθείτε ξανά αν συνεχίσετε να βλέπετε αυτό το σφάλμα.";
 "ImportError" = "Σφάλμα εισαγωγής";
 "NoLoginsWereImported" = "Δεν εισήχθησαν συνδέσεις";
-"ThisIsNotARecognizedServerDescriptionLong" = "Αυτός δεν είναι αναγνωρισμένος διακομιστής Bitwarden. Μπορεί να χρειαστεί να ελέγξετε με τον πάροχο σας ή να ενημερώσετε τον διακομιστή σας.";
+"ThisIsNotARecognizedServerDescriptionLong" = "Αυτός δεν είναι αναγνωρισμένος διακομιστής Multipass. Μπορεί να χρειαστεί να ελέγξετε με τον πάροχο σας ή να ενημερώσετε τον διακομιστή σας.";
 "LoginsImported" = "Εισήχθησαν συνδέσεις";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "Θυμηθείτε να διαγράψετε το εισαγόμενο αρχείο κωδικών πρόσβασης από τον υπολογιστή σας.";
 "SomethingWentWrong" = "Κάτι πήγε στραβά";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "Ενεργοποιήστε την προσωρινή καταγραφή για να συλλέξετε και να επιθεωρήσετε αρχεία καταγραφής τοπικά. Όταν είναι ενεργοποιημένη, μπορεί να καταγράφονται καταστάσεις εφαρμογής και κλήσεις δικτύου — ποτέ ευαίσθητες πληροφορίες θησαυροφυλακίου.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "Για να ξεκινήσετε, ορίστε μια διάρκεια καταγραφής. Η καταγραφή θα απενεργοποιηθεί αυτόματα μετά από αυτό το διάστημα, δίνοντάς σας χρόνο να καταγράψετε δραστηριότητα κατά την αναπαραγωγή τυχόν προβλημάτων.";
 "LoggingDuration" = "Διάρκεια καταγραφής";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Τα αρχεία καταγραφής θα διαγράφονται αυτόματα μετά από 30 ημέρες. Το Bitwarden μπορεί να έχει πρόσβαση στα δεδομένα καταγραφής σας μόνο όταν τα μοιράζεστε.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Τα αρχεία καταγραφής θα διαγράφονται αυτόματα μετά από 30 ημέρες. Το Multipass μπορεί να έχει πρόσβαση στα δεδομένα καταγραφής σας μόνο όταν τα μοιράζεστε.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "Για λεπτομέρειες σχετικά με το τι καταγράφεται και τι όχι, επισκεφτείτε το **[Κέντρο βοήθειας Bitwarden](%1$@)**.";
 "ShowMore" = "Εμφάνιση περισσότερων";
 "ShowLess" = "Εμφάνιση λιγότερων";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "Παρακαλώ επιβεβαιώστε τον παρακάτω τομέα με τον διαχειριστή του οργανισμού σας.\n\nΤομέας Key Connector:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "Θέλετε πραγματικά να διαγράψετε αυτό το αρχείο καταγραφής;";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "Θέλετε πραγματικά να διαγράψετε όλα τα καταγεγραμμένα αρχεία καταγραφής;";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Αυτός ο λογαριασμός θα διαγραφεί σύντομα. Συνδεθείτε στο %1$@ για να συνεχίσετε να χρησιμοποιείτε το Bitwarden.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Αυτός ο λογαριασμός θα διαγραφεί σύντομα. Συνδεθείτε στο %1$@ για να συνεχίσετε να χρησιμοποιείτε το Multipass.";
 "AppSettings" = "Ρυθμίσεις εφαρμογής";
 "ViewFileSend" = "Προβολή Send αρχείου";
 "ViewTextSend" = "Προβολή Send κειμένου";
@@ -942,7 +942,7 @@
 "LastEdited" = "Τελευταία επεξεργασία: %1$@";
 "PasswordLastUpdated" = "Τελευταία ενημέρωση κωδικού πρόσβασης: %1$@";
 "DecryptionError" = "Σφάλμα αποκρυπτογράφησης";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Το Bitwarden δεν μπόρεσε να αποκρυπτογραφήσει αυτό το αντικείμενο θησαυροφυλακίου. Αντιγράψτε και μοιραστείτε αυτήν την αναφορά σφάλματος με την ομάδα υποστήριξης για να αποφύγετε περαιτέρω απώλεια δεδομένων.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Το Multipass δεν μπόρεσε να αποκρυπτογραφήσει αυτό το αντικείμενο θησαυροφυλακίου. Αντιγράψτε και μοιραστείτε αυτήν την αναφορά σφάλματος με την ομάδα υποστήριξης για να αποφύγετε περαιτέρω απώλεια δεδομένων.";
 "CopyErrorReport" = "Αντιγραφή αναφοράς σφάλματος";
 "ErrorCannotDecrypt" = "[σφάλμα: δεν είναι δυνατή η αποκρυπτογράφηση]";
 "AccountsSyncedFromBitwardenApp" = "Λογαριασμοί που συγχρονίστηκαν από την εφαρμογή Bitwarden";
@@ -1000,7 +1000,7 @@
 "Skip" = "Παράλειψη";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "Αποθηκεύστε όλες τις συνδέσεις σας και συγχρονίστε απευθείας τους κωδικούς επαλήθευσης με το Authenticator.";
-"SyncWithBrowserDescriptionLong" = "Για να συνδεθείτε στο %1$@, συγχρονίστε το προεπιλεγμένο πρόγραμμα περιήγησής σας με την εφαρμογή Bitwarden για κινητά. Όταν ανοίξει το πρόγραμμα περιήγησής σας, ολοκληρώστε τη σύνδεση αν σας ζητηθεί. Μόλις ολοκληρωθεί ο συγχρονισμός, θα επιστρέψετε σε αυτήν την εφαρμογή.";
+"SyncWithBrowserDescriptionLong" = "Για να συνδεθείτε στο %1$@, συγχρονίστε το προεπιλεγμένο πρόγραμμα περιήγησής σας με την εφαρμογή Multipass για κινητά. Όταν ανοίξει το πρόγραμμα περιήγησής σας, ολοκληρώστε τη σύνδεση αν σας ζητηθεί. Μόλις ολοκληρωθεί ο συγχρονισμός, θα επιστρέψετε σε αυτήν την εφαρμογή.";
 "SyncWithBitwardenApp" = "Συγχρονισμός με την εφαρμογή Bitwarden";
 "SyncWithBrowser" = "Συγχρονισμός με πρόγραμμα περιήγησης";
 "SyncWithTheBitwardenApp" = "Συγχρονισμός με την εφαρμογή Bitwarden";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "Επιλογή λογαριασμού";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "Λογαριασμοί";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "Ο έλεγχος αντιστοίχισης URI καθορίζει τον τρόπο με τον οποίο το Bitwarden αναγνωρίζει προτάσεις αυτόματης συμπλήρωσης.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "Ο έλεγχος αντιστοίχισης URI καθορίζει τον τρόπο με τον οποίο το Multipass αναγνωρίζει προτάσεις αυτόματης συμπλήρωσης.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "Το «Ξεκινά με» είναι μια επιλογή για προχωρημένους με αυξημένο κίνδυνο έκθεσης διαπιστευτηρίων.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "Η «Κανονική έκφραση» είναι μια επιλογή για προχωρημένους με αυξημένο κίνδυνο έκθεσης διαπιστευτηρίων αν χρησιμοποιηθεί λανθασμένα.";
 "StartsWithAdvanced" = "Ξεκινά με (για προχωρημένους)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "Επικοινωνήστε με τον διαχειριστή σας για να ανακτήσετε την πρόσβαση.";
 "LeaveX" = "Αποχώρηση από %1$@";
 "YouLeftTheOrganization" = "Αποχωρήσατε από τον οργανισμό";
-"ItemTransferRequiresMainAppDescriptionLong" = "Ένας οργανισμός ζητά την κυριότητα των προσωπικών σας αντικειμένων. Ανοίξτε την κύρια εφαρμογή Bitwarden για να εξετάσετε και να ολοκληρώσετε αυτό το αίτημα.";
+"ItemTransferRequiresMainAppDescriptionLong" = "Ένας οργανισμός ζητά την κυριότητα των προσωπικών σας αντικειμένων. Ανοίξτε την κύρια εφαρμογή Multipass για να εξετάσετε και να ολοκληρώσετε αυτό το αίτημα.";
 "ThisSettingIsManagedByYourOrganization" = "Αυτή η ρύθμιση διαχειρίζεται από τον οργανισμό σας.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "Ο οργανισμός σας έχει ορίσει τον μέγιστο χρόνο λήξης συνεδρίας σε %1$@.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "Ο οργανισμός σας έχει ορίσει τον προεπιλεγμένο χρόνο λήξης συνεδρίας σε ποτέ.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "Το masterPasswordUnlock εκκαθαρίστηκε.";
 "SsoCookiesCleared" = "Τα cookies SSO εκκαθαρίστηκαν";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "Το αίτημά σας διακόπηκε επειδή η εφαρμογή χρειάστηκε να επαναληφθεί ο έλεγχος ταυτότητας. Παρακαλώ δοκιμάστε ξανά.";
-"AutofillWithBitwardenDescriptionLong" = "Το Bitwarden μπορεί να προτείνει τους κωδικούς πρόσβασής σας και άλλα διαπιστευτήρια όταν συνδέεστε σε εφαρμογές και ιστοσελίδες.";
+"AutofillWithBitwardenDescriptionLong" = "Το Multipass μπορεί να προτείνει τους κωδικούς πρόσβασής σας και άλλα διαπιστευτήρια όταν συνδέεστε σε εφαρμογές και ιστοσελίδες.";
 "LearnMoreAboutAutofill" = "Μάθετε περισσότερα για την αυτόματη συμπλήρωση";
 "TurnOnNow" = "Ενεργοποίηση τώρα";
 "AcceptTransfer" = "Αποδοχή μεταφοράς";

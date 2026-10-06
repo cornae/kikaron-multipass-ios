@@ -3,7 +3,7 @@
 "AddFolder" = "Додај фасциклу";
 "AnErrorHasOccurred" = "Појавила се грешка.";
 "Back" = "Назад";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Откажи";
 "Copy" = "Копирај";
 "CopyLicenseNumber" = "Копирати број дозволе";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "Лозинке-фразе су често лакше за памћење и уношење од случајних лозинки. Могу бити корисне када морате да се пријавите на налоге где аутоматско попуњавање није доступно, као што је сервис за стриминг на вашем ТВ-у.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "Јединствена корисничка имена чине додатни слој заштите и помажу у спречавању хакера од проналажења ваших налога.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "Користите ове опције да прилагодите своју лозинку према захтевима веб сајта вашег налога.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Након што сачувате вашу нову лозинку у Bitwarden, не заборавите да је обновите на налогу веб сајта.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Након што сачувате вашу нову лозинку у Multipass, не заборавите да је обновите на налогу веб сајта.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "Морате додати веб адресу да би сте користили аутоматско попуњавање за приступ овом налогу.";
 "Username" = "Корисничко име";
 "ValidationFieldRequired" = "Поље %1$@ је обавезно.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "Поново омогући додатак апликације";
 "ExtensionAlmostDone" = "Скоро готово!";
 "ExtensionEnable" = "Омогући додатак апликације";
-"ExtensionInSafari" = "У Safari, нађите Bitwarden помоћу иконе за дељење (савет: померите се удесно у доњем реду менија).";
+"ExtensionInSafari" = "У Safari, нађите Multipass помоћу иконе за дељење (савет: померите се удесно у доњем реду менија).";
 "ExtensionInstantAccess" = "Имајте инстантни приступ Вашим лозинкама!";
 "ExtensionReady" = "Спремни сте за пријављивање!";
 "ExtensionSetup" = "Вашим пријавама је сада лако доступити преко Safari, Chrome и других подржаних апликација.";
-"ExtensionSetup2" = "У Safari и Chrome, нађите Bitwarden помоћу иконе за дељење (савет: померите се удесно у доњем реду менија дељења).";
-"ExtensionTapIcon" = "Додирните икону Bitwarden у менију да бисте покренули додатак.";
-"ExtensionTurnOn" = "Да би омогућили Bitwarden у Safari и другим апликацијама, додирните икону „више“ у доњем реду менија.";
+"ExtensionSetup2" = "У Safari и Chrome, нађите Multipass помоћу иконе за дељење (савет: померите се удесно у доњем реду менија дељења).";
+"ExtensionTapIcon" = "Додирните икону Multipass у менију да бисте покренули додатак.";
+"ExtensionTurnOn" = "Да би омогућили Multipass у Safari и другим апликацијама, додирните икону „више“ у доњем реду менија.";
 "Favorite" = "Омиљено";
 "Fingerprint" = "Отисак прста";
 "GeneratePassword" = "Генерисање лозинке";
@@ -110,7 +110,7 @@
 "Immediately" = "Одмах";
 "VaultTimeoutLogOutConfirmation" = "Одјава ће уклонити сваки приступ вашем сефу и захтева мрежну потврду идентитета након истека тајмаута. Да ли сте сигурни да желите да користите ову поставку?";
 "LoggingIn" = "Пријављивање…";
-"LogInToBitwarden" = "Пријави се на Bitwarden";
+"LogInToBitwarden" = "Пријави се на Multipass";
 "MasterPasswordConfirmationValMessage" = "Потврђена лозинка није тачна.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "Главна лозинка је лозинка коју користите за приступ вашем трезору.";
 "MasterPasswordHint" = "Помоћ за главну лозинку";
@@ -127,7 +127,7 @@
 "PasswordHint" = "Помоћ за лозинку";
 "PasswordHintAlert" = "Послали смо Вам поруку са саветом главне лозинке.";
 "PasswordOverrideAlert" = "Сигурно преписати тренутну лозинку?";
-"PushNotificationAlert" = "Bitwarden чува ваш сеф аутоматски синхронизованим помоћу обавештења. За најбоље могуће искуство, изаберите „Дозволи“ на следећем упозорењу када се затражи да омогућите обавештења.";
+"PushNotificationAlert" = "Multipass чува ваш сеф аутоматски синхронизованим помоћу обавештења. За најбоље могуће искуство, изаберите „Дозволи“ на следећем упозорењу када се затражи да омогућите обавештења.";
 "Security" = "Сигурност";
 "Select" = "Изабери";
 "ItemUpdated" = "Ставка ажурирана.";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Откључај са Optic ID";
 "UnlockWithPIN" = "Откључај са ПИН кодом";
 "VerificationCode" = "Верификациони код";
-"WebVault" = "Bitwarden Интернет Сеф";
+"WebVault" = "Multipass Интернет Сеф";
 "Items" = "Ставке";
 "ExtensionActivated" = "Додатак активиран!";
 "ItemsForUri" = "Ставке за %1$@";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "УРЛ адресе окружења су сачуване.";
 "IdentityUrl" = "УРЛ сервера идентитета";
 "SelfHostedEnvironment" = "Самостално окружење";
-"SelfHostedEnvironmentFooter" = "Наведите основни УРЛ вашег локалног инсталиране Bitwarden инсталације.";
+"SelfHostedEnvironmentFooter" = "Наведите основни УРЛ вашег локалног инсталиране Multipass инсталације.";
 "ServerUrl" = "УРЛ Сервера";
 "WebVaultUrl" = "УРЛ сервера Сефа";
 "CustomFields" = "Прилагођена Поља";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "Прикажи иконе сајтова";
 "ShowWebsiteIconsDescription" = "Прикажи препознатљиву слику поред сваке ставке за пријаву.";
 "IconsUrl" = "УРЛ сервера иконице";
-"AutofillWithBitwarden" = "Аутоматски попуни са Bitwarden-ом";
+"AutofillWithBitwarden" = "Аутоматски попуни са Multipass-ом";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "Колекције";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. Стисните „Лозинке“";
 "AutofillTurnOn3" = "3. Стисните „Ауто-Пуњење Лозинке“";
 "AutofillTurnOn4" = "4. Омогућите ауто-пуњење";
-"AutofillTurnOn5" = "5. Одаберите „Bitwarden“";
+"AutofillTurnOn5" = "5. Одаберите „Multipass“";
 "PasswordAutofill" = "Ауто-пуњење лозинке";
-"BitwardenAutofillAlert2" = "Најлакши начин за додавање нових пријава у свој сеф је користећи додатка Bitwarden. Сазнајте више о коришћењу додатка Bitwarden преко екрана „Подешавања“.";
+"BitwardenAutofillAlert2" = "Најлакши начин за додавање нових пријава у свој сеф је користећи додатка Multipass. Сазнајте више о коришћењу додатка Multipass преко екрана „Подешавања“.";
 "InvalidEmail" = "Неисправна адреса Е-поште.";
 "InvalidEmailAddresses" = "Nevažeće adrese e-pošte";
 "NoEmailAddressesEntered" = "Nisu unete adrese e-pošte";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "Желите ли да наставите са политиком приватности?";
 "ContinueToAppStore" = "Настави на радњу апликације?";
 "ContinueWithoutSyncing" = "Настави без синхронизације";
-"TwoStepLoginDescriptionLong" = "Учините свој налог сигурнијим подешавањем пријаве у два корака у Bitwarden веб апликацији.";
+"TwoStepLoginDescriptionLong" = "Учините свој налог сигурнијим подешавањем пријаве у два корака у Multipass веб апликацији.";
 "YouCanImportDataToYourVaultOnX" = "Можете да увезете податке у свој сеф на %1$@.";
 "PrivacyPolicyDescriptionLong" = "Погледајте нашу политику приватности на bitwarden.com.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Истражите више својстава на Bitwarden налогу на веб апликаији.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Истражите више својстава на Multipass налогу на веб апликаији.";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden вам омогућава да делите ставке сефа са другима користећи организацију. Сазнајте више на веб локацију bitwarden.com.";
-"RateAppDescriptionLong" = "Помозите другима да сазнају да ли је Bitwarden прави за њих. Посетите продавницу апликација и оставите оцену.";
+"RateAppDescriptionLong" = "Помозите другима да сазнају да ли је Multipass прави за њих. Посетите продавницу апликација и оставите оцену.";
 "CreatedX" = "Креирано %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "Дозволе за вашу организацију су ажуриране, што захтева да поставите главну лозинку.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "Ваша организација захтева да поставите главну лозинку.";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "Сазнај више о генерисању безбедних акредитива за пријаву кроз вођену туру.";
 "ExportVaultFilePwProtectInfo" = "Овај извоз ће бити заштићен лозинком и захтеваће лозинку датотеке за дешифровање.";
 "IntroCarouselPage1Title" = "Сигурност, приоритет";
-"IntroCarouselPage1Message" = "Сачувајте пријаве, картице и идентитете у свој безбедни сеф. Bitwarden користи шифровање од почетка-до-краја да заштити оно што вам је важно.";
+"IntroCarouselPage1Message" = "Сачувајте пријаве, картице и идентитете у свој безбедни сеф. Multipass користи шифровање од почетка-до-краја да заштити оно што вам је важно.";
 "IntroCarouselPage2Title" = "Брза и лака пријава";
 "IntroCarouselPage2Message" = "Подесите биометријско откључавање и аутоматско попуњавање да бисте се пријавили на своје налоге без уноса ниједног слова.";
 "IntroCarouselPage3Title" = "Подигните ниво својих пријава";
 "IntroCarouselPage3Message" = "Користите генератор да креирате и сачувате јаке, јединствене лозинке за све ваше налоге.";
 "IntroCarouselPage4Title" = "Ваши подаци, када и где су вам потребни";
-"IntroCarouselPage4Message" = "Сачувајте неограничене лозинке на неограниченим уређајима помоћу Bitwarden мобилних апликација, претраживача и десктоп апликација.";
+"IntroCarouselPage4Message" = "Сачувајте неограничене лозинке на неограниченим уређајима помоћу Multipass мобилних апликација, претраживача и десктоп апликација.";
 "AccountSetup" = "Подешавање налога";
 "SetUpUnlock" = "Подесите откључавање";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "Подесите биометрију или изаберите ПИН кôд да бисте брзо приступили свом сефу и аутоматски попунили своје пријаве.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "Главна лозинка (неопходно)";
 "RetypeMasterPasswordRequired" = "Поново унети главну лозинку (неопходно)";
 "RetypeNewMasterPasswordRequired" = "Поново унети нову главну лозинку (неопходно)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden не може да рисетује изгубљену или заборављену главну лозинку.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass не може да рисетује изгубљену или заборављену главну лозинку.";
 "LearnAboutWaysToPreventAccountLockout" = "Сазнајте више о начинима да спречите закључавање налога";
 "RestartRegistration" = "Поново покрените регистрацију";
 "Expired" = "Истекло";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Грешка при повезивању са услугом Duo. Користите други метод пријаве у два корака или контактирајте Duo за помоћ.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "Адресе предауторизације нису могле бити учитане да би се започело прављење налога.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "У подешавањима вашег уређаја, **укључите аутоматско попуњавање лозинки и фраза.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Искључите iCloud Keychain** да би сте Bitwarden учинили подразумеваним извором аутоматске попуне.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Укључите Bitwarden** да би сте користили ваше сачуване лозинке за пријављивање са вашим налозима.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Искључите iCloud Keychain** да би сте Multipass учинили подразумеваним извором аутоматске попуне.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Укључите Multipass** да би сте користили ваше сачуване лозинке за пријављивање са вашим налозима.";
 "TurnOnAutoFill" = "Омогућите ауто-пуњење";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "Користите ауто-пуњење да бисте се пријавили на своје налоге једним додиром.";
 "NeedHelpCheckOutAutofillHelp" = "Треба помоћ? Проверите **[помоћ ауто-пуњења](%1$@)**";
 "TurnOnLater" = "Упалити касније";
 "TurnOnAutoFillLaterQuestion" = "Упалити ауто-пуњење касније?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "Можете се вратити да бисте завршили овај корак у било ком тренутку у подешавањима.";
-"ContinueToBitwarden" = "Настави на Bitwarden";
+"ContinueToBitwarden" = "Настави на Multipass";
 "BackToSettings" = "Натраг на подешавања";
 "YoureAllSet" = "Спремни сте!";
-"AutoFillActivatedDescriptionLong" = "Сада можете да користите аутоматско попуњавање за пријављивање у апликације и веб локације помоћу сачуваних лозинки. Сада можете истражити све остало што Bitwarden може да понуди.";
+"AutoFillActivatedDescriptionLong" = "Сада можете да користите аутоматско попуњавање за пријављивање у апликације и веб локације помоћу сачуваних лозинки. Сада можете истражити све остало што Multipass може да понуди.";
 "GetStarted" = "Почните";
 "Dismiss" = "Одбаци";
 "SaveAndProtectYourData" = "Сачувај и заштити своје податке";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "Користите рачунар за увоз пријава из постојећег менаџера лозинки.";
 "ImportLogins" = "Увезите пријаве";
 "GiveYourVaultAHeadStart" = "Дајте предност свом сефу";
-"ImportLoginsDescriptionLong" = "Са рачунара пратите ова упутства да бисте извезли сачуване лозинке из прегледача или другог менаџера лозинки. Затим их безбедно увезите у Bitwarden.";
+"ImportLoginsDescriptionLong" = "Са рачунара пратите ова упутства да бисте извезли сачуване лозинке из прегледача или другог менаџера лозинки. Затим их безбедно увезите у Multipass.";
 "ImportLoginsLater" = "Увезите пријаве касније";
 "ImportLoginsLaterQuestion" = "Желите ли касније да увезете пријаве?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "Можете се вратити да бисте завршили овај корак у било ком тренутку у подешавањима сефа.";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "Ову датотеку ћете избрисати након што се увоз заврши.";
 "NeedHelpCheckOutImportHelp" = "Треба помоћ? Проверите **[помоћ увоза](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "На рачунару отворите нову картицу прегледача и **идите на %1$@**";
-"LogInToTheBitwardenWebApp" = "**Пријавите се на веб-апликацију Bitwarden.**";
-"ImportLoginsToBitwarden" = "Увезите пријаве у Bitwarden";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "У Bitwarden навигацији **пронађите опцију Алатке** и **изаберите Увези податке.**";
+"LogInToTheBitwardenWebApp" = "**Пријавите се на веб-апликацију Multipass.**";
+"ImportLoginsToBitwarden" = "Увезите пријаве у Multipass";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "У Multipass навигацији **пронађите опцију Алатке** и **изаберите Увези податке.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "Попуните образац и **увезите своју сачувану датотеку лозинке.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "**Изаберите Увези податке** у веб апликацији, а затим **Готово** да бисте завршили синхронизацију.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "Ради ваше безбедности, обавезно **избришите своју сачувану датотеку лозинке.**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "Није пронађен ниједан налог. Пријавите се поново ако и даље видите ову грешку.";
 "ImportError" = "Грешка при увозу";
 "NoLoginsWereImported" = "Нису увезене никакве пријаве";
-"ThisIsNotARecognizedServerDescriptionLong" = "Ово није признати Bitwarden сервер. Можда ћете морати да проверите код свог провајдера или да ажурирате сервер.";
+"ThisIsNotARecognizedServerDescriptionLong" = "Ово није признати Multipass сервер. Можда ћете морати да проверите код свог провајдера или да ажурирате сервер.";
 "LoginsImported" = "Увезене пријаве";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "Не заборавите да избришете увезену датотеку лозинке са свог рачунара.";
 "SomethingWentWrong" = "Нешто није у реду";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "Омогућите привремене евидентирање за прикупљање и локалног прегледавања извештаја. Када је омогућено, статуси апликације и мрежни позиви могу се пријавити - никада осетљиве информације о сефу.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "Да бисте започели, подесите трајање бележења. Бележење ће се аутоматски искључити после овог периода, дајући вам времена да снимите активност приликом репродуковања било каквих проблема.";
 "LoggingDuration" = "Трајање извештаја";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Записи ће бити аутоматски обрисани после 30 дана. Bitwarden може да приступи вашим подацима записа само када их поделите.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Записи ће бити аутоматски обрисани после 30 дана. Multipass може да приступи вашим подацима записа само када их поделите.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "За детаље о томе шта се бележи, а шта не, посетите **[Цentar за помоћ Bitwarden-а](%1$@)**.";
 "ShowMore" = "Прикажи више";
 "ShowLess" = "Прикажи мање";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "Молимо потврдите домен у наставку са администратором организације.\n\nДомен конектор кључа:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "Да ли заиста желите да избришете овај извештај?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "Да ли заиста желите да избришете све извештаје?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Овај рачун ће ускоро бити избрисан. Пријавити се на %1$@ да анставите са употребом Bitwarden-а.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Овај рачун ће ускоро бити избрисан. Пријавити се на %1$@ да анставите са употребом Multipass-а.";
 "AppSettings" = "Подешавања апликације";
 "ViewFileSend" = "Преглед датотеке Send";
 "ViewTextSend" = "Преглед текст Send";
@@ -942,7 +942,7 @@
 "LastEdited" = "Задња промена: %1$@";
 "PasswordLastUpdated" = "Задње ажурирање лозинке: %1$@";
 "DecryptionError" = "Грешка при декрипцији";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden није могао да дешифрира овај сеф. Копирајте и делите овај извештај о грешци са успехом купца да бисте избегли додатни губитак података.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass није могао да дешифрира овај сеф. Копирајте и делите овај извештај о грешци са успехом купца да бисте избегли додатни губитак података.";
 "CopyErrorReport" = "Копирај извештај о грешци";
 "ErrorCannotDecrypt" = "[грешка: неуспешна декрипција]";
 "AccountsSyncedFromBitwardenApp" = "Налози су синхронизовани из апликације Bitwarden";
@@ -1000,7 +1000,7 @@
 "Skip" = "Прескочи";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "Чувајте све своје пријаве и синхронизујте верификационе кôдове директно са апликацијом Authenticator.";
-"SyncWithBrowserDescriptionLong" = "Да бисте се повезали на %1$@, синхронизујте свој подразумевани прегледач са Bitwarden мобилном апликацијом. Када се ваш прегледач отвори, довршите пријављивање ако будете затражени. Након што се синхронизација заврши, бићете враћени у ову апликацију.";
+"SyncWithBrowserDescriptionLong" = "Да бисте се повезали на %1$@, синхронизујте свој подразумевани прегледач са Multipass мобилном апликацијом. Када се ваш прегледач отвори, довршите пријављивање ако будете затражени. Након што се синхронизација заврши, бићете враћени у ову апликацију.";
 "SyncWithBitwardenApp" = "Синхронизујте са апликацијом Bitwarden";
 "SyncWithBrowser" = "Sinhronizuj sa pregledačem";
 "SyncWithTheBitwardenApp" = "Синхронизујте са апликацијом Bitwarden";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "Изабери налог";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "Налози";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "Детекција подударања URI-ја контролише на који Bitwarden идентификује предлоге за ауто-попуњавање.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "Детекција подударања URI-ја контролише на који Multipass идентификује предлоге за ауто-попуњавање.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "„Почиње са“ је напредна опција са повећаним ризиком од откривања акредитива.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "„Регуларни израз“ је напредна опција са повећаним ризиком од откривања акредитива ако се неправилно користе.";
 "StartsWithAdvanced" = "Почиње са (напредно)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "Контактирајте свог администратора да бисте поново добили приступ.";
 "LeaveX" = "Напустити %1$@";
 "YouLeftTheOrganization" = "Напустили сте организацију";
-"ItemTransferRequiresMainAppDescriptionLong" = "Једна организација захтева власништво над вашим личним ставкама. Отворите главну Bitwarden апликацију да бисте прегледали и довршили овај захтев.";
+"ItemTransferRequiresMainAppDescriptionLong" = "Једна организација захтева власништво над вашим личним ставкама. Отворите главну Multipass апликацију да бисте прегледали и довршили овај захтев.";
 "ThisSettingIsManagedByYourOrganization" = "Овим подешавањем управља ваша организација.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "Ваша организација је поставила максимално временско ограничење сесије на %1$@.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "Ваша организација је поставила подразумевано временско ограничење сесије на никада.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock је обрисан.";
 "SsoCookiesCleared" = "SSO колачићи обрисани";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "Ваш захтев је прекинут јер је апликација морала поново да се аутентификује. Молимо вас, покушајте поново.";
-"AutofillWithBitwardenDescriptionLong" = "Bitwarden може да предлаже ваше лозинке и друге акредитиве када се пријављујете у апликације и на веб-сајтове.";
+"AutofillWithBitwardenDescriptionLong" = "Multipass може да предлаже ваше лозинке и друге акредитиве када се пријављујете у апликације и на веб-сајтове.";
 "LearnMoreAboutAutofill" = "Сазнајте више о ауто-пуњење";
 "TurnOnNow" = "Укључи одмах";
 "AcceptTransfer" = "Прихвати трансфер";

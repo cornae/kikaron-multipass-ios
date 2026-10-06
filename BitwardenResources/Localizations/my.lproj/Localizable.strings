@@ -3,7 +3,7 @@
 "AddFolder" = "ဖိုလ်ဒါထည့်ပါ";
 "AnErrorHasOccurred" = "အမှားတစ်ခု ဖြစ်ပွားခဲ့ပါသည်။";
 "Back" = "နောက်သို့";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "ပယ်ဖျက်ပါ";
 "Copy" = "ကူးယူပါ";
 "CopyLicenseNumber" = "လိုင်စင်နံပါတ် ကူးယူပါ";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "စကားစုများသည် ကျပန်းစကားဝှက်များထက် မှတ်မိရန်နှင့် ရိုက်ရန် မကြာခဏ ပိုမိုလွယ်ကူပါသည်။ အလိုအလျောက်ဖြည့်ခြင်း မရရှိနိုင်သော အကောင့်များသို့ ဝင်ရောက်ရန် လိုအပ်သည့်အခါ ၎င်းတို့သည် အထောက်အကူဖြစ်နိုင်သည်၊ ဥပမာ သင့် TV ရှိ စတရီးမင်းဝန်ဆောင်မှုတစ်ခုကဲ့သို့ဖြစ်သည်။";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "ထူးခြားသော အသုံးပြုသူအမည်များသည် လုံခြုံရေးအလွှာတစ်ခု ထပ်ဆောင်းပေးပြီး ဟက်ကာများ သင့်အကောင့်များကို ရှာဖွေတွေ့ရှိခြင်းမှ ကာကွယ်နိုင်ပါသည်။";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "သင့်အကောင့် ဝဘ်ဆိုက်၏ လိုအပ်ချက်များနှင့် ကိုက်ညီစေရန် သင့်စကားဝှက်ကို ချိန်ညှိရန် ဤရွေးချယ်မှုများကို သုံးပါ။";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "သင်၏ စကားဝှက်အသစ်ကို Bitwarden တွင် သိမ်းဆည်းပြီးနောက်၊ ၎င်းကို သင့်အကောင့် ဝဘ်ဆိုက်တွင် အပ်ဒိတ်လုပ်ရန် မမေ့ပါနှင့်။";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "သင်၏ စကားဝှက်အသစ်ကို Multipass တွင် သိမ်းဆည်းပြီးနောက်၊ ၎င်းကို သင့်အကောင့် ဝဘ်ဆိုက်တွင် အပ်ဒိတ်လုပ်ရန် မမေ့ပါနှင့်။";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "ဤအကောင့်သို့ အလိုအလျောက်ဖြည့်ခြင်းကို သုံးရန် သင်သည် ဝဘ်လိပ်စာတစ်ခု ထည့်ရပါမည်။";
 "Username" = "အသုံးပြုသူအမည်";
 "ValidationFieldRequired" = "%1$@ အကွက်သည် လိုအပ်သည်။";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "အက်ပ် တိုးချဲ့မှုကို ပြန်လည်အသက်သွင်းပါ";
 "ExtensionAlmostDone" = "ပြီးလုနီးပါး!";
 "ExtensionEnable" = "အက်ပ် တိုးချဲ့မှုကို အသက်သွင်းပါ";
-"ExtensionInSafari" = "Safari တွင်၊ မျှဝေခြင်းအိုင်ကွန်ကို သုံး၍ Bitwarden ကို ရှာပါ (အကြံပြုချက်- မီနူး၏ အောက်ဆုံးတန်းတွင် ညာဘက်သို့ လှိမ့်ပါ)။";
+"ExtensionInSafari" = "Safari တွင်၊ မျှဝေခြင်းအိုင်ကွန်ကို သုံး၍ Multipass ကို ရှာပါ (အကြံပြုချက်- မီနူး၏ အောက်ဆုံးတန်းတွင် ညာဘက်သို့ လှိမ့်ပါ)။";
 "ExtensionInstantAccess" = "သင့်စကားဝှက်များကို ချက်ချင်းရယူပါ!";
 "ExtensionReady" = "သင်ဝင်ရောက်ရန် အသင့်ဖြစ်ပါပြီ!";
 "ExtensionSetup" = "သင့်ဝင်ရောက်မှုများကို Safari၊ Chrome နှင့် အခြားသော ပံ့ပိုးထားသည့် အက်ပ်များမှ အလွယ်တကူ ဝင်ရောက်နိုင်ပါပြီ။";
-"ExtensionSetup2" = "Safari နှင့် Chrome တွင်၊ မျှဝေခြင်းအိုင်ကွန်ကို သုံး၍ Bitwarden ကို ရှာပါ (အကြံပြုချက်- မျှဝေခြင်းမီနူး၏ အောက်ဆုံးတန်းတွင် ညာဘက်သို့ လှိမ့်ပါ)။";
-"ExtensionTapIcon" = "တိုးချဲ့မှုကို စတင်ရန် မီနူးရှိ Bitwarden အိုင်ကွန်ကို နှိပ်ပါ။";
-"ExtensionTurnOn" = "Safari နှင့် အခြားအက်ပ်များတွင် Bitwarden ကို ဖွင့်ရန်၊ မီနူး၏ အောက်ဆုံးတန်းရှိ “နောက်ထပ်” အိုင်ကွန်ကို နှိပ်ပါ။";
+"ExtensionSetup2" = "Safari နှင့် Chrome တွင်၊ မျှဝေခြင်းအိုင်ကွန်ကို သုံး၍ Multipass ကို ရှာပါ (အကြံပြုချက်- မျှဝေခြင်းမီနူး၏ အောက်ဆုံးတန်းတွင် ညာဘက်သို့ လှိမ့်ပါ)။";
+"ExtensionTapIcon" = "တိုးချဲ့မှုကို စတင်ရန် မီနူးရှိ Multipass အိုင်ကွန်ကို နှိပ်ပါ။";
+"ExtensionTurnOn" = "Safari နှင့် အခြားအက်ပ်များတွင် Multipass ကို ဖွင့်ရန်၊ မီနူး၏ အောက်ဆုံးတန်းရှိ “နောက်ထပ်” အိုင်ကွန်ကို နှိပ်ပါ။";
 "Favorite" = "အကြိုက်";
 "Fingerprint" = "လက်ဗွေ";
 "GeneratePassword" = "စကားဝှက် ဖန်တီးပါ";
@@ -110,7 +110,7 @@
 "Immediately" = "ချက်ချင်း";
 "VaultTimeoutLogOutConfirmation" = "ထွက်ခြင်းသည် သင့်ဗော်လ်တ်သို့ ဝင်ရောက်ခွင့်အားလုံးကို ဖယ်ရှားပြီး အချိန်ကုန်ဆုံးပြီးနောက် အွန်လိုင်းအတည်ပြုခြင်း လိုအပ်ပါသည်။ ဤဆက်တင်ကို သုံးရန် သေချာပါသလား?";
 "LoggingIn" = "ဝင်ရောက်နေသည်…";
-"LogInToBitwarden" = "Bitwarden သို့ ဝင်ရောက်ပါ";
+"LogInToBitwarden" = "Multipass သို့ ဝင်ရောက်ပါ";
 "MasterPasswordConfirmationValMessage" = "စကားဝှက် အတည်ပြုချက် မမှန်ကန်ပါ။";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "မာစတာစကားဝှက်သည် သင့်ဗော်လ်တ်သို့ ဝင်ရောက်ရန် သင်သုံးသော စကားဝှက်ဖြစ်သည်။";
 "MasterPasswordHint" = "မာစတာစကားဝှက် အရိပ်အမြွက်";
@@ -127,7 +127,7 @@
 "PasswordHint" = "စကားဝှက် အရိပ်အမြွက်";
 "PasswordHintAlert" = "သင့် မာစတာစကားဝှက် အရိပ်အမြွက်ပါသော အီးမေးလ်ကို ကျွန်ုပ်တို့ ပေးပို့ထားပါသည်။";
 "PasswordOverrideAlert" = "လက်ရှိ စကားဝှက်ကို ပြန်ရေးရန် သေချာပါသလား?";
-"PushNotificationAlert" = "Bitwarden သည် တွန်းအသိပေးချက်များကို သုံး၍ သင့်ဗော်လ်တ်ကို အလိုအလျောက် ထပ်တူပြုပေးပါသည်။ အကောင်းဆုံး အတွေ့အကြုံအတွက်၊ တွန်းအသိပေးချက်များကို ခွင့်ပြုရန် တောင်းဆိုသည့်အခါ အောက်ပါ မက်ဆေ့ချ်တွင် “ခွင့်ပြုပါ” ကို ရွေးချယ်ပါ။";
+"PushNotificationAlert" = "Multipass သည် တွန်းအသိပေးချက်များကို သုံး၍ သင့်ဗော်လ်တ်ကို အလိုအလျောက် ထပ်တူပြုပေးပါသည်။ အကောင်းဆုံး အတွေ့အကြုံအတွက်၊ တွန်းအသိပေးချက်များကို ခွင့်ပြုရန် တောင်းဆိုသည့်အခါ အောက်ပါ မက်ဆေ့ချ်တွင် “ခွင့်ပြုပါ” ကို ရွေးချယ်ပါ။";
 "Security" = "လုံခြုံရေး";
 "Select" = "ရွေးပါ";
 "ItemUpdated" = "ပစ္စည်း သိမ်းဆည်းပြီးပါပြီ";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Optic ID ဖြင့် သော့ဖွင့်ပါ";
 "UnlockWithPIN" = "PIN ကုဒ်ဖြင့် သော့ဖွင့်ပါ";
 "VerificationCode" = "အတည်ပြုကုဒ်";
-"WebVault" = "Bitwarden ဝဘ်ဗော်လ်တ်";
+"WebVault" = "Multipass ဝဘ်ဗော်လ်တ်";
 "Items" = "ပစ္စည်းများ";
 "ExtensionActivated" = "တိုးချဲ့မှု အသက်သွင်းပြီးပါပြီ!";
 "ItemsForUri" = "%1$@ အတွက် ပစ္စည်းများ";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "ပတ်ဝန်းကျင် URL များ သိမ်းဆည်းပြီးပါပြီ။";
 "IdentityUrl" = "Identity ဆာဗာ URL";
 "SelfHostedEnvironment" = "ကိုယ်တိုင် လက်ခံကျင်းပသော ပတ်ဝန်းကျင်";
-"SelfHostedEnvironmentFooter" = "သင့် on-premise လက်ခံကျင်းပထားသော Bitwarden တပ်ဆင်မှု၏ အခြေခံ URL ကို သတ်မှတ်ပါ။";
+"SelfHostedEnvironmentFooter" = "သင့် on-premise လက်ခံကျင်းပထားသော Multipass တပ်ဆင်မှု၏ အခြေခံ URL ကို သတ်မှတ်ပါ။";
 "ServerUrl" = "ဆာဗာ URL";
 "WebVaultUrl" = "ဝဘ်ဗော်လ်တ် ဆာဗာ URL";
 "CustomFields" = "စိတ်ကြိုက် အကွက်များ";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "ဝဘ်ဆိုက်အိုင်ကွန်များ ပြပါ";
 "ShowWebsiteIconsDescription" = "ဝင်ရောက်မှုတစ်ခုစီဘေးတွင် မှတ်မိနိုင်သော ပုံကို ပြပါ။";
 "IconsUrl" = "အိုင်ကွန်ဆာဗာ URL";
-"AutofillWithBitwarden" = "Bitwarden ဖြင့် အလိုအလျောက်ဖြည့်ပါ";
+"AutofillWithBitwarden" = "Multipass ဖြင့် အလိုအလျောက်ဖြည့်ပါ";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "စုစည်းမှုများ";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "၂။ “စကားဝှက်များ” ကို နှိပ်ပါ";
 "AutofillTurnOn3" = "၃။ “AutoFill Passwords” ကို နှိပ်ပါ";
 "AutofillTurnOn4" = "၄။ AutoFill ကို ဖွင့်ပါ";
-"AutofillTurnOn5" = "၅။ “Bitwarden” ကို ရွေးပါ";
+"AutofillTurnOn5" = "၅။ “Multipass” ကို ရွေးပါ";
 "PasswordAutofill" = "စကားဝှက် အလိုအလျောက်ဖြည့်ခြင်း";
-"BitwardenAutofillAlert2" = "သင့်ဗော်လ်တ်သို့ ဝင်ရောက်မှုအသစ်များထည့်ရန် အလွယ်ဆုံးနည်းလမ်းမှာ Bitwarden Password AutoFill တိုးချဲ့မှုကို သုံးခြင်းဖြစ်သည်။ Bitwarden Password AutoFill တိုးချဲ့မှုကို အသုံးပြုခြင်းအကြောင်း ပိုမိုလေ့လာရန် “ဆက်တင်များ” မျက်နှာပြင်သို့ သွားပါ။";
+"BitwardenAutofillAlert2" = "သင့်ဗော်လ်တ်သို့ ဝင်ရောက်မှုအသစ်များထည့်ရန် အလွယ်ဆုံးနည်းလမ်းမှာ Multipass Password AutoFill တိုးချဲ့မှုကို သုံးခြင်းဖြစ်သည်။ Multipass Password AutoFill တိုးချဲ့မှုကို အသုံးပြုခြင်းအကြောင်း ပိုမိုလေ့လာရန် “ဆက်တင်များ” မျက်နှာပြင်သို့ သွားပါ။";
 "InvalidEmail" = "မမှန်ကန်သော အီးမေးလ်လိပ်စာ။";
 "InvalidEmailAddresses" = "မမှန်ကန်သော အီးမေးလ်လိပ်စာများ";
 "NoEmailAddressesEntered" = "အီးမေးလ်လိပ်စာ ထည့်သွင်းထားခြင်း မရှိပါ";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "ကိုယ်ရေးမူဝါဒသို့ ဆက်လက်မည်လား?";
 "ContinueToAppStore" = "အက်ပ်စတိုးသို့ ဆက်လက်မည်လား?";
 "ContinueWithoutSyncing" = "ထပ်တူမပြုဘဲ ဆက်လက်ပါ";
-"TwoStepLoginDescriptionLong" = "Bitwarden ဝဘ်အက်ပ်တွင် အဆင့်နှစ်ဆင့် ဝင်ရောက်ခြင်းကို သတ်မှတ်ခြင်းဖြင့် သင့်အကောင့်ကို ပိုမိုလုံခြုံအောင်ပြုလုပ်ပါ။";
+"TwoStepLoginDescriptionLong" = "Multipass ဝဘ်အက်ပ်တွင် အဆင့်နှစ်ဆင့် ဝင်ရောက်ခြင်းကို သတ်မှတ်ခြင်းဖြင့် သင့်အကောင့်ကို ပိုမိုလုံခြုံအောင်ပြုလုပ်ပါ။";
 "YouCanImportDataToYourVaultOnX" = "သင်သည် %1$@ တွင် သင့်ဗော်လ်တ်သို့ ဒေတာ တင်သွင်းနိုင်သည်။";
 "PrivacyPolicyDescriptionLong" = "bitwarden.com တွင် ကျွန်ုပ်တို့၏ ကိုယ်ရေးမူဝါဒကို ကြည့်ရှုပါ။";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "သင့် Bitwarden အကောင့်၏ နောက်ထပ် အင်္ဂါရပ်များကို ဝဘ်အက်ပ်တွင် စူးစမ်းပါ။";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "သင့် Multipass အကောင့်၏ နောက်ထပ် အင်္ဂါရပ်များကို ဝဘ်အက်ပ်တွင် စူးစမ်းပါ။";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden သည် အဖွဲ့အစည်းတစ်ခုကို သုံး၍ သင့်ဗော်လ်တ်ပစ္စည်းများကို အခြားသူများနှင့် မျှဝေနိုင်စေသည်။ bitwarden.com ဝဘ်ဆိုက်တွင် ပိုမိုလေ့လာပါ။";
-"RateAppDescriptionLong" = "Bitwarden သည် သူတို့အတွက် သင့်တော်မသင့် အခြားသူများ သိရှိစေရန် ကူညီပါ။ အက်ပ်စတိုးသို့ သွားရောက်၍ ယခု အဆင့်သတ်မှတ်ချက်ချန်ထားပါ။";
+"RateAppDescriptionLong" = "Multipass သည် သူတို့အတွက် သင့်တော်မသင့် အခြားသူများ သိရှိစေရန် ကူညီပါ။ အက်ပ်စတိုးသို့ သွားရောက်၍ ယခု အဆင့်သတ်မှတ်ချက်ချန်ထားပါ။";
 "CreatedX" = "ဖန်တီးခဲ့သည် %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "သင့်အဖွဲ့အစည်း ခွင့်ပြုချက်များ အပ်ဒိတ်လုပ်ထားပြီး၊ မာစတာစကားဝှက် သတ်မှတ်ရန် လိုအပ်သည်။";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "သင့်အဖွဲ့အစည်းက မာစတာစကားဝှက် သတ်မှတ်ရန် လိုအပ်သည်။";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "လမ်းညွှန်ခရီးစဉ်ဖြင့် လုံခြုံသော ဝင်ရောက်မှုအထောက်အထားများ ဖန်တီးခြင်းအကြောင်း ပိုမိုလေ့လာပါ။";
 "ExportVaultFilePwProtectInfo" = "ဤဖိုင် တင်ပို့မှုကို စကားဝှက်ဖြင့် ကာကွယ်ထားမည်ဖြစ်ပြီး ကုဒ်ဖြင့်ဖွင့်ရန် ဖိုင် စကားဝှက် လိုအပ်မည်။";
 "IntroCarouselPage1Title" = "လုံခြုံရေး၊ ဦးစားပေး";
-"IntroCarouselPage1Message" = "ဝင်ရောက်မှုများ၊ ကဒ်များနှင့် ကိုယ်ရေးအချက်အလက်များကို သင့်လုံခြုံသော ဗော်လ်တ်တွင် သိမ်းဆည်းပါ။ Bitwarden သည် သင့်အတွက် အရေးကြီးသောအရာများကို ကာကွယ်ရန် zero-knowledge၊ end-to-end ကုဒ်ဝှက်ခြင်းကို သုံးပါသည်။";
+"IntroCarouselPage1Message" = "ဝင်ရောက်မှုများ၊ ကဒ်များနှင့် ကိုယ်ရေးအချက်အလက်များကို သင့်လုံခြုံသော ဗော်လ်တ်တွင် သိမ်းဆည်းပါ။ Multipass သည် သင့်အတွက် အရေးကြီးသောအရာများကို ကာကွယ်ရန် zero-knowledge၊ end-to-end ကုဒ်ဝှက်ခြင်းကို သုံးပါသည်။";
 "IntroCarouselPage2Title" = "မြန်ဆန်လွယ်ကူသော ဝင်ရောက်မှု";
 "IntroCarouselPage2Message" = "စာလုံးတစ်လုံးမျှ မရိုက်ဘဲ သင့်အကောင့်များသို့ ဝင်ရောက်ရန် ဇီဝဗေဒဆိုင်ရာ သော့ဖွင့်ခြင်းနှင့် အလိုအလျောက်ဖြည့်ခြင်းကို သတ်မှတ်ပါ။";
 "IntroCarouselPage3Title" = "သင့်ဝင်ရောက်မှုများကို အဆင့်မြှင့်ပါ";
 "IntroCarouselPage3Message" = "သင့်အကောင့်အားလုံးအတွက် ခိုင်မာပြီး ထူးခြားသော စကားဝှက်များ ဖန်တီးသိမ်းဆည်းရန် ဂျင်နရေတာကို သုံးပါ။";
 "IntroCarouselPage4Title" = "သင့်ဒေတာ၊ သင်လိုအပ်သည့်အချိန်နှင့် နေရာ";
-"IntroCarouselPage4Message" = "Bitwarden မိုဘိုင်း၊ ဘရောက်ဆာနှင့် ဒက်စတော့အက်ပ်များဖြင့် အကန့်အသတ်မရှိ စက်ပစ္စည်းများတွင် အကန့်အသတ်မရှိ စကားဝှက်များ သိမ်းဆည်းပါ။";
+"IntroCarouselPage4Message" = "Multipass မိုဘိုင်း၊ ဘရောက်ဆာနှင့် ဒက်စတော့အက်ပ်များဖြင့် အကန့်အသတ်မရှိ စက်ပစ္စည်းများတွင် အကန့်အသတ်မရှိ စကားဝှက်များ သိမ်းဆည်းပါ။";
 "AccountSetup" = "အကောင့် သတ်မှတ်ခြင်း";
 "SetUpUnlock" = "သော့ဖွင့်ခြင်း သတ်မှတ်ပါ";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "သင့်ဗော်လ်တ်ကို အမြန်ဝင်ရောက်ရန်နှင့် သင့်ဝင်ရောက်မှုများကို အလိုအလျောက်ဖြည့်ရန် ဇီဝဗေဒဆိုင်ရာ အချက်အလက်ကို သတ်မှတ်ပါ သို့မဟုတ် PIN ကုဒ်ကို ရွေးပါ။";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "မာစတာစကားဝှက် (လိုအပ်သည်)";
 "RetypeMasterPasswordRequired" = "မာစတာစကားဝှက် ပြန်ရိုက်ပါ (လိုအပ်သည်)";
 "RetypeNewMasterPasswordRequired" = "မာစတာစကားဝှက်အသစ် ပြန်ရိုက်ပါ (လိုအပ်သည်)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden သည် ပျောက်ဆုံးသွားသော သို့မဟုတ် မေ့သွားသော မာစတာစကားဝှက်ကို ပြန်လည်သတ်မှတ်၍ မရပါ။";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass သည် ပျောက်ဆုံးသွားသော သို့မဟုတ် မေ့သွားသော မာစတာစကားဝှက်ကို ပြန်လည်သတ်မှတ်၍ မရပါ။";
 "LearnAboutWaysToPreventAccountLockout" = "အကောင့်ပိတ်ဆို့ခြင်းကို ကာကွယ်ရန် နည်းလမ်းများအကြောင်း လေ့လာပါ";
 "RestartRegistration" = "မှတ်ပုံတင်ခြင်းကို ပြန်စတင်ပါ";
 "Expired" = "သက်တမ်းကုန်ဆုံး";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Duo ဝန်ဆောင်မှုနှင့် ချိတ်ဆက်ရာတွင် အမှားရှိသည်။ အခြား အဆင့်နှစ်ဆင့် ဝင်ရောက်နည်းကို သုံးပါ သို့မဟုတ် အကူအညီအတွက် Duo ကို ဆက်သွယ်ပါ။";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "အကောင့်ဖန်တီးခြင်းကို စတင်ရန် Pre Auth URLs ကို မတင်နိုင်ပါ။";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "သင့်စက်ပစ္စည်း ဆက်တင်များမှ၊ **အလိုအလျောက်ဖြည့်ခြင်း စကားဝှက်များနှင့် Passkeys ကို ဖွင့်ပါ။**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "Bitwarden ကို သင့်မူရင်း အလိုအလျောက်ဖြည့်ရင်းမြစ်ဖြစ်စေရန် **iCloud Keychain ကို ပိတ်ပါ**။";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "သင့်အကောင့်များသို့ ဝင်ရောက်ရန် သင့်သိမ်းဆည်းထားသော စကားဝှက်များကို သုံးရန် **Bitwarden ကို ဖွင့်ပါ**။";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "Multipass ကို သင့်မူရင်း အလိုအလျောက်ဖြည့်ရင်းမြစ်ဖြစ်စေရန် **iCloud Keychain ကို ပိတ်ပါ**။";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "သင့်အကောင့်များသို့ ဝင်ရောက်ရန် သင့်သိမ်းဆည်းထားသော စကားဝှက်များကို သုံးရန် **Multipass ကို ဖွင့်ပါ**။";
 "TurnOnAutoFill" = "အလိုအလျောက်ဖြည့်ခြင်း ဖွင့်ပါ";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "တစ်ချက်နှိပ်ရုံဖြင့် သင့်အကောင့်များသို့ ဝင်ရောက်ရန် အလိုအလျောက်ဖြည့်ခြင်းကို သုံးပါ။";
 "NeedHelpCheckOutAutofillHelp" = "အကူအညီ လိုပါသလား? **[အလိုအလျောက်ဖြည့်ခြင်း အကူအညီ](%1$@)** ကို ကြည့်ပါ။";
 "TurnOnLater" = "နောက်မှ ဖွင့်ပါ";
 "TurnOnAutoFillLaterQuestion" = "အလိုအလျောက်ဖြည့်ခြင်းကို နောက်မှ ဖွင့်မည်လား?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "သင်သည် ဆက်တင်များတွင် အချိန်မရွေး ဤအဆင့်ကို အပြီးသတ်ရန် ပြန်လာနိုင်သည်။";
-"ContinueToBitwarden" = "Bitwarden သို့ ဆက်လက်ပါ";
+"ContinueToBitwarden" = "Multipass သို့ ဆက်လက်ပါ";
 "BackToSettings" = "ဆက်တင်များသို့ ပြန်သွားပါ";
 "YoureAllSet" = "အားလုံး အသင့်ဖြစ်ပါပြီ!";
-"AutoFillActivatedDescriptionLong" = "သင်သည် ယခု သင့်သိမ်းဆည်းထားသော စကားဝှက်များကို သုံး၍ အက်ပ်များနှင့် ဝဘ်ဆိုက်များသို့ ဝင်ရောက်ရန် အလိုအလျောက်ဖြည့်ခြင်းကို သုံးနိုင်ပါပြီ။ ယခု၊ သင်သည် Bitwarden ၏ အခြားသော အင်္ဂါရပ်များကို စူးစမ်းနိုင်ပါပြီ။";
+"AutoFillActivatedDescriptionLong" = "သင်သည် ယခု သင့်သိမ်းဆည်းထားသော စကားဝှက်များကို သုံး၍ အက်ပ်များနှင့် ဝဘ်ဆိုက်များသို့ ဝင်ရောက်ရန် အလိုအလျောက်ဖြည့်ခြင်းကို သုံးနိုင်ပါပြီ။ ယခု၊ သင်သည် Multipass ၏ အခြားသော အင်္ဂါရပ်များကို စူးစမ်းနိုင်ပါပြီ။";
 "GetStarted" = "စတင်ပါ";
 "Dismiss" = "ပိတ်ပါ";
 "SaveAndProtectYourData" = "သင့်ဒေတာကို သိမ်းဆည်းပြီး ကာကွယ်ပါ";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "ရှိပြီးသား စကားဝှက်မန်နေဂျာမှ ဝင်ရောက်မှုများကို တင်သွင်းရန် ကွန်ပျူတာကို သုံးပါ။";
 "ImportLogins" = "ဝင်ရောက်မှုများ တင်သွင်းပါ";
 "GiveYourVaultAHeadStart" = "သင့်ဗော်လ်တ်ကို ဦးဆောင်ခွင့်ပေးပါ";
-"ImportLoginsDescriptionLong" = "သင့်ကွန်ပျူတာမှ၊ သင့်ဘရောက်ဆာ သို့မဟုတ် အခြားစကားဝှက်မန်နေဂျာမှ သိမ်းဆည်းထားသော စကားဝှက်များကို တင်ပို့ရန် ဤညွှန်ကြားချက်များကို လိုက်နာပါ။ ထို့နောက် ၎င်းတို့ကို Bitwarden သို့ လုံခြုံစွာ တင်သွင်းပါ။";
+"ImportLoginsDescriptionLong" = "သင့်ကွန်ပျူတာမှ၊ သင့်ဘရောက်ဆာ သို့မဟုတ် အခြားစကားဝှက်မန်နေဂျာမှ သိမ်းဆည်းထားသော စကားဝှက်များကို တင်ပို့ရန် ဤညွှန်ကြားချက်များကို လိုက်နာပါ။ ထို့နောက် ၎င်းတို့ကို Multipass သို့ လုံခြုံစွာ တင်သွင်းပါ။";
 "ImportLoginsLater" = "ဝင်ရောက်မှုများကို နောက်မှ တင်သွင်းပါ";
 "ImportLoginsLaterQuestion" = "ဝင်ရောက်မှုများကို နောက်မှ တင်သွင်းမည်လား?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "သင်သည် ဆက်တင်များအောက်ရှိ ဗော်လ်တ်တွင် အချိန်မရွေး ဤအဆင့်ကို အပြီးသတ်ရန် ပြန်လာနိုင်သည်။";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "တင်သွင်းခြင်း ပြီးဆုံးပြီးနောက် ဤဖိုင်ကို သင်ဖျက်မည်။";
 "NeedHelpCheckOutImportHelp" = "အကူအညီ လိုပါသလား? **[တင်သွင်းခြင်း အကူအညီ](%1$@)** ကို ကြည့်ပါ။";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "သင့်ကွန်ပျူတာပေါ်တွင်၊ ဘရောက်ဆာ တက်ဘ်အသစ်ဖွင့်ပြီး **%1$@ သို့ သွားပါ**။";
-"LogInToTheBitwardenWebApp" = "**Bitwarden ဝဘ်အက်ပ်သို့ ဝင်ရောက်ပါ။**";
-"ImportLoginsToBitwarden" = "Bitwarden သို့ ဝင်ရောက်မှုများ တင်သွင်းပါ";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Bitwarden လမ်းညွှန်တွင်၊ **Tools ရွေးချယ်မှုကို ရှာပါ** ပြီး **Import data ကို ရွေးပါ။**";
+"LogInToTheBitwardenWebApp" = "**Multipass ဝဘ်အက်ပ်သို့ ဝင်ရောက်ပါ။**";
+"ImportLoginsToBitwarden" = "Multipass သို့ ဝင်ရောက်မှုများ တင်သွင်းပါ";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Multipass လမ်းညွှန်တွင်၊ **Tools ရွေးချယ်မှုကို ရှာပါ** ပြီး **Import data ကို ရွေးပါ။**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "ဖောင်ကို ဖြည့်ပြီး **သင့်သိမ်းဆည်းထားသော စကားဝှက်ဖိုင်ကို တင်သွင်းပါ။**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "ဝဘ်အက်ပ်တွင် **Import data ကို ရွေးပါ**၊ ထို့နောက် ထပ်တူပြုခြင်းကို အပြီးသတ်ရန် **Done** ကို ရွေးပါ။";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "သင့်လုံခြုံရေးအတွက်၊ **သင့်သိမ်းဆည်းထားသော စကားဝှက်ဖိုင်ကို ဖျက်ရန် သေချာပါစေ။**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "အကောင့် မတွေ့ပါ။ ဤအမှားကို ဆက်မြင်နေရပါက ပြန်လည်ဝင်ရောက်ပါ။";
 "ImportError" = "တင်သွင်းခြင်းအမှား";
 "NoLoginsWereImported" = "ဝင်ရောက်မှုများ မတင်သွင်းရသေးပါ";
-"ThisIsNotARecognizedServerDescriptionLong" = "ဤသည် မှတ်မိသော Bitwarden ဆာဗာ မဟုတ်ပါ။ သင့်ပံ့ပိုးပေးသူနှင့် စစ်ဆေးရန် သို့မဟုတ် သင့်ဆာဗာကို အပ်ဒိတ်လုပ်ရန် လိုအပ်နိုင်သည်။";
+"ThisIsNotARecognizedServerDescriptionLong" = "ဤသည် မှတ်မိသော Multipass ဆာဗာ မဟုတ်ပါ။ သင့်ပံ့ပိုးပေးသူနှင့် စစ်ဆေးရန် သို့မဟုတ် သင့်ဆာဗာကို အပ်ဒိတ်လုပ်ရန် လိုအပ်နိုင်သည်။";
 "LoginsImported" = "ဝင်ရောက်မှုများ တင်သွင်းပြီး";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "သင့်ကွန်ပျူတာမှ သင့်တင်သွင်းထားသော စကားဝှက်ဖိုင်ကို ဖျက်ရန် မမေ့ပါနှင့်။";
 "SomethingWentWrong" = "တစ်ခုခု မှားယွင်းသွားသည်";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "မှတ်တမ်းများ စုဆောင်းရန်နှင့် ဒေသတွင်း စစ်ဆေးရန် ယာယီ မှတ်တမ်းပြုခြင်းကို ဖွင့်ပါ။ ဖွင့်ထားသောအခါ၊ အက်ပ် အခြေအနေများနှင့် ကွန်ရက်ခေါ်ဆိုမှုများကို မှတ်တမ်းပြုနိုင်သည်—အရေးကြီး ဗော်လ်တ်အချက်အလက်ကို ဘယ်တော့မှ မဟုတ်ပါ။";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "စတင်ရန်၊ မှတ်တမ်းပြုချိန် သတ်မှတ်ပါ။ ဤကာလပြီးနောက် မှတ်တမ်းပြုခြင်းကို အလိုအလျောက် ပိတ်မည်ဖြစ်ပြီး၊ ပြဿနာများကို ပြန်လည်ဖန်တီးနေစဉ် လုပ်ဆောင်ချက်ကို ဖမ်းယူရန် အချိန်ပေးမည်။";
 "LoggingDuration" = "မှတ်တမ်းပြုချိန်";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "မှတ်တမ်းများကို ရက် 30 ပြီးနောက် အလိုအလျောက် ဖျက်ပါမည်။ Bitwarden သည် သင့်မှတ်တမ်းဒေတာကို သင်မျှဝေမှသာ ဝင်ရောက်နိုင်သည်။";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "မှတ်တမ်းများကို ရက် 30 ပြီးနောက် အလိုအလျောက် ဖျက်ပါမည်။ Multipass သည် သင့်မှတ်တမ်းဒေတာကို သင်မျှဝေမှသာ ဝင်ရောက်နိုင်သည်။";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "မှတ်တမ်းပြုသည်နှင့် မပြုသည်အကြောင်း အသေးစိတ်အတွက် **[Bitwarden Help Center](%1$@)** သို့ သွားရောက်ပါ။";
 "ShowMore" = "ပိုပြပါ";
 "ShowLess" = "လျှော့ပြပါ";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "အောက်ပါဒိုမိန်းကို သင့်အဖွဲ့အစည်း အက်ဒမင်ဖြင့် အတည်ပြုပါ။\n\nKey Connector ဒိုမိန်း:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "ဤမှတ်တမ်းကို ဖျက်ရန် သေချာပါသလား?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "မှတ်တမ်းတင်ထားသော မှတ်တမ်းအားလုံးကို ဖျက်ရန် သေချာပါသလား?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "ဤအကောင့်ကို မကြာမီ ဖျက်မည်။ Bitwarden ကို ဆက်လက်သုံးရန် %1$@ တွင် ဝင်ရောက်ပါ။";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "ဤအကောင့်ကို မကြာမီ ဖျက်မည်။ Multipass ကို ဆက်လက်သုံးရန် %1$@ တွင် ဝင်ရောက်ပါ။";
 "AppSettings" = "အက်ပ် ဆက်တင်များ";
 "ViewFileSend" = "ဖိုင် Send ကြည့်ရှုပါ";
 "ViewTextSend" = "စာသား Send ကြည့်ရှုပါ";
@@ -942,7 +942,7 @@
 "LastEdited" = "နောက်ဆုံး ပြင်ဆင်ခဲ့သည်- %1$@";
 "PasswordLastUpdated" = "စကားဝှက် နောက်ဆုံး အပ်ဒိတ်လုပ်ခဲ့သည်- %1$@";
 "DecryptionError" = "ကုဒ်ဖြင့်ဖွင့်ခြင်းအမှား";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden သည် ဤဗော်လ်တ်ပစ္စည်းကို ကုဒ်ဖြင့်ဖွင့်၍ မရပါ။ နောက်ထပ် ဒေတာဆုံးရှုံးမှုကို ရှောင်ရှားရန် ဤအမှားအစီရင်ခံစာကို ကူးယူပြီး ဖောက်သည်အောင်မြင်ရေးအဖွဲ့ထံ မျှဝေပါ။";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass သည် ဤဗော်လ်တ်ပစ္စည်းကို ကုဒ်ဖြင့်ဖွင့်၍ မရပါ။ နောက်ထပ် ဒေတာဆုံးရှုံးမှုကို ရှောင်ရှားရန် ဤအမှားအစီရင်ခံစာကို ကူးယူပြီး ဖောက်သည်အောင်မြင်ရေးအဖွဲ့ထံ မျှဝေပါ။";
 "CopyErrorReport" = "အမှားအစီရင်ခံစာ ကူးယူပါ";
 "ErrorCannotDecrypt" = "[အမှား- ကုဒ်ဖြင့်ဖွင့်၍မရ]";
 "AccountsSyncedFromBitwardenApp" = "Bitwarden အက်ပ်မှ ထပ်တူပြုထားသော အကောင့်များ";
@@ -1000,7 +1000,7 @@
 "Skip" = "ကျော်ပါ";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "သင့်ဝင်ရောက်မှုများအားလုံးကို သိမ်းဆည်းပြီး အောက်တန်မီတာအက်ပ်ဖြင့် အတည်ပြုကုဒ်များကို တိုက်ရိုက်ထပ်တူပြုပါ။";
-"SyncWithBrowserDescriptionLong" = "%1$@ သို့ ချိတ်ဆက်ရန်၊ သင့်မူရင်းဘရောက်ဆာကို Bitwarden မိုဘိုင်းအက်ပ်ဖြင့် ထပ်တူပြုပါ။ သင့်ဘရောက်ဆာ ဖွင့်သည့်အခါ၊ တောင်းဆိုပါက ဝင်ရောက်ခြင်းကို အပြီးသတ်ပါ။ ထပ်တူပြုခြင်း ပြီးဆုံးသည်နှင့်၊ သင်သည် ဤအက်ပ်သို့ ပြန်လာမည်။";
+"SyncWithBrowserDescriptionLong" = "%1$@ သို့ ချိတ်ဆက်ရန်၊ သင့်မူရင်းဘရောက်ဆာကို Multipass မိုဘိုင်းအက်ပ်ဖြင့် ထပ်တူပြုပါ။ သင့်ဘရောက်ဆာ ဖွင့်သည့်အခါ၊ တောင်းဆိုပါက ဝင်ရောက်ခြင်းကို အပြီးသတ်ပါ။ ထပ်တူပြုခြင်း ပြီးဆုံးသည်နှင့်၊ သင်သည် ဤအက်ပ်သို့ ပြန်လာမည်။";
 "SyncWithBitwardenApp" = "Bitwarden အက်ပ်ဖြင့် ထပ်တူပြုပါ";
 "SyncWithBrowser" = "ဘရောက်ဆာဖြင့် ထပ်တူပြုပါ";
 "SyncWithTheBitwardenApp" = "Bitwarden အက်ပ်ဖြင့် ထပ်တူပြုပါ";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "အကောင့်ရွေးပါ";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "အကောင့်များ";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI ကိုက်ညီမှု ရှာဖွေခြင်းသည် Bitwarden မှ အလိုအလျောက်ဖြည့်ရန် အကြံပြုချက်များကို မည်သို့ခွဲခြားသတ်မှတ်သည်ကို ထိန်းချုပ်သည်။";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI ကိုက်ညီမှု ရှာဖွေခြင်းသည် Multipass မှ အလိုအလျောက်ဖြည့်ရန် အကြံပြုချက်များကို မည်သို့ခွဲခြားသတ်မှတ်သည်ကို ထိန်းချုပ်သည်။";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“စတင်သည့်” သည် အထောက်အထားများ ဖော်ထုတ်ခံရနိုင်ခြေ မြင့်မားသော အဆင့်မြင့် ရွေးချယ်မှုတစ်ခုဖြစ်သည်။";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“ပုံမှန်အသုံးအနှုန်း” သည် မှားယွင်းစွာအသုံးပြုပါက အထောက်အထားများ ဖော်ထုတ်ခံရနိုင်ခြေ မြင့်မားသော အဆင့်မြင့် ရွေးချယ်မှုတစ်ခုဖြစ်သည်။";
 "StartsWithAdvanced" = "စတင်သည့် (အဆင့်မြင့်)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "ဝင်ရောက်ခွင့် ပြန်လည်ရရန် သင့်အက်ဒမင်ကို ဆက်သွယ်ပါ။";
 "LeaveX" = "%1$@ မှ ထွက်ပါ";
 "YouLeftTheOrganization" = "သင်သည် အဖွဲ့အစည်းမှ ထွက်ခဲ့သည်";
-"ItemTransferRequiresMainAppDescriptionLong" = "အဖွဲ့အစည်းတစ်ခုသည် သင့်ကိုယ်ရေးပစ္စည်းများ၏ ပိုင်ဆိုင်မှုကို တောင်းဆိုနေသည်။ ဤတောင်းဆိုချက်ကို သုံးသပ်ပြီး အပြီးသတ်ရန် ပင်မ Bitwarden အက်ပ်ကို ဖွင့်ပါ။";
+"ItemTransferRequiresMainAppDescriptionLong" = "အဖွဲ့အစည်းတစ်ခုသည် သင့်ကိုယ်ရေးပစ္စည်းများ၏ ပိုင်ဆိုင်မှုကို တောင်းဆိုနေသည်။ ဤတောင်းဆိုချက်ကို သုံးသပ်ပြီး အပြီးသတ်ရန် ပင်မ Multipass အက်ပ်ကို ဖွင့်ပါ။";
 "ThisSettingIsManagedByYourOrganization" = "ဤဆက်တင်ကို သင့်အဖွဲ့အစည်းက စီမံခန့်ခွဲသည်။";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "သင့်အဖွဲ့အစည်းက အများဆုံး ဆက်ရှင်အချိန်ကုန်ဆုံးချိန်ကို %1$@ သို့ သတ်မှတ်ထားသည်။";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "သင့်အဖွဲ့အစည်းက မူရင်း ဆက်ရှင်အချိန်ကုန်ဆုံးချိန်ကို ဘယ်တော့မှဟု သတ်မှတ်ထားသည်။";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock ကို ရှင်းလင်းပြီးပါပြီ။";
 "SsoCookiesCleared" = "SSO ကွတ်ကီးများ ရှင်းလင်းပြီးပါပြီ";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "အက်ပ်သည် ပြန်လည်အတည်ပြုရန် လိုအပ်သောကြောင့် သင့်တောင်းဆိုချက် ပြတ်တောက်သွားသည်။ ထပ်စမ်းကြည့်ပါ။";
-"AutofillWithBitwardenDescriptionLong" = "Bitwarden သည် သင်အက်ပ်များနှင့် ဝဘ်ဆိုက်များသို့ ဝင်ရောက်သည့်အခါ သင့်စကားဝှက်များနှင့် အခြားအထောက်အထားများကို အကြံပြုနိုင်သည်။";
+"AutofillWithBitwardenDescriptionLong" = "Multipass သည် သင်အက်ပ်များနှင့် ဝဘ်ဆိုက်များသို့ ဝင်ရောက်သည့်အခါ သင့်စကားဝှက်များနှင့် အခြားအထောက်အထားများကို အကြံပြုနိုင်သည်။";
 "LearnMoreAboutAutofill" = "အလိုအလျောက်ဖြည့်ခြင်းအကြောင်း ပိုမိုလေ့လာပါ";
 "TurnOnNow" = "ယခုဖွင့်ပါ";
 "AcceptTransfer" = "လွှဲပြောင်းမှုကို လက်ခံပါ";

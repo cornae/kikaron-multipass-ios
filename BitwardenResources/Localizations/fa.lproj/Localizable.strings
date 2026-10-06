@@ -3,7 +3,7 @@
 "AddFolder" = "افزودن پوشه";
 "AnErrorHasOccurred" = "خطایی رخ داده است.";
 "Back" = "بازگشت";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "انصراف";
 "Copy" = "کپی";
 "CopyLicenseNumber" = "کپی شماره مجوز";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "عبارات‌ عبور معمولاً آسان‌تر از کلمات عبور تصادفی برای به خاطر سپردن و نوشتن هستند. آن‌ها زمانی مفید هستند که نیاز دارید وارد حساب‌هایی شوید که قابلیت پر کردن خودکار در آن‌ها در دسترس نیست، مانند سرویس‌های پخش آنلاین روی تلویزیون.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "نام‌های کاربری منحصربه‌فرد یک لایه امنیتی اضافی ایجاد می‌کنند و می‌توانند به جلوگیری از دسترسی هکرها به حساب‌های کاربری شما کمک کنند.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "از این گزینه‌ها استفاده کنید تا کلمه عبور خود را مطابق با الزامات وب‌سایت حساب کاربری‌تان تنظیم کنید.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "بعد از اینکه کلمه عبور جدیدتان را در Bitwarden ذخیره کردید، فراموش نکنید آن را در وب‌سایت حساب کاربری‌تان هم به‌روزرسانی کنید.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "بعد از اینکه کلمه عبور جدیدتان را در Multipass ذخیره کردید، فراموش نکنید آن را در وب‌سایت حساب کاربری‌تان هم به‌روزرسانی کنید.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "برای استفاده از قابلیت پر کردن خودکار جهت دسترسی به این حساب کاربری، باید یک نشانی وب اضافه کنید.";
 "Username" = "نام کاربری";
 "ValidationFieldRequired" = "فیلد %1$@ ضروریست.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "افزونه برنامه را دوباره فعال کنید";
 "ExtensionAlmostDone" = "تقریباً تمام شد!";
 "ExtensionEnable" = "افزونه برنامه را فعال کنید";
-"ExtensionInSafari" = "در سافاری، Bitwarden را با استفاده از نماد اشتراک‌گذاری پیدا کنید (راهنمایی: به سمت راست در ردیف پایین منو بروید).";
+"ExtensionInSafari" = "در سافاری، Multipass را با استفاده از نماد اشتراک‌گذاری پیدا کنید (راهنمایی: به سمت راست در ردیف پایین منو بروید).";
 "ExtensionInstantAccess" = "به کلمات عبورتان دسترسی سریع داشته باشید!";
 "ExtensionReady" = "آماده‌اید وارد شوید!";
 "ExtensionSetup" = "اطلاعات ورود شما حالا از سافاری، کروم، و دیگر برنامه‌های پشتیبانی شده به راحتی قابل دسترسی است.";
-"ExtensionSetup2" = "در سافاری و کروم، Bitwarden را با استفاده از نماد اشتراک‌گذاری پیدا کنید (راهنمایی: به سمت راست در ردیف پایین منو بروید).";
-"ExtensionTapIcon" = "برای راه‌اندازی افزونه به نماد Bitwarden در منو ضربه بزنید.";
-"ExtensionTurnOn" = "برای فعال‌سازی Bitwarden در سافاری و سایر برنامه‌ها، نماد \"بیشتر\" را در پایین ردیف منو ضربه بزنید.";
+"ExtensionSetup2" = "در سافاری و کروم، Multipass را با استفاده از نماد اشتراک‌گذاری پیدا کنید (راهنمایی: به سمت راست در ردیف پایین منو بروید).";
+"ExtensionTapIcon" = "برای راه‌اندازی افزونه به نماد Multipass در منو ضربه بزنید.";
+"ExtensionTurnOn" = "برای فعال‌سازی Multipass در سافاری و سایر برنامه‌ها، نماد \"بیشتر\" را در پایین ردیف منو ضربه بزنید.";
 "Favorite" = "مورد علاقه";
 "Fingerprint" = "اثر انگشت";
 "GeneratePassword" = "تولید کلمه عبور";
@@ -110,7 +110,7 @@
 "Immediately" = "بلافاصله";
 "VaultTimeoutLogOutConfirmation" = "خروج از سیستم تمام دسترسی ها به گاو‌صندوق شما را از بین می برد و نیاز به احراز هویت آنلاین پس از مدت زمان توقف دارد. آیا مطمئن هستید که می خواهید از این تنظیمات استفاده کنید؟";
 "LoggingIn" = "در حال ورود…";
-"LogInToBitwarden" = "وارد Bitwarden شوید";
+"LogInToBitwarden" = "وارد Multipass شوید";
 "MasterPasswordConfirmationValMessage" = "تأیید کلمه عبور صحیح نیست.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "کلمه عبور اصلی، کلمه عبوری است که برای دسترسی به گاوصندوق خود استفاده می‌کنید.";
 "MasterPasswordHint" = "یادآور کلمه عبور اصلی";
@@ -127,7 +127,7 @@
 "PasswordHint" = "یادآور کلمه عبور";
 "PasswordHintAlert" = "ما یک ایمیل همراه با یادآور کلمه عبور اصلی برایتان ارسال کردیم.";
 "PasswordOverrideAlert" = "آیا از بازنویسی بر روی کلمه عبور فعلی مطمئن هستید؟";
-"PushNotificationAlert" = "Bitwarden گاوصندوق شما را به‌صورت خودکار از طریق نشان دادن اعلانیه‌های اجباری به هنگام‌سازی می‌کند. برای بهترین تجربه کاربری ممکن، لطفاً زمانی که از شما پرسیده شد، \"مجاز\" را سریعاً انتخاب کنید تا نمایش اعلانیه های اجباری فعال شود.";
+"PushNotificationAlert" = "Multipass گاوصندوق شما را به‌صورت خودکار از طریق نشان دادن اعلانیه‌های اجباری به هنگام‌سازی می‌کند. برای بهترین تجربه کاربری ممکن، لطفاً زمانی که از شما پرسیده شد، \"مجاز\" را سریعاً انتخاب کنید تا نمایش اعلانیه های اجباری فعال شود.";
 "Security" = "امنیت";
 "Select" = "انتخاب";
 "ItemUpdated" = "مورد به‌روزرسانی شد";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "باز کردن قفل با Optic ID";
 "UnlockWithPIN" = "باز کردن قفل با کد پین";
 "VerificationCode" = "کد تأیید";
-"WebVault" = "گاوصندوق وب Bitwarden";
+"WebVault" = "گاوصندوق وب Multipass";
 "Items" = "موارد";
 "ExtensionActivated" = "افزونه فعال شد!";
 "ItemsForUri" = "موارد برای %1$@";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "نشانی‌های اینترنتی محیط ذخیره شد.";
 "IdentityUrl" = "نشانی اینترنتی سرور هویت";
 "SelfHostedEnvironment" = "محیط خود میزبان";
-"SelfHostedEnvironmentFooter" = "نشانی اینترنتی پایه فرضی نصب Bitwarden میزبانی شده را مشخص کنید.";
+"SelfHostedEnvironmentFooter" = "نشانی اینترنتی پایه فرضی نصب Multipass میزبانی شده را مشخص کنید.";
 "ServerUrl" = "نشانی اینترنتی سرور";
 "WebVaultUrl" = "نشانی اینترنتی سرور گاوصندوق وب";
 "CustomFields" = "فیلدهای سفارشی";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "نمایش نمادهای وب‌سایت";
 "ShowWebsiteIconsDescription" = "یک تصویر قابل تشخیص در کنار هر ورود نشان دهید.";
 "IconsUrl" = "نشانی اینترنتی سرور نمادها";
-"AutofillWithBitwarden" = "پر کردن خودکار با Bitwarden";
+"AutofillWithBitwarden" = "پر کردن خودکار با Multipass";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "مجموعه‌ها";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "۲. روی \"کلمات عبور\" بزن";
 "AutofillTurnOn3" = "۳. روی \"پر کردن خودکار کلمات عبور\" بزن";
 "AutofillTurnOn4" = "۴. روشن کردن پر کردن خودکار";
-"AutofillTurnOn5" = "۵. انتخاب \"Bitwarden\"";
+"AutofillTurnOn5" = "۵. انتخاب \"Multipass\"";
 "PasswordAutofill" = "پر کردن خودکار کلمه عبور";
-"BitwardenAutofillAlert2" = "ساده‌ترین روش برای افزودن اطلاعات ورود به گاوصندوق از طریق افزونه پر کردن خودکار کلمه عبور Bitwarden است. با رفتن به صفحه \"تنظیمات\" درباره‌ی استفاده از افزونه‌ی پر کردن خودکار کلمات عبور بیشتر بیاموزید.";
+"BitwardenAutofillAlert2" = "ساده‌ترین روش برای افزودن اطلاعات ورود به گاوصندوق از طریق افزونه پر کردن خودکار کلمه عبور Multipass است. با رفتن به صفحه \"تنظیمات\" درباره‌ی استفاده از افزونه‌ی پر کردن خودکار کلمات عبور بیشتر بیاموزید.";
 "InvalidEmail" = "نشانی ایمیل نامعتبر است.";
 "InvalidEmailAddresses" = "آدرس‌های ایمیل نامعتبر است";
 "NoEmailAddressesEntered" = "هیچ آدرس ایمیلی وارد نشده است";
@@ -628,12 +628,12 @@
 "ContinueToPrivacyPolicy" = "به سیاست حفظ حریم خصوصی ادامه دهید؟";
 "ContinueToAppStore" = "به فروشگاه برنامه ادامه می‌دهید؟";
 "ContinueWithoutSyncing" = "ادامه بدون همگام‌سازی";
-"TwoStepLoginDescriptionLong" = "با راه‌اندازی ورود دو مرحله‌ای در برنامه وب Bitwarden، حساب کاربری خود را ایمن‌تر کنید.";
+"TwoStepLoginDescriptionLong" = "با راه‌اندازی ورود دو مرحله‌ای در برنامه وب Multipass، حساب کاربری خود را ایمن‌تر کنید.";
 "YouCanImportDataToYourVaultOnX" = "می‌توانید داده‌ها را در %1$@ به گاوصندوق خود وارد کنید.";
 "PrivacyPolicyDescriptionLong" = "سیاست حفظ حریم خصوصی ما را در bitwarden.com بررسی کنید.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "ویژگی‌های بیشتر حساب کاربری Bitwarden خود را در برنامه وب کاوش کنید.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "ویژگی‌های بیشتر حساب کاربری Multipass خود را در برنامه وب کاوش کنید.";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden به شما اجازه می‌دهد تا با استفاده از یک سازمان، موارد گاوصندوق خود را با دیگران به اشتراک بگذارید. در وب سایت bitwarden.com بیشتر بیاموزید.";
-"RateAppDescriptionLong" = "به دیگران کمک کنید بفهمند آیا Bitwarden برای آنها مناسب است یا خیر. از فروشگاه برنامه دیدن کنید و اکنون رتبه بندی کنید.";
+"RateAppDescriptionLong" = "به دیگران کمک کنید بفهمند آیا Multipass برای آنها مناسب است یا خیر. از فروشگاه برنامه دیدن کنید و اکنون رتبه بندی کنید.";
 "CreatedX" = "ساخته شده: %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "مجوزهای سازمان شما به‌روزرسانی شد، باید یک کلمه عبور اصلی تنظیم کنید.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "سازمان شما از شما می‌خواهد که یک کلمه عبور اصلی تنظیم کنید.";
@@ -673,13 +673,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "با یک راهنمای قدم به قدم، بیشتر درباره ایجاد اطلاعات ورود امن بیاموزید.";
 "ExportVaultFilePwProtectInfo" = "این پرونده برون ریزی با رمز محافظت می‌شود و برای رمزگشایی به کلمه عبور پرونده نیاز دارد.";
 "IntroCarouselPage1Title" = "امنیت، در اولویت";
-"IntroCarouselPage1Message" = "ورودها، کارت‌ها و هویت‌ها را در گاوصندوق امن خود ذخیره کنید. Bitwarden از رمزگذاری سرتاسری با دانش صفر برای محافظت از آنچه برای شما مهم است استفاده می‌کند.";
+"IntroCarouselPage1Message" = "ورودها، کارت‌ها و هویت‌ها را در گاوصندوق امن خود ذخیره کنید. Multipass از رمزگذاری سرتاسری با دانش صفر برای محافظت از آنچه برای شما مهم است استفاده می‌کند.";
 "IntroCarouselPage2Title" = "ورود سریع و آسان";
 "IntroCarouselPage2Message" = "قفل بیومتریک و پر کردن خودکار را راه‌اندازی کنید تا بدون وارد کردن حتی یک حرف وارد حساب‌های کاربری خود شوید.";
 "IntroCarouselPage3Title" = "ورودهای خود را ارتقا دهید";
 "IntroCarouselPage3Message" = "از تولید کننده برای ایجاد و ذخیره کلمات عبور قوی و منحصربه‌فرد برای تمام حساب‌های کاربری خود استفاده کنید.";
 "IntroCarouselPage4Title" = "داده‌های شما، زمانی که نیاز دارید و در جایی که نیاز دارید";
-"IntroCarouselPage4Message" = "کلمه‌های عبور نامحدود را در دستگاه‌های نامحدود با برنامه‌های موبایل، مرورگر و رایانه رومیزی Bitwarden ذخیره کنید.";
+"IntroCarouselPage4Message" = "کلمه‌های عبور نامحدود را در دستگاه‌های نامحدود با برنامه‌های موبایل، مرورگر و رایانه رومیزی Multipass ذخیره کنید.";
 "AccountSetup" = "راه‌اندازی حساب کاربری";
 "SetUpUnlock" = "راه‌اندازی باز کردن قفل";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "راه‌اندازی بیومتریک یا انتخاب کد پین برای دسترسی سریع به گاوصندوق و پر کردن خودکار ورودهای شما.";
@@ -712,7 +712,7 @@
 "MasterPasswordRequired" = "کلمه عبور اصلی (الزامی)";
 "RetypeMasterPasswordRequired" = "نوشتن مجدد کلمه عبور اصلی (الزامی)";
 "RetypeNewMasterPasswordRequired" = "نوشتن مجدد کلمه عبور اصلی جدید (الزامی)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden نمی‌تواند کلمه عبور اصلی گمشده یا فراموش شده را بازنشانی کند.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass نمی‌تواند کلمه عبور اصلی گمشده یا فراموش شده را بازنشانی کند.";
 "LearnAboutWaysToPreventAccountLockout" = "با روش‌های جلوگیری از قفل شدن حساب کاربری آشنا شوید";
 "RestartRegistration" = "ثبت‌نام را دوباره آغاز کنید";
 "Expired" = "منقضی شده";
@@ -730,18 +730,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "خطا در اتصال به سرویس Duo. از روش ورود دو مرحله‌ای دیگری استفاده کنید یا برای دریافت کمک با Duo تماس بگیرید.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "نشانی‌های پیش‌احراز هویت برای شروع ایجاد حساب کاربری قابل بارگذاری نیستند.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "از تنظیمات دستگاه خود، **تغییر وضعیت پر کردن خودکار کلمات و کلیدهای عبور را فعال کنید.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**تغییر وضعیت iCloud Keychain را غیرفعال کنید** تا Bitwarden منبع پیش‌فرض پر کردن خودکار شما باشد.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**تغییر وضعیت Bitwarden را فعال کنید** تا بتوانید از کلمات عبور ذخیره شده خود برای ورود به حساب‌های کاربری استفاده کنید.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**تغییر وضعیت iCloud Keychain را غیرفعال کنید** تا Multipass منبع پیش‌فرض پر کردن خودکار شما باشد.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**تغییر وضعیت Multipass را فعال کنید** تا بتوانید از کلمات عبور ذخیره شده خود برای ورود به حساب‌های کاربری استفاده کنید.";
 "TurnOnAutoFill" = "پر کردن خودکار را فعال کنید";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "از پر کردن خودکار برای ورود به حساب‌های کاربری خود با یک ضربه استفاده کنید.";
 "NeedHelpCheckOutAutofillHelp" = "نیاز به کمک دارید؟ به **[راهنمای پر کردن خودکار](%1$@)** مراجعه کنید";
 "TurnOnLater" = "بعداً روشن کنید";
 "TurnOnAutoFillLaterQuestion" = "بعداً پر کردن خودکار روشن شود؟";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "می‌توانید هر زمان برای تکمیل این مرحله به بخش تنظیمات مراجعه کنید.";
-"ContinueToBitwarden" = "به Bitwarden ادامه دهید";
+"ContinueToBitwarden" = "به Multipass ادامه دهید";
 "BackToSettings" = "بازگشت به تنظیمات";
 "YoureAllSet" = "همه چیز آماده است!";
-"AutoFillActivatedDescriptionLong" = "اکنون می‌توانید از پر کردن خودکار برای ورود به برنامه‌ها و وب‌سایت‌ها با استفاده از کلمات عبور ذخیره‌شده خود استفاده کنید. حالا می‌توانید از دیگر امکانات Bitwarden نیز بهره‌مند شوید.";
+"AutoFillActivatedDescriptionLong" = "اکنون می‌توانید از پر کردن خودکار برای ورود به برنامه‌ها و وب‌سایت‌ها با استفاده از کلمات عبور ذخیره‌شده خود استفاده کنید. حالا می‌توانید از دیگر امکانات Multipass نیز بهره‌مند شوید.";
 "GetStarted" = "شروع کنید";
 "Dismiss" = "نادیده گرفتن";
 "SaveAndProtectYourData" = "داده‌های خود را ذخیره و از آن‌ها محافظت کنید";
@@ -776,7 +776,7 @@
 "ImportSavedLoginsDescriptionLong" = "از یک رایانه برای درون ریزی ورودهای ذخیره شده از یک مدیر کلمه عبور موجود استفاده کنید.";
 "ImportLogins" = "درون ریزی ورودها";
 "GiveYourVaultAHeadStart" = "به گاوصندوق خود یک شروع قدرتمند بدهید";
-"ImportLoginsDescriptionLong" = "از طریق رایانه خود، این دستورالعمل‌ها را دنبال کنید تا کلمات عبور ذخیره شده را از مرورگر یا مدیر کلمه عبور دیگری برون ریزی کنید. سپس آن‌ها را به‌صورت ایمن به Bitwarden درون ریزی نمایید.";
+"ImportLoginsDescriptionLong" = "از طریق رایانه خود، این دستورالعمل‌ها را دنبال کنید تا کلمات عبور ذخیره شده را از مرورگر یا مدیر کلمه عبور دیگری برون ریزی کنید. سپس آن‌ها را به‌صورت ایمن به Multipass درون ریزی نمایید.";
 "ImportLoginsLater" = "ورودها را بعداً درون ریزی کنید";
 "ImportLoginsLaterQuestion" = "ورودها را بعداً درون ریزی می‌کنید؟";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "می‌توانید هر زمان برای تکمیل این مرحله به بخش زیر تنظیمات گاوصندوق مراجعه کنید.";
@@ -790,9 +790,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "پس از اتمام درون ریزی، این پرونده را حذف خواهید کرد.";
 "NeedHelpCheckOutImportHelp" = "نیاز به کمک دارید؟ به **[راهنمای درون ریزی](%1$@)** مراجعه کنید";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "روی رایانه خود، یک زبانه جدید در مرورگر باز کنید و **به %1$@ بروید**.";
-"LogInToTheBitwardenWebApp" = "**به برنامه وب Bitwarden وارد شوید.**";
-"ImportLoginsToBitwarden" = "ورودها را به Bitwarden درون ریزی کنید";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "در نوار ناوبری Bitwarden، **گزینه ابزارها ** را پیدا کرده و **وارد بخش درون ریزی داده‌ها** شوید";
+"LogInToTheBitwardenWebApp" = "**به برنامه وب Multipass وارد شوید.**";
+"ImportLoginsToBitwarden" = "ورودها را به Multipass درون ریزی کنید";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "در نوار ناوبری Multipass، **گزینه ابزارها ** را پیدا کرده و **وارد بخش درون ریزی داده‌ها** شوید";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "فرم را پر کنید و **پرونده کلمات عبور ذخیره شده خود را وارد کنید.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "در نسخه وب، **گزینه درون ریزی داده‌ها** را انتخاب کنید، سپس برای پایان همگام‌سازی، روی **تمام شد** کلیک کنید.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "برای حفظ امنیت خود، حتماً **پرونده کلمات عبور ذخیره شده را حذف کنید.**";
@@ -819,7 +819,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "هیچ حساب کاربری پیدا نشد. اگر همچنان این خطا را مشاهده می‌کنید، لطفاً دوباره وارد شوید.";
 "ImportError" = "خطای درون ریزی";
 "NoLoginsWereImported" = "هیچ ورودی درون ریزی نشده است";
-"ThisIsNotARecognizedServerDescriptionLong" = "این یک سرور معتبر Bitwarden نیست. ممکن است لازم باشد با ارائه‌دهنده خود بررسی کنید یا سرور را به‌روزرسانی نمایید.";
+"ThisIsNotARecognizedServerDescriptionLong" = "این یک سرور معتبر Multipass نیست. ممکن است لازم باشد با ارائه‌دهنده خود بررسی کنید یا سرور را به‌روزرسانی نمایید.";
 "LoginsImported" = "ورودها درون ریزی شد";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "فراموش نکنید پرونده کلمات عبور درون ریزی شده را از رایانه خود حذف کنید.";
 "SomethingWentWrong" = "اوه! مشکلی پیش آمده";
@@ -889,7 +889,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "فعال‌سازی ثبت موقت گزارش‌ها برای جمع‌آوری و بررسی محلی آن‌ها. پس از فعال شدن، وضعیت‌های برنامه و تماس‌های شبکه ممکن است ثبت شوند — اطلاعات حساس موجود در گاوصندوق هرگز ثبت نخواهد شد.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "برای شروع، مدت زمان ثبت گزارش را تعیین کنید. پس از این مدت، ثبت گزارش به‌طور خودکار غیرفعال می‌شود و در این زمان می‌توانید فعالیت‌ها را در هنگام تکرار مشکلات ثبت کنید.";
 "LoggingDuration" = "مدت زمان ثبت گزارش‌ها";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "گزارش‌ها به‌صورت خودکار پس از ۳۰ روز حذف می‌شوند. Bitwarden تنها زمانی می‌تواند به داده‌های گزارش شما دسترسی پیدا کند که خودتان آن‌ها را به اشتراک بگذارید.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "گزارش‌ها به‌صورت خودکار پس از ۳۰ روز حذف می‌شوند. Multipass تنها زمانی می‌تواند به داده‌های گزارش شما دسترسی پیدا کند که خودتان آن‌ها را به اشتراک بگذارید.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "برای اطلاعات بیشتر درباره اینکه چه مواردی ثبت می‌شوند و چه مواردی ثبت نمی‌شوند، به **[مرکز راهنمای Bitwarden](%1$@)** مراجعه کنید.";
 "ShowMore" = "نمایش بیشتر";
 "ShowLess" = "نمایش کمتر";
@@ -920,7 +920,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "لطفاً دامنه زیر را با مدیر سازمان خود تأیید کنید.\n\nدامنه رابط کلید:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "آیا واقعاً می‌خواهید این گزارش را حذف کنید؟";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "آیا واقعاً می‌خواهید تمام گزارش‌های ثبت‌شده را حذف کنید؟";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "این حساب کاربری به زودی حذف خواهد شد. برای ادامه استفاده از Bitwarden، در %1$@ وارد شوید.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "این حساب کاربری به زودی حذف خواهد شد. برای ادامه استفاده از Multipass، در %1$@ وارد شوید.";
 "AppSettings" = "تنظیمات برنامه";
 "ViewFileSend" = "مشاهده پرونده جدید";
 "ViewTextSend" = "مشاهده متن ارسال";
@@ -943,7 +943,7 @@
 "LastEdited" = "آخرین ویرایش: %1$@";
 "PasswordLastUpdated" = "کلمه عبور آخرین بار به‌روزرسانی شد: %1$@";
 "DecryptionError" = "خطای رمزگشایی";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden نتوانست این مورد از گاوصندوق را رمزگشایی کند. این گزارش خطا را کپی کرده و با پشتیبانی مشتری به اشتراک بگذارید تا جلوی از دست رفتن بیشتر داده‌ها گرفته شود.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass نتوانست این مورد از گاوصندوق را رمزگشایی کند. این گزارش خطا را کپی کرده و با پشتیبانی مشتری به اشتراک بگذارید تا جلوی از دست رفتن بیشتر داده‌ها گرفته شود.";
 "CopyErrorReport" = "کپی از گزارش خطا";
 "ErrorCannotDecrypt" = "[خطا: رمزگشایی امکان‌پذیر نیست]";
 "AccountsSyncedFromBitwardenApp" = "حساب‌ها از برنامه Bitwarden همگام‌سازی شد";
@@ -1001,7 +1001,7 @@
 "Skip" = "رد کردن";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "تمام اطلاعات ورود و کدهای تأیید خود را مستقیماً با برنامه تولیدکننده رمز دوعاملی ذخیره کنید.";
-"SyncWithBrowserDescriptionLong" = "برای اتصال به %1$@، مرورگر پیش‌فرض خود را با برنامه موبایل Bitwarden همگام‌سازی کنید. وقتی مرورگر شما باز شد، در صورت درخواست، مراحل ورود را تکمیل کنید.\nپس از اتمام همگام‌سازی، به این برنامه بازگردانده خواهید شد.";
+"SyncWithBrowserDescriptionLong" = "برای اتصال به %1$@، مرورگر پیش‌فرض خود را با برنامه موبایل Multipass همگام‌سازی کنید. وقتی مرورگر شما باز شد، در صورت درخواست، مراحل ورود را تکمیل کنید.\nپس از اتمام همگام‌سازی، به این برنامه بازگردانده خواهید شد.";
 "SyncWithBitwardenApp" = "همگام‌سازی با برنامه Bitwarden";
 "SyncWithBrowser" = "همگام‌سازی با مرورگر";
 "SyncWithTheBitwardenApp" = "همگام‌سازی با برنامه Bitwarden";
@@ -1017,7 +1017,7 @@
 "SelectAccount" = "انتخاب حساب کاربری";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "حساب‌ها";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "تشخیص تطابق نشانی اینترنتی نحوه شناسایی پیشنهادهای پر کردن خودکار توسط Bitwarden را کنترل می‌کند.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "تشخیص تطابق نشانی اینترنتی نحوه شناسایی پیشنهادهای پر کردن خودکار توسط Multipass را کنترل می‌کند.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "\"شروع با\" یک گزینه پیشرفته است که خطر افشای اطلاعات ورود را افزایش می‌دهد.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "«عبارت منظم» یک گزینه پیشرفته است که در صورت استفاده نادرست، خطر افشای اطلاعات احراز هویت را افزایش می‌دهد.";
 "StartsWithAdvanced" = "شروع با (پیشرفته)";
@@ -1044,7 +1044,7 @@
 "ContactYourAdminToRegainAccess" = "برای بازیابی دسترسی با مدیر خود تماس بگیرید.";
 "LeaveX" = "ترک %1$@";
 "YouLeftTheOrganization" = "شما از سازمان خارج شدید";
-"ItemTransferRequiresMainAppDescriptionLong" = "سازمانی درخواست مالکیت موارد شخصی شما را دارد. برای بررسی و تکمیل این درخواست، برنامه اصلی Bitwarden را باز کنید.";
+"ItemTransferRequiresMainAppDescriptionLong" = "سازمانی درخواست مالکیت موارد شخصی شما را دارد. برای بررسی و تکمیل این درخواست، برنامه اصلی Multipass را باز کنید.";
 "ThisSettingIsManagedByYourOrganization" = "این تنظیمات توسط سازمان شما مدیریت می‌شود.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "سازمان شما حداکثر زمان انقضای نشست را روی %1$@ تنظیم کرده است.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "سازمان شما زمان پیش‌فرض انقضای نشست را روی هرگز تنظیم کرده است.";
@@ -1102,7 +1102,7 @@
 "MasterPasswordUnlockCleared" = "باز کردن قفل با کلمه عبور اصلی پاک شد.";
 "SsoCookiesCleared" = "کوکی‌های SSO پاک شدند";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "درخواست شما به دلیل نیاز برنامه به احراز هویت مجدد، قطع شد. لطفاً دوباره امتحان کنید.";
-"AutofillWithBitwardenDescriptionLong" = "Bitwarden می‌تواند هنگام ورود به برنامه‌ها و وب‌سایت‌ها، کلمات عبور و سایر اطلاعات کاربری شما را پیشنهاد دهد.";
+"AutofillWithBitwardenDescriptionLong" = "Multipass می‌تواند هنگام ورود به برنامه‌ها و وب‌سایت‌ها، کلمات عبور و سایر اطلاعات کاربری شما را پیشنهاد دهد.";
 "LearnMoreAboutAutofill" = "درباره پر کردن خودکار بیشتر بدانید";
 "TurnOnNow" = "اکنون فعال کن";
 "AcceptTransfer" = "نقل و انتقالات را بپذیرید";

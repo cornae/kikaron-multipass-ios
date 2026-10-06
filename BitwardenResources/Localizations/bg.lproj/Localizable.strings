@@ -3,7 +3,7 @@
 "AddFolder" = "Добавяне на папка";
 "AnErrorHasOccurred" = "Възникна грешка.";
 "Back" = "Назад";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Отказ";
 "Copy" = "Копиране";
 "CopyLicenseNumber" = "Копиране на номера на свидетелството";
@@ -301,7 +301,7 @@
 "AutofillTurnOn2" = "2. Натиснете „Пароли“";
 "AutofillTurnOn3" = "3. Отворете автоматичното попълване на пароли";
 "AutofillTurnOn4" = "4. Включете автоматичното дописване (AutoFill)";
-"AutofillTurnOn5" = "5. Изберете „Bitwarden“";
+"AutofillTurnOn5" = "5. Изберете „Multipass“";
 "PasswordAutofill" = "Автоматично попълване на пароли";
 "BitwardenAutofillAlert2" = "Най-лесният начин да добавяте нови записи в трезора си е с разширението за автоматично попълване на пароли на Битуорден. Може да научите повече относно това как да го ползвате в екрана с настройките.";
 "InvalidEmail" = "Грешен адрес на е-поща.";

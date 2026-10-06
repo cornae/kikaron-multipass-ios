@@ -3,7 +3,7 @@
 "AddFolder" = "Pridėti katalogą";
 "AnErrorHasOccurred" = "Įvyko klaida.";
 "Back" = "Atgal";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Atšaukti";
 "Copy" = "Kopijuoti";
 "CopyLicenseNumber" = "Kopijuoti licencijos numerį";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "Slaptafrazes dažnai yra lengviau įsiminti ir įvesti nei atsitiktinius slaptažodžius. Jos gali būti naudingos, kai reikia prisijungti prie paskyrų, kuriose automatinis pildymas nėra prieinamas, pavyzdžiui, prie srautinio perdavimo paslaugos televizoriuje.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "Unikalūs vartotojų vardai suteikia papildomą saugumo lygį ir gali padėti apsisaugoti nuo įsilaužėlių, bandančių rasti jūsų paskyras.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "Naudokite šias parinktis, kad pritaikytumėte savo slaptažodį pagal paskyros svetainės reikalavimus.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Išsaugoję naują slaptažodį programoje „Bitwarden“, nepamirškite jį atnaujinti ir savo paskyros svetainėje.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Išsaugoję naują slaptažodį programoje „Multipass“, nepamirškite jį atnaujinti ir savo paskyros svetainėje.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "Norėdami naudoti automatinį pildymą ir pasiekti šią paskyrą, turite pridėti interneto adresą.";
 "Username" = "Vartotojo vardas";
 "ValidationFieldRequired" = "Laukas „%1$@“ yra būtinas.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "Iš naujo suaktyvinkite programos plėtinį";
 "ExtensionAlmostDone" = "Beveik baigta!";
 "ExtensionEnable" = "Suaktyvinkite programos plėtinį";
-"ExtensionInSafari" = "„Safari“ naršyklėje raskite „Bitwarden“ naudodami bendrinimo piktogramą (užuomina: apatinėje meniu eilutėje slinkite į dešinę).";
+"ExtensionInSafari" = "„Safari“ naršyklėje raskite „Multipass“ naudodami bendrinimo piktogramą (užuomina: apatinėje meniu eilutėje slinkite į dešinę).";
 "ExtensionInstantAccess" = "Gaukite tiesioginę prieigą prie savo slaptažodžių!";
 "ExtensionReady" = "Esate pasiruošę prisijungti!";
 "ExtensionSetup" = "Dabar jūsų prisijungimai lengvai pasiekiami naudojant „Safari“, „Chrome“ ir kitas palaikomas programas.";
-"ExtensionSetup2" = "„Safari“ ir „Chrome“ naršyklėse suraskite „Bitwarden“ naudodami bendrinimo piktogramą (patarimas: apatinėje bendrinimo meniu eilutėje slinkite į dešinę).";
-"ExtensionTapIcon" = "Norėdami paleisti plėtinį, meniu bakstelėkite „Bitwarden“ piktogramą.";
-"ExtensionTurnOn" = "Norėdami įjungti „Bitwarden“ programose „Safari“ ir kitose programose, meniu apačioje bakstelėkite piktogramą „daugiau“.";
+"ExtensionSetup2" = "„Safari“ ir „Chrome“ naršyklėse suraskite „Multipass“ naudodami bendrinimo piktogramą (patarimas: apatinėje bendrinimo meniu eilutėje slinkite į dešinę).";
+"ExtensionTapIcon" = "Norėdami paleisti plėtinį, meniu bakstelėkite „Multipass“ piktogramą.";
+"ExtensionTurnOn" = "Norėdami įjungti „Multipass“ programose „Safari“ ir kitose programose, meniu apačioje bakstelėkite piktogramą „daugiau“.";
 "Favorite" = "Mėgstamiausias";
 "Fingerprint" = "Piršto atspaudas";
 "GeneratePassword" = "Sukurti slaptažodį";
@@ -110,7 +110,7 @@
 "Immediately" = "Nedelsiant";
 "VaultTimeoutLogOutConfirmation" = "Atsijungus bus panaikinta visa prieiga prie jūsų saugyklos ir po laiko limito bus reikalingas prisijungimas internetu. Ar tikrai norite naudoti šį nustatymą?";
 "LoggingIn" = "Prisijungiama…";
-"LogInToBitwarden" = "Prisijungti prie „Bitwarden“";
+"LogInToBitwarden" = "Prisijungti prie „Multipass“";
 "MasterPasswordConfirmationValMessage" = "Slaptažodžio patvirtinimas neteisingas.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "Pagrindinis slaptažodis yra slaptažodis, kurį naudojate norėdami pasiekti savo saugyklą.";
 "MasterPasswordHint" = "Pagrindinio slaptažodžio užuomina";
@@ -127,7 +127,7 @@
 "PasswordHint" = "Slaptažodžio užuomina";
 "PasswordHintAlert" = "Išsiuntėme jums el. laišką su pagrindinio slaptažodžio užuomina.";
 "PasswordOverrideAlert" = "Ar tikrai norite perrašyti dabartinį slaptažodį?";
-"PushNotificationAlert" = "„Bitwarden“ automatiškai sinchronizuoja jūsų saugyklą naudodamas pranešimus. Kad patirtis būtų kuo geresnė, gavę prašymą leisti siųsti pranešimus, pasirinkite „Leisti“.";
+"PushNotificationAlert" = "„Multipass“ automatiškai sinchronizuoja jūsų saugyklą naudodamas pranešimus. Kad patirtis būtų kuo geresnė, gavę prašymą leisti siųsti pranešimus, pasirinkite „Leisti“.";
 "Security" = "Apsauga";
 "Select" = "Pasirinkti";
 "ItemUpdated" = "Elementas pridėtas";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Atrakinti naudojant „Optic ID“";
 "UnlockWithPIN" = "Atrakinti PIN kodu";
 "VerificationCode" = "Patvirtinimo kodas";
-"WebVault" = "„Bitwarden“ žiniatinklio saugykla";
+"WebVault" = "„Multipass“ žiniatinklio saugykla";
 "Items" = "Elementai";
 "ExtensionActivated" = "Plėtinys aktyvuotas!";
 "ItemsForUri" = "Elementai %1$@";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "Aplinkos URL buvo išsaugoti.";
 "IdentityUrl" = "Tapatybės serverio URL";
 "SelfHostedEnvironment" = "Savarankiška aplinka";
-"SelfHostedEnvironmentFooter" = "Nurodykite bazinį vietinio priglobto „Bitwarden“ diegimo URL.";
+"SelfHostedEnvironmentFooter" = "Nurodykite bazinį vietinio priglobto „Multipass“ diegimo URL.";
 "ServerUrl" = "Serverio URL";
 "WebVaultUrl" = "Žiniatinklio saugyklos serverio URL";
 "CustomFields" = "Papildomi laukai";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "Rodyti tinklalapių ikonėles";
 "ShowWebsiteIconsDescription" = "Prie kiekvieno prisijungimo parodykite atpažįstamą vaizdą.";
 "IconsUrl" = "Piktogramų serverio URL";
-"AutofillWithBitwarden" = "Automatinis pildymas naudojant „Bitwarden“";
+"AutofillWithBitwarden" = "Automatinis pildymas naudojant „Multipass“";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "Rinkinys";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. Bakstelėkite „Slaptažodžiai“";
 "AutofillTurnOn3" = "3. Bakstelėkite „Automatinis slaptažodžių pildymas“";
 "AutofillTurnOn4" = "4. Įjunkite automatinį užpildymą";
-"AutofillTurnOn5" = "5. Pasirinkite „Bitwarden“";
+"AutofillTurnOn5" = "5. Pasirinkite „Multipass“";
 "PasswordAutofill" = "Automatinis slaptažodžių pildymas";
-"BitwardenAutofillAlert2" = "Lengviausias būdas pridėti naujus prisijungimus prie saugyklos yra naudoti „Bitwarden“ automatinio slaptažodžių pildymo plėtinį. Daugiau apie „Bitwarden“ automatinio slaptažodžių pildymo plėtinio naudojimą sužinokite eidami į ekraną „Nustatymai“.";
+"BitwardenAutofillAlert2" = "Lengviausias būdas pridėti naujus prisijungimus prie saugyklos yra naudoti „Multipass“ automatinio slaptažodžių pildymo plėtinį. Daugiau apie „Multipass“ automatinio slaptažodžių pildymo plėtinio naudojimą sužinokite eidami į ekraną „Nustatymai“.";
 "InvalidEmail" = "Klaidingas el. pašto adresas.";
 "InvalidEmailAddresses" = "Netinkami el. pašto adresai";
 "NoEmailAddressesEntered" = "Neįvesta jokių el. pašto adresų";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "Tęsti privatumo politiką?";
 "ContinueToAppStore" = "Tęsti programų parduotuvėje?";
 "ContinueWithoutSyncing" = "Tęsti be sinchronizavimo";
-"TwoStepLoginDescriptionLong" = "Padidinkite savo paskyros saugumą, nustatydami dviejų veiksnių prisijungimą „Bitwarden“ internetinėje programoje.";
+"TwoStepLoginDescriptionLong" = "Padidinkite savo paskyros saugumą, nustatydami dviejų veiksnių prisijungimą „Multipass“ internetinėje programoje.";
 "YouCanImportDataToYourVaultOnX" = "Galite importuoti duomenis į savo saugyklą %1$@.";
 "PrivacyPolicyDescriptionLong" = "Peržiūrėkite mūsų privatumo politiką bitwarden.com.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Naršykite daugiau „Bitwarden“ paskyros funkcijų internetinėje programoje.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Naršykite daugiau „Multipass“ paskyros funkcijų internetinėje programoje.";
 "LearnAboutOrganizationsDescriptionLong" = "„Bitwarden“ leidžia dalytis saugyklos elementais su kitais naudojant organizaciją. Daugiau sužinokite bitwarden.com svetainėje.";
-"RateAppDescriptionLong" = "Padėkite kitiems sužinoti, ar „Bitwarden“ jiems tinka. Aplankykite programų parduotuvę ir dabar palikite įvertinimą.";
+"RateAppDescriptionLong" = "Padėkite kitiems sužinoti, ar „Multipass“ jiems tinka. Aplankykite programų parduotuvę ir dabar palikite įvertinimą.";
 "CreatedX" = "Sukurta %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "Dėl pasikeitusių Jūsų organizacijos nuostatų, jums reikia nustatyti pagrindinį slaptažodį.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "Jūsų organizacijos nuostatos reikalauja jus nustatyti pagrindinį slaptažodį.";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "Sužinokite daugiau apie saugių prisijungimo duomenų generavimą naudodami vadovaujamą ekskursiją.";
 "ExportVaultFilePwProtectInfo" = "Šis failo eksportas bus apsaugotas slaptažodžiu, o jo iššifravimui reikės failo slaptažodžio.";
 "IntroCarouselPage1Title" = "Saugumas, kaip prioritetas";
-"IntroCarouselPage1Message" = "Išsaugokite prisijungimus, korteles ir tapatybes savo saugioje saugykloje. „Bitwarden“ naudoja nulinio žinojimo, galinio-galio šifravimą, kad apsaugotų tai, kas jums svarbu.";
+"IntroCarouselPage1Message" = "Išsaugokite prisijungimus, korteles ir tapatybes savo saugioje saugykloje. „Multipass“ naudoja nulinio žinojimo, galinio-galio šifravimą, kad apsaugotų tai, kas jums svarbu.";
 "IntroCarouselPage2Title" = "Greitas ir paprastas prisijungimas";
 "IntroCarouselPage2Message" = "Nustatykite atrakinimą biometrija ir automatinį pildymą, kad galėtumėte prisijungti prie paskyrų neįvesdami nė vienos raidės.";
 "IntroCarouselPage3Title" = "Patobulinkite savo prisijungimus";
 "IntroCarouselPage3Message" = "Naudokite generatorių, kad sukurtumėte ir išsaugotumėte stiprius, unikalius slaptažodžius visoms savo paskyroms.";
 "IntroCarouselPage4Title" = "Jūsų duomenys, kada ir kur jų reikia";
-"IntroCarouselPage4Message" = "Išsaugokite neribotą kiekį slaptažodžių neribotame įrenginių skaičiuje naudodami „Bitwarden“ mobiliąsias, naršyklės ir darbalaukio programas.";
+"IntroCarouselPage4Message" = "Išsaugokite neribotą kiekį slaptažodžių neribotame įrenginių skaičiuje naudodami „Multipass“ mobiliąsias, naršyklės ir darbalaukio programas.";
 "AccountSetup" = "Paskyros nustatymas";
 "SetUpUnlock" = "Nustatyti atrakinimą";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "Nustatykite biometriją arba pasirinkite PIN kodą, kad greitai pasiektumėte savo saugyklą ir automatiškai pildytumėte prisijungimus.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "Pagrindinis slaptažodis (būtina)";
 "RetypeMasterPasswordRequired" = "Pakartokite pagrindinį slaptažodį (būtina)";
 "RetypeNewMasterPasswordRequired" = "Pakartokite naują pagrindinį slaptažodį (būtina)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "„Bitwarden“ negali atkurti pamiršto ar prarasto pagrindinio slaptažodžio.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "„Multipass“ negali atkurti pamiršto ar prarasto pagrindinio slaptažodžio.";
 "LearnAboutWaysToPreventAccountLockout" = "Sužinokite apie būdus, kaip išvengti paskyros užrakinimo";
 "RestartRegistration" = "Paleisti registraciją iš naujo";
 "Expired" = "Nebegalioja";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Klaida prijungiant su „Duo“ paslauga. Naudokite kitą dvigubo prisijungimo būdą arba susisiekite su „Duo“ dėl pagalbos.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "Nepavyko įkelti išankstinio autentifikavimo URL, kad būtų pradėtas paskyros kūrimas.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "Įrenginio nustatymuose **įjunkite automatinį slaptažodžių ir prieigos raktų pildymą.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Išjunkite „iCloud“ raktinę** (), kad „Bitwarden“ taptų jūsų numatytuoju automatinio pildymo šaltiniu.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Įjunkite „Bitwarden“**, kad galėtumėte naudoti išsaugotus slaptažodžius prisijungdami prie savo paskyrų.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Išjunkite „iCloud“ raktinę** (), kad „Multipass“ taptų jūsų numatytuoju automatinio pildymo šaltiniu.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Įjunkite „Multipass“**, kad galėtumėte naudoti išsaugotus slaptažodžius prisijungdami prie savo paskyrų.";
 "TurnOnAutoFill" = "Įjungti automatinį pildymą";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "Naudokite automatinį pildymą, kad vienu bakstelėjimu prisijungtumėte prie savo paskyrų.";
 "NeedHelpCheckOutAutofillHelp" = "Reikia pagalbos? Peržiūrėkite **[automatinio pildymo pagalbą](%1$@)**";
 "TurnOnLater" = "Įjungti vėliau";
 "TurnOnAutoFillLaterQuestion" = "Įjungti automatinį pildymą vėliau?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "Galite grįžti ir užbaigti šį veiksmą bet kada skiltyje „Nustatymai“.";
-"ContinueToBitwarden" = "Tęsti „Bitwarden“";
+"ContinueToBitwarden" = "Tęsti „Multipass“";
 "BackToSettings" = "Atgal į nustatymus";
 "YoureAllSet" = "Viskas paruošta!";
-"AutoFillActivatedDescriptionLong" = "Dabar galite naudoti automatinį pildymą, kad prisijungtumėte prie programų ir svetainių naudodami išsaugotus slaptažodžius. Dabar galite tyrinėti visa kita, ką siūlo „Bitwarden“.";
+"AutoFillActivatedDescriptionLong" = "Dabar galite naudoti automatinį pildymą, kad prisijungtumėte prie programų ir svetainių naudodami išsaugotus slaptažodžius. Dabar galite tyrinėti visa kita, ką siūlo „Multipass“.";
 "GetStarted" = "Pradėti";
 "Dismiss" = "Atmesti";
 "SaveAndProtectYourData" = "Išsaugokite ir apsaugokite savo duomenis";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "Naudokite kompiuterį, kad importuotumėte prisijungimus iš esamos slaptažodžių tvarkyklės.";
 "ImportLogins" = "Importuoti prisijungimus";
 "GiveYourVaultAHeadStart" = "Suteikite savo saugyklai pranašumą";
-"ImportLoginsDescriptionLong" = "Savo kompiuteryje vykdykite šias instrukcijas, kad eksportuotumėte išsaugotus slaptažodžius iš naršyklės ar kitos slaptažodžių tvarkyklės. Tada saugiai importuokite juos į „Bitwarden“.";
+"ImportLoginsDescriptionLong" = "Savo kompiuteryje vykdykite šias instrukcijas, kad eksportuotumėte išsaugotus slaptažodžius iš naršyklės ar kitos slaptažodžių tvarkyklės. Tada saugiai importuokite juos į „Multipass“.";
 "ImportLoginsLater" = "Importuoti prisijungimus vėliau";
 "ImportLoginsLaterQuestion" = "Importuoti prisijungimus vėliau?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "Galite grįžti ir užbaigti šį veiksmą bet kada skiltyje „Saugykla“ po „Nustatymai“.";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "Ištrinsite šį failą, kai importas bus baigtas.";
 "NeedHelpCheckOutImportHelp" = "Reikia pagalbos? Peržiūrėkite **[importo pagalbą](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "Savo kompiuteryje atidarykite naują naršyklės skirtuką ir **eikite į %1$@**.";
-"LogInToTheBitwardenWebApp" = "**Prisijunkite prie „Bitwarden“ internetinės programos.**";
-"ImportLoginsToBitwarden" = "Importuoti prisijungimus į „Bitwarden“";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "„Bitwarden“ naršymo srityje **raskite parinktį Įrankiai** ir **pasirinkite Importuoti duomenis.**";
+"LogInToTheBitwardenWebApp" = "**Prisijunkite prie „Multipass“ internetinės programos.**";
+"ImportLoginsToBitwarden" = "Importuoti prisijungimus į „Multipass“";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "„Multipass“ naršymo srityje **raskite parinktį Įrankiai** ir **pasirinkite Importuoti duomenis.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "Užpildykite formą ir **importuokite savo išsaugotą slaptažodžių failą.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "Internetinėje programoje **pasirinkite Importuoti duomenis**, tada **Atlikta**, kad užbaigtumėte sinchronizavimą.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "Dėl savo saugumo būtinai **ištrinkite savo išsaugotą slaptažodžių failą.**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "Paskyra nerasta. Jei ši klaida vis dar rodoma, prisijunkite dar kartą.";
 "ImportError" = "Importavimo klaida";
 "NoLoginsWereImported" = "Nebuvo importuota jokių prisijungimų";
-"ThisIsNotARecognizedServerDescriptionLong" = "Tai nėra atpažintas „Bitwarden“ serveris. Gali tekti pasitikrinti pas savo teikėją arba atnaujinti savo serverį.";
+"ThisIsNotARecognizedServerDescriptionLong" = "Tai nėra atpažintas „Multipass“ serveris. Gali tekti pasitikrinti pas savo teikėją arba atnaujinti savo serverį.";
 "LoginsImported" = "Prisijungimai importuoti";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "Nepamirškite ištrinti importuoto slaptažodžių failo iš savo kompiuterio.";
 "SomethingWentWrong" = "Kažkas nutiko ne taip";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "Įjunkite laikiną registravimą, kad galėtumėte rinkti ir peržiūrėti žurnalus vietoje. Kai įjungta, gali būti registruojamos programos būsenos ir tinklo užklausos – niekada jautri saugyklos informacija.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "Norėdami pradėti, nustatykite registravimo trukmę. Registravimas automatiškai išsijungs pasibaigus šiam laikotarpiui, suteikdamas jums laiko užfiksuoti veiklą atkuriant problemas.";
 "LoggingDuration" = "Registravimo trukmė";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Žurnalai bus automatiškai ištrinti po 30 dienų. „Bitwarden“ gali pasiekti jūsų žurnalo duomenis tik tada, kai juos bendrinate.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Žurnalai bus automatiškai ištrinti po 30 dienų. „Multipass“ gali pasiekti jūsų žurnalo duomenis tik tada, kai juos bendrinate.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "Išsamią informaciją apie tai, kas ir kas nėra registruojama, rasite **[„Bitwarden“ pagalbos centre](%1$@)**.";
 "ShowMore" = "Rodyti daugiau";
 "ShowLess" = "Rodyti mažiau";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "Patvirtinkite toliau nurodytą domeną su savo organizacijos administratoriumi.\n\n„Key Connector“ domenas:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "Ar tikrai norite ištrinti šį žurnalą?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "Ar tikrai norite ištrinti visus įrašytus žurnalus?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Ši paskyra netrukus bus ištrinta. Prisijunkite adresu %1$@, kad galėtumėte toliau naudotis „Bitwarden“.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Ši paskyra netrukus bus ištrinta. Prisijunkite adresu %1$@, kad galėtumėte toliau naudotis „Multipass“.";
 "AppSettings" = "Programos nustatymai";
 "ViewFileSend" = "Peržiūrėti failo siuntimą";
 "ViewTextSend" = "Peržiūrėti teksto siuntimą";
@@ -942,7 +942,7 @@
 "LastEdited" = "Paskutinį kartą redaguota: %1$@";
 "PasswordLastUpdated" = "Slaptažodis paskutinį kartą atnaujintas: %1$@";
 "DecryptionError" = "Iššifravimo klaida";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "„Bitwarden“ nepavyko iššifruoti šio saugyklos elemento. Nukopijuokite ir bendrinkite šią klaidų ataskaitą su klientų aptarnavimo tarnyba, kad išvengtumėte papildomų duomenų praradimų.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "„Multipass“ nepavyko iššifruoti šio saugyklos elemento. Nukopijuokite ir bendrinkite šią klaidų ataskaitą su klientų aptarnavimo tarnyba, kad išvengtumėte papildomų duomenų praradimų.";
 "CopyErrorReport" = "Kopijuoti klaidų ataskaitą";
 "ErrorCannotDecrypt" = "[klaida: nepavyko iššifruoti]";
 "AccountsSyncedFromBitwardenApp" = "Paskyros, sinchronizuotos iš „Bitwarden“ programos";
@@ -1000,7 +1000,7 @@
 "Skip" = "Praleisti";
 "Steam" = "„Steam“";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "Saugokite visus savo prisijungimus ir sinchronizuokite patikrinimo kodus tiesiogiai su autentifikatoriaus programa.";
-"SyncWithBrowserDescriptionLong" = "Norėdami prisijungti prie %1$@, sinchronizuokite savo numatytąją naršyklę su „Bitwarden“ mobiliąja programa. Kai naršyklė atsidarys, jei bus prašoma, užbaikite prisijungimą. Kai sinchronizavimas bus baigtas, būsite grąžinti į šią programą.";
+"SyncWithBrowserDescriptionLong" = "Norėdami prisijungti prie %1$@, sinchronizuokite savo numatytąją naršyklę su „Multipass“ mobiliąja programa. Kai naršyklė atsidarys, jei bus prašoma, užbaikite prisijungimą. Kai sinchronizavimas bus baigtas, būsite grąžinti į šią programą.";
 "SyncWithBitwardenApp" = "Sinchronizuoti su „Bitwarden“ programa";
 "SyncWithBrowser" = "Sinchronizuoti su naršykle";
 "SyncWithTheBitwardenApp" = "Sinchronizuoti su „Bitwarden“ programa";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "Pasirinkti paskyrą";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "Paskyros";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI atitikimo aptikimas valdo, kaip „Bitwarden“ atpažįsta automatinio užpildymo pasiūlymus.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI atitikimo aptikimas valdo, kaip „Multipass“ atpažįsta automatinio užpildymo pasiūlymus.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "„Prasideda“ yra išplėstinė parinktis, kuri padidina prisijungimo duomenų atskleidimo riziką.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "„Reguliarioji išraiška“ yra išplėstinė parinktis, kuri netinkamai naudojant padidina prisijungimo duomenų atskleidimo riziką.";
 "StartsWithAdvanced" = "Prasideda (išplėstinis)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "Kreipkitės į savo administratorių, kad atgautumėte prieigą.";
 "LeaveX" = "Palikti %1$@";
 "YouLeftTheOrganization" = "Išėjote iš organizacijos";
-"ItemTransferRequiresMainAppDescriptionLong" = "Organizacija prašo jūsų asmeninių elementų nuosavybės. Atidarykite pagrindinę „Bitwarden“ programą, kad peržiūrėtumėte ir užbaigtumėte šį prašymą.";
+"ItemTransferRequiresMainAppDescriptionLong" = "Organizacija prašo jūsų asmeninių elementų nuosavybės. Atidarykite pagrindinę „Multipass“ programą, kad peržiūrėtumėte ir užbaigtumėte šį prašymą.";
 "ThisSettingIsManagedByYourOrganization" = "Šį nustatymą tvarko jūsų organizacija.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "Jūsų organizacija nustatė maksimalų sesijos laiką iki %1$@.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "Jūsų organizacija nustatė numatytąjį sesijos laiką kaip niekada.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock išvalytas.";
 "SsoCookiesCleared" = "SSO slapukai išvalyti";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "Jūsų užklausa buvo nutraukta, nes programai reikėjo pakartotinai autentifikuotis. Bandykite dar kartą.";
-"AutofillWithBitwardenDescriptionLong" = "„Bitwarden“ gali pasiūlyti jūsų slaptažodžius ir kitus prisijungimo duomenis, kai prisijungiate prie programų ir svetainių.";
+"AutofillWithBitwardenDescriptionLong" = "„Multipass“ gali pasiūlyti jūsų slaptažodžius ir kitus prisijungimo duomenis, kai prisijungiate prie programų ir svetainių.";
 "LearnMoreAboutAutofill" = "Sužinoti daugiau apie automatinį pildymą";
 "TurnOnNow" = "Įjungti dabar";
 "AcceptTransfer" = "Priimti perkėlimą";

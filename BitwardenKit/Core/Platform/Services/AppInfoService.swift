@@ -152,7 +152,15 @@ public extension DefaultAppInfoService {
 
     /// The copyright information for the app.
     var copyrightString: String {
-        "© Bitwarden Inc. 2015\(String.enDash)\(Calendar.current.component(.year, from: timeProvider.presentTime))"
+        // Kikaron: the GPL-3.0 notices of this modified version, in the wording of
+        // Bitwarden's trademark guidelines.
+        """
+        © Bitwarden Inc. 2015\(String.enDash)\(Calendar.current.component(.year, from: timeProvider.presentTime))
+        Kikaron Multipass was developed using Bitwarden® open source software. \
+        Not affiliated with or endorsed by Bitwarden, Inc.
+        Modified by Cornae (2026). GPL-3.0, without any warranty.
+        Source: https://github.com/cornae/kikaron-multipass-ios
+        """
     }
 
     /// Whether the running build is the Beta variant, derived from the bundle identifier.

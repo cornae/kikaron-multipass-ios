@@ -14,9 +14,9 @@
 			<key>NSStringFormatValueTypeKey</key>
 			<string>d</string>
 			<key>one</key>
-			<string>Bitwarden could not decrypt %d vault item.</string>
+			<string>Multipass could not decrypt %d vault item.</string>
 			<key>other</key>
-			<string>Bitwarden could not decrypt %d vault items.</string>
+			<string>Multipass could not decrypt %d vault items.</string>
 		</dict>
 	</dict>
 	<!-- A message indicating the minimum length of a master password in characters. -->

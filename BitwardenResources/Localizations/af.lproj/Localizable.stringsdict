@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Bitwarden kon nie %d kluisitem dekripteer nie.</string>
+        <string>Multipass kon nie %d kluisitem dekripteer nie.</string>
         <key>other</key>
-        <string>Bitwarden kon nie %d kluisitems dekripteer nie.</string>
+        <string>Multipass kon nie %d kluisitems dekripteer nie.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

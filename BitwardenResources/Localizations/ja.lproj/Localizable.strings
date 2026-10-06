@@ -3,7 +3,7 @@
 "AddFolder" = "フォルダーを追加";
 "AnErrorHasOccurred" = "エラーが発生しました。";
 "Back" = "戻る";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "キャンセル";
 "Copy" = "コピー";
 "CopyLicenseNumber" = "免許証番号をコピー";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "パスフレーズは、ランダムなパスワードに比べて覚えやすく、タイピングしやすい場合が多いです。 テレビのストリーミングサービスなどの、自動入力が利用できないアカウントにログインする際に役立ちます。";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "一意のユーザー名は追加のセキュリティ層となり、あなたのアカウントがハッカーに見つかりにくくするのに役立ちます。";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "これらのオプションを使用して、アカウントのウェブサイトの要件を満たすためにパスワードを調整します。";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "新しいパスワードを Bitwarden に保存したら、そのアカウントのウェブサイトでも忘れずにパスワードを更新してください。";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "新しいパスワードを Multipass に保存したら、そのアカウントのウェブサイトでも忘れずにパスワードを更新してください。";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "自動入力を使用してこのアカウントにアクセスするには、Webアドレスを追加する必要があります。";
 "Username" = "ユーザー名";
 "ValidationFieldRequired" = "%1$@ は必須です。";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "App Extension を再度有効化";
 "ExtensionAlmostDone" = "ほぼ完了！";
 "ExtensionEnable" = "App Extension を有効化";
-"ExtensionInSafari" = "Safari では、共有アイコンを使って Bitwarden を見つけてください（ヒント：メニューの一番下の行を右側にスクロール）";
+"ExtensionInSafari" = "Safari では、共有アイコンを使って Multipass を見つけてください（ヒント：メニューの一番下の行を右側にスクロール）";
 "ExtensionInstantAccess" = "パスワードに素早くアクセスしましょう！";
 "ExtensionReady" = "ログインする準備が出来ました！";
 "ExtensionSetup" = "Safari やChrome などの対応アプリでログイン情報に簡単にアクセスできます。";
-"ExtensionSetup2" = "Safari と Chrome では、共有アイコンを使って Bitwarden を見つけてください（ヒント：メニューの一番下の行を右側にスクロール）";
-"ExtensionTapIcon" = "メニューの Bitwarden アイコンをタップして拡張機能を起動してください。";
-"ExtensionTurnOn" = "BitwardenをSafariなどのアプリで開くには、メニューの一番下の行の“詳細”をタップしてください。";
+"ExtensionSetup2" = "Safari と Chrome では、共有アイコンを使って Multipass を見つけてください（ヒント：メニューの一番下の行を右側にスクロール）";
+"ExtensionTapIcon" = "メニューの Multipass アイコンをタップして拡張機能を起動してください。";
+"ExtensionTurnOn" = "MultipassをSafariなどのアプリで開くには、メニューの一番下の行の“詳細”をタップしてください。";
 "Favorite" = "お気に入り";
 "Fingerprint" = "指紋認証";
 "GeneratePassword" = "パスワードの自動生成";
@@ -110,7 +110,7 @@
 "Immediately" = "即時";
 "VaultTimeoutLogOutConfirmation" = "ログアウトすると保管庫へのすべてのアクセスが制限され、タイムアウト期間後にオンライン認証が必要になります。 この設定を使用してもよろしいですか？";
 "LoggingIn" = "ログイン中…";
-"LogInToBitwarden" = "Bitwarden にログイン";
+"LogInToBitwarden" = "Multipass にログイン";
 "MasterPasswordConfirmationValMessage" = "パスワードの確認が正しくありません。";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "マスターパスワードとは、保管庫にアクセスするためのパスワードです。";
 "MasterPasswordHint" = "マスターパスワードのヒント";
@@ -127,7 +127,7 @@
 "PasswordHint" = "パスワードのヒント";
 "PasswordHintAlert" = "マスターパスワードのヒントを記載したメールを送信しました。";
 "PasswordOverrideAlert" = "現在のパスワードを上書きしてよろしいですか?";
-"PushNotificationAlert" = "Bitwarden はプッシュ通知を使って自動的に保管庫を同期します。プッシュ通知を有効化するかどうかプロンプトが出たら「許可」を押してください。";
+"PushNotificationAlert" = "Multipass はプッシュ通知を使って自動的に保管庫を同期します。プッシュ通知を有効化するかどうかプロンプトが出たら「許可」を押してください。";
 "Security" = "セキュリティ";
 "Select" = "選択";
 "ItemUpdated" = "アイテムを更新しました。";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Optic ID でロック解除";
 "UnlockWithPIN" = "PIN コードでロック解除";
 "VerificationCode" = "認証コード";
-"WebVault" = "Bitwarden ウェブ保管庫";
+"WebVault" = "Multipass ウェブ保管庫";
 "Items" = "アイテム";
 "ExtensionActivated" = "拡張機能を有効化しました！";
 "ItemsForUri" = "%1$@ 用のアイテム";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "環境 URL を保存しました。";
 "IdentityUrl" = "ID サーバー URL";
 "SelfHostedEnvironment" = "セルフホスティング環境";
-"SelfHostedEnvironmentFooter" = "セルフホスティングしている Bitwarden のベース URL を指定してください。";
+"SelfHostedEnvironmentFooter" = "セルフホスティングしている Multipass のベース URL を指定してください。";
 "ServerUrl" = "サーバー URL";
 "WebVaultUrl" = "ウェブ保管庫サーバー URL";
 "CustomFields" = "カスタムフィールド";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "ウェブサイトのアイコンを表示";
 "ShowWebsiteIconsDescription" = "ログイン情報の隣にアイコン画像を表示します";
 "IconsUrl" = "アイコンのサーバー URL";
-"AutofillWithBitwarden" = "Bitwarden で自動入力";
+"AutofillWithBitwarden" = "Multipass で自動入力";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "コレクション";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. 「パスワード」をタップ";
 "AutofillTurnOn3" = "3. 「パスワードの自動入力」をタップ";
 "AutofillTurnOn4" = "4. 自動入力を有効化";
-"AutofillTurnOn5" = "5. 「Bitwarden」を選択";
+"AutofillTurnOn5" = "5. 「Multipass」を選択";
 "PasswordAutofill" = "パスワード自動入力";
-"BitwardenAutofillAlert2" = "新しいログイン情報をボールトに追加する最も簡単な方法は、Bitwardenパスワードオートフィル拡張機能を使用することです。「設定」画面に移動して、Bitwardenパスワードオートフィル拡張機能の使用方法の詳細をご覧ください。";
+"BitwardenAutofillAlert2" = "新しいログイン情報をボールトに追加する最も簡単な方法は、Multipassパスワードオートフィル拡張機能を使用することです。「設定」画面に移動して、Multipassパスワードオートフィル拡張機能の使用方法の詳細をご覧ください。";
 "InvalidEmail" = "無効なメールアドレスです。";
 "InvalidEmailAddresses" = "無効なメール アドレスです";
 "NoEmailAddressesEntered" = "メールアドレスが入力されていません";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "プライバシーポリシーを確認しますか？";
 "ContinueToAppStore" = "アプリストアに進みますか?";
 "ContinueWithoutSyncing" = "同期せずに続行";
-"TwoStepLoginDescriptionLong" = "Bitwarden ウェブアプリで2段階認証を設定すると、アカウントがより安全になります。";
+"TwoStepLoginDescriptionLong" = "Multipass ウェブアプリで2段階認証を設定すると、アカウントがより安全になります。";
 "YouCanImportDataToYourVaultOnX" = "%1$@ の保管庫にデータをインポートできます。";
 "PrivacyPolicyDescriptionLong" = "bitwarden.com でプライバシーポリシーをご覧ください。";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Bitwarden アカウントの機能をウェブアプリでご確認ください。";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Multipass アカウントの機能をウェブアプリでご確認ください。";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden は組織を使って保管庫アイテムを他の人と共有することができます。詳細は bitwarden.com ウェブサイトをご覧ください。";
-"RateAppDescriptionLong" = "Bitwarden の使いやすさを他のユーザーにも知ってもらいましょう。アプリストアでレビューをしてください。";
+"RateAppDescriptionLong" = "Multipass の使いやすさを他のユーザーにも知ってもらいましょう。アプリストアでレビューをしてください。";
 "CreatedX" = "作成日 %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "組織の権限が更新され、マスターパスワードの設定が必要になりました。";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "あなたの組織では、マスターパスワードの設定が義務付けられています。";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "セキュアなログイン資格情報を生成する方法を、ガイド付きツアーでより深く学習しましょう。";
 "ExportVaultFilePwProtectInfo" = "このファイルのエクスポートはパスワードで保護され、復号するにはファイルのパスワードが必要になります。";
 "IntroCarouselPage1Title" = "セキュリティ優先";
-"IntroCarouselPage1Message" = "ログイン情報、カード、ID を安全な保管庫に保存します。Bitwarden はゼロ知識、エンドツーエンドの暗号化を使用して、あなたにとって重要なものを保護します。";
+"IntroCarouselPage1Message" = "ログイン情報、カード、ID を安全な保管庫に保存します。Multipass はゼロ知識、エンドツーエンドの暗号化を使用して、あなたにとって重要なものを保護します。";
 "IntroCarouselPage2Title" = "すばやく簡単にログイン";
 "IntroCarouselPage2Message" = "生体認証のロック解除と自動入力を設定して、文字を何も入力せずにアカウントにログインします。";
 "IntroCarouselPage3Title" = "ログインをレベルアップ";
 "IntroCarouselPage3Message" = "パスワード生成を使用して、すべてのアカウントで強力な一意のパスワードを作成して保存できます。";
 "IntroCarouselPage4Title" = "必要なデータを、いつでもどこでも";
-"IntroCarouselPage4Message" = "Bitwarden モバイルアプリ、ブラウザ、デスクトップアプリで、デバイスやパスワード数の制限なしに保存できます。";
+"IntroCarouselPage4Message" = "Multipass モバイルアプリ、ブラウザ、デスクトップアプリで、デバイスやパスワード数の制限なしに保存できます。";
 "AccountSetup" = "アカウントのセットアップ";
 "SetUpUnlock" = "ロック解除を設定";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "生体認証を設定するか、PIN コードを選択して保管庫にすばやくアクセスし、ログインを自動入力します。";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "マスターパスワード (必須)";
 "RetypeMasterPasswordRequired" = "マスターパスワードを再入力 (必須)";
 "RetypeNewMasterPasswordRequired" = "マスターパスワードを再入力 (必須)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden は紛失した、または忘れられたマスターパスワードをリセットできません。";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass は紛失した、または忘れられたマスターパスワードをリセットできません。";
 "LearnAboutWaysToPreventAccountLockout" = "アカウントのロックアウトを防ぐ方法について学ぶ";
 "RestartRegistration" = "登録を再度始める";
 "Expired" = "有効期限切れ";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Duo サービスへの接続中にエラーが発生しました。異なる二段階ログイン方法を使用するか、Duo に連絡してください。";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "アカウント作成を開始するための事前認証 URL を読み込めませんでした。";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "デバイス設定から、**パスワードとパスワードの自動入力をオンにします。**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**iCloud Keychain をオフに切り替えて**、Bitwarden をデフォルトの自動入力ソースにします。";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Bitwarden に切り替え**ると、保存したパスワードを使ってアカウントにログインできます。";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**iCloud Keychain をオフに切り替えて**、Multipass をデフォルトの自動入力ソースにします。";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Multipass に切り替え**ると、保存したパスワードを使ってアカウントにログインできます。";
 "TurnOnAutoFill" = "自動入力をオンにする";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "自動入力を使用するとワンタップでアカウントにログインできます。";
 "NeedHelpCheckOutAutofillHelp" = "ヘルプが必要ですか？**[自動入力のヘルプ](%1$@)**をチェックしてください。";
 "TurnOnLater" = "後でオンにする";
 "TurnOnAutoFillLaterQuestion" = "後で自動入力をオンにしますか？";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "いつでも「設定」からこのステップに戻れます。";
-"ContinueToBitwarden" = "Bitwarden へ進む";
+"ContinueToBitwarden" = "Multipass へ進む";
 "BackToSettings" = "設定に戻る";
 "YoureAllSet" = "準備完了です！";
-"AutoFillActivatedDescriptionLong" = "自動入力を使用して、保存したパスワードを使ってアプリやウェブサイトにログインできるようになりました。これで、Bitwarden が提供しているすべての機能の確認が終わりました。";
+"AutoFillActivatedDescriptionLong" = "自動入力を使用して、保存したパスワードを使ってアプリやウェブサイトにログインできるようになりました。これで、Multipass が提供しているすべての機能の確認が終わりました。";
 "GetStarted" = "利用を開始";
 "Dismiss" = "閉じる";
 "SaveAndProtectYourData" = "データの保存と保護";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "コンピューターを使用して、既存のパスワードマネージャーからログイン情報をインポートします。";
 "ImportLogins" = "ログイン情報をインポート";
 "GiveYourVaultAHeadStart" = "保管庫に情報を入れましょう";
-"ImportLoginsDescriptionLong" = "以下の手順に従って、お使いのコンピュータに保存されたパスワードをブラウザまたは他のパスワードマネージャーからエクスポートしてください。その後、Bitwarden へ安全にインポートします。";
+"ImportLoginsDescriptionLong" = "以下の手順に従って、お使いのコンピュータに保存されたパスワードをブラウザまたは他のパスワードマネージャーからエクスポートしてください。その後、Multipass へ安全にインポートします。";
 "ImportLoginsLater" = "後でログイン情報をインポート";
 "ImportLoginsLaterQuestion" = "後でログイン情報をインポートしますか?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "設定の保管庫メニューからいつでもこの手順に戻れます。";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "インポートが完了したら、このファイルを削除します。";
 "NeedHelpCheckOutImportHelp" = "ヘルプが必要ですか？ **[インポートのヘルプ](%1$@)** をチェックしてください";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "お使いのコンピュータで、新しいブラウザタブを開き、 **%1$@** に移動します。";
-"LogInToTheBitwardenWebApp" = "**Bitwarden ウェブアプリにログインします。**";
-"ImportLoginsToBitwarden" = "Bitwarden にログイン情報をインポート";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Bitwardenのナビゲーションで、**「ツール」オプションを見つけ**、**「データをインポート」を選択します。**";
+"LogInToTheBitwardenWebApp" = "**Multipass ウェブアプリにログインします。**";
+"ImportLoginsToBitwarden" = "Multipass にログイン情報をインポート";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Multipassのナビゲーションで、**「ツール」オプションを見つけ**、**「データをインポート」を選択します。**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "フォームに入力し、**保存したパスワードファイルをインポートします。**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "ウェブアプリで**「データをインポート」を選択**し、**「完了」** を選択して同期を完了します。";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "セキュリティのため、必ず**保存したパスワードファイルを削除してください。**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "アカウントが見つかりません。このエラーが表示され続ける場合は、再度ログインしてください。";
 "ImportError" = "インポートエラー";
 "NoLoginsWereImported" = "ログイン情報がインポートされませんでした";
-"ThisIsNotARecognizedServerDescriptionLong" = "これは認識された Bitwarden サーバーではありません。プロバイダーに確認するか、サーバーを更新する必要があるかもしれません。";
+"ThisIsNotARecognizedServerDescriptionLong" = "これは認識された Multipass サーバーではありません。プロバイダーに確認するか、サーバーを更新する必要があるかもしれません。";
 "LoginsImported" = "ログイン情報をインポートしました";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "インポートが済んだパスワードファイルをコンピュータから削除することを忘れないでください。";
 "SomethingWentWrong" = "何らかのエラーが発生しました";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "一時的なロギングを有効にして、ログをローカルに収集・検査します。有効にすると、アプリケーションの状態やネットワークコールがログに記録される場合がありますが、機密性の高いボールト情報が記録されることはありません。";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "開始するには、ロギング時間を設定します。この期間が経過するとロギングは自動的にオフになり、問題を再現しながらアクティビティをキャプチャする時間を確保できます。";
 "LoggingDuration" = "ロギング時間";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "ログは30日後に自動的に削除されます。Bitwardenがログデータにアクセスできるのは、あなたが共有した場合のみです。";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "ログは30日後に自動的に削除されます。Multipassがログデータにアクセスできるのは、あなたが共有した場合のみです。";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "ログに記録される／されない情報の詳細は、**[Bitwarden help center](%1$@)** をご覧してください。";
 "ShowMore" = "さらに表示";
 "ShowLess" = "隠す";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "組織の管理者と共に以下のドメインを確認してください。\n\nKey Connectorドメイン：\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "このログを削除してもよろしいですか？";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "記録されたすべてのログを削除してもよろしいですか？";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "このアカウントはまもなく削除されます。Bitwardenを引き続き使用するには、%1$@ にログインしてください。";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "このアカウントはまもなく削除されます。Multipassを引き続き使用するには、%1$@ にログインしてください。";
 "AppSettings" = "アプリ設定";
 "ViewFileSend" = "ファイルSendを表示";
 "ViewTextSend" = "テキストSendを表示";
@@ -942,7 +942,7 @@
 "LastEdited" = "最終編集: %1$@";
 "PasswordLastUpdated" = "パスワードの最終更新: %1$@";
 "DecryptionError" = "復号エラー";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwardenはこのボールトアイテムを復号化できませんでした。このエラーレポートをコピーしてカスタマーサクセスと共有し、さらなるデータ損失を防いでください。";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipassはこのボールトアイテムを復号化できませんでした。このエラーレポートをコピーしてカスタマーサクセスと共有し、さらなるデータ損失を防いでください。";
 "CopyErrorReport" = "エラーレポートをコピー";
 "ErrorCannotDecrypt" = "[エラー: 復号できません]";
 "AccountsSyncedFromBitwardenApp" = "Bitwarden アプリからアカウントが同期されました";
@@ -1000,7 +1000,7 @@
 "Skip" = "スキップ";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "すべてのログイン情報を格納し、認証アプリに認証コードを直接同期します。";
-"SyncWithBrowserDescriptionLong" = "%1$@ に接続するには、デフォルトのブラウザをBitwardenモバイルアプリと同期します。ブラウザが開いたら、プロンプトが表示されたらサインインを完了してください。同期が完了すると、このアプリに戻ります。";
+"SyncWithBrowserDescriptionLong" = "%1$@ に接続するには、デフォルトのブラウザをMultipassモバイルアプリと同期します。ブラウザが開いたら、プロンプトが表示されたらサインインを完了してください。同期が完了すると、このアプリに戻ります。";
 "SyncWithBitwardenApp" = "Bitwarden アプリと同期";
 "SyncWithBrowser" = "ブラウザーと同期";
 "SyncWithTheBitwardenApp" = "Bitwarden アプリと同期";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "アカウントを選択";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "アカウント";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI一致検出は、Bitwardenがオートフィルの候補をどのように識別するかを制御します。";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI一致検出は、Multipassがオートフィルの候補をどのように識別するかを制御します。";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "「前方一致」は上級者向けオプションであり、認証情報を露出させるリスクが高まります。";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "「正規表現」は上級者向けオプションであり、誤って使用すると認証情報を露出させるリスクが高まります。";
 "StartsWithAdvanced" = "前方一致 (上級者向け)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "アクセスを回復するには管理者に連絡してください。";
 "LeaveX" = "%1$@ を退会";
 "YouLeftTheOrganization" = "組織を退会しました";
-"ItemTransferRequiresMainAppDescriptionLong" = "組織が個人アイテムの所有権を要求しています。Bitwarden アプリでこのリクエストを確認し完了してください。";
+"ItemTransferRequiresMainAppDescriptionLong" = "組織が個人アイテムの所有権を要求しています。Multipass アプリでこのリクエストを確認し完了してください。";
 "ThisSettingIsManagedByYourOrganization" = "この設定は組織によって管理されています。";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "組織は最大セッションタイムアウトを %1$@ に設定しています。";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "組織はデフォルトのセッションタイムアウトを「なし」に設定しています。";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "MasterPasswordUnlock をクリアしました。";
 "SsoCookiesCleared" = "SSO Cookie をクリアしました";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "アプリを再認証する必要があるため、リクエストが中断されました。もう一度やり直してください。";
-"AutofillWithBitwardenDescriptionLong" = "Bitwardenは、アプリやウェブサイトにサインインする際に、パスワードやその他の認証情報を提案できます。";
+"AutofillWithBitwardenDescriptionLong" = "Multipassは、アプリやウェブサイトにサインインする際に、パスワードやその他の認証情報を提案できます。";
 "LearnMoreAboutAutofill" = "自動入力についての詳細";
 "TurnOnNow" = "今すぐオンにする";
 "AcceptTransfer" = "転送を承認する";

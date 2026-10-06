@@ -3,7 +3,7 @@
 "AddFolder" = "ফোল্ডার জুড়ুন";
 "AnErrorHasOccurred" = "একটি ত্রুটি উৎপন্ন হয়েছে।";
 "Back" = "পেছন";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "বাতিল";
 "Copy" = "অনুলিপি";
 "CopyLicenseNumber" = "লাইসেন্স নম্বর কপি করুন";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "পাসফ্রেজগুলি সাধারণত এলোমেলো পাসওয়ার্ডের চেয়ে মনে রাখা এবং টাইপ করা সহজ। এগুলি তখন কার্যকর হতে পারে যখন আপনাকে অ্যাকাউন্টগুলিতে লগ ইন করতে হয় যেখানে অটোফিল উপলব্ধ নেই, যেমন আপনার টিভিতে একটি স্ট্রিমিং পরিষেবা।";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "অনন্য ব্যবহারকারীর নাম নিরাপত্তার একটি অতিরিক্ত স্তর যোগ করে এবং হ্যাকারদের আপনার অ্যাকাউন্ট খুঁজে পাওয়া থেকে রক্ষা করতে সাহায্য করতে পারে।";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "আপনার অ্যাকাউন্টের ওয়েবসাইটের প্রয়োজনীয়তা পূরণ করতে আপনার পাসওয়ার্ড সামঞ্জস্য করতে এই বিকল্পগুলি ব্যবহার করুন।";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "আপনি আপনার নতুন পাসওয়ার্ড Bitwarden-এ সংরক্ষণ করার পরে, আপনার অ্যাকাউন্টের ওয়েবসাইটে এটি আপডেট করতে ভুলবেন না।";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "আপনি আপনার নতুন পাসওয়ার্ড Multipass-এ সংরক্ষণ করার পরে, আপনার অ্যাকাউন্টের ওয়েবসাইটে এটি আপডেট করতে ভুলবেন না।";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "এই অ্যাকাউন্ট অ্যাক্সেস করতে অটোফিল ব্যবহার করতে আপনাকে একটি ওয়েব ঠিকানা যোগ করতে হবে।";
 "Username" = "ইউজারনেম";
 "ValidationFieldRequired" = "%1$@ ফিল্ডটি প্রয়োজনীয়।";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "এক্সটেনশনটি আবার সক্রিয় করুন";
 "ExtensionAlmostDone" = "প্রায় হয়ে গেছে!";
 "ExtensionEnable" = "অ্যাপ এক্সটেনশন সক্রিয় করুন";
-"ExtensionInSafari" = "Safari-তে, শেয়ার আইকন ব্যবহার করে Bitwarden খুঁজুন (ইঙ্গিত: মেনুর নীচের সারিতে ডানদিকে স্ক্রোল করুন)।";
+"ExtensionInSafari" = "Safari-তে, শেয়ার আইকন ব্যবহার করে Multipass খুঁজুন (ইঙ্গিত: মেনুর নীচের সারিতে ডানদিকে স্ক্রোল করুন)।";
 "ExtensionInstantAccess" = "আপনার পাসওয়ার্ডগুলিতে তাত্ক্ষণিক অ্যাক্সেস পান!";
 "ExtensionReady" = "আপনি লগ ইন করার জন্য প্রস্তুত!";
 "ExtensionSetup" = "আপনার লগইনগুলি এখন Safari, Chrome এবং অন্যান্য সমর্থিত অ্যাপগুলি থেকে সহজেই অ্যাক্সেসযোগ্য।";
-"ExtensionSetup2" = "Safari এবং Chrome-এ, শেয়ার আইকন ব্যবহার করে Bitwarden খুঁজুন (ইঙ্গিত: শেয়ার মেনুর নীচের সারিতে ডানদিকে স্ক্রোল করুন)।";
-"ExtensionTapIcon" = "এক্সটেনশন চালু করতে মেনুতে Bitwarden আইকনে আলতো চাপুন।";
-"ExtensionTurnOn" = "Safari এবং অন্যান্য অ্যাপে Bitwarden চালু করতে, মেনুর নীচের সারিতে \"আরো\" আইকনে আলতো চাপুন।";
+"ExtensionSetup2" = "Safari এবং Chrome-এ, শেয়ার আইকন ব্যবহার করে Multipass খুঁজুন (ইঙ্গিত: শেয়ার মেনুর নীচের সারিতে ডানদিকে স্ক্রোল করুন)।";
+"ExtensionTapIcon" = "এক্সটেনশন চালু করতে মেনুতে Multipass আইকনে আলতো চাপুন।";
+"ExtensionTurnOn" = "Safari এবং অন্যান্য অ্যাপে Multipass চালু করতে, মেনুর নীচের সারিতে \"আরো\" আইকনে আলতো চাপুন।";
 "Favorite" = "প্রিয়";
 "Fingerprint" = "আঙুলের ছাপ";
 "GeneratePassword" = "পাসওয়ার্ড তৈরি করুন";
@@ -110,7 +110,7 @@
 "Immediately" = "সঙ্গে সঙ্গে";
 "VaultTimeoutLogOutConfirmation" = "লগ আউট করা আপনার ভল্টের সমস্ত অ্যাক্সেস সরিয়ে ফেলবে এবং সময়সীমার পরে অনলাইন প্রমাণীকরণের প্রয়োজন। আপনি কি নিশ্চিত যে এই সেটিংটি ব্যবহার করবেন?";
 "LoggingIn" = "লগ ইন করা হচ্ছে…";
-"LogInToBitwarden" = "Bitwarden-এ লগ ইন করুন";
+"LogInToBitwarden" = "Multipass-এ লগ ইন করুন";
 "MasterPasswordConfirmationValMessage" = "পাসওয়ার্ড নিশ্চিতকরণ সঠিক নয়।";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "মাস্টার পাসওয়ার্ড হল সেই পাসওয়ার্ড যা আপনি আপনার ভল্ট অ্যাক্সেস করতে ব্যবহার করেন।";
 "MasterPasswordHint" = "মাস্টার পাসওয়ার্ড ইঙ্গিত";
@@ -127,7 +127,7 @@
 "PasswordHint" = "পাসওয়ার্ড ইঙ্গিত";
 "PasswordHintAlert" = "আমরা আপনাকে আপনার মাস্টার পাসওয়ার্ড ইঙ্গিত সহ একটি ইমেল পাঠিয়েছি।";
 "PasswordOverrideAlert" = "আপনি কি নিশ্চিত যে আপনি বর্তমান পাসওয়ার্ডটি ওভাররাইট করতে চান?";
-"PushNotificationAlert" = "Bitwarden পুশ বিজ্ঞপ্তি ব্যবহার করে আপনার ভল্টকে স্বয়ংক্রিয়ভাবে সিঙ্ক করে রাখে। সর্বোত্তম অভিজ্ঞতার জন্য, পুশ বিজ্ঞপ্তিগুলির অনুমতি চাওয়া হলে অনুগ্রহ করে পরবর্তী প্রম্পটে \"অনুমতি দিন\" নির্বাচন করুন।";
+"PushNotificationAlert" = "Multipass পুশ বিজ্ঞপ্তি ব্যবহার করে আপনার ভল্টকে স্বয়ংক্রিয়ভাবে সিঙ্ক করে রাখে। সর্বোত্তম অভিজ্ঞতার জন্য, পুশ বিজ্ঞপ্তিগুলির অনুমতি চাওয়া হলে অনুগ্রহ করে পরবর্তী প্রম্পটে \"অনুমতি দিন\" নির্বাচন করুন।";
 "Security" = "নিরাপত্তা";
 "Select" = "নির্বাচন করুন";
 "ItemUpdated" = "আইটেম সংরক্ষণ করা হয়েছে";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "পরিবেশের URL গুলি সংরক্ষণ করা হয়েছে।";
 "IdentityUrl" = "পরিচয় সার্ভার URL";
 "SelfHostedEnvironment" = "স্ব-হোস্টকৃত পরিবেশ";
-"SelfHostedEnvironmentFooter" = "আপনার অন-প্রাঙ্গনে হোস্টকৃত Bitwarden ইনস্টলেশনটির বেস URL উল্লেখ করুন।";
+"SelfHostedEnvironmentFooter" = "আপনার অন-প্রাঙ্গনে হোস্টকৃত Multipass ইনস্টলেশনটির বেস URL উল্লেখ করুন।";
 "ServerUrl" = "সার্ভার URL";
 "WebVaultUrl" = "ওয়েব ভল্ট সার্ভার URL";
 "CustomFields" = "পছন্দসই ক্ষেত্র";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "ওয়েবসাইট আইকন দেখান";
 "ShowWebsiteIconsDescription" = "প্রতিটি লগইনের পাশে একটি চেনা যায় এমন চিত্র দেখান।";
 "IconsUrl" = "আইকন সার্ভার URL";
-"AutofillWithBitwarden" = "Bitwarden দিয়ে অটোফিল করুন";
+"AutofillWithBitwarden" = "Multipass দিয়ে অটোফিল করুন";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "সংগ্রহ";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. \"পাসওয়ার্ড\" এ আলতো চাপুন";
 "AutofillTurnOn3" = "3. \"অটোফিল পাসওয়ার্ড\" এ আলতো চাপুন";
 "AutofillTurnOn4" = "4. অটোফিল চালু করুন";
-"AutofillTurnOn5" = "5. \"Bitwarden\" নির্বাচন করুন";
+"AutofillTurnOn5" = "5. \"Multipass\" নির্বাচন করুন";
 "PasswordAutofill" = "পাসওয়ার্ড অটোফিল";
-"BitwardenAutofillAlert2" = "আপনার ভল্টে নতুন লগইন যোগ করার সবচেয়ে সহজ উপায় হল Bitwarden পাসওয়ার্ড অটোফিল এক্সটেনশন ব্যবহার করা। \"সেটিংস\" স্ক্রিনে নেভিগেট করে Bitwarden পাসওয়ার্ড অটোফিল এক্সটেনশন ব্যবহার সম্পর্কে আরও জানুন।";
+"BitwardenAutofillAlert2" = "আপনার ভল্টে নতুন লগইন যোগ করার সবচেয়ে সহজ উপায় হল Multipass পাসওয়ার্ড অটোফিল এক্সটেনশন ব্যবহার করা। \"সেটিংস\" স্ক্রিনে নেভিগেট করে Multipass পাসওয়ার্ড অটোফিল এক্সটেনশন ব্যবহার সম্পর্কে আরও জানুন।";
 "InvalidEmail" = "অবৈধ ইমেল ঠিকানা।";
 "InvalidEmailAddresses" = "অবৈধ ইমেল ঠিকানা";
 "NoEmailAddressesEntered" = "কোন ইমেল ঠিকানা প্রবেশ করানো হয়নি";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "গোপনীয়তা নীতিতে চালিয়ে যাবেন?";
 "ContinueToAppStore" = "অ্যাপ স্টোরে চালিয়ে যাবেন?";
 "ContinueWithoutSyncing" = "সিঙ্ক না করে চালিয়ে যান";
-"TwoStepLoginDescriptionLong" = "Bitwarden ওয়েব অ্যাপে দ্বি-পদক্ষেপ লগইন সেট আপ করে আপনার অ্যাকাউন্টকে আরও সুরক্ষিত করুন।";
+"TwoStepLoginDescriptionLong" = "Multipass ওয়েব অ্যাপে দ্বি-পদক্ষেপ লগইন সেট আপ করে আপনার অ্যাকাউন্টকে আরও সুরক্ষিত করুন।";
 "YouCanImportDataToYourVaultOnX" = "আপনি %1$@-এ আপনার ভল্টে ডেটা আমদানি করতে পারেন।";
 "PrivacyPolicyDescriptionLong" = "bitwarden.com-এ আমাদের গোপনীয়তা নীতি দেখুন।";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "ওয়েব অ্যাপে আপনার Bitwarden অ্যাকাউন্টের আরও বৈশিষ্ট্য অন্বেষণ করুন।";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "ওয়েব অ্যাপে আপনার Multipass অ্যাকাউন্টের আরও বৈশিষ্ট্য অন্বেষণ করুন।";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden আপনাকে একটি সংগঠন ব্যবহার করে অন্যদের সাথে আপনার ভল্ট আইটেম শেয়ার করার অনুমতি দেয়। bitwarden.com ওয়েবসাইটে আরও জানুন।";
-"RateAppDescriptionLong" = "অন্যদের Bitwarden তাদের জন্য উপযুক্ত কিনা তা খুঁজে পেতে সাহায্য করুন। অ্যাপ স্টোরে যান এবং এখনই একটি রেটিং দিন।";
+"RateAppDescriptionLong" = "অন্যদের Multipass তাদের জন্য উপযুক্ত কিনা তা খুঁজে পেতে সাহায্য করুন। অ্যাপ স্টোরে যান এবং এখনই একটি রেটিং দিন।";
 "CreatedX" = "তৈরি করা হয়েছে %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "আপনার সংগঠনের অনুমতিগুলি আপডেট করা হয়েছে, যার জন্য আপনাকে একটি মাস্টার পাসওয়ার্ড সেট করতে হবে।";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "আপনার সংগঠনের জন্য আপনাকে একটি মাস্টার পাসওয়ার্ড সেট করতে হবে।";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "একটি গাইডেড ট্যুরের মাধ্যমে সুরক্ষিত লগইন শংসাপত্র তৈরি সম্পর্কে আরও জানুন।";
 "ExportVaultFilePwProtectInfo" = "এই ফাইল রপ্তানি পাসওয়ার্ড-সুরক্ষিত থাকবে এবং ডিক্রিপ্ট করতে ফাইল পাসওয়ার্ডের প্রয়োজন হবে।";
 "IntroCarouselPage1Title" = "নিরাপত্তা, অগ্রাধিকারপ্রাপ্ত";
-"IntroCarouselPage1Message" = "লগইন, কার্ড এবং পরিচয় আপনার সুরক্ষিত ভল্টে সংরক্ষণ করুন। Bitwarden আপনার কাছে গুরুত্বপূর্ণ বিষয়গুলি সুরক্ষিত করতে জিরো-নলেজ, এন্ড-টু-এন্ড এনক্রিপশন ব্যবহার করে।";
+"IntroCarouselPage1Message" = "লগইন, কার্ড এবং পরিচয় আপনার সুরক্ষিত ভল্টে সংরক্ষণ করুন। Multipass আপনার কাছে গুরুত্বপূর্ণ বিষয়গুলি সুরক্ষিত করতে জিরো-নলেজ, এন্ড-টু-এন্ড এনক্রিপশন ব্যবহার করে।";
 "IntroCarouselPage2Title" = "দ্রুত এবং সহজ লগইন";
 "IntroCarouselPage2Message" = "একটিও অক্ষর টাইপ না করেই আপনার অ্যাকাউন্টগুলিতে লগ ইন করতে বায়োমেট্রিক আনলক এবং অটোফিল সেট আপ করুন।";
 "IntroCarouselPage3Title" = "আপনার লগইনগুলি উন্নত করুন";
 "IntroCarouselPage3Message" = "আপনার সমস্ত অ্যাকাউন্টের জন্য শক্তিশালী, অনন্য পাসওয়ার্ড তৈরি এবং সংরক্ষণ করতে জেনারেটর ব্যবহার করুন।";
 "IntroCarouselPage4Title" = "আপনার ডেটা, যখন এবং যেখানে আপনার প্রয়োজন";
-"IntroCarouselPage4Message" = "Bitwarden মোবাইল, ব্রাউজার এবং ডেস্কটপ অ্যাপগুলির সাথে সীমাহীন ডিভাইস জুড়ে সীমাহীন পাসওয়ার্ড সংরক্ষণ করুন।";
+"IntroCarouselPage4Message" = "Multipass মোবাইল, ব্রাউজার এবং ডেস্কটপ অ্যাপগুলির সাথে সীমাহীন ডিভাইস জুড়ে সীমাহীন পাসওয়ার্ড সংরক্ষণ করুন।";
 "AccountSetup" = "অ্যাকাউন্ট সেটআপ";
 "SetUpUnlock" = "আনলক সেট আপ করুন";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "দ্রুত আপনার ভল্ট অ্যাক্সেস করতে এবং আপনার লগইনগুলি অটোফিল করতে বায়োমেট্রিক্স সেট আপ করুন বা একটি PIN কোড বেছে নিন।";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "মাস্টার পাসওয়ার্ড (প্রয়োজনীয়)";
 "RetypeMasterPasswordRequired" = "মাস্টার পাসওয়ার্ড পুনরায় টাইপ করুন (প্রয়োজনীয়)";
 "RetypeNewMasterPasswordRequired" = "নতুন মাস্টার পাসওয়ার্ড পুনরায় টাইপ করুন (প্রয়োজনীয়)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden হারানো বা ভুলে যাওয়া মাস্টার পাসওয়ার্ড রিসেট করতে পারে না।";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass হারানো বা ভুলে যাওয়া মাস্টার পাসওয়ার্ড রিসেট করতে পারে না।";
 "LearnAboutWaysToPreventAccountLockout" = "অ্যাকাউন্ট লকআউট প্রতিরোধের উপায় সম্পর্কে জানুন";
 "RestartRegistration" = "নিবন্ধন পুনরায় শুরু করুন";
 "Expired" = "মেয়াদোত্তীর্ণ";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Duo পরিষেবার সাথে সংযোগ করতে ত্রুটি। একটি ভিন্ন দ্বি-পদক্ষেপ লগইন পদ্ধতি ব্যবহার করুন বা সহায়তার জন্য Duo-এর সাথে যোগাযোগ করুন।";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "অ্যাকাউন্ট তৈরি শুরু করতে প্রি অথ URL গুলি লোড করা যায়নি।";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "আপনার ডিভাইস সেটিংস থেকে, **অটোফিল পাসওয়ার্ড এবং পাসকী চালু করুন।**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "Bitwarden কে আপনার ডিফল্ট অটোফিল উৎস করতে **iCloud Keychain বন্ধ করুন**।";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "আপনার সংরক্ষিত পাসওয়ার্ড ব্যবহার করে আপনার অ্যাকাউন্টগুলিতে লগ ইন করতে **Bitwarden চালু করুন**।";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "Multipass কে আপনার ডিফল্ট অটোফিল উৎস করতে **iCloud Keychain বন্ধ করুন**।";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "আপনার সংরক্ষিত পাসওয়ার্ড ব্যবহার করে আপনার অ্যাকাউন্টগুলিতে লগ ইন করতে **Multipass চালু করুন**।";
 "TurnOnAutoFill" = "অটোফিল চালু করুন";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "একটি একক আলতো চাপে আপনার অ্যাকাউন্টগুলিতে লগ ইন করতে অটোফিল ব্যবহার করুন।";
 "NeedHelpCheckOutAutofillHelp" = "সাহায্য প্রয়োজন? **[অটোফিল সাহায্য](%1$@)** দেখুন";
 "TurnOnLater" = "পরে চালু করুন";
 "TurnOnAutoFillLaterQuestion" = "পরে অটোফিল চালু করবেন?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "আপনি সেটিংসে যে কোনো সময় এই ধাপটি সম্পূর্ণ করতে ফিরে আসতে পারেন।";
-"ContinueToBitwarden" = "Bitwarden-এ চালিয়ে যান";
+"ContinueToBitwarden" = "Multipass-এ চালিয়ে যান";
 "BackToSettings" = "সেটিংসে ফিরে যান";
 "YoureAllSet" = "আপনি সব প্রস্তুত!";
-"AutoFillActivatedDescriptionLong" = "আপনি এখন আপনার সংরক্ষিত পাসওয়ার্ড ব্যবহার করে অ্যাপ এবং ওয়েবসাইটে লগ ইন করতে অটোফিল ব্যবহার করতে পারেন। এখন, আপনি Bitwarden-এর অন্যান্য সব কিছু অন্বেষণ করতে পারেন।";
+"AutoFillActivatedDescriptionLong" = "আপনি এখন আপনার সংরক্ষিত পাসওয়ার্ড ব্যবহার করে অ্যাপ এবং ওয়েবসাইটে লগ ইন করতে অটোফিল ব্যবহার করতে পারেন। এখন, আপনি Multipass-এর অন্যান্য সব কিছু অন্বেষণ করতে পারেন।";
 "GetStarted" = "শুরু করুন";
 "Dismiss" = "বাতিল করুন";
 "SaveAndProtectYourData" = "আপনার ডেটা সংরক্ষণ এবং সুরক্ষিত করুন";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "একটি বিদ্যমান পাসওয়ার্ড ম্যানেজার থেকে লগইন আমদানি করতে একটি কম্পিউটার ব্যবহার করুন।";
 "ImportLogins" = "লগইন আমদানি করুন";
 "GiveYourVaultAHeadStart" = "আপনার ভল্টকে একটি অগ্রিম সূচনা দিন";
-"ImportLoginsDescriptionLong" = "আপনার কম্পিউটার থেকে, আপনার ব্রাউজার বা অন্যান্য পাসওয়ার্ড ম্যানেজার থেকে সংরক্ষিত পাসওয়ার্ড রপ্তানি করতে এই নির্দেশাবলী অনুসরণ করুন। তারপর, নিরাপদে সেগুলি Bitwarden-এ আমদানি করুন।";
+"ImportLoginsDescriptionLong" = "আপনার কম্পিউটার থেকে, আপনার ব্রাউজার বা অন্যান্য পাসওয়ার্ড ম্যানেজার থেকে সংরক্ষিত পাসওয়ার্ড রপ্তানি করতে এই নির্দেশাবলী অনুসরণ করুন। তারপর, নিরাপদে সেগুলি Multipass-এ আমদানি করুন।";
 "ImportLoginsLater" = "পরে লগইন আমদানি করুন";
 "ImportLoginsLaterQuestion" = "পরে লগইন আমদানি করবেন?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "আপনি সেটিংসের অধীনে ভল্টে যে কোনো সময় এই ধাপটি সম্পূর্ণ করতে ফিরে আসতে পারেন।";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "আমদানি সম্পূর্ণ হওয়ার পরে আপনি এই ফাইলটি মুছে ফেলবেন।";
 "NeedHelpCheckOutImportHelp" = "সাহায্য প্রয়োজন? **[আমদানি সাহায্য](%1$@)** দেখুন";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "আপনার কম্পিউটারে, একটি নতুন ব্রাউজার ট্যাব খুলুন এবং **%1$@-এ যান**।";
-"LogInToTheBitwardenWebApp" = "**Bitwarden ওয়েব অ্যাপে লগ ইন করুন।**";
-"ImportLoginsToBitwarden" = "Bitwarden-এ লগইন আমদানি করুন";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Bitwarden নেভিগেশনে, **Tools বিকল্পটি খুঁজুন** এবং **Import data নির্বাচন করুন।**";
+"LogInToTheBitwardenWebApp" = "**Multipass ওয়েব অ্যাপে লগ ইন করুন।**";
+"ImportLoginsToBitwarden" = "Multipass-এ লগইন আমদানি করুন";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Multipass নেভিগেশনে, **Tools বিকল্পটি খুঁজুন** এবং **Import data নির্বাচন করুন।**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "ফর্মটি পূরণ করুন এবং **আপনার সংরক্ষিত পাসওয়ার্ড ফাইল আমদানি করুন।**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "ওয়েব অ্যাপে **Import data নির্বাচন করুন**, তারপর সিঙ্ক শেষ করতে **Done** নির্বাচন করুন।";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "আপনার নিরাপত্তার জন্য, **আপনার সংরক্ষিত পাসওয়ার্ড ফাইল মুছে ফেলতে** ভুলবেন না।";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "কোন অ্যাকাউন্ট পাওয়া যায়নি। আপনি যদি এই ত্রুটিটি দেখতে পান তবে অনুগ্রহ করে আবার লগ ইন করুন।";
 "ImportError" = "আমদানি ত্রুটি";
 "NoLoginsWereImported" = "কোন লগইন আমদানি করা হয়নি";
-"ThisIsNotARecognizedServerDescriptionLong" = "এটি একটি স্বীকৃত Bitwarden সার্ভার নয়। আপনাকে আপনার প্রদানকারীর সাথে চেক করতে বা আপনার সার্ভার আপডেট করতে হতে পারে।";
+"ThisIsNotARecognizedServerDescriptionLong" = "এটি একটি স্বীকৃত Multipass সার্ভার নয়। আপনাকে আপনার প্রদানকারীর সাথে চেক করতে বা আপনার সার্ভার আপডেট করতে হতে পারে।";
 "LoginsImported" = "লগইন আমদানি করা হয়েছে";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "আপনার কম্পিউটার থেকে আপনার আমদানি করা পাসওয়ার্ড ফাইল মুছে ফেলতে মনে রাখবেন।";
 "SomethingWentWrong" = "কিছু ভুল হয়েছে";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "স্থানীয়ভাবে লগ সংগ্রহ এবং পরিদর্শন করতে অস্থায়ী লগিং সক্ষম করুন। সক্ষম করা হলে, অ্যাপ্লিকেশন অবস্থা এবং নেটওয়ার্ক কলগুলি লগ হতে পারে—কখনও সংবেদনশীল ভল্ট তথ্য নয়।";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "শুরু করতে, একটি লগিং সময়কাল সেট করুন। এই সময়কালের পরে লগিং স্বয়ংক্রিয়ভাবে বন্ধ হয়ে যাবে, যেকোনো সমস্যা পুনরুত্পাদন করার সময় কার্যকলাপ ক্যাপচার করার জন্য আপনাকে সময় দেবে।";
 "LoggingDuration" = "লগিং সময়কাল";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "লগগুলি 30 দিন পরে স্বয়ংক্রিয়ভাবে মুছে ফেলা হবে। Bitwarden শুধুমাত্র তখনই আপনার লগ ডেটা অ্যাক্সেস করতে পারে যখন আপনি এটি শেয়ার করেন।";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "লগগুলি 30 দিন পরে স্বয়ংক্রিয়ভাবে মুছে ফেলা হবে। Multipass শুধুমাত্র তখনই আপনার লগ ডেটা অ্যাক্সেস করতে পারে যখন আপনি এটি শেয়ার করেন।";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "কী লগ করা হয় এবং কী হয় না তার বিবরণের জন্য, **[Bitwarden সহায়তা কেন্দ্র](%1$@)** দেখুন।";
 "ShowMore" = "আরও দেখান";
 "ShowLess" = "কম দেখান";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "অনুগ্রহ করে আপনার সংগঠনের প্রশাসকের সাথে নীচের ডোমেইনটি নিশ্চিত করুন।\n\nকী কানেক্টর ডোমেইন:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "আপনি কি সত্যিই এই লগটি মুছতে চান?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "আপনি কি সত্যিই সমস্ত রেকর্ড করা লগ মুছতে চান?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "এই অ্যাকাউন্টটি শীঘ্রই মুছে ফেলা হবে। Bitwarden ব্যবহার চালিয়ে যেতে %1$@-এ লগ ইন করুন।";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "এই অ্যাকাউন্টটি শীঘ্রই মুছে ফেলা হবে। Multipass ব্যবহার চালিয়ে যেতে %1$@-এ লগ ইন করুন।";
 "AppSettings" = "অ্যাপ সেটিংস";
 "ViewFileSend" = "ফাইল সেন্ড দেখুন";
 "ViewTextSend" = "টেক্সট সেন্ড দেখুন";
@@ -942,7 +942,7 @@
 "LastEdited" = "শেষ সম্পাদনা: %1$@";
 "PasswordLastUpdated" = "পাসওয়ার্ড শেষ আপডেট: %1$@";
 "DecryptionError" = "ডিক্রিপশন ত্রুটি";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden এই ভল্ট আইটেমটি ডিক্রিপ্ট করতে পারেনি। অতিরিক্ত ডেটা ক্ষতি এড়াতে এই ত্রুটি প্রতিবেদনটি কপি করে কাস্টমার সাকসেসের সাথে শেয়ার করুন।";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass এই ভল্ট আইটেমটি ডিক্রিপ্ট করতে পারেনি। অতিরিক্ত ডেটা ক্ষতি এড়াতে এই ত্রুটি প্রতিবেদনটি কপি করে কাস্টমার সাকসেসের সাথে শেয়ার করুন।";
 "CopyErrorReport" = "ত্রুটি প্রতিবেদন কপি করুন";
 "ErrorCannotDecrypt" = "[ত্রুটি: ডিক্রিপ্ট করা যায় না]";
 "AccountsSyncedFromBitwardenApp" = "Bitwarden অ্যাপ থেকে সিঙ্ক করা অ্যাকাউন্টগুলি";
@@ -1000,7 +1000,7 @@
 "Skip" = "এড়িয়ে যান";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "আপনার সমস্ত লগইন সংরক্ষণ করুন এবং অথেন্টিকেটর অ্যাপের সাথে সরাসরি যাচাইকরণ কোড সিঙ্ক করুন।";
-"SyncWithBrowserDescriptionLong" = "%1$@-এর সাথে সংযোগ করতে, আপনার ডিফল্ট ব্রাউজারটিকে Bitwarden মোবাইল অ্যাপের সাথে সিঙ্ক করুন। আপনার ব্রাউজার খোলার সময়, প্রম্পট করা হলে সাইন-ইন সম্পূর্ণ করুন। সিঙ্ক সম্পূর্ণ হলে, আপনাকে এই অ্যাপে ফিরিয়ে আনা হবে।";
+"SyncWithBrowserDescriptionLong" = "%1$@-এর সাথে সংযোগ করতে, আপনার ডিফল্ট ব্রাউজারটিকে Multipass মোবাইল অ্যাপের সাথে সিঙ্ক করুন। আপনার ব্রাউজার খোলার সময়, প্রম্পট করা হলে সাইন-ইন সম্পূর্ণ করুন। সিঙ্ক সম্পূর্ণ হলে, আপনাকে এই অ্যাপে ফিরিয়ে আনা হবে।";
 "SyncWithBitwardenApp" = "Bitwarden অ্যাপের সাথে সিঙ্ক করুন";
 "SyncWithBrowser" = "ব্রাউজারের সাথে সিঙ্ক করুন";
 "SyncWithTheBitwardenApp" = "Bitwarden অ্যাপের সাথে সিঙ্ক করুন";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "অ্যাকাউন্ট নির্বাচন করুন";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "অ্যাকাউন্টগুলি";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI ম্যাচ সনাক্তকরণ নিয়ন্ত্রণ করে কিভাবে Bitwarden অটোফিল পরামর্শ চিহ্নিত করে।";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI ম্যাচ সনাক্তকরণ নিয়ন্ত্রণ করে কিভাবে Multipass অটোফিল পরামর্শ চিহ্নিত করে।";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“দিয়ে শুরু হয়” একটি উন্নত বিকল্প যা শংসাপত্র উন্মুক্ত হওয়ার ঝুঁকি বাড়ায়।";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“নিয়মিত অভিব্যক্তি” একটি উন্নত বিকল্প যা ভুলভাবে ব্যবহার করলে শংসাপত্র উন্মুক্ত হওয়ার ঝুঁকি বাড়ায়।";
 "StartsWithAdvanced" = "দিয়ে শুরু হয় (উন্নত)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "অ্যাক্সেস পুনরুদ্ধার করতে আপনার প্রশাসকের সাথে যোগাযোগ করুন।";
 "LeaveX" = "%1$@ ছেড়ে যান";
 "YouLeftTheOrganization" = "আপনি সংগঠনটি ছেড়েছেন";
-"ItemTransferRequiresMainAppDescriptionLong" = "একটি সংগঠন আপনার ব্যক্তিগত আইটেমগুলির মালিকানা চাইছে। এই অনুরোধটি পর্যালোচনা এবং সম্পূর্ণ করতে প্রধান Bitwarden অ্যাপটি খুলুন।";
+"ItemTransferRequiresMainAppDescriptionLong" = "একটি সংগঠন আপনার ব্যক্তিগত আইটেমগুলির মালিকানা চাইছে। এই অনুরোধটি পর্যালোচনা এবং সম্পূর্ণ করতে প্রধান Multipass অ্যাপটি খুলুন।";
 "ThisSettingIsManagedByYourOrganization" = "এই সেটিংটি আপনার সংগঠন দ্বারা পরিচালিত হয়।";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "আপনার সংগঠন সর্বোচ্চ সেশন টাইমআউট %1$@-এ সেট করেছে।";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "আপনার সংগঠন ডিফল্ট সেশন টাইমআউট কখনও নয়-এ সেট করেছে।";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock সাফ করা হয়েছে।";
 "SsoCookiesCleared" = "SSO কুকি সাফ করা হয়েছে";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "অ্যাপটিকে পুনরায় প্রমাণীকরণের প্রয়োজন হওয়ার কারণে আপনার অনুরোধ বাধাগ্রস্ত হয়েছে। দয়া করে আবার চেষ্টা করুন।";
-"AutofillWithBitwardenDescriptionLong" = "আপনি অ্যাপ এবং ওয়েবসাইটে সাইন ইন করার সময় Bitwarden আপনার পাসওয়ার্ড এবং অন্যান্য শংসাপত্র সুপারিশ করতে পারে।";
+"AutofillWithBitwardenDescriptionLong" = "আপনি অ্যাপ এবং ওয়েবসাইটে সাইন ইন করার সময় Multipass আপনার পাসওয়ার্ড এবং অন্যান্য শংসাপত্র সুপারিশ করতে পারে।";
 "LearnMoreAboutAutofill" = "অটোফিল সম্পর্কে আরও জানুন";
 "TurnOnNow" = "এখন চালু করুন";
 "AcceptTransfer" = "স্থানান্তর গ্রহণ করুন";

@@ -3,7 +3,7 @@
 "AddFolder" = "პაპკის დამატება";
 "AnErrorHasOccurred" = "დაფიქსირდა შეცდომა.";
 "Back" = "უკან";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "გაუქმება";
 "Copy" = "კოპირება";
 "CopyLicenseNumber" = "ლიცენზიის ნომრის კოპირება";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "ფრაზები ხშირად უფრო ადვილი დასამახსოვრებელი და ასაკრეფია, ვიდრე შემთხვევითი პაროლები. ისინი გამოსადეგია, როცა გჭირდებათ ანგარიშებში შესვლა, სადაც ავტოშევსება მიუწვდომელია, მაგალითად, ტელევიზორის სტრიმინგ სერვისი.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "უნიკალური მომხმარებლის სახელები დამატებით უსაფრთხოებას ქმნის და ხელს უშლის ჰაკერებს თქვენი ანგარიშების პოვნაში.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "გამოიყენეთ ეს პარამეტრები თქვენი პაროლის ანგარიშის ვებსაიტის მოთხოვნებთან შესატყვისად.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "მას შემდეგ, რაც ახალ პაროლს Bitwarden-ში შეინახავთ, არ დაგავიწყდეთ მისი განახლება ანგარიშის ვებსაიტზე.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "მას შემდეგ, რაც ახალ პაროლს Multipass-ში შეინახავთ, არ დაგავიწყდეთ მისი განახლება ანგარიშის ვებსაიტზე.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "ამ ანგარიშზე წვდომისთვის ავტოშევსების გამოსაყენებლად, უნდა დაამატოთ ვებ-მისამართი.";
 "Username" = "მომხმარებლის სახელი";
 "ValidationFieldRequired" = "ველი %1$@ სავალდებულოა.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "აპლიკაციის გაფართოების ხელახალი აქტივაცია";
 "ExtensionAlmostDone" = "თითქმის მზადაა!";
 "ExtensionEnable" = "აპლიკაციის გაფართოების გააქტიურება";
-"ExtensionInSafari" = "Safari-ში, იპოვეთ Bitwarden გაზიარების ხატის გამოყენებით (მინიშნება: გადააფურცლეთ მარჯვნივ მენიუს ქვედა რიგში).";
+"ExtensionInSafari" = "Safari-ში, იპოვეთ Multipass გაზიარების ხატის გამოყენებით (მინიშნება: გადააფურცლეთ მარჯვნივ მენიუს ქვედა რიგში).";
 "ExtensionInstantAccess" = "მყისიერი წვდომა თქვენს პაროლებზე!";
 "ExtensionReady" = "მზად ხართ შესასვლელად!";
 "ExtensionSetup" = "ახლა თქვენი შესვლის მონაცემები ადვილად ხელმისაწვდომია Safari, Chrome და სხვა მხარდაჭერილი აპლიკაციებიდან.";
-"ExtensionSetup2" = "Safari-სა და Chrome-ში, იპოვეთ Bitwarden გაზიარების ხატის გამოყენებით (მინიშნება: გადააფურცლეთ მარჯვნივ გაზიარების მენიუს ქვედა რიგში).";
-"ExtensionTapIcon" = "გაფართოების გასაშვებად, შეეხეთ Bitwarden-ის ხატს მენიუში.";
-"ExtensionTurnOn" = "Safari-სა და სხვა აპებში Bitwarden-ის ჩასართავად, შეეხეთ \"მეტი\" ხატს მენიუს ქვედა რიგში.";
+"ExtensionSetup2" = "Safari-სა და Chrome-ში, იპოვეთ Multipass გაზიარების ხატის გამოყენებით (მინიშნება: გადააფურცლეთ მარჯვნივ გაზიარების მენიუს ქვედა რიგში).";
+"ExtensionTapIcon" = "გაფართოების გასაშვებად, შეეხეთ Multipass-ის ხატს მენიუში.";
+"ExtensionTurnOn" = "Safari-სა და სხვა აპებში Multipass-ის ჩასართავად, შეეხეთ \"მეტი\" ხატს მენიუს ქვედა რიგში.";
 "Favorite" = "რჩეულში დამატება";
 "Fingerprint" = "თითის ანაბეჭდი";
 "GeneratePassword" = "პაროლის გენერირება";
@@ -110,7 +110,7 @@
 "Immediately" = "დაუყოვნებლივ";
 "VaultTimeoutLogOutConfirmation" = "გასვლა წაშლის სეიფზე ყველა წვდომას და დროის ამოწურვის შემდეგ საჭიროებს ონლაინ ავთენტიფიკაციას. დარწმუნებული ხართ, რომ გსურთ ამ პარამეტრის გამოყენება?";
 "LoggingIn" = "შესვლა…";
-"LogInToBitwarden" = "Bitwarden-ში შესვლა";
+"LogInToBitwarden" = "Multipass-ში შესვლა";
 "MasterPasswordConfirmationValMessage" = "პაროლის დადასტურება არასწორია.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "მთავარი პაროლი არის პაროლი, რომელსაც იყენებთ თქვენს სეიფზე წვდომისთვის.";
 "MasterPasswordHint" = "მთავარი პაროლის მინიშნება";
@@ -127,7 +127,7 @@
 "PasswordHint" = "პაროლის მინიშნება";
 "PasswordHintAlert" = "ჩვენ გამოგიგზავნეთ ელ. წერილი თქვენი მთავარი პაროლის მინიშნებით.";
 "PasswordOverrideAlert" = "დარწმუნებული ხართ, რომ გსურთ მიმდინარე პაროლის ჩანაცვლება?";
-"PushNotificationAlert" = "Bitwarden ინახავს თქვენს სეიფს ავტომატურად სინქრონიზებულს პუშ-შეტყობინებების გამოყენებით. საუკეთესო გამოცდილებისთვის, გთხოვთ, აირჩიოთ \"ნებადართული\" შემდეგ მოთხოვნაზე, როცა გთხოვენ პუშ-შეტყობინებების დაშვებას.";
+"PushNotificationAlert" = "Multipass ინახავს თქვენს სეიფს ავტომატურად სინქრონიზებულს პუშ-შეტყობინებების გამოყენებით. საუკეთესო გამოცდილებისთვის, გთხოვთ, აირჩიოთ \"ნებადართული\" შემდეგ მოთხოვნაზე, როცა გთხოვენ პუშ-შეტყობინებების დაშვებას.";
 "Security" = "უსაფრთხოება";
 "Select" = "არჩევა";
 "ItemUpdated" = "ჩანაწერი შენახულია";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "განბლოკვა Optic ID-ით";
 "UnlockWithPIN" = "განბლოკვა PIN კოდით";
 "VerificationCode" = "დადასტურების კოდი";
-"WebVault" = "Bitwarden ვებ-სეიფი";
+"WebVault" = "Multipass ვებ-სეიფი";
 "Items" = "ჩანაწერები";
 "ExtensionActivated" = "გაფართოება გააქტიურებულია!";
 "ItemsForUri" = "ჩანაწერები %1$@-ისთვის";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "გარემოს URL-ები შენახულია.";
 "IdentityUrl" = "იდენტობის სერვერის URL";
 "SelfHostedEnvironment" = "საკუთარ სერვერზე განთავსებული გარემო";
-"SelfHostedEnvironmentFooter" = "მიუთითეთ თქვენი ლოკალური Bitwarden ინსტალაციის ძირითადი URL.";
+"SelfHostedEnvironmentFooter" = "მიუთითეთ თქვენი ლოკალური Multipass ინსტალაციის ძირითადი URL.";
 "ServerUrl" = "სერვერის URL";
 "WebVaultUrl" = "ვებ-სეიფის სერვერის URL";
 "CustomFields" = "მორგებული ველები";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "ვებსაიტის ხატულების ჩვენება";
 "ShowWebsiteIconsDescription" = "აჩვენეთ ცნობადი სურათი თითოეულ შესვლასთან.";
 "IconsUrl" = "ხატულების სერვერის URL";
-"AutofillWithBitwarden" = "ავტოშევსება Bitwarden-ით";
+"AutofillWithBitwarden" = "ავტოშევსება Multipass-ით";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "კოლექციები";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. შეეხეთ \"პაროლები\"";
 "AutofillTurnOn3" = "3. შეეხეთ \"პაროლების ავტოშევსება\"";
 "AutofillTurnOn4" = "4. ჩართეთ ავტოშევსება";
-"AutofillTurnOn5" = "5. აირჩიეთ \"Bitwarden\"";
+"AutofillTurnOn5" = "5. აირჩიეთ \"Multipass\"";
 "PasswordAutofill" = "პაროლის ავტოშევსება";
-"BitwardenAutofillAlert2" = "ახალი შესვლების სეიფში დამატების ყველაზე მარტივი გზაა Bitwarden-ის პაროლის ავტოშევსების გაფართოების გამოყენება. გაიგეთ მეტი Bitwarden-ის პაროლის ავტოშევსების გაფართოების გამოყენების შესახებ \"პარამეტრების\" ეკრანზე გადასვლით.";
+"BitwardenAutofillAlert2" = "ახალი შესვლების სეიფში დამატების ყველაზე მარტივი გზაა Multipass-ის პაროლის ავტოშევსების გაფართოების გამოყენება. გაიგეთ მეტი Multipass-ის პაროლის ავტოშევსების გაფართოების გამოყენების შესახებ \"პარამეტრების\" ეკრანზე გადასვლით.";
 "InvalidEmail" = "არასწორი ელ. ფოსტის მისამართი.";
 "InvalidEmailAddresses" = "არასწორი ელ. ფოსტის მისამართები";
 "NoEmailAddressesEntered" = "ელ. ფოსტის მისამართები არ არის შეყვანილი";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "კონფიდენციალურობის პოლიტიკაზე გადასვლა?";
 "ContinueToAppStore" = "აპლიკაციების მაღაზიაში გაგრძელება?";
 "ContinueWithoutSyncing" = "სინქრონიზაციის გარეშე გაგრძელება";
-"TwoStepLoginDescriptionLong" = "გახადეთ თქვენი ანგარიში უფრო უსაფრთხო ორსაფეხურიანი შესვლის დაყენებით Bitwarden-ის ვებ-აპში.";
+"TwoStepLoginDescriptionLong" = "გახადეთ თქვენი ანგარიში უფრო უსაფრთხო ორსაფეხურიანი შესვლის დაყენებით Multipass-ის ვებ-აპში.";
 "YouCanImportDataToYourVaultOnX" = "თქვენ შეგიძლიათ მონაცემების იმპორტი თქვენს სეიფში %1$@-ზე.";
 "PrivacyPolicyDescriptionLong" = "გაეცანით ჩვენს კონფიდენციალურობის პოლიტიკას bitwarden.com-ზე.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "გაეცანით თქვენი Bitwarden ანგარიშის მეტ ფუნქციას ვებ-აპში.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "გაეცანით თქვენი Multipass ანგარიშის მეტ ფუნქციას ვებ-აპში.";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden საშუალებას გაძლევთ გაუზიაროთ თქვენი სეიფის ჩანაწერები სხვებს ორგანიზაციის გამოყენებით. გაიგეთ მეტი bitwarden.com ვებსაიტზე.";
-"RateAppDescriptionLong" = "დაეხმარეთ სხვებს გაიგონ, არის თუ არა Bitwarden მათთვის შესაფერისი. ეწვიეთ აპლიკაციების მაღაზიას და დატოვეთ შეფასება ახლავე.";
+"RateAppDescriptionLong" = "დაეხმარეთ სხვებს გაიგონ, არის თუ არა Multipass მათთვის შესაფერისი. ეწვიეთ აპლიკაციების მაღაზიას და დატოვეთ შეფასება ახლავე.";
 "CreatedX" = "შეიქმნა %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "თქვენი ორგანიზაციის ნებართვები განახლდა, რაც მოითხოვს მთავარი პაროლის დაყენებას.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "თქვენი ორგანიზაცია მოითხოვს მთავარი პაროლის დაყენებას.";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "გაიგეთ მეტი უსაფრთხო შესვლის მონაცემების გენერირების შესახებ ინტერაქტიული ტურით.";
 "ExportVaultFilePwProtectInfo" = "ეს ფაილის ექსპორტი დაცული იქნება პაროლით და გაშიფვრისთვის საჭირო იქნება ფაილის პაროლი.";
 "IntroCarouselPage1Title" = "უსაფრთხოება, პრიორიტეტული";
-"IntroCarouselPage1Message" = "შეინახეთ შესვლები, ბარათები და პირადობები თქვენს უსაფრთხო სეიფში. Bitwarden იყენებს ნულოვანი ცოდნის, ბოლომდე დაშიფვრას, რათა დაიცვას ის, რაც თქვენთვის მნიშვნელოვანია.";
+"IntroCarouselPage1Message" = "შეინახეთ შესვლები, ბარათები და პირადობები თქვენს უსაფრთხო სეიფში. Multipass იყენებს ნულოვანი ცოდნის, ბოლომდე დაშიფვრას, რათა დაიცვას ის, რაც თქვენთვის მნიშვნელოვანია.";
 "IntroCarouselPage2Title" = "სწრაფი და მარტივი შესვლა";
 "IntroCarouselPage2Message" = "დააყენეთ ბიომეტრიული განბლოკვა და ავტოშევსება, რათა შეხვიდეთ თქვენს ანგარიშებში არც ერთი სიმბოლოს აკრეფის გარეშე.";
 "IntroCarouselPage3Title" = "გააუმჯობესეთ თქვენი შესვლები";
 "IntroCarouselPage3Message" = "გამოიყენეთ გენერატორი ძლიერი, უნიკალური პაროლების შესაქმნელად და შესანახად ყველა თქვენი ანგარიშისთვის.";
 "IntroCarouselPage4Title" = "თქვენი მონაცემები, როცა და სადაც გჭირდებათ";
-"IntroCarouselPage4Message" = "შეინახეთ შეუზღუდავი პაროლები შეუზღუდავ მოწყობილობაზე Bitwarden-ის მობილური, ბრაუზერის და დესკტოპის აპლიკაციებით.";
+"IntroCarouselPage4Message" = "შეინახეთ შეუზღუდავი პაროლები შეუზღუდავ მოწყობილობაზე Multipass-ის მობილური, ბრაუზერის და დესკტოპის აპლიკაციებით.";
 "AccountSetup" = "ანგარიშის დაყენება";
 "SetUpUnlock" = "განბლოკვის დაყენება";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "დააყენეთ ბიომეტრია ან აირჩიეთ PIN კოდი თქვენს სეიფზე სწრაფი წვდომისა და შესვლების ავტომატური შევსებისთვის.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "მთავარი პაროლი (სავალდებულო)";
 "RetypeMasterPasswordRequired" = "ხელახლა შეიყვანეთ მთავარი პაროლი (სავალდებულო)";
 "RetypeNewMasterPasswordRequired" = "ხელახლა შეიყვანეთ ახალი მთავარი პაროლი (სავალდებულო)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden ვერ აღადგენს დაკარგულ ან დავიწყებულ მთავარ პაროლს.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass ვერ აღადგენს დაკარგულ ან დავიწყებულ მთავარ პაროლს.";
 "LearnAboutWaysToPreventAccountLockout" = "გაეცანით ანგარიშის დაბლოკვის თავიდან აცილების გზებს";
 "RestartRegistration" = "რეგისტრაციის ხელახლა დაწყება";
 "Expired" = "ვადაგასული";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "შეცდომა Duo-ს სერვისთან დაკავშირებისას. გამოიყენეთ სხვა ორსაფეხურიანი შესვლის მეთოდი ან დახმარებისთვის დაუკავშირდით Duo-ს.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "ანგარიშის შექმნის დასაწყებად Pre Auth URL-ების ჩატვირთვა ვერ მოხერხდა.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "თქვენი მოწყობილობის პარამეტრებიდან, **ჩართეთ ავტოშევსება პაროლებისა და Passkeys-ისთვის.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**გამორთეთ iCloud Keychain**, რათა Bitwarden იყოს თქვენი ნაგულისხმევი ავტოშევსების წყარო.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**ჩართეთ Bitwarden**, რათა გამოიყენოთ თქვენი შენახული პაროლები ანგარიშებში შესასვლელად.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**გამორთეთ iCloud Keychain**, რათა Multipass იყოს თქვენი ნაგულისხმევი ავტოშევსების წყარო.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**ჩართეთ Multipass**, რათა გამოიყენოთ თქვენი შენახული პაროლები ანგარიშებში შესასვლელად.";
 "TurnOnAutoFill" = "ავტოშევსების ჩართვა";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "გამოიყენეთ ავტოშევსება თქვენს ანგარიშებში ერთი შეხებით შესასვლელად.";
 "NeedHelpCheckOutAutofillHelp" = "გჭირდებათ დახმარება? გაეცანით **[ავტოშევსების დახმარებას](%1$@)**";
 "TurnOnLater" = "მოგვიანებით ჩართვა";
 "TurnOnAutoFillLaterQuestion" = "ავტოშევსების მოგვიანებით ჩართვა?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "თქვენ შეგიძლიათ დაბრუნდეთ ამ ნაბიჯის დასასრულებლად ნებისმიერ დროს პარამეტრებში.";
-"ContinueToBitwarden" = "Bitwarden-ში გაგრძელება";
+"ContinueToBitwarden" = "Multipass-ში გაგრძელება";
 "BackToSettings" = "პარამეტრებში დაბრუნება";
 "YoureAllSet" = "ყველაფერი მზადაა!";
-"AutoFillActivatedDescriptionLong" = "ახლა შეგიძლიათ გამოიყენოთ ავტოშევსება აპლიკაციებსა და ვებსაიტებზე შესასვლელად თქვენი შენახული პაროლების გამოყენებით. ახლა შეგიძლიათ გაეცნოთ ყველაფერს, რასაც Bitwarden გთავაზობთ.";
+"AutoFillActivatedDescriptionLong" = "ახლა შეგიძლიათ გამოიყენოთ ავტოშევსება აპლიკაციებსა და ვებსაიტებზე შესასვლელად თქვენი შენახული პაროლების გამოყენებით. ახლა შეგიძლიათ გაეცნოთ ყველაფერს, რასაც Multipass გთავაზობთ.";
 "GetStarted" = "დაწყება";
 "Dismiss" = "დახურვა";
 "SaveAndProtectYourData" = "მონაცემების შენახვა და დაცვა";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "გამოიყენეთ კომპიუტერი არსებული პაროლების მენეჯერიდან შესვლების იმპორტისთვის.";
 "ImportLogins" = "შესვლების იმპორტი";
 "GiveYourVaultAHeadStart" = "მიეცით თქვენს სეიფს თავდაპირველი ბიძგი";
-"ImportLoginsDescriptionLong" = "თქვენი კომპიუტერიდან, მიჰყევით ამ ინსტრუქციებს, რათა ექსპორტი გაუკეთოთ შენახულ პაროლებს თქვენი ბრაუზერიდან ან სხვა პაროლების მენეჯერიდან. შემდეგ, უსაფრთხოდ შემოიტანეთ ისინი Bitwarden-ში.";
+"ImportLoginsDescriptionLong" = "თქვენი კომპიუტერიდან, მიჰყევით ამ ინსტრუქციებს, რათა ექსპორტი გაუკეთოთ შენახულ პაროლებს თქვენი ბრაუზერიდან ან სხვა პაროლების მენეჯერიდან. შემდეგ, უსაფრთხოდ შემოიტანეთ ისინი Multipass-ში.";
 "ImportLoginsLater" = "შესვლების მოგვიანებით იმპორტი";
 "ImportLoginsLaterQuestion" = "შესვლების მოგვიანებით იმპორტი?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "თქვენ შეგიძლიათ დაბრუნდეთ ამ ნაბიჯის დასასრულებლად ნებისმიერ დროს სეიფში პარამეტრების ქვეშ.";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "თქვენ წაშლით ამ ფაილს იმპორტის დასრულების შემდეგ.";
 "NeedHelpCheckOutImportHelp" = "გჭირდებათ დახმარება? გაეცანით **[იმპორტის დახმარებას](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "თქვენს კომპიუტერზე, გახსენით ბრაუზერის ახალი ჩანართი და **გადადით %1$@-ზე**.";
-"LogInToTheBitwardenWebApp" = "**შედით Bitwarden-ის ვებ-აპში.**";
-"ImportLoginsToBitwarden" = "Bitwarden-ში შესვლების იმპორტი";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Bitwarden-ის ნავიგაციაში, **იპოვეთ Tools ვარიანტი** და **აირჩიეთ Import data.**";
+"LogInToTheBitwardenWebApp" = "**შედით Multipass-ის ვებ-აპში.**";
+"ImportLoginsToBitwarden" = "Multipass-ში შესვლების იმპორტი";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Multipass-ის ნავიგაციაში, **იპოვეთ Tools ვარიანტი** და **აირჩიეთ Import data.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "შეავსეთ ფორმა და **შემოიტანეთ თქვენი შენახული პაროლის ფაილი.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "ვებ-აპში **აირჩიეთ Import data**, შემდეგ **Done** სინქრონიზაციის დასასრულებლად.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "თქვენი უსაფრთხოებისთვის, დარწმუნდით, რომ **წაშალეთ თქვენი შენახული პაროლის ფაილი.**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "ანგარიში არ მოიძებნა. გთხოვთ, ხელახლა შეხვიდეთ, თუ ეს შეცდომა კვლავ გამოჩნდება.";
 "ImportError" = "შემოტანის შეცდომა";
 "NoLoginsWereImported" = "არც ერთი შესვლა არ იქნა იმპორტირებული";
-"ThisIsNotARecognizedServerDescriptionLong" = "ეს არ არის აღიარებული Bitwarden სერვერი. შესაძლოა, დაგჭირდეთ თქვენს პროვაიდერთან შემოწმება ან სერვერის განახლება.";
+"ThisIsNotARecognizedServerDescriptionLong" = "ეს არ არის აღიარებული Multipass სერვერი. შესაძლოა, დაგჭირდეთ თქვენს პროვაიდერთან შემოწმება ან სერვერის განახლება.";
 "LoginsImported" = "შესვლები იმპორტირებულია";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "გახსოვდეთ, რომ წაშალოთ იმპორტირებული პაროლის ფაილი თქვენი კომპიუტერიდან.";
 "SomethingWentWrong" = "რაღაც არასწორად მოხდა";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "ჩართეთ დროებითი ჟურნალირება ჟურნალების ადგილობრივად შესაგროვებლად და შესამოწმებლად. ჩართვისას, აპლიკაციის მდგომარეობები და ქსელური გამოძახებები შეიძლება ჩაიწეროს — არასოდეს მგრძნობიარე სეიფის ინფორმაცია.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "დასაწყებად, დააყენეთ ჟურნალირების ხანგრძლივობა. ჟურნალირება ავტომატურად გამოირთვება ამ პერიოდის შემდეგ, რაც მოგცემთ დროს აქტივობის ჩასაწერად ნებისმიერი პრობლემის რეპროდუცირებისას.";
 "LoggingDuration" = "ჟურნალირების ხანგრძლივობა";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "ჟურნალები ავტომატურად წაიშლება 30 დღის შემდეგ. Bitwarden-ს შეუძლია წვდომა თქვენს ჟურნალის მონაცემებზე მხოლოდ მაშინ, როცა თქვენ გააზიარებთ მას.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "ჟურნალები ავტომატურად წაიშლება 30 დღის შემდეგ. Multipass-ს შეუძლია წვდომა თქვენს ჟურნალის მონაცემებზე მხოლოდ მაშინ, როცა თქვენ გააზიარებთ მას.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "დეტალებისთვის, თუ რა ჩაიწერება და არ ჩაიწერება, ეწვიეთ **[Bitwarden-ის დახმარების ცენტრს](%1$@)**.";
 "ShowMore" = "მეტის ჩვენება";
 "ShowLess" = "ნაკლების ჩვენება";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "გთხოვთ, დაადასტუროთ ქვემოთ მოცემული დომენი თქვენი ორგანიზაციის ადმინისტრატორთან.\n\nKey Connector დომენი:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "ნამდვილად გსურთ ამ ჟურნალის წაშლა?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "ნამდვილად გსურთ ყველა ჩაწერილი ჟურნალის წაშლა?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "ეს ანგარიში მскоро წაიშლება. Bitwarden-ის გამოყენების გასაგრძელებლად, შედით %1$@-ზე.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "ეს ანგარიში მскоро წაიშლება. Multipass-ის გამოყენების გასაგრძელებლად, შედით %1$@-ზე.";
 "AppSettings" = "აპლიკაციის პარამეტრები";
 "ViewFileSend" = "ფაილის Send-ის ნახვა";
 "ViewTextSend" = "ტექსტის Send-ის ნახვა";
@@ -942,7 +942,7 @@
 "LastEdited" = "ბოლო რედაქტირება: %1$@";
 "PasswordLastUpdated" = "პაროლი ბოლოს განახლდა: %1$@";
 "DecryptionError" = "გაშიფვრის შეცდომა";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden-მა ვერ შეძლო ამ სეიფის ჩანაწერის გაშიფვრა. მონაცემთა დამატებითი დაკარგვის თავიდან ასაცილებლად, დააკოპირეთ და გააზიარეთ ეს შეცდომის ანგარიში მომხმარებლის მხარდაჭერასთან.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass-მა ვერ შეძლო ამ სეიფის ჩანაწერის გაშიფვრა. მონაცემთა დამატებითი დაკარგვის თავიდან ასაცილებლად, დააკოპირეთ და გააზიარეთ ეს შეცდომის ანგარიში მომხმარებლის მხარდაჭერასთან.";
 "CopyErrorReport" = "შეცდომის ანგარიშის კოპირება";
 "ErrorCannotDecrypt" = "[შეცდომა: გაშიფვრა შეუძლებელია]";
 "AccountsSyncedFromBitwardenApp" = "Bitwarden აპიდან სინქრონიზებული ანგარიშები";
@@ -1000,7 +1000,7 @@
 "Skip" = "გამოტოვება";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "შეინახეთ ყველა თქვენი შესვლა და დაასინქრონეთ დადასტურების კოდები პირდაპირ Authenticator აპთან.";
-"SyncWithBrowserDescriptionLong" = "%1$@-თან დასაკავშირებლად, დაასინქრონეთ თქვენი ნაგულისხმევი ბრაუზერი Bitwarden-ის მობილურ აპთან. როცა ბრაუზერი გაიხსნება, დაასრულეთ შესვლა, თუ მოთხოვნილია. სინქრონიზაციის დასრულების შემდეგ, დაბრუნდებით ამ აპში.";
+"SyncWithBrowserDescriptionLong" = "%1$@-თან დასაკავშირებლად, დაასინქრონეთ თქვენი ნაგულისხმევი ბრაუზერი Multipass-ის მობილურ აპთან. როცა ბრაუზერი გაიხსნება, დაასრულეთ შესვლა, თუ მოთხოვნილია. სინქრონიზაციის დასრულების შემდეგ, დაბრუნდებით ამ აპში.";
 "SyncWithBitwardenApp" = "Bitwarden აპთან სინქრონიზაცია";
 "SyncWithBrowser" = "ბრაუზერთან სინქრონიზაცია";
 "SyncWithTheBitwardenApp" = "Bitwarden აპთან სინქრონიზაცია";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "აირჩიეთ ანგარიში";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "ანგარიშები";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI შესაბამისობის გამოვლენა აკონტროლებს, თუ როგორ ამოიცნობს Bitwarden ავტოშევსების წინადადებებს.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI შესაბამისობის გამოვლენა აკონტროლებს, თუ როგორ ამოიცნობს Multipass ავტოშევსების წინადადებებს.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“იწყება” არის გაფართოებული ვარიანტი, რომელიც ზრდის მონაცემების გამჟღავნების რისკს.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“რეგულარული გამოხატულება” არის გაფართოებული ვარიანტი, რომელიც არასწორი გამოყენების შემთხვევაში ზრდის მონაცემების გამჟღავნების რისკს.";
 "StartsWithAdvanced" = "იწყება (გამოცდილებისთვის)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "წვდომის აღსადგენად, დაუკავშირდით თქვენს ადმინისტრატორს.";
 "LeaveX" = "%1$@-ის დატოვება";
 "YouLeftTheOrganization" = "თქვენ დატოვეთ ორგანიზაცია";
-"ItemTransferRequiresMainAppDescriptionLong" = "ორგანიზაცია ითხოვს თქვენი პირადი ჩანაწერების საკუთრებას. ამ მოთხოვნის განსახილველად და დასასრულებლად, გახსენით მთავარი Bitwarden აპი.";
+"ItemTransferRequiresMainAppDescriptionLong" = "ორგანიზაცია ითხოვს თქვენი პირადი ჩანაწერების საკუთრებას. ამ მოთხოვნის განსახილველად და დასასრულებლად, გახსენით მთავარი Multipass აპი.";
 "ThisSettingIsManagedByYourOrganization" = "ეს პარამეტრი მართულია თქვენი ორგანიზაციის მიერ.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "თქვენმა ორგანიზაციამ დააწესა სესიის მაქსიმალური ვადა %1$@-მდე.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "თქვენმა ორგანიზაციამ დააწესა სესიის ნაგულისხმევი ვადა არასდროს.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock გასუფთავებულია.";
 "SsoCookiesCleared" = "SSO ქუქიები გასუფთავებულია";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "თქვენი მოთხოვნა შეწყდა, რადგან აპს დასჭირდა ხელახალი ავთენტიფიკაცია. გთხოვთ, სცადოთ ხელახლა.";
-"AutofillWithBitwardenDescriptionLong" = "Bitwarden-ს შეუძლია შემოგთავაზოს თქვენი პაროლები და სხვა მონაცემები, როცა აპლიკაციებსა და ვებსაიტებზე შედიხართ.";
+"AutofillWithBitwardenDescriptionLong" = "Multipass-ს შეუძლია შემოგთავაზოს თქვენი პაროლები და სხვა მონაცემები, როცა აპლიკაციებსა და ვებსაიტებზე შედიხართ.";
 "LearnMoreAboutAutofill" = "გაიგეთ მეტი ავტოშევსების შესახებ";
 "TurnOnNow" = "ახლავე ჩართვა";
 "AcceptTransfer" = "გადაცემის მიღება";

@@ -3,7 +3,7 @@
 "AddFolder" = "Kausta lisamine";
 "AnErrorHasOccurred" = "Ilmnes tõrge.";
 "Back" = "Tagasi";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Tühista";
 "Copy" = "Kopeeri";
 "CopyLicenseNumber" = "Kopeeri litsentsi number";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "Paroolilauseid on sageli lihtsam meelde jätta ja sisestada kui juhuslikke paroole. Need võivad olla abiks, kui peate sisse logima kontodesse, kus automaattäide pole saadaval, näiteks voogedastusteenusesse teleris.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "Unikaalsed kasutajanimed lisavad täiendava turvakihi ja võivad aidata takistada häkkeritel teie kontode leidmist.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "Kasutage neid valikuid, et kohandada oma parool vastavalt konto veebisaidi nõuetele.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Kui olete uue parooli Bitwardenisse salvestanud, ärge unustage seda oma konto veebisaidil uuendada.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Kui olete uue parooli Multipassisse salvestanud, ärge unustage seda oma konto veebisaidil uuendada.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "Sellele kontole juurdepääsemiseks automaattäite abil peate lisama veebiaadressi.";
 "Username" = "Kasutajanimi";
 "ValidationFieldRequired" = "Väli %1$@ on kohustuslik.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "Taas-aktiveeri rakenduse laiendus";
 "ExtensionAlmostDone" = "Peaaegu valmis!";
 "ExtensionEnable" = "Aktiveeri rakenduse laiendus";
-"ExtensionInSafari" = "Safaris pääsed Bitwardenile ligi läbi jagamise ikooni (vihje: vaata jagamise menüüs paremale-alla).";
+"ExtensionInSafari" = "Safaris pääsed Multipassile ligi läbi jagamise ikooni (vihje: vaata jagamise menüüs paremale-alla).";
 "ExtensionInstantAccess" = "Kiire ligipääs oma paroolidele!";
 "ExtensionReady" = "Olete sisselogimiseks valmis!";
 "ExtensionSetup" = "Pääsed nüüd oma kontoandmetele lihtsasti ligi nii Safaris, Chromes kui ka teistes toetatud rakendustes.";
-"ExtensionSetup2" = "Safaris ja Chromes pääsed Bitwardenile ligi läbi jagamise ikooni (vihje: vaata jagamise menüüs paremale-alla).";
-"ExtensionTapIcon" = "Lisa käivitamiseks vajuta menüüs Bitwardeni ikoonile.";
-"ExtensionTurnOn" = "Bitwardeni sisselülitamiseks Safari ja teistes rakendustes puudutage menüü alumisel real ikooni „Veel”.";
+"ExtensionSetup2" = "Safaris ja Chromes pääsed Multipassile ligi läbi jagamise ikooni (vihje: vaata jagamise menüüs paremale-alla).";
+"ExtensionTapIcon" = "Lisa käivitamiseks vajuta menüüs Multipassi ikoonile.";
+"ExtensionTurnOn" = "Multipassi sisselülitamiseks Safari ja teistes rakendustes puudutage menüü alumisel real ikooni „Veel”.";
 "Favorite" = "Lemmik";
 "Fingerprint" = "sõrmejäljega";
 "GeneratePassword" = "Loo parool";
@@ -110,7 +110,7 @@
 "Immediately" = "Koheselt";
 "VaultTimeoutLogOutConfirmation" = "Väljalogimine eemaldab hoidlale ligipääsu ning nõuab pärast ajalõpu perioodi uuesti autentimist. Oled kindel, et soovid seda valikut kasutada?";
 "LoggingIn" = "Sisselogimine…";
-"LogInToBitwarden" = "Logi sisse Bitwardenisse";
+"LogInToBitwarden" = "Logi sisse Multipassisse";
 "MasterPasswordConfirmationValMessage" = "Parooli kinnitus ei ole õige.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "Peaparool on parool, mida kasutate oma varale juurdepääsemiseks.";
 "MasterPasswordHint" = "Ülemparooli vihje";
@@ -127,7 +127,7 @@
 "PasswordHint" = "Parooli vihje";
 "PasswordHintAlert" = "Oleme saatnud teile e-kirja teie peaparooli vihjega.";
 "PasswordOverrideAlert" = "Oled kindel, et soovid olemasolevat parooli asendada?";
-"PushNotificationAlert" = "Bitwarden hoiab teie vara automaatselt sünkroonituna tõukemärguannete abil. Parima kogemuse saamiseks valige tõukemärguannete lubamise küsimisel järgmisel hüpikaknal „Luba”.";
+"PushNotificationAlert" = "Multipass hoiab teie vara automaatselt sünkroonituna tõukemärguannete abil. Parima kogemuse saamiseks valige tõukemärguannete lubamise küsimisel järgmisel hüpikaknal „Luba”.";
 "Security" = "Turvalisus";
 "Select" = "Vali";
 "ItemUpdated" = "Kirje on uuendatud.";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Avage Optic ID-ga";
 "UnlockWithPIN" = "Lukusta lahti PIN koodiga";
 "VerificationCode" = "Kinnituskood";
-"WebVault" = "Bitwarden veebihoidla";
+"WebVault" = "Multipass veebihoidla";
 "Items" = "Kirjet";
 "ExtensionActivated" = "Lisa on aktiveeritud!";
 "ItemsForUri" = "%1$@ kontoandmed";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "The environment URLs have been saved.";
 "IdentityUrl" = "Identifitseerimise serveri URL";
 "SelfHostedEnvironment" = "Enda majutatud keskkond";
-"SelfHostedEnvironmentFooter" = "Sisesta baas URL, kus sinu või ettevõtte majutatud Bitwarden asub.";
+"SelfHostedEnvironmentFooter" = "Sisesta baas URL, kus sinu või ettevõtte majutatud Multipass asub.";
 "ServerUrl" = "Serveri URL";
 "WebVaultUrl" = "Veebihoidla serveri URL";
 "CustomFields" = "Kohandatud väljad";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "Kuva veebilehtede ikoone";
 "ShowWebsiteIconsDescription" = "Kuva iga kirje kõrval lehekülje ikooni.";
 "IconsUrl" = "Ikoonide serveri URL";
-"AutofillWithBitwarden" = "Automaattäide Bitwardeniga";
+"AutofillWithBitwarden" = "Automaattäide Multipassiga";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "Kogumikud";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. Puudutage „Paroolid”";
 "AutofillTurnOn3" = "3. Puudutage „Paroolide automaattäide”";
 "AutofillTurnOn4" = "4. Lülita AutoFill sisse";
-"AutofillTurnOn5" = "5. Valige „Bitwarden”";
+"AutofillTurnOn5" = "5. Valige „Multipass”";
 "PasswordAutofill" = "Parooli automaattäide";
-"BitwardenAutofillAlert2" = "Lihtsaim viis uute sisselogimiste lisamiseks oma varasse on Bitwardeni paroolide automaattäite laienduse kasutamine. Lisateavet Bitwardeni paroolide automaattäite laienduse kasutamise kohta saate, kui liikuge ekraanile „Seaded”.";
+"BitwardenAutofillAlert2" = "Lihtsaim viis uute sisselogimiste lisamiseks oma varasse on Multipassi paroolide automaattäite laienduse kasutamine. Lisateavet Multipassi paroolide automaattäite laienduse kasutamise kohta saate, kui liikuge ekraanile „Seaded”.";
 "InvalidEmail" = "Vigane e-posti aadress.";
 "InvalidEmailAddresses" = "Vigased e-posti aadressid";
 "NoEmailAddressesEntered" = "Ühtegi e-posti aadressi pole sisestatud";
@@ -561,7 +561,7 @@
 "RequestsDeclined" = "Taotlused on tagasi lükatud";
 "NoPendingRequests" = "Ootel taotlused puuduvad";
 "Language" = "Keel";
-"LanguageChangeXDescription" = "Rakenduse keel muudeti %1$@-ks. Muudatuste rakendamiseks taaskäivita Bitwarden";
+"LanguageChangeXDescription" = "Rakenduse keel muudeti %1$@-ks. Muudatuste rakendamiseks taaskäivita Multipass";
 "LanguageChangeRequiresAppRestart" = "Keele muutmiseks on vajalik rakenduse taaskäivitamine";
 "DefaultSystem" = "Vaikeväärtus (süsteem)";
 "Important" = "Tähtis";
@@ -630,7 +630,7 @@
 "TwoStepLoginDescriptionLong" = "Muuda oma konto turvalisemaks seadistades brauseris kahe-astmeline sisselogimine.";
 "YouCanImportDataToYourVaultOnX" = "Sa saad importida oma andmed hoidlasse aadressil %1$@.";
 "PrivacyPolicyDescriptionLong" = "Vaadake meie privaatsuspoliitikat veebilehel bitwarden.com.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Vaata ka teisi Bitwardeni konto funktsioone veebibrauseris.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Vaata ka teisi Multipassi konto funktsioone veebibrauseris.";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden võimaldab sul hoidla sisu teiste kasutajatega jagada, kasutades selleks organisatsiooni kontot. Uuri lähemalt www.bitwarden.com.";
 "RateAppDescriptionLong" = "Aita meil jõuda rohkemate inimesteni. Külasta enda rakenduste poodi ja jäta sinna positiivne hinnang.";
 "CreatedX" = "Loodud %1$@";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "Lisateave turvaliste sisselogimismandaatide genereerimise kohta juhendatud ringkäiguga.";
 "ExportVaultFilePwProtectInfo" = "See eksporditav fail on parooliga kaitstud ja nõuab dekrüpteerimiseks parooli.";
 "IntroCarouselPage1Title" = "Turvalisus on esikohal";
-"IntroCarouselPage1Message" = "Salvestage sisselogimised, kaardid ja identiteedid oma turvalisse varasse. Bitwarden kasutab nullteadmuspõhist otspunktkrüptimist, et kaitsta teie jaoks olulist.";
+"IntroCarouselPage1Message" = "Salvestage sisselogimised, kaardid ja identiteedid oma turvalisse varasse. Multipass kasutab nullteadmuspõhist otspunktkrüptimist, et kaitsta teie jaoks olulist.";
 "IntroCarouselPage2Title" = "Kiire ja lihtne sisselogimine";
 "IntroCarouselPage2Message" = "Seadistage biomeetriline avamine ja automaattäide, et logida oma kontodesse sisse ilma ühtegi tähte tippimata.";
 "IntroCarouselPage3Title" = "Tõstke oma sisselogimised uuele tasemele";
 "IntroCarouselPage3Message" = "Kasutage generaatorit, et luua ja salvestada kõigile oma kontodele tugevad ja kordumatud paroolid.";
 "IntroCarouselPage4Title" = "Teie andmed, millal ja kus te neid vajate";
-"IntroCarouselPage4Message" = "Salvestage piiramatult paroole piiramatul arvul seadmetes Bitwardeni mobiili-, veebi- ja töölauarakendustega.";
+"IntroCarouselPage4Message" = "Salvestage piiramatult paroole piiramatul arvul seadmetes Multipassi mobiili-, veebi- ja töölauarakendustega.";
 "AccountSetup" = "Konto seadistamine";
 "SetUpUnlock" = "Avamise seadistamine";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "Seadistage biomeetrilised andmed või valige PIN-kood, et pääseda kiiresti oma varale juurde ja täita sisselogimised automaatselt.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "Ülemparool (kohustuslik)";
 "RetypeMasterPasswordRequired" = "Sisesta ülemparool uuesti (kohustuslik)";
 "RetypeNewMasterPasswordRequired" = "Sisestage uus peaparool uuesti (nõutav)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden ei saa kaotatud või unustatud peaparooli lähtestada.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass ei saa kaotatud või unustatud peaparooli lähtestada.";
 "LearnAboutWaysToPreventAccountLockout" = "Lisateave konto lukustumise vältimise viiside kohta";
 "RestartRegistration" = "Alusta registreerimist uuesti";
 "Expired" = "Aegunud";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Duo teenustega ühendamine ebaõnnestus. Kasuta teist kahe-astmelise sisselogimise meetodit või kontakteeru Duoga.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "Konto loomise alustamiseks ei õnnestunud eelautentimise URL-e laadida.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "Seadme seadetes **lülitage sisse paroolide ja pääsukoodide automaattäide.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Lülitage iCloudi võtmehoidla välja**, et muuta Bitwarden oma vaikimisi automaattäite allikaks.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Lülitage Bitwarden sisse**, et kasutada oma salvestatud paroole kontodesse sisselogimiseks.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Lülitage iCloudi võtmehoidla välja**, et muuta Multipass oma vaikimisi automaattäite allikaks.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Lülitage Multipass sisse**, et kasutada oma salvestatud paroole kontodesse sisselogimiseks.";
 "TurnOnAutoFill" = "Lülita automaattäide sisse";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "Kasutage oma kontodesse sisselogimiseks ühe puudutusega automaattäidet.";
 "NeedHelpCheckOutAutofillHelp" = "Vajate abi? Vaadake **[automaattäite abi](%1$@)**";
 "TurnOnLater" = "Lülita sisse hiljem";
 "TurnOnAutoFillLaterQuestion" = "Lülitada automaattäide sisse hiljem?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "Saate selle sammu lõpule viimiseks igal ajal Seadetesse naasta.";
-"ContinueToBitwarden" = "Jätka Bitwardeniga";
+"ContinueToBitwarden" = "Jätka Multipassiga";
 "BackToSettings" = "Tagasi seadetesse";
 "YoureAllSet" = "Kõik on valmis!";
-"AutoFillActivatedDescriptionLong" = "Nüüd saate kasutada automaattäidet, et logida salvestatud paroolidega rakendustesse ja veebisaitidesse. Nüüd saate uurida kõike muud, mida Bitwarden pakub.";
+"AutoFillActivatedDescriptionLong" = "Nüüd saate kasutada automaattäidet, et logida salvestatud paroolidega rakendustesse ja veebisaitidesse. Nüüd saate uurida kõike muud, mida Multipass pakub.";
 "GetStarted" = "Alustamine";
 "Dismiss" = "Loobu";
 "SaveAndProtectYourData" = "Salvestage ja kaitske oma andmeid";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "Kasutage olemasolevast paroolihaldurist sisselogimiste importimiseks arvutit.";
 "ImportLogins" = "Impordi sisselogimised";
 "GiveYourVaultAHeadStart" = "Andke oma varale eelis";
-"ImportLoginsDescriptionLong" = "Järgige arvutis neid juhiseid, et eksportida salvestatud paroolid oma brauserist või muust paroolihaldurist. Seejärel importige need turvaliselt Bitwardenisse.";
+"ImportLoginsDescriptionLong" = "Järgige arvutis neid juhiseid, et eksportida salvestatud paroolid oma brauserist või muust paroolihaldurist. Seejärel importige need turvaliselt Multipassisse.";
 "ImportLoginsLater" = "Impordi sisselogimised hiljem";
 "ImportLoginsLaterQuestion" = "Impordi sisselogimised hiljem?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "Selle sammu lõpule viimiseks saate igal ajal Seadete all varasse naasta.";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "Kustutate selle faili pärast importimise lõpetamist.";
 "NeedHelpCheckOutImportHelp" = "Vajate abi? Vaadake **[importimise abi](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "Oma arvutis avage uus brauseri vahekaart ja **minge aadressile %1$@**.";
-"LogInToTheBitwardenWebApp" = "**Logige sisse Bitwardeni veebirakendusse.**";
-"ImportLoginsToBitwarden" = "Impordi sisselogimised Bitwardenisse";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Bitwardeni navigeerimisel **leidke valik Tööriistad** ja **valige Impordi andmed.**";
+"LogInToTheBitwardenWebApp" = "**Logige sisse Multipassi veebirakendusse.**";
+"ImportLoginsToBitwarden" = "Impordi sisselogimised Multipassisse";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Multipassi navigeerimisel **leidke valik Tööriistad** ja **valige Impordi andmed.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "Täitke vorm ja **importige oma salvestatud paroolifail.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "**Valige veebirakenduses Impordi andmed**, seejärel **Valmis**, et sünkroonimine lõpule viia.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "Turvalisuse huvides **kustutage kindlasti oma salvestatud paroolifail.**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "Kontot ei leitud. Kui näete seda tõrget jätkuvalt, logige uuesti sisse.";
 "ImportError" = "Tõrge importimisel";
 "NoLoginsWereImported" = "Ühtegi sisselogimist ei imporditud";
-"ThisIsNotARecognizedServerDescriptionLong" = "See ei ole tunnustatud Bitwardeni server. Peate võib-olla kontrollima oma teenusepakkujat või uuendama oma serverit.";
+"ThisIsNotARecognizedServerDescriptionLong" = "See ei ole tunnustatud Multipassi server. Peate võib-olla kontrollima oma teenusepakkujat või uuendama oma serverit.";
 "LoginsImported" = "Sisselogimised imporditud";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "Pidage meeles imporditud paroolifail arvutist kustutada.";
 "SomethingWentWrong" = "Midagi läks valesti";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "Lubage ajutine logimine, et koguda ja uurida logisid kohapeal. Kui see on lubatud, võidakse logida rakenduse olekuid ja võrgupäringuid – kunagi tundlikke varateavet.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "Alustamiseks määrake logimise kestus. Logimine lülitub pärast seda perioodi automaatselt välja, andes teile aega tegevuste jäädvustamiseks probleemide taasesitamise ajal.";
 "LoggingDuration" = "Logimise kestus";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Logid kustutatakse automaatselt 30 päeva pärast. Bitwarden pääseb teie logiandmetele juurde ainult siis, kui te neid jagate.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Logid kustutatakse automaatselt 30 päeva pärast. Multipass pääseb teie logiandmetele juurde ainult siis, kui te neid jagate.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "Lisateabe saamiseks selle kohta, mida logitakse ja mida mitte, külastage **[Bitwardeni abikeskust](%1$@)**.";
 "ShowMore" = "Näita rohkem";
 "ShowLess" = "Näita vähem";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "Kinnitage allpool olev domeen oma organisatsiooni administraatoriga.\n\nVõtmeühendaja domeen:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "Kas soovite selle logi tõesti kustutada?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "Kas soovite tõesti kõik salvestatud logid kustutada?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "See konto kustutatakse peagi. Bitwardeni kasutamise jätkamiseks logige sisse aadressil %1$@.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "See konto kustutatakse peagi. Multipassi kasutamise jätkamiseks logige sisse aadressil %1$@.";
 "AppSettings" = "Rakenduse seaded";
 "ViewFileSend" = "Vaata failisaadetist";
 "ViewTextSend" = "Vaata tekstisaadetist";
@@ -942,7 +942,7 @@
 "LastEdited" = "Viimati muudetud: %1$@";
 "PasswordLastUpdated" = "Parooli viimane uuendus: %1$@";
 "DecryptionError" = "Viga dekrüpteerimisel";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden ei suutnud seda varahoidla üksust dekrüptida. Täiendavate andmekadude vältimiseks kopeerige ja jagage see veaaruandlus klienditoega.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass ei suutnud seda varahoidla üksust dekrüptida. Täiendavate andmekadude vältimiseks kopeerige ja jagage see veaaruandlus klienditoega.";
 "CopyErrorReport" = "Kopeeri veaaruandlus";
 "ErrorCannotDecrypt" = "[viga: dekrüptimine ebaõnnestus]";
 "AccountsSyncedFromBitwardenApp" = "Bitwardeni rakendusest sünkroonitud kontod";
@@ -1000,7 +1000,7 @@
 "Skip" = "Jäta vahele";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "Hoiusta kõiki oma kasutajakonto andmeid ja sünkroniseeri oma kinnituskoode otse Authenticatori rakenduse kaudu.";
-"SyncWithBrowserDescriptionLong" = "%1$@ ühendamiseks sünkroonige oma vaikebrauser Bitwardeni mobiilirakendusega. Kui brauser avaneb, lõpetage sisselogimine, kui seda palutakse. Kui sünkroonimine on lõppenud, naasete sellesse rakendusse.";
+"SyncWithBrowserDescriptionLong" = "%1$@ ühendamiseks sünkroonige oma vaikebrauser Multipassi mobiilirakendusega. Kui brauser avaneb, lõpetage sisselogimine, kui seda palutakse. Kui sünkroonimine on lõppenud, naasete sellesse rakendusse.";
 "SyncWithBitwardenApp" = "Sünkroniseeri Bitwardeni rakendusega";
 "SyncWithBrowser" = "Sünkrooni brauseriga";
 "SyncWithTheBitwardenApp" = "Sünkroniseeri Bitwardeni rakendusega";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "Vali konto";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "Kontod";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI vaste tuvastamine kontrollib, kuidas Bitwarden tuvastab, kus pakkuda automaatse täitmise soovitusi.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI vaste tuvastamine kontrollib, kuidas Multipass tuvastab, kus pakkuda automaatse täitmise soovitusi.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "„Algab sõnaga” on täpsem valik, millega kaasneb suurem risk mandaatide paljastamiseks.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "„Regulaaravaldis” on täpsem valik, millega kaasneb vale kasutamise korral suurem risk mandaatide paljastamiseks.";
 "StartsWithAdvanced" = "Algab sõnaga (täpsem)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "Juurdepääsu taastamiseks võtke ühendust oma administraatoriga.";
 "LeaveX" = "Lahku %1$@";
 "YouLeftTheOrganization" = "Lahkusite organisatsioonist";
-"ItemTransferRequiresMainAppDescriptionLong" = "Organisatsioon taotleb teie isiklike üksuste omandiõigust. Selle taotluse ülevaatamiseks ja täitmiseks avage peamine Bitwardeni rakendus.";
+"ItemTransferRequiresMainAppDescriptionLong" = "Organisatsioon taotleb teie isiklike üksuste omandiõigust. Selle taotluse ülevaatamiseks ja täitmiseks avage peamine Multipassi rakendus.";
 "ThisSettingIsManagedByYourOrganization" = "Seda seadet haldab teie organisatsioon.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "Teie organisatsioon on määranud maksimaalse seansi ajalõpu väärtusele %1$@.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "Teie organisatsioon on määranud vaikimisi seansi ajalõpu väärtusele mitte kunagi.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock tühjendatud.";
 "SsoCookiesCleared" = "SSO-küpsised tühjendatud";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "Teie päring katkestati, kuna rakendus vajas uuesti autentimist. Palun proovige uuesti.";
-"AutofillWithBitwardenDescriptionLong" = "Bitwarden võib teile rakendustesse ja veebisaitidesse sisselogimisel soovitada teie paroole ja muid mandaate.";
+"AutofillWithBitwardenDescriptionLong" = "Multipass võib teile rakendustesse ja veebisaitidesse sisselogimisel soovitada teie paroole ja muid mandaate.";
 "LearnMoreAboutAutofill" = "Lisateave automaattäite kohta";
 "TurnOnNow" = "Lülita kohe sisse";
 "AcceptTransfer" = "Nõustu üleandmisega";

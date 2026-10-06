@@ -14,13 +14,13 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Bitwarden לא הצליח לפענח %d פריט בכספת.</string>
+        <string>Multipass לא הצליח לפענח %d פריט בכספת.</string>
         <key>two</key>
-        <string>Bitwarden לא הצליח לפענח %d פריטים בכספת.</string>
+        <string>Multipass לא הצליח לפענח %d פריטים בכספת.</string>
         <key>many</key>
-        <string>Bitwarden לא הצליח לפענח %d פריטים בכספת.</string>
+        <string>Multipass לא הצליח לפענח %d פריטים בכספת.</string>
         <key>other</key>
-        <string>Bitwarden לא הצליח לפענח %d פריטים בכספת.</string>
+        <string>Multipass לא הצליח לפענח %d פריטים בכספת.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

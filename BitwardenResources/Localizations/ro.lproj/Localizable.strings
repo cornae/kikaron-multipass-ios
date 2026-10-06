@@ -3,7 +3,7 @@
 "AddFolder" = "Adăugare dosar";
 "AnErrorHasOccurred" = "S-a produs o eroare.";
 "Back" = "Înapoi";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Anulare";
 "Copy" = "Copiere";
 "CopyLicenseNumber" = "Copiază numărul permisului";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "Frazele-parolă sunt adesea mai ușor de reținut și de tastat decât parolele aleatorii. Ele pot fi utile atunci când trebuie să te autentifici în conturi unde completarea automată nu este disponibilă, cum ar fi un serviciu de streaming pe televizor.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "Numele de utilizator unice adaugă un strat suplimentar de securitate și pot ajuta la prevenirea găsirii conturilor tale de către hackeri.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "Folosește aceste opțiuni pentru a ajusta parola ta astfel încât să îndeplinească cerințele site-ului contului tău.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "După ce salvezi noua parolă în Bitwarden, nu uita să o actualizezi și pe site-ul contului tău.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "După ce salvezi noua parolă în Multipass, nu uita să o actualizezi și pe site-ul contului tău.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "Trebuie să adaugi o adresă web pentru a folosi completarea automată pentru a accesa acest cont.";
 "Username" = "Nume utilizator";
 "ValidationFieldRequired" = "Câmpul %1$@ este necesar.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "Reactivare extensie aplicație";
 "ExtensionAlmostDone" = "Aproape gata!";
 "ExtensionEnable" = "Activare extensie aplicație";
-"ExtensionInSafari" = "În Safari, găsiți Bitwarden utilizând iconul de partajare (indiciu: derulați la dreapta pe rândul de jos al meniului).";
+"ExtensionInSafari" = "În Safari, găsiți Multipass utilizând iconul de partajare (indiciu: derulați la dreapta pe rândul de jos al meniului).";
 "ExtensionInstantAccess" = "Obțineți acces instantaneu la parolele dvs!";
 "ExtensionReady" = "Ești gata să te autentifici!";
 "ExtensionSetup" = "Datele dvs. de conectare sunt acum ușor accesibile din Safari, Chrome și alte aplicații suportate.";
-"ExtensionSetup2" = "În Safari și Chrome, găsiți Bitwarden utilizând iconul de partajare (indiciu: derulați la dreapta pe rândul de jos al meniului partajare).";
-"ExtensionTapIcon" = "Atingeți iconul Bitwarden din meniu pentru a lansa extensia.";
-"ExtensionTurnOn" = "Pentru a activa Bitwarden în Safari și alte aplicații, atinge pictograma „mai multe” din rândul de jos al meniului.";
+"ExtensionSetup2" = "În Safari și Chrome, găsiți Multipass utilizând iconul de partajare (indiciu: derulați la dreapta pe rândul de jos al meniului partajare).";
+"ExtensionTapIcon" = "Atingeți iconul Multipass din meniu pentru a lansa extensia.";
+"ExtensionTurnOn" = "Pentru a activa Multipass în Safari și alte aplicații, atinge pictograma „mai multe” din rândul de jos al meniului.";
 "Favorite" = "Favorit";
 "Fingerprint" = "Amprentă";
 "GeneratePassword" = "Generare parolă";
@@ -110,7 +110,7 @@
 "Immediately" = "Imediat";
 "VaultTimeoutLogOutConfirmation" = "După expirare, accesul la seiful dvs. va fi restricționat și va fi necesară autentificarea online. Sigur doriți să utilizați această setare?";
 "LoggingIn" = "Autentificare în curs…";
-"LogInToBitwarden" = "Autentifică-te în Bitwarden";
+"LogInToBitwarden" = "Autentifică-te în Multipass";
 "MasterPasswordConfirmationValMessage" = "Confirmarea parolei nu este corectă.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "Parola master este parola pe care o folosești pentru a accesa seiful tău.";
 "MasterPasswordHint" = "Indiciu pentru parola principală";
@@ -127,7 +127,7 @@
 "PasswordHint" = "Indiciu parolă";
 "PasswordHintAlert" = "Ți-am trimis un e-mail cu indiciul pentru parola master.";
 "PasswordOverrideAlert" = "Sigur doriți să suprascrieți parola curentă?";
-"PushNotificationAlert" = "Bitwarden menține seiful sincronizat automat folosind notificări push. Pentru cea mai bună experiență, te rugăm să selectezi „Permite” la următoarea solicitare când ți se cere să permiți notificările push.";
+"PushNotificationAlert" = "Multipass menține seiful sincronizat automat folosind notificări push. Pentru cea mai bună experiență, te rugăm să selectezi „Permite” la următoarea solicitare când ți se cere să permiți notificările push.";
 "Security" = "Securitate";
 "Select" = "Selectare";
 "ItemUpdated" = "Articol salvat";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Deblochează cu Optic ID";
 "UnlockWithPIN" = "Deblocare cu codul PIN";
 "VerificationCode" = "Cod de verificare";
-"WebVault" = "Seif web Bitwarden";
+"WebVault" = "Seif web Multipass";
 "Items" = "Articole";
 "ExtensionActivated" = "Extensie activată!";
 "ItemsForUri" = "Autentificări pentru %1$@";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "URL-urile mediului au fost salvate.";
 "IdentityUrl" = "URL server de identificare";
 "SelfHostedEnvironment" = "Mediul găzduit local";
-"SelfHostedEnvironmentFooter" = "Specificați URL-ul de bază al instalării Bitwarden.";
+"SelfHostedEnvironmentFooter" = "Specificați URL-ul de bază al instalării Multipass.";
 "ServerUrl" = "URL server";
 "WebVaultUrl" = "URL server seif Web";
 "CustomFields" = "Câmpuri particularizate";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "Afișare pictograme site web";
 "ShowWebsiteIconsDescription" = "Afișează o imagine ușor de recunoscut lângă fiecare autentificare.";
 "IconsUrl" = "URL server de pictograme";
-"AutofillWithBitwarden" = "Completare automată cu Bitwarden";
+"AutofillWithBitwarden" = "Completare automată cu Multipass";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "Colecții";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. Atinge „Parole”";
 "AutofillTurnOn3" = "3. Atinge „Completare automată parole”";
 "AutofillTurnOn4" = "4. Activați \"Completare automată\"";
-"AutofillTurnOn5" = "5. Selectează „Bitwarden”";
+"AutofillTurnOn5" = "5. Selectează „Multipass”";
 "PasswordAutofill" = "Completare automată a parolei";
-"BitwardenAutofillAlert2" = "Cel mai simplu mod de a adăuga noi autentificări în seiful tău este folosind extensia Bitwarden Password AutoFill. Află mai multe despre utilizarea extensiei Bitwarden Password AutoFill navigând la ecranul „Setări”.";
+"BitwardenAutofillAlert2" = "Cel mai simplu mod de a adăuga noi autentificări în seiful tău este folosind extensia Multipass Password AutoFill. Află mai multe despre utilizarea extensiei Multipass Password AutoFill navigând la ecranul „Setări”.";
 "InvalidEmail" = "Adresă de e-mail greșită.";
 "InvalidEmailAddresses" = "Adrese de e-mail invalide";
 "NoEmailAddressesEntered" = "Nu s-au introdus adrese de e-mail";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "Continuați la politica de confidențialitate?";
 "ContinueToAppStore" = "Continuați la magazinul de aplicații?";
 "ContinueWithoutSyncing" = "Continuă fără sincronizare";
-"TwoStepLoginDescriptionLong" = "Faceți contul dvs. mai sigur prin configurarea autentificării în doi pași în aplicația web Bitwarden.";
+"TwoStepLoginDescriptionLong" = "Faceți contul dvs. mai sigur prin configurarea autentificării în doi pași în aplicația web Multipass.";
 "YouCanImportDataToYourVaultOnX" = "Poți importa date în seif pe %1$@.";
 "PrivacyPolicyDescriptionLong" = "Consultați politica noastră de confidențialitate pe bitwarden.com.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Explorați mai multe caracteristici ale contului dvs. Bitwarden pe aplicația web.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Explorați mai multe caracteristici ale contului dvs. Multipass pe aplicația web.";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden vă permite să partajați elementele din seif cu alte persoane utilizând o organizație. Aflați mai multe pe site-ul bitwarden.com.";
-"RateAppDescriptionLong" = "Ajutați-i pe alții să afle dacă Bitwarden este potrivit pentru ei. Vizitați magazinul de aplicații și lăsați un rating acum.";
+"RateAppDescriptionLong" = "Ajutați-i pe alții să afle dacă Multipass este potrivit pentru ei. Vizitați magazinul de aplicații și lăsați un rating acum.";
 "CreatedX" = "Creat %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "Permisiunile organizației dvs. au fost actualizate, fiind necesar să setați o parolă principală.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "Organizația dvs. vă solicită să setați o parolă principală.";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "Află mai multe despre generarea de acreditări de autentificare sigure cu un tur ghidat.";
 "ExportVaultFilePwProtectInfo" = "Acest export va fi protejat cu parolă și necesită parola fișierului pentru decriptare.";
 "IntroCarouselPage1Title" = "Securitate, prioritară";
-"IntroCarouselPage1Message" = "Salvează autentificări, carduri și identități în seiful tău securizat. Bitwarden utilizează criptare end-to-end cu cunoștințe zero pentru a proteja ceea ce este important pentru tine.";
+"IntroCarouselPage1Message" = "Salvează autentificări, carduri și identități în seiful tău securizat. Multipass utilizează criptare end-to-end cu cunoștințe zero pentru a proteja ceea ce este important pentru tine.";
 "IntroCarouselPage2Title" = "Autentificare rapidă și ușoară";
 "IntroCarouselPage2Message" = "Configurează deblocarea biometrică și completarea automată pentru a te autentifica în conturile tale fără a tasta nici o literă.";
 "IntroCarouselPage3Title" = "Îmbunătățește-ți autentificările";
 "IntroCarouselPage3Message" = "Folosește generatorul pentru a crea și salva parole puternice și unice pentru toate conturile tale.";
 "IntroCarouselPage4Title" = "Datele tale, când și unde ai nevoie de ele";
-"IntroCarouselPage4Message" = "Salvează parole nelimitate pe dispozitive nelimitate cu aplicațiile Bitwarden pentru mobil, browser și desktop.";
+"IntroCarouselPage4Message" = "Salvează parole nelimitate pe dispozitive nelimitate cu aplicațiile Multipass pentru mobil, browser și desktop.";
 "AccountSetup" = "Configurare cont";
 "SetUpUnlock" = "Configurează deblocarea";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "Configurează datele biometrice sau alege un cod PIN pentru a accesa rapid seiful și a completa automat autentificările.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "Parola principală (necesară)";
 "RetypeMasterPasswordRequired" = "Reintrodu parola principală (necesar)";
 "RetypeNewMasterPasswordRequired" = "Rescrie noua parolă master (obligatoriu)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden nu poate reseta o parolă master pierdută sau uitată.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass nu poate reseta o parolă master pierdută sau uitată.";
 "LearnAboutWaysToPreventAccountLockout" = "Află despre modalitățile de a preveni blocarea contului";
 "RestartRegistration" = "Reporniți înregistrarea";
 "Expired" = "Expirat";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Eroare la conectarea cu serviciul Duo. Folosește o altă metodă de autentificare în doi pași sau contactează Duo pentru asistență.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "URL-urile Pre Auth nu au putut fi încărcate pentru a începe crearea contului.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "Din setările dispozitivului, **activează completarea automată a Parolelor și Cheilor de acces.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Dezactivează iCloud Keychain** pentru a face din Bitwarden sursa ta implicită de completare automată.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Activează Bitwarden** pentru a folosi parolele salvate pentru a te autentifica în conturile tale.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Dezactivează iCloud Keychain** pentru a face din Multipass sursa ta implicită de completare automată.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Activează Multipass** pentru a folosi parolele salvate pentru a te autentifica în conturile tale.";
 "TurnOnAutoFill" = "Activează completarea automată";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "Folosește completarea automată pentru a te autentifica în conturile tale cu o singură atingere.";
 "NeedHelpCheckOutAutofillHelp" = "Ai nevoie de ajutor? Vezi **[ajutor pentru completarea automată](%1$@)**";
 "TurnOnLater" = "Activează mai târziu";
 "TurnOnAutoFillLaterQuestion" = "Activezi completarea automată mai târziu?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "Poți reveni pentru a finaliza acest pas oricând în Setări.";
-"ContinueToBitwarden" = "Continuă către Bitwarden";
+"ContinueToBitwarden" = "Continuă către Multipass";
 "BackToSettings" = "Înapoi la setări";
 "YoureAllSet" = "Totul este gata!";
-"AutoFillActivatedDescriptionLong" = "Acum poți folosi completarea automată pentru a te autentifica în aplicații și site-uri web folosind parolele salvate. Acum, poți explora tot ceea ce Bitwarden are de oferit.";
+"AutoFillActivatedDescriptionLong" = "Acum poți folosi completarea automată pentru a te autentifica în aplicații și site-uri web folosind parolele salvate. Acum, poți explora tot ceea ce Multipass are de oferit.";
 "GetStarted" = "Începe";
 "Dismiss" = "Renunță";
 "SaveAndProtectYourData" = "Salvează și protejează-ți datele";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "Folosește un computer pentru a importa autentificări dintr-un manager de parole existent.";
 "ImportLogins" = "Importă autentificări";
 "GiveYourVaultAHeadStart" = "Dă-i seifului tău un avans";
-"ImportLoginsDescriptionLong" = "De pe computerul tău, urmează aceste instrucțiuni pentru a exporta parolele salvate din browser sau din alt manager de parole. Apoi, importă-le în siguranță în Bitwarden.";
+"ImportLoginsDescriptionLong" = "De pe computerul tău, urmează aceste instrucțiuni pentru a exporta parolele salvate din browser sau din alt manager de parole. Apoi, importă-le în siguranță în Multipass.";
 "ImportLoginsLater" = "Importă autentificări mai târziu";
 "ImportLoginsLaterQuestion" = "Importi autentificările mai târziu?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "Poți reveni pentru a finaliza acest pas oricând în Seif, sub Setări.";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "Vei șterge acest fișier după finalizarea importului.";
 "NeedHelpCheckOutImportHelp" = "Ai nevoie de ajutor? Vezi **[ajutor pentru import](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "Pe computerul tău, deschide o filă nouă în browser și **accesează %1$@**.";
-"LogInToTheBitwardenWebApp" = "**Autentifică-te în aplicația web Bitwarden.**";
-"ImportLoginsToBitwarden" = "Importă autentificări în Bitwarden";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "În navigația Bitwarden, **găsește opțiunea Tools** și **selectează Import data.**";
+"LogInToTheBitwardenWebApp" = "**Autentifică-te în aplicația web Multipass.**";
+"ImportLoginsToBitwarden" = "Importă autentificări în Multipass";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "În navigația Multipass, **găsește opțiunea Tools** și **selectează Import data.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "Completează formularul și **importă fișierul cu parolele salvate.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "**Selectează Import data** în aplicația web, apoi **Done** pentru a finaliza sincronizarea.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "Pentru siguranța ta, asigură-te că **ștergi fișierul cu parolele salvate.**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "Nu s-a găsit niciun cont. Te rugăm să te autentifici din nou dacă această eroare persistă.";
 "ImportError" = "Eroare de importare";
 "NoLoginsWereImported" = "Nu au fost importate autentificări";
-"ThisIsNotARecognizedServerDescriptionLong" = "Acesta nu este un server Bitwarden recunoscut. Poate fi necesar să verifici cu furnizorul tău sau să îți actualizezi serverul.";
+"ThisIsNotARecognizedServerDescriptionLong" = "Acesta nu este un server Multipass recunoscut. Poate fi necesar să verifici cu furnizorul tău sau să îți actualizezi serverul.";
 "LoginsImported" = "Autentificări importate";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "Nu uita să ștergi fișierul cu parolele importat de pe computer.";
 "SomethingWentWrong" = "Ceva nu a funcționat";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "Activează înregistrarea temporară pentru a colecta și inspecta jurnalele local. Când este activată, stările aplicației și apelurile de rețea pot fi înregistrate—niciodată informații sensibile din seif.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "Pentru a începe, setează o durată de înregistrare. Înregistrarea se va opri automat după această perioadă, oferindu-ți timp să capturezi activitatea în timp ce reproduci orice problemă.";
 "LoggingDuration" = "Durata înregistrării";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Jurnalele vor fi șterse automat după 30 de zile. Bitwarden poate accesa datele tale de jurnal doar atunci când le distribui.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Jurnalele vor fi șterse automat după 30 de zile. Multipass poate accesa datele tale de jurnal doar atunci când le distribui.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "Pentru detalii despre ce este și ce nu este înregistrat, vizitează **[centrul de ajutor Bitwarden](%1$@)**.";
 "ShowMore" = "Arată mai mult";
 "ShowLess" = "Arată mai puțin";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "Te rugăm să confirmi domeniul de mai jos cu administratorul organizației.\n\nDomeniu Key Connector:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "Chiar dorești să ștergi acest jurnal?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "Chiar dorești să ștergi toate jurnalele înregistrate?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Acest cont va fi în curând șters. Autentifică-te la %1$@ pentru a continua să folosești Bitwarden.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Acest cont va fi în curând șters. Autentifică-te la %1$@ pentru a continua să folosești Multipass.";
 "AppSettings" = "Setări aplicație";
 "ViewFileSend" = "Vezi Send fișier";
 "ViewTextSend" = "Vezi Send text";
@@ -942,7 +942,7 @@
 "LastEdited" = "Ultima editare: %1$@";
 "PasswordLastUpdated" = "Parola actualizată ultima dată: %1$@";
 "DecryptionError" = "Eroare de decriptare";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden nu a putut decripta acest element al seifului. Copiază și distribuie acest raport de eroare către departamentul de succes al clienților pentru a evita pierderea suplimentară de date.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass nu a putut decripta acest element al seifului. Copiază și distribuie acest raport de eroare către departamentul de succes al clienților pentru a evita pierderea suplimentară de date.";
 "CopyErrorReport" = "Copiază raportul de eroare";
 "ErrorCannotDecrypt" = "[eroare: nu se poate decripta]";
 "AccountsSyncedFromBitwardenApp" = "Conturi sincronizate din aplicația Bitwarden";
@@ -1000,7 +1000,7 @@
 "Skip" = "Sari";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "Stochează toate autentificările și sincronizează codurile de verificare direct cu aplicația Authenticator.";
-"SyncWithBrowserDescriptionLong" = "Pentru a te conecta la %1$@, sincronizează browserul tău implicit cu aplicația mobilă Bitwarden. Când browserul se deschide, completează autentificarea dacă ți se solicită. Odată ce sincronizarea este completă, vei fi returnat la această aplicație.";
+"SyncWithBrowserDescriptionLong" = "Pentru a te conecta la %1$@, sincronizează browserul tău implicit cu aplicația mobilă Multipass. Când browserul se deschide, completează autentificarea dacă ți se solicită. Odată ce sincronizarea este completă, vei fi returnat la această aplicație.";
 "SyncWithBitwardenApp" = "Sincronizează cu aplicația Bitwarden";
 "SyncWithBrowser" = "Sincronizează cu browserul";
 "SyncWithTheBitwardenApp" = "Sincronizează cu aplicația Bitwarden";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "Selectează contul";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "Conturi";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "Detectarea potrivirii URI controlează modul în care Bitwarden identifică sugestiile de completare automată.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "Detectarea potrivirii URI controlează modul în care Multipass identifică sugestiile de completare automată.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "„Începe cu” este o opțiune avansată cu risc crescut de expunere a acreditărilor.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "„Expresia regulată” este o opțiune avansată cu risc crescut de expunere a acreditărilor dacă este utilizată incorect.";
 "StartsWithAdvanced" = "Începe cu (avansat)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "Contactează administratorul pentru a recăpăta accesul.";
 "LeaveX" = "Părăsește %1$@";
 "YouLeftTheOrganization" = "Ai părăsit organizația";
-"ItemTransferRequiresMainAppDescriptionLong" = "O organizație solicită proprietatea asupra elementelor tale personale. Deschide aplicația principală Bitwarden pentru a revizui și finaliza această cerere.";
+"ItemTransferRequiresMainAppDescriptionLong" = "O organizație solicită proprietatea asupra elementelor tale personale. Deschide aplicația principală Multipass pentru a revizui și finaliza această cerere.";
 "ThisSettingIsManagedByYourOrganization" = "Această setare este gestionată de organizația ta.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "Organizația ta a stabilit timeout-ul maxim al sesiunii la %1$@.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "Organizația ta a stabilit timeout-ul implicit al sesiunii la niciodată.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock a fost șters.";
 "SsoCookiesCleared" = "Cookie-urile SSO au fost șterse";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "Cererea ta a fost întreruptă deoarece aplicația a necesitat reautentificarea. Te rugăm să încerci din nou.";
-"AutofillWithBitwardenDescriptionLong" = "Bitwarden poate sugera parolele și alte acreditări atunci când te autentifici în aplicații și site-uri web.";
+"AutofillWithBitwardenDescriptionLong" = "Multipass poate sugera parolele și alte acreditări atunci când te autentifici în aplicații și site-uri web.";
 "LearnMoreAboutAutofill" = "Află mai multe despre completarea automată";
 "TurnOnNow" = "Activează acum";
 "AcceptTransfer" = "Acceptă transferul";

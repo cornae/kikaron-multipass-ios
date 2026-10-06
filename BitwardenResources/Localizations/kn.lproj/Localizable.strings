@@ -68,7 +68,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "ಪಾಸ್ಫ್ರೇಸ್ಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಯಾದೃಚ್ಛಿಕ ಪಾಸ್ವರ್ಡ್ಗಳಿಗಿಂತ ನೆನಪಿಡಲು ಮತ್ತು ಟೈಪ್ ಮಾಡಲು ಸುಲಭವಾಗಿರುತ್ತವೆ. ಆಟೋಫಿಲ್ ಲಭ್ಯವಿಲ್ಲದ ಖಾತೆಗಳಿಗೆ ಲಾಗಿನ್ ಆಗುವಾಗ ಅವು ಸಹಾಯಕವಾಗಬಹುದು, ಉದಾಹರಣೆಗೆ ನಿಮ್ಮ ಟಿವಿಯಲ್ಲಿ ಸ್ಟ್ರೀಮಿಂಗ್ ಸೇವೆ.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "ಅನನ್ಯ ಬಳಕೆದಾರಹೆಸರುಗಳು ಸುರಕ್ಷತೆಯ ಹೆಚ್ಚುವರಿ ಪದರವನ್ನು ಸೇರಿಸುತ್ತವೆ ಮತ್ತು ಹ್ಯಾಕರ್ಗಳು ನಿಮ್ಮ ಖಾತೆಗಳನ್ನು ಕಂಡುಹಿಡಿಯದಂತೆ ತಡೆಯಲು ಸಹಾಯ ಮಾಡುತ್ತವೆ.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "ನಿಮ್ಮ ಖಾತೆಯ ವೆಬ್ಸೈಟ್ನ ಅವಶ್ಯಕತೆಗಳನ್ನು ಪೂರೈಸಲು ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಸರಿಹೊಂದಿಸಲು ಈ ಆಯ್ಕೆಗಳನ್ನು ಬಳಸಿ.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "ನಿಮ್ಮ ಹೊಸ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು Bitwarden ನಲ್ಲಿ ಉಳಿಸಿದ ನಂತರ, ಅದನ್ನು ನಿಮ್ಮ ಖಾತೆಯ ವೆಬ್ಸೈಟ್ನಲ್ಲಿ ಅಪ್ಡೇಟ್ ಮಾಡಲು ಮರೆಯಬೇಡಿ.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "ನಿಮ್ಮ ಹೊಸ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು Multipass ನಲ್ಲಿ ಉಳಿಸಿದ ನಂತರ, ಅದನ್ನು ನಿಮ್ಮ ಖಾತೆಯ ವೆಬ್ಸೈಟ್ನಲ್ಲಿ ಅಪ್ಡೇಟ್ ಮಾಡಲು ಮರೆಯಬೇಡಿ.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "ಈ ಖಾತೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಆಟೋಫಿಲ್ ಬಳಸಲು ನೀವು ವೆಬ್ ವಿಳಾಸವನ್ನು ಸೇರಿಸಬೇಕು.";
 "Username" = "ಬಳಕೆದಾರ ಹೆಸರು";
 "ValidationFieldRequired" = "%1$@ ಕ್ಷೇತ್ರದ ಅಗತ್ಯವಿದೆ.";
@@ -100,7 +100,7 @@
 "ExtensionSetup" = "ನಿಮ್ಮ ಲಾಗಿನ್‌ಗಳನ್ನು ಈಗ ಸಫಾರಿ, ಕ್ರೋಮ್ ಮತ್ತು ಇತರ ಬೆಂಬಲಿತ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಂದ ಸುಲಭವಾಗಿ ಪ್ರವೇಶಿಸಬಹುದು.";
 "ExtensionSetup2" = "ಸಫಾರಿ ಮತ್ತು ಕ್ರೋಮ್‌ನಲ್ಲಿ, ಹಂಚಿಕೆ ಐಕಾನ್ ಬಳಸಿ ಬಿಟ್‌ವಾರ್ಡೆನ್ ಅನ್ನು ಹುಡುಕಿ (ಸುಳಿವು: ಹಂಚಿಕೆ ಮೆನುವಿನ ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿ ಬಲಕ್ಕೆ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ).";
 "ExtensionTapIcon" = "ವಿಸ್ತರಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು ಮೆನುವಿನಲ್ಲಿರುವ ಬಿಟ್‌ವಾರ್ಡೆನ್ ಐಕಾನ್ ಟ್ಯಾಪ್ ಮಾಡಿ.";
-"ExtensionTurnOn" = "Safari ಮತ್ತು ಇತರ ಅಪ್ಲಿಕೇಶನ್ಗಳಲ್ಲಿ Bitwarden ಅನ್ನು ಆನ್ ಮಾಡಲು, ಮೆನುವಿನ ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿರುವ “ಹೆಚ್ಚು” ಐಕಾನ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ.";
+"ExtensionTurnOn" = "Safari ಮತ್ತು ಇತರ ಅಪ್ಲಿಕೇಶನ್ಗಳಲ್ಲಿ Multipass ಅನ್ನು ಆನ್ ಮಾಡಲು, ಮೆನುವಿನ ಕೆಳಗಿನ ಸಾಲಿನಲ್ಲಿರುವ “ಹೆಚ್ಚು” ಐಕಾನ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ.";
 "Favorite" = "ಮೆಚ್ಚಿನ";
 "Fingerprint" = "ಫಿಂಗರ್‌ಪ್ರಿಂಟ್";
 "GeneratePassword" = "ಪಾಸ್ವರ್ಡ್ ರಚಿಸಿ";
@@ -111,7 +111,7 @@
 "Immediately" = "ತಕ್ಷಣ";
 "VaultTimeoutLogOutConfirmation" = "ಲಾಗ್ out ಟ್ ಆಗುವುದರಿಂದ ನಿಮ್ಮ ವಾಲ್ಟ್‌ನ ಎಲ್ಲಾ ಪ್ರವೇಶವನ್ನು ತೆಗೆದುಹಾಕುತ್ತದೆ ಮತ್ತು ಕಾಲಾವಧಿ ಅವಧಿಯ ನಂತರ ಆನ್‌ಲೈನ್ ದೃ hentic ೀಕರಣದ ಅಗತ್ಯವಿದೆ. ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಬಳಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?";
 "LoggingIn" = "ಲಾಗಿನ್ ಆಗುತ್ತಿದೆ…";
-"LogInToBitwarden" = "Bitwarden ಗೆ ಲಾಗಿನ್ ಮಾಡಿ";
+"LogInToBitwarden" = "Multipass ಗೆ ಲಾಗಿನ್ ಮಾಡಿ";
 "MasterPasswordConfirmationValMessage" = "ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಣ ಸರಿಯಾಗಿಲ್ಲ.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಎಂದರೆ ನಿಮ್ಮ ವಾಲ್ಟ್ ಅನ್ನು ಪ್ರವೇಶಿಸಲು ನೀವು ಬಳಸುವ ಪಾಸ್ವರ್ಡ್.";
 "MasterPasswordHint" = "ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಸುಳಿವು";
@@ -128,7 +128,7 @@
 "PasswordHint" = "ಪಾಸ್ವರ್ಡ್ ಸುಳಿವು";
 "PasswordHintAlert" = "ನಿಮ್ಮ ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಸುಳಿವಿನೊಂದಿಗೆ ನಾವು ನಿಮಗೆ ಇಮೇಲ್ ಕಳುಹಿಸಿದ್ದೇವೆ.";
 "PasswordOverrideAlert" = "ಪ್ರಸ್ತುತ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ತಿದ್ದಿಬರೆಯಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?";
-"PushNotificationAlert" = "ಪುಶ್ ಅಧಿಸೂಚನೆಗಳನ್ನು ಬಳಸುವ ಮೂಲಕ Bitwarden ನಿಮ್ಮ ವಾಲ್ಟ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗಿಡುತ್ತದೆ. ಉತ್ತಮ ಅನುಭವಕ್ಕಾಗಿ, ಪುಶ್ ಅಧಿಸೂಚನೆಗಳನ್ನು ಅನುಮತಿಸಲು ಕೇಳಿದಾಗ ಮುಂದಿನ ಪ್ರಾಂಪ್ಟ್ನಲ್ಲಿ “ಅನುಮತಿಸು” ಆಯ್ಕೆಮಾಡಿ.";
+"PushNotificationAlert" = "ಪುಶ್ ಅಧಿಸೂಚನೆಗಳನ್ನು ಬಳಸುವ ಮೂಲಕ Multipass ನಿಮ್ಮ ವಾಲ್ಟ್ ಅನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಸಿಂಕ್ ಆಗಿಡುತ್ತದೆ. ಉತ್ತಮ ಅನುಭವಕ್ಕಾಗಿ, ಪುಶ್ ಅಧಿಸೂಚನೆಗಳನ್ನು ಅನುಮತಿಸಲು ಕೇಳಿದಾಗ ಮುಂದಿನ ಪ್ರಾಂಪ್ಟ್ನಲ್ಲಿ “ಅನುಮತಿಸು” ಆಯ್ಕೆಮಾಡಿ.";
 "Security" = "ಭದ್ರತೆ";
 "Select" = "ಆಯ್ಕೆಮಾಡಿ";
 "ItemUpdated" = "ಐಟಂ ನವೀಕರಿಸಲಾಗಿದೆ.";
@@ -261,7 +261,7 @@
 "ShowWebsiteIcons" = "ವೆಬ್ಸೈಟ್ ಐಕಾನ್ಗಳನ್ನು ತೋರಿಸು";
 "ShowWebsiteIconsDescription" = "ಪ್ರತಿ ಲಾಗಿನ್ ಪಕ್ಕದಲ್ಲಿ ಗುರುತಿಸಬಹುದಾದ ಚಿತ್ರವನ್ನು ತೋರಿಸು.";
 "IconsUrl" = "ಚಿಹ್ನೆಗಳು ಸರ್ವರ್ URL";
-"AutofillWithBitwarden" = "Bitwarden ನೊಂದಿಗೆ ಸ್ವಯಂ ಭರ್ತಿ";
+"AutofillWithBitwarden" = "Multipass ನೊಂದಿಗೆ ಸ್ವಯಂ ಭರ್ತಿ";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "ಸಂಗ್ರಹಣೆಗಳು";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -302,9 +302,9 @@
 "AutofillTurnOn2" = "2. “ಪಾಸ್ವರ್ಡ್ಗಳು” ಟ್ಯಾಪ್ ಮಾಡಿ";
 "AutofillTurnOn3" = "3. “ಸ್ವಯಂ ಭರ್ತಿ ಪಾಸ್ವರ್ಡ್ಗಳು” ಟ್ಯಾಪ್ ಮಾಡಿ";
 "AutofillTurnOn4" = "4. ಆಟೋಫಿಲ್ ಆನ್ ಮಾಡಿ";
-"AutofillTurnOn5" = "5. “Bitwarden” ಆಯ್ಕೆಮಾಡಿ";
+"AutofillTurnOn5" = "5. “Multipass” ಆಯ್ಕೆಮಾಡಿ";
 "PasswordAutofill" = "ಪಾಸ್ವರ್ಡ್ ಸ್ವಯಂ ಭರ್ತಿ";
-"BitwardenAutofillAlert2" = "ನಿಮ್ಮ ವಾಲ್ಟ್ಗೆ ಹೊಸ ಲಾಗಿನ್ಗಳನ್ನು ಸೇರಿಸಲು ಸುಲಭವಾದ ಮಾರ್ಗವೆಂದರೆ Bitwarden ಪಾಸ್ವರ್ಡ್ ಸ್ವಯಂ ಭರ್ತಿ ವಿಸ್ತರಣೆಯನ್ನು ಬಳಸುವುದು. “ಸೆಟ್ಟಿಂಗ್ಗಳು” ಪರದೆಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡುವ ಮೂಲಕ Bitwarden ಪಾಸ್ವರ್ಡ್ ಸ್ವಯಂ ಭರ್ತಿ ವಿಸ್ತರಣೆಯನ್ನು ಬಳಸುವುದರ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ.";
+"BitwardenAutofillAlert2" = "ನಿಮ್ಮ ವಾಲ್ಟ್ಗೆ ಹೊಸ ಲಾಗಿನ್ಗಳನ್ನು ಸೇರಿಸಲು ಸುಲಭವಾದ ಮಾರ್ಗವೆಂದರೆ Multipass ಪಾಸ್ವರ್ಡ್ ಸ್ವಯಂ ಭರ್ತಿ ವಿಸ್ತರಣೆಯನ್ನು ಬಳಸುವುದು. “ಸೆಟ್ಟಿಂಗ್ಗಳು” ಪರದೆಗೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡುವ ಮೂಲಕ Multipass ಪಾಸ್ವರ್ಡ್ ಸ್ವಯಂ ಭರ್ತಿ ವಿಸ್ತರಣೆಯನ್ನು ಬಳಸುವುದರ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ.";
 "InvalidEmail" = "ಅಮಾನ್ಯ ಇಮೇಲ್ ವಿಳಾಸ.";
 "InvalidEmailAddresses" = "ಅಮಾನ್ಯ ಇಮೇಲ್ ವಿಳಾಸಗಳು";
 "NoEmailAddressesEntered" = "ಯಾವುದೇ ಇಮೇಲ್ ವಿಳಾಸಗಳನ್ನು ನಮೂದಿಸಲಾಗಿಲ್ಲ";
@@ -628,12 +628,12 @@
 "ContinueToPrivacyPolicy" = "ಗೌಪ್ಯತಾ ನೀತಿಗೆ ಮುಂದುವರಿಸುವುದೇ?";
 "ContinueToAppStore" = "ಅಪ್ಲಿಕೇಶನ್ ಸ್ಟೋರ್ಗೆ ಮುಂದುವರಿಸುವುದೇ?";
 "ContinueWithoutSyncing" = "ಸಿಂಕ್ ಮಾಡದೆಯೇ ಮುಂದುವರಿಯಿರಿ";
-"TwoStepLoginDescriptionLong" = "Bitwarden ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್ನಲ್ಲಿ ಎರಡು-ಹಂತದ ಲಾಗಿನ್ ಅನ್ನು ಹೊಂದಿಸುವ ಮೂಲಕ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಹೆಚ್ಚು ಸುರಕ್ಷಿತವಾಗಿಸಿ.";
+"TwoStepLoginDescriptionLong" = "Multipass ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್ನಲ್ಲಿ ಎರಡು-ಹಂತದ ಲಾಗಿನ್ ಅನ್ನು ಹೊಂದಿಸುವ ಮೂಲಕ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಹೆಚ್ಚು ಸುರಕ್ಷಿತವಾಗಿಸಿ.";
 "YouCanImportDataToYourVaultOnX" = "ನೀವು %1$@ ನಲ್ಲಿ ನಿಮ್ಮ ವಾಲ್ಟ್ಗೆ ಡೇಟಾವನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳಬಹುದು.";
 "PrivacyPolicyDescriptionLong" = "bitwarden.com ನಲ್ಲಿ ನಮ್ಮ ಗೌಪ್ಯತಾ ನೀತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್ನಲ್ಲಿ ನಿಮ್ಮ Bitwarden ಖಾತೆಯ ಹೆಚ್ಚಿನ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಅನ್ವೇಷಿಸಿ.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್ನಲ್ಲಿ ನಿಮ್ಮ Multipass ಖಾತೆಯ ಹೆಚ್ಚಿನ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಅನ್ವೇಷಿಸಿ.";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden ಸಂಸ್ಥೆಯನ್ನು ಬಳಸುವ ಮೂಲಕ ನಿಮ್ಮ ವಾಲ್ಟ್ ಐಟಂಗಳನ್ನು ಇತರರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ. bitwarden.com ವೆಬ್ಸೈಟ್ನಲ್ಲಿ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ.";
-"RateAppDescriptionLong" = "Bitwarden ಅವರಿಗೆ ಸೂಕ್ತವಾಗಿದೆಯೇ ಎಂದು ಕಂಡುಹಿಡಿಯಲು ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಿ. ಅಪ್ಲಿಕೇಶನ್ ಸ್ಟೋರ್ಗೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು ಈಗ ರೇಟಿಂಗ್ ನೀಡಿ.";
+"RateAppDescriptionLong" = "Multipass ಅವರಿಗೆ ಸೂಕ್ತವಾಗಿದೆಯೇ ಎಂದು ಕಂಡುಹಿಡಿಯಲು ಇತರರಿಗೆ ಸಹಾಯ ಮಾಡಿ. ಅಪ್ಲಿಕೇಶನ್ ಸ್ಟೋರ್ಗೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು ಈಗ ರೇಟಿಂಗ್ ನೀಡಿ.";
 "CreatedX" = "ರಚಿಸಲಾಗಿದೆ %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "ನಿಮ್ಮ ಸಂಸ್ಥೆಯ ಅನುಮತಿಗಳನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ, ನೀವು ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಹೊಂದಿಸಬೇಕಾಗಿದೆ.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "ನಿಮ್ಮ ಸಂಸ್ಥೆಯು ನೀವು ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಹೊಂದಿಸಬೇಕಾಗುತ್ತದೆ.";
@@ -673,13 +673,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "ಮಾರ್ಗದರ್ಶಿತ ಪ್ರವಾಸದೊಂದಿಗೆ ಸುರಕ್ಷಿತ ಲಾಗಿನ್ ರುಜುವಾತುಗಳನ್ನು ರಚಿಸುವ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ.";
 "ExportVaultFilePwProtectInfo" = "ಈ ಫೈಲ್ ರಫ್ತು ಪಾಸ್ವರ್ಡ್-ರಕ್ಷಿತವಾಗಿರುತ್ತದೆ ಮತ್ತು ಡೀಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಫೈಲ್ ಪಾಸ್ವರ್ಡ್ ಅಗತ್ಯವಿರುತ್ತದೆ.";
 "IntroCarouselPage1Title" = "ಸುರಕ್ಷತೆ, ಆದ್ಯತೆ";
-"IntroCarouselPage1Message" = "ಲಾಗಿನ್ಗಳು, ಕಾರ್ಡ್ಗಳು ಮತ್ತು ಗುರುತುಗಳನ್ನು ನಿಮ್ಮ ಸುರಕ್ಷಿತ ವಾಲ್ಟ್ಗೆ ಉಳಿಸಿ. Bitwarden ನಿಮಗೆ ಮುಖ್ಯವಾದುದನ್ನು ರಕ್ಷಿಸಲು ಶೂನ್ಯ-ಜ್ಞಾನ, ಎಂಡ್-ಟು-ಎಂಡ್ ಎನ್ಕ್ರಿಪ್ಷನ್ ಅನ್ನು ಬಳಸುತ್ತದೆ.";
+"IntroCarouselPage1Message" = "ಲಾಗಿನ್ಗಳು, ಕಾರ್ಡ್ಗಳು ಮತ್ತು ಗುರುತುಗಳನ್ನು ನಿಮ್ಮ ಸುರಕ್ಷಿತ ವಾಲ್ಟ್ಗೆ ಉಳಿಸಿ. Multipass ನಿಮಗೆ ಮುಖ್ಯವಾದುದನ್ನು ರಕ್ಷಿಸಲು ಶೂನ್ಯ-ಜ್ಞಾನ, ಎಂಡ್-ಟು-ಎಂಡ್ ಎನ್ಕ್ರಿಪ್ಷನ್ ಅನ್ನು ಬಳಸುತ್ತದೆ.";
 "IntroCarouselPage2Title" = "ತ್ವರಿತ ಮತ್ತು ಸುಲಭ ಲಾಗಿನ್";
 "IntroCarouselPage2Message" = "ಒಂದೇ ಅಕ್ಷರವನ್ನು ಟೈಪ್ ಮಾಡದೆಯೇ ನಿಮ್ಮ ಖಾತೆಗಳಿಗೆ ಲಾಗಿನ್ ಆಗಲು ಬಯೋಮೆಟ್ರಿಕ್ ಅನ್ಲಾಕ್ ಮತ್ತು ಸ್ವಯಂ ಭರ್ತಿ ಹೊಂದಿಸಿ.";
 "IntroCarouselPage3Title" = "ನಿಮ್ಮ ಲಾಗಿನ್ಗಳನ್ನು ಹೆಚ್ಚಿಸಿ";
 "IntroCarouselPage3Message" = "ನಿಮ್ಮ ಎಲ್ಲಾ ಖಾತೆಗಳಿಗೆ ಬಲವಾದ, ಅನನ್ಯ ಪಾಸ್ವರ್ಡ್ಗಳನ್ನು ರಚಿಸಲು ಮತ್ತು ಉಳಿಸಲು ಜನರೇಟರ್ ಬಳಸಿ.";
 "IntroCarouselPage4Title" = "ನಿಮ್ಮ ಡೇಟಾ, ನಿಮಗೆ ಯಾವಾಗ ಮತ್ತು ಎಲ್ಲಿ ಬೇಕೋ";
-"IntroCarouselPage4Message" = "Bitwarden ಮೊಬೈಲ್, ಬ್ರೌಸರ್ ಮತ್ತು ಡೆಸ್ಕ್ಟಾಪ್ ಅಪ್ಲಿಕೇಶನ್ಗಳೊಂದಿಗೆ ಅನಿಯಮಿತ ಸಾಧನಗಳಲ್ಲಿ ಅನಿಯಮಿತ ಪಾಸ್ವರ್ಡ್ಗಳನ್ನು ಉಳಿಸಿ.";
+"IntroCarouselPage4Message" = "Multipass ಮೊಬೈಲ್, ಬ್ರೌಸರ್ ಮತ್ತು ಡೆಸ್ಕ್ಟಾಪ್ ಅಪ್ಲಿಕೇಶನ್ಗಳೊಂದಿಗೆ ಅನಿಯಮಿತ ಸಾಧನಗಳಲ್ಲಿ ಅನಿಯಮಿತ ಪಾಸ್ವರ್ಡ್ಗಳನ್ನು ಉಳಿಸಿ.";
 "AccountSetup" = "ಖಾತೆ ಸೆಟಪ್";
 "SetUpUnlock" = "ಅನ್ಲಾಕ್ ಹೊಂದಿಸಿ";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "ನಿಮ್ಮ ವಾಲ್ಟ್ ಅನ್ನು ತ್ವರಿತವಾಗಿ ಪ್ರವೇಶಿಸಲು ಮತ್ತು ನಿಮ್ಮ ಲಾಗಿನ್ಗಳನ್ನು ಸ್ವಯಂ ಭರ್ತಿ ಮಾಡಲು ಬಯೋಮೆಟ್ರಿಕ್ಸ್ ಹೊಂದಿಸಿ ಅಥವಾ PIN ಕೋಡ್ ಆಯ್ಕೆಮಾಡಿ.";
@@ -712,7 +712,7 @@
 "MasterPasswordRequired" = "ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ (ಅಗತ್ಯವಿದೆ)";
 "RetypeMasterPasswordRequired" = "ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಮರು-ಟೈಪ್ ಮಾಡಿ (ಅಗತ್ಯವಿದೆ)";
 "RetypeNewMasterPasswordRequired" = "ಹೊಸ ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಮರು-ಟೈಪ್ ಮಾಡಿ (ಅಗತ್ಯವಿದೆ)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden ಕಳೆದುಹೋದ ಅಥವಾ ಮರೆತುಹೋದ ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಮರುಹೊಂದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass ಕಳೆದುಹೋದ ಅಥವಾ ಮರೆತುಹೋದ ಮಾಸ್ಟರ್ ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಮರುಹೊಂದಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.";
 "LearnAboutWaysToPreventAccountLockout" = "ಖಾತೆ ಲಾಕ್ಔಟ್ ತಡೆಗಟ್ಟುವ ಮಾರ್ಗಗಳ ಬಗ್ಗೆ ತಿಳಿಯಿರಿ";
 "RestartRegistration" = "ನೋಂದಣಿಯನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ";
 "Expired" = "ಅವಧಿ ಮೀರಿದೆ";
@@ -730,18 +730,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Duo ಸೇವೆಯೊಂದಿಗೆ ಸಂಪರ್ಕಿಸುವಲ್ಲಿ ದೋಷ. ಬೇರೆ ಎರಡು-ಹಂತದ ಲಾಗಿನ್ ವಿಧಾನವನ್ನು ಬಳಸಿ ಅಥವಾ ಸಹಾಯಕ್ಕಾಗಿ Duo ಅನ್ನು ಸಂಪರ್ಕಿಸಿ.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "ಖಾತೆ ರಚನೆಯನ್ನು ಪ್ರಾರಂಭಿಸಲು Pre Auth URL ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "ನಿಮ್ಮ ಸಾಧನ ಸೆಟ್ಟಿಂಗ್ಗಳಿಂದ, **ಸ್ವಯಂ ಭರ್ತಿ ಪಾಸ್ವರ್ಡ್ಗಳು ಮತ್ತು ಪಾಸ್ಕೀಗಳನ್ನು ಆನ್ ಮಾಡಿ.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "Bitwarden ಅನ್ನು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಸ್ವಯಂ ಭರ್ತಿ ಮೂಲವನ್ನಾಗಿ ಮಾಡಲು **iCloud Keychain ಅನ್ನು ಆಫ್ ಮಾಡಿ.**";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "ನಿಮ್ಮ ಉಳಿಸಿದ ಪಾಸ್ವರ್ಡ್ಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಖಾತೆಗಳಿಗೆ ಲಾಗಿನ್ ಆಗಲು **Bitwarden ಅನ್ನು ಆನ್ ಮಾಡಿ.**";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "Multipass ಅನ್ನು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಸ್ವಯಂ ಭರ್ತಿ ಮೂಲವನ್ನಾಗಿ ಮಾಡಲು **iCloud Keychain ಅನ್ನು ಆಫ್ ಮಾಡಿ.**";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "ನಿಮ್ಮ ಉಳಿಸಿದ ಪಾಸ್ವರ್ಡ್ಗಳನ್ನು ಬಳಸಿಕೊಂಡು ನಿಮ್ಮ ಖಾತೆಗಳಿಗೆ ಲಾಗಿನ್ ಆಗಲು **Multipass ಅನ್ನು ಆನ್ ಮಾಡಿ.**";
 "TurnOnAutoFill" = "ಸ್ವಯಂ ಭರ್ತಿ ಆನ್ ಮಾಡಿ";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "ಒಂದೇ ಟ್ಯಾಪ್ನೊಂದಿಗೆ ನಿಮ್ಮ ಖಾತೆಗಳಿಗೆ ಲಾಗಿನ್ ಆಗಲು ಸ್ವಯಂ ಭರ್ತಿ ಬಳಸಿ.";
 "NeedHelpCheckOutAutofillHelp" = "ಸಹಾಯ ಬೇಕೇ? **[ಸ್ವಯಂ ಭರ್ತಿ ಸಹಾಯ](%1$@)** ವನ್ನು ಪರಿಶೀಲಿಸಿ";
 "TurnOnLater" = "ನಂತರ ಆನ್ ಮಾಡಿ";
 "TurnOnAutoFillLaterQuestion" = "ಸ್ವಯಂ ಭರ್ತಿಯನ್ನು ನಂತರ ಆನ್ ಮಾಡುವುದೇ?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "ಸೆಟ್ಟಿಂಗ್ಗಳಲ್ಲಿ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ನೀವು ಈ ಹಂತವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಹಿಂತಿರುಗಬಹುದು.";
-"ContinueToBitwarden" = "Bitwarden ಗೆ ಮುಂದುವರಿಯಿರಿ";
+"ContinueToBitwarden" = "Multipass ಗೆ ಮುಂದುವರಿಯಿರಿ";
 "BackToSettings" = "ಸೆಟ್ಟಿಂಗ್ಗಳಿಗೆ ಹಿಂತಿರುಗಿ";
 "YoureAllSet" = "ನೀವು ಸಿದ್ಧರಾಗಿದ್ದೀರಿ!";
-"AutoFillActivatedDescriptionLong" = "ನಿಮ್ಮ ಉಳಿಸಿದ ಪಾಸ್ವರ್ಡ್ಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಅಪ್ಲಿಕೇಶನ್ಗಳು ಮತ್ತು ವೆಬ್ಸೈಟ್ಗಳಿಗೆ ಲಾಗಿನ್ ಆಗಲು ನೀವು ಈಗ ಸ್ವಯಂ ಭರ್ತಿ ಬಳಸಬಹುದು. ಈಗ, Bitwarden ನೀಡುವ ಎಲ್ಲವನ್ನೂ ನೀವು ಅನ್ವೇಷಿಸಬಹುದು.";
+"AutoFillActivatedDescriptionLong" = "ನಿಮ್ಮ ಉಳಿಸಿದ ಪಾಸ್ವರ್ಡ್ಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಅಪ್ಲಿಕೇಶನ್ಗಳು ಮತ್ತು ವೆಬ್ಸೈಟ್ಗಳಿಗೆ ಲಾಗಿನ್ ಆಗಲು ನೀವು ಈಗ ಸ್ವಯಂ ಭರ್ತಿ ಬಳಸಬಹುದು. ಈಗ, Multipass ನೀಡುವ ಎಲ್ಲವನ್ನೂ ನೀವು ಅನ್ವೇಷಿಸಬಹುದು.";
 "GetStarted" = "ಪ್ರಾರಂಭಿಸಿ";
 "Dismiss" = "ತಳ್ಳಿಹಾಕು";
 "SaveAndProtectYourData" = "ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಉಳಿಸಿ ಮತ್ತು ರಕ್ಷಿಸಿ";
@@ -776,7 +776,7 @@
 "ImportSavedLoginsDescriptionLong" = "ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ನಿಂದ ಲಾಗಿನ್ಗಳನ್ನು ಆಮದು ಮಾಡಲು ಕಂಪ್ಯೂಟರ್ ಬಳಸಿ.";
 "ImportLogins" = "ಲಾಗಿನ್ಗಳನ್ನು ಆಮದು ಮಾಡಿ";
 "GiveYourVaultAHeadStart" = "ನಿಮ್ಮ ವಾಲ್ಟ್ಗೆ ಮುನ್ನಡೆ ನೀಡಿ";
-"ImportLoginsDescriptionLong" = "ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ನಿಂದ, ನಿಮ್ಮ ಬ್ರೌಸರ್ ಅಥವಾ ಇತರ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ನಿಂದ ಉಳಿಸಿದ ಪಾಸ್ವರ್ಡ್ಗಳನ್ನು ರಫ್ತು ಮಾಡಲು ಈ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ. ನಂತರ, ಅವುಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿ Bitwarden ಗೆ ಆಮದು ಮಾಡಿ.";
+"ImportLoginsDescriptionLong" = "ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ನಿಂದ, ನಿಮ್ಮ ಬ್ರೌಸರ್ ಅಥವಾ ಇತರ ಪಾಸ್ವರ್ಡ್ ಮ್ಯಾನೇಜರ್ನಿಂದ ಉಳಿಸಿದ ಪಾಸ್ವರ್ಡ್ಗಳನ್ನು ರಫ್ತು ಮಾಡಲು ಈ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ. ನಂತರ, ಅವುಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿ Multipass ಗೆ ಆಮದು ಮಾಡಿ.";
 "ImportLoginsLater" = "ನಂತರ ಲಾಗಿನ್ಗಳನ್ನು ಆಮದು ಮಾಡಿ";
 "ImportLoginsLaterQuestion" = "ನಂತರ ಲಾಗಿನ್ಗಳನ್ನು ಆಮದು ಮಾಡುವುದೇ?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "ಸೆಟ್ಟಿಂಗ್ಗಳ ಅಡಿಯಲ್ಲಿ ವಾಲ್ಟ್ನಲ್ಲಿ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ನೀವು ಈ ಹಂತವನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಹಿಂತಿರುಗಬಹುದು.";
@@ -790,9 +790,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "ಆಮದು ಪೂರ್ಣಗೊಂಡ ನಂತರ ನೀವು ಈ ಫೈಲ್ ಅನ್ನು ಅಳಿಸುತ್ತೀರಿ.";
 "NeedHelpCheckOutImportHelp" = "ಸಹಾಯ ಬೇಕೇ? **[ಆಮದು ಸಹಾಯ](%1$@)** ವನ್ನು ಪರಿಶೀಲಿಸಿ";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ನಲ್ಲಿ, ಹೊಸ ಬ್ರೌಸರ್ ಟ್ಯಾಬ್ ತೆರೆಯಿರಿ ಮತ್ತು **%1$@ ಗೆ ಹೋಗಿ**.";
-"LogInToTheBitwardenWebApp" = "**Bitwarden ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್ಗೆ ಲಾಗಿನ್ ಮಾಡಿ.**";
-"ImportLoginsToBitwarden" = "Bitwarden ಗೆ ಲಾಗಿನ್ಗಳನ್ನು ಆಮದು ಮಾಡಿ";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Bitwarden ನ್ಯಾವಿಗೇಷನ್ನಲ್ಲಿ, **Tools ಆಯ್ಕೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ** ಮತ್ತು **Import data ಆಯ್ಕೆಮಾಡಿ.**";
+"LogInToTheBitwardenWebApp" = "**Multipass ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್ಗೆ ಲಾಗಿನ್ ಮಾಡಿ.**";
+"ImportLoginsToBitwarden" = "Multipass ಗೆ ಲಾಗಿನ್ಗಳನ್ನು ಆಮದು ಮಾಡಿ";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Multipass ನ್ಯಾವಿಗೇಷನ್ನಲ್ಲಿ, **Tools ಆಯ್ಕೆಯನ್ನು ಕಂಡುಹಿಡಿಯಿರಿ** ಮತ್ತು **Import data ಆಯ್ಕೆಮಾಡಿ.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "ಫಾರ್ಮ್ ಅನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು **ನಿಮ್ಮ ಉಳಿಸಿದ ಪಾಸ್ವರ್ಡ್ ಫೈಲ್ ಅನ್ನು ಆಮದು ಮಾಡಿ.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್ನಲ್ಲಿ **Import data ಆಯ್ಕೆಮಾಡಿ**, ನಂತರ ಸಿಂಕ್ ಪೂರ್ಣಗೊಳಿಸಲು **Done**.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "ನಿಮ್ಮ ಸುರಕ್ಷತೆಗಾಗಿ, **ನಿಮ್ಮ ಉಳಿಸಿದ ಪಾಸ್ವರ್ಡ್ ಫೈಲ್ ಅನ್ನು ಅಳಿಸಲು** ಮರೆಯದಿರಿ.";
@@ -819,7 +819,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "ಖಾತೆ ಕಂಡುಬಂದಿಲ್ಲ. ನೀವು ಈ ದೋಷವನ್ನು ಮುಂದುವರೆದು ನೋಡುತ್ತಿದ್ದರೆ, ದಯವಿಟ್ಟು ಮತ್ತೆ ಲಾಗಿನ್ ಮಾಡಿ.";
 "ImportError" = "ಆಮದು ದೋಷ";
 "NoLoginsWereImported" = "ಯಾವುದೇ ಲಾಗಿನ್ಗಳನ್ನು ಆಮದು ಮಾಡಲಾಗಿಲ್ಲ";
-"ThisIsNotARecognizedServerDescriptionLong" = "ಇದು ಗುರುತಿಸಲ್ಪಟ್ಟ Bitwarden ಸರ್ವರ್ ಅಲ್ಲ. ನೀವು ನಿಮ್ಮ ಪೂರೈಕೆದಾರರೊಂದಿಗೆ ಪರಿಶೀಲಿಸಬೇಕಾಗಬಹುದು ಅಥವಾ ನಿಮ್ಮ ಸರ್ವರ್ ಅನ್ನು ನವೀಕರಿಸಬೇಕಾಗಬಹುದು.";
+"ThisIsNotARecognizedServerDescriptionLong" = "ಇದು ಗುರುತಿಸಲ್ಪಟ್ಟ Multipass ಸರ್ವರ್ ಅಲ್ಲ. ನೀವು ನಿಮ್ಮ ಪೂರೈಕೆದಾರರೊಂದಿಗೆ ಪರಿಶೀಲಿಸಬೇಕಾಗಬಹುದು ಅಥವಾ ನಿಮ್ಮ ಸರ್ವರ್ ಅನ್ನು ನವೀಕರಿಸಬೇಕಾಗಬಹುದು.";
 "LoginsImported" = "ಲಾಗಿನ್ಗಳನ್ನು ಆಮದು ಮಾಡಲಾಗಿದೆ";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "ನಿಮ್ಮ ಆಮದು ಮಾಡಿದ ಪಾಸ್ವರ್ಡ್ ಫೈಲ್ ಅನ್ನು ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ನಿಂದ ಅಳಿಸಲು ಮರೆಯಬೇಡಿ.";
 "SomethingWentWrong" = "ಏನೋ ತಪ್ಪಾಗಿದೆ";
@@ -889,7 +889,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "ಲಾಗ್ಗಳನ್ನು ಸ್ಥಳೀಯವಾಗಿ ಸಂಗ್ರಹಿಸಲು ಮತ್ತು ಪರಿಶೀಲಿಸಲು ತಾತ್ಕಾಲಿಕ ಲಾಗಿಂಗ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ. ಸಕ್ರಿಯಗೊಳಿಸಿದಾಗ, ಅಪ್ಲಿಕೇಶನ್ ಸ್ಥಿತಿಗಳು ಮತ್ತು ನೆಟ್ವರ್ಕ್ ಕರೆಗಳನ್ನು ಲಾಗ್ ಮಾಡಬಹುದು—ಸೂಕ್ಷ್ಮ ವಾಲ್ಟ್ ಮಾಹಿತಿಯನ್ನು ಎಂದಿಗೂ ಅಲ್ಲ.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "ಪ್ರಾರಂಭಿಸಲು, ಲಾಗಿಂಗ್ ಅವಧಿಯನ್ನು ಹೊಂದಿಸಿ. ಈ ಅವಧಿಯ ನಂತರ ಲಾಗಿಂಗ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಆಫ್ ಆಗುತ್ತದೆ, ಯಾವುದೇ ಸಮಸ್ಯೆಗಳನ್ನು ಪುನರುತ್ಪಾದಿಸುವಾಗ ಚಟುವಟಿಕೆಯನ್ನು ಸೆರೆಹಿಡಿಯಲು ನಿಮಗೆ ಸಮಯವನ್ನು ನೀಡುತ್ತದೆ.";
 "LoggingDuration" = "ಲಾಗಿಂಗ್ ಅವಧಿ";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "ಲಾಗ್ಗಳನ್ನು 30 ದಿನಗಳ ನಂತರ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ನೀವು ಅದನ್ನು ಹಂಚಿಕೊಂಡಾಗ ಮಾತ್ರ Bitwarden ನಿಮ್ಮ ಲಾಗ್ ಡೇಟಾವನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "ಲಾಗ್ಗಳನ್ನು 30 ದಿನಗಳ ನಂತರ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಳಿಸಲಾಗುತ್ತದೆ. ನೀವು ಅದನ್ನು ಹಂಚಿಕೊಂಡಾಗ ಮಾತ್ರ Multipass ನಿಮ್ಮ ಲಾಗ್ ಡೇಟಾವನ್ನು ಪ್ರವೇಶಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "ಏನು ಲಾಗ್ ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಲಾಗ್ ಮಾಡಲಾಗಿಲ್ಲ ಎಂಬುದರ ವಿವರಗಳಿಗಾಗಿ, **[Bitwarden ಸಹಾಯ ಕೇಂದ್ರ](%1$@)** ಗೆ ಭೇಟಿ ನೀಡಿ.";
 "ShowMore" = "ಹೆಚ್ಚು ತೋರಿಸು";
 "ShowLess" = "ಕಡಿಮೆ ತೋರಿಸು";
@@ -920,7 +920,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "ದಯವಿಟ್ಟು ಕೆಳಗಿನ ಡೊಮೇನ್ ಅನ್ನು ನಿಮ್ಮ ಸಂಸ್ಥೆಯ ನಿರ್ವಾಹಕರೊಂದಿಗೆ ದೃಢೀಕರಿಸಿ.\n\nKey Connector ಡೊಮೇನ್:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "ನೀವು ನಿಜವಾಗಿಯೂ ಈ ಲಾಗ್ ಅನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "ನೀವು ನಿಜವಾಗಿಯೂ ಎಲ್ಲಾ ರೆಕಾರ್ಡ್ ಮಾಡಿದ ಲಾಗ್ಗಳನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "ಈ ಖಾತೆಯನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಅಳಿಸಲಾಗುತ್ತದೆ. Bitwarden ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು %1$@ ನಲ್ಲಿ ಲಾಗಿನ್ ಮಾಡಿ.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "ಈ ಖಾತೆಯನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಅಳಿಸಲಾಗುತ್ತದೆ. Multipass ಬಳಸುವುದನ್ನು ಮುಂದುವರಿಸಲು %1$@ ನಲ್ಲಿ ಲಾಗಿನ್ ಮಾಡಿ.";
 "AppSettings" = "ಅಪ್ಲಿಕೇಶನ್ ಸೆಟ್ಟಿಂಗ್ಗಳು";
 "ViewFileSend" = "ಫೈಲ್ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ವೀಕ್ಷಿಸಿ";
 "ViewTextSend" = "ಪಠ್ಯ ಕಳುಹಿಸುವಿಕೆಯನ್ನು ವೀಕ್ಷಿಸಿ";
@@ -943,7 +943,7 @@
 "LastEdited" = "ಕೊನೆಯದಾಗಿ ಸಂಪಾದಿಸಲಾಗಿದೆ: %1$@";
 "PasswordLastUpdated" = "ಪಾಸ್ವರ್ಡ್ ಕೊನೆಯದಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ: %1$@";
 "DecryptionError" = "ಡೀಕ್ರಿಪ್ಷನ್ ದೋಷ";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden ಈ ವಾಲ್ಟ್ ಐಟಂ ಅನ್ನು ಡೀಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಹೆಚ್ಚುವರಿ ಡೇಟಾ ನಷ್ಟವನ್ನು ತಪ್ಪಿಸಲು ಈ ದೋಷ ವರದಿಯನ್ನು ನಕಲಿಸಿ ಮತ್ತು ಗ್ರಾಹಕ ಯಶಸ್ಸಿನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass ಈ ವಾಲ್ಟ್ ಐಟಂ ಅನ್ನು ಡೀಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಹೆಚ್ಚುವರಿ ಡೇಟಾ ನಷ್ಟವನ್ನು ತಪ್ಪಿಸಲು ಈ ದೋಷ ವರದಿಯನ್ನು ನಕಲಿಸಿ ಮತ್ತು ಗ್ರಾಹಕ ಯಶಸ್ಸಿನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ.";
 "CopyErrorReport" = "ದೋಷ ವರದಿಯನ್ನು ನಕಲಿಸಿ";
 "ErrorCannotDecrypt" = "[ದೋಷ: ಡೀಕ್ರಿಪ್ಟ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ]";
 "AccountsSyncedFromBitwardenApp" = "Bitwarden ಅಪ್ಲಿಕೇಶನ್ನಿಂದ ಸಿಂಕ್ ಮಾಡಿದ ಖಾತೆಗಳು";
@@ -1001,7 +1001,7 @@
 "Skip" = "ಬಿಟ್ಟುಬಿಡು";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "ನಿಮ್ಮ ಎಲ್ಲಾ ಲಾಗಿನ್ಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಮತ್ತು ಪರಿಶೀಲನಾ ಕೋಡ್ಗಳನ್ನು Authenticator ಅಪ್ಲಿಕೇಶನ್ನೊಂದಿಗೆ ನೇರವಾಗಿ ಸಿಂಕ್ ಮಾಡಿ.";
-"SyncWithBrowserDescriptionLong" = "%1$@ ಗೆ ಸಂಪರ್ಕಿಸಲು, ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಬ್ರೌಸರ್ ಅನ್ನು Bitwarden ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್ನೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡಿ. ನಿಮ್ಮ ಬ್ರೌಸರ್ ತೆರೆದಾಗ, ಕೇಳಿದರೆ ಸೈನ್-ಇನ್ ಪೂರ್ಣಗೊಳಿಸಿ. ಸಿಂಕ್ ಪೂರ್ಣಗೊಂಡ ನಂತರ, ನಿಮ್ಮನ್ನು ಈ ಅಪ್ಲಿಕೇಶನ್ಗೆ ಹಿಂತಿರುಗಿಸಲಾಗುತ್ತದೆ.";
+"SyncWithBrowserDescriptionLong" = "%1$@ ಗೆ ಸಂಪರ್ಕಿಸಲು, ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಬ್ರೌಸರ್ ಅನ್ನು Multipass ಮೊಬೈಲ್ ಅಪ್ಲಿಕೇಶನ್ನೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡಿ. ನಿಮ್ಮ ಬ್ರೌಸರ್ ತೆರೆದಾಗ, ಕೇಳಿದರೆ ಸೈನ್-ಇನ್ ಪೂರ್ಣಗೊಳಿಸಿ. ಸಿಂಕ್ ಪೂರ್ಣಗೊಂಡ ನಂತರ, ನಿಮ್ಮನ್ನು ಈ ಅಪ್ಲಿಕೇಶನ್ಗೆ ಹಿಂತಿರುಗಿಸಲಾಗುತ್ತದೆ.";
 "SyncWithBitwardenApp" = "Bitwarden ಅಪ್ಲಿಕೇಶನ್ನೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡಿ";
 "SyncWithBrowser" = "ಬ್ರೌಸರ್ನೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡಿ";
 "SyncWithTheBitwardenApp" = "Bitwarden ಅಪ್ಲಿಕೇಶನ್ನೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡಿ";
@@ -1017,7 +1017,7 @@
 "SelectAccount" = "ಖಾತೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "ಖಾತೆಗಳು";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI ಹೊಂದಾಣಿಕೆ ಪತ್ತೆಯು Bitwarden ಸ್ವಯಂ ಭರ್ತಿ ಸಲಹೆಗಳನ್ನು ಹೇಗೆ ಗುರುತಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI ಹೊಂದಾಣಿಕೆ ಪತ್ತೆಯು Multipass ಸ್ವಯಂ ಭರ್ತಿ ಸಲಹೆಗಳನ್ನು ಹೇಗೆ ಗುರುತಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ನಿಯಂತ್ರಿಸುತ್ತದೆ.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“ಇವುಗಳೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ” ಎಂಬುದು ರುಜುವಾತುಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುವ ಹೆಚ್ಚಿನ ಅಪಾಯವನ್ನು ಹೊಂದಿರುವ ಮುಂದುವರಿದ ಆಯ್ಕೆಯಾಗಿದೆ.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "“ನಿಯಮಿತ ಅಭಿವ್ಯಕ್ತಿ” ಎಂಬುದು ತಪ್ಪಾಗಿ ಬಳಸಿದಲ್ಲಿ ರುಜುವಾತುಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುವ ಹೆಚ್ಚಿನ ಅಪಾಯವನ್ನು ಹೊಂದಿರುವ ಮುಂದುವರಿದ ಆಯ್ಕೆಯಾಗಿದೆ.";
 "StartsWithAdvanced" = "ಇವುಗಳೊಂದಿಗೆ ಪ್ರಾರಂಭವಾಗುತ್ತದೆ (ಮುಂದುವರಿದ)";
@@ -1044,7 +1044,7 @@
 "ContactYourAdminToRegainAccess" = "ಪ್ರವೇಶವನ್ನು ಮರಳಿ ಪಡೆಯಲು ನಿಮ್ಮ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.";
 "LeaveX" = "%1$@ ತೊರೆಯಿರಿ";
 "YouLeftTheOrganization" = "ನೀವು ಸಂಸ್ಥೆಯನ್ನು ತೊರೆದಿದ್ದೀರಿ";
-"ItemTransferRequiresMainAppDescriptionLong" = "ಸಂಸ್ಥೆಯೊಂದು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಐಟಂಗಳ ಮಾಲೀಕತ್ವವನ್ನು ವಿನಂತಿಸುತ್ತಿದೆ. ಈ ವಿನಂತಿಯನ್ನು ಪರಿಶೀಲಿಸಲು ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸಲು ಮುಖ್ಯ Bitwarden ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ.";
+"ItemTransferRequiresMainAppDescriptionLong" = "ಸಂಸ್ಥೆಯೊಂದು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಐಟಂಗಳ ಮಾಲೀಕತ್ವವನ್ನು ವಿನಂತಿಸುತ್ತಿದೆ. ಈ ವಿನಂತಿಯನ್ನು ಪರಿಶೀಲಿಸಲು ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸಲು ಮುಖ್ಯ Multipass ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಿರಿ.";
 "ThisSettingIsManagedByYourOrganization" = "ಈ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ನಿಮ್ಮ ಸಂಸ್ಥೆಯು ನಿರ್ವಹಿಸುತ್ತದೆ.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "ನಿಮ್ಮ ಸಂಸ್ಥೆಯು ಗರಿಷ್ಠ ಸೆಷನ್ ಸಮಯ ಮೀರುವಿಕೆಯನ್ನು %1$@ ಗೆ ಹೊಂದಿಸಿದೆ.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "ನಿಮ್ಮ ಸಂಸ್ಥೆಯು ಡೀಫಾಲ್ಟ್ ಸೆಷನ್ ಸಮಯ ಮೀರುವಿಕೆಯನ್ನು ಎಂದಿಗೂ ಇಲ್ಲ ಎಂದು ಹೊಂದಿಸಿದೆ.";
@@ -1102,7 +1102,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock ತೆರವುಗೊಳಿಸಲಾಗಿದೆ.";
 "SsoCookiesCleared" = "SSO ಕುಕೀಗಳನ್ನು ತೆರವುಗೊಳಿಸಲಾಗಿದೆ";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "ಅಪ್ಲಿಕೇಶನ್ ಮರು-ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದ್ದ ಕಾರಣ ನಿಮ್ಮ ವಿನಂತಿಯನ್ನು ಅಡ್ಡಿಪಡಿಸಲಾಯಿತು. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.";
-"AutofillWithBitwardenDescriptionLong" = "ನೀವು ಅಪ್ಲಿಕೇಶನ್ಗಳು ಮತ್ತು ವೆಬ್ಸೈಟ್ಗಳಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡುವಾಗ Bitwarden ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ಗಳು ಮತ್ತು ಇತರ ರುಜುವಾತುಗಳನ್ನು ಸೂಚಿಸಬಹುದು.";
+"AutofillWithBitwardenDescriptionLong" = "ನೀವು ಅಪ್ಲಿಕೇಶನ್ಗಳು ಮತ್ತು ವೆಬ್ಸೈಟ್ಗಳಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡುವಾಗ Multipass ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ಗಳು ಮತ್ತು ಇತರ ರುಜುವಾತುಗಳನ್ನು ಸೂಚಿಸಬಹುದು.";
 "LearnMoreAboutAutofill" = "ಸ್ವಯಂ ಭರ್ತಿಯ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ";
 "TurnOnNow" = "ಈಗ ಆನ್ ಮಾಡಿ";
 "AcceptTransfer" = "ವರ್ಗಾವಣೆಯನ್ನು ಸ್ವೀಕರಿಸಿ";

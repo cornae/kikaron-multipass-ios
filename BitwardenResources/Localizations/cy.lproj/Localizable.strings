@@ -3,7 +3,7 @@
 "AddFolder" = "Ychwanegu ffolder";
 "AnErrorHasOccurred" = "Bu gwall.";
 "Back" = "Yn ôl";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Yn ôl";
 "Copy" = "Copïo";
 "CopyLicenseNumber" = "Copïo rhif trwydded";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "Yn aml mae ymadroddion cyfrinair yn haws i'w cofio a'u teipio na chyfrineiriau ar hap. Gallant fod yn ddefnyddiol pan fydd angen mewngofnodi i gyfrifon lle nad yw llenwi awtomatig ar gael, fel gwasanaeth ffrydio ar eich teledu.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "Mae enwau defnyddwyr unigryw yn ychwanegu haen ychwanegol o ddiogelwch a gallant helpu i atal hacwyr rhag dod o hyd i'ch cyfrifon.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "Defnyddiwch yr opsiynau hyn i addasu eich cyfrinair i fodloni gofynion gwefan eich cyfrif.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Ar ôl i chi gadw eich cyfrinair newydd i Bitwarden, peidiwch ag anghofio ei ddiweddaru ar wefan eich cyfrif.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Ar ôl i chi gadw eich cyfrinair newydd i Multipass, peidiwch ag anghofio ei ddiweddaru ar wefan eich cyfrif.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "Rhaid i chi ychwanegu cyfeiriad gwe i ddefnyddio llenwi awtomatig i gael mynediad i'r cyfrif hwn.";
 "Username" = "Enw defnyddiwr";
 "ValidationFieldRequired" = "Mae'r maes %1$@ yn ofynnol.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "Ailweithredwch estyniad ap";
 "ExtensionAlmostDone" = "Bron yn barod!";
 "ExtensionEnable" = "Actifadu estyniad ap";
-"ExtensionInSafari" = "Yn Safari, darganfyddwch Bitwarden gan ddefnyddio'r eicon rhannu (cliw: sgroliwch i'r dde ar y rhes waelod o'r ddewislen).";
+"ExtensionInSafari" = "Yn Safari, darganfyddwch Multipass gan ddefnyddio'r eicon rhannu (cliw: sgroliwch i'r dde ar y rhes waelod o'r ddewislen).";
 "ExtensionInstantAccess" = "Mynnwch fynediad i'ch cyfrineiriau ar unwaith!";
 "ExtensionReady" = "Rydych chi'n barod i fewngofnodi!";
 "ExtensionSetup" = "Mae eich manylion mewngofnodi bellach yn hawdd i'w canfod o Safari, Chrome, ac apiau eraill.";
-"ExtensionSetup2" = "Yn Safari a Chrome, darganfyddwch Bitwarden gan ddefnyddio'r eicon rhannu (cliw: sgroliwch i'r dde ar y rhes waelod o'r ddewislen rhannu).";
-"ExtensionTapIcon" = "Tapiwch eicon Bitwarden yn y ddewislen i lansio'r estyniad.";
-"ExtensionTurnOn" = "I droi Bitwarden ymlaen yn Safari ac apiau eraill, tapiwch yr eicon “mwy” ar y rhes waelod o'r ddewislen.";
+"ExtensionSetup2" = "Yn Safari a Chrome, darganfyddwch Multipass gan ddefnyddio'r eicon rhannu (cliw: sgroliwch i'r dde ar y rhes waelod o'r ddewislen rhannu).";
+"ExtensionTapIcon" = "Tapiwch eicon Multipass yn y ddewislen i lansio'r estyniad.";
+"ExtensionTurnOn" = "I droi Multipass ymlaen yn Safari ac apiau eraill, tapiwch yr eicon “mwy” ar y rhes waelod o'r ddewislen.";
 "Favorite" = "Ffefryn";
 "Fingerprint" = "Ôl bys";
 "GeneratePassword" = "Cynhyrchu cyfrinair";
@@ -110,7 +110,7 @@
 "Immediately" = "ar unwaith";
 "VaultTimeoutLogOutConfirmation" = "Bydd allgofnodi yn dileu pob mynediad i'ch cwpwrdd ac mae angen dilysiad ar-lein ar ôl y cyfnod amser allan. Ydych chi'n siŵr eich bod am ddefnyddio'r gosodiad hwn?";
 "LoggingIn" = "Yn mewngofnodi…";
-"LogInToBitwarden" = "Mewngofnodi i Bitwarden";
+"LogInToBitwarden" = "Mewngofnodi i Multipass";
 "MasterPasswordConfirmationValMessage" = "Nid yw'r cadarnhad cyfrinair yn gywir.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "Y cyfrinair meistr yw'r cyfrinair rydych chi'n ei ddefnyddio i gael mynediad i'ch cwpwrdd.";
 "MasterPasswordHint" = "Awgrym o'ch prif gyfrinair";
@@ -127,7 +127,7 @@
 "PasswordHint" = "Awgrym o'r cyfrinair";
 "PasswordHintAlert" = "Rydym wedi anfon e-bost atoch gyda'ch cliw cyfrinair meistr.";
 "PasswordOverrideAlert" = "Ydych chi'n siŵr eich bod am drosysgrifo'r cyfrinair presennol?";
-"PushNotificationAlert" = "Mae Bitwarden yn cadw'ch cwpwrdd wedi'i gydamseru'n awtomatig trwy ddefnyddio hysbysiadau gwthio. Ar gyfer y profiad gorau posibl, dewiswch “Caniatáu” ar yr anogwr canlynol pan ofynnir i chi ganiatáu hysbysiadau gwthio.";
+"PushNotificationAlert" = "Mae Multipass yn cadw'ch cwpwrdd wedi'i gydamseru'n awtomatig trwy ddefnyddio hysbysiadau gwthio. Ar gyfer y profiad gorau posibl, dewiswch “Caniatáu” ar yr anogwr canlynol pan ofynnir i chi ganiatáu hysbysiadau gwthio.";
 "Security" = "Diogelwch";
 "Select" = "Dewis";
 "ItemUpdated" = "Eitem wedi'i chadw";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Datgloi gyda Optic ID";
 "UnlockWithPIN" = "Datgloi â chod PIN";
 "VerificationCode" = "Cod dilysu";
-"WebVault" = "Cell we Bitwarden";
+"WebVault" = "Cell we Multipass";
 "Items" = "Eitemau";
 "ExtensionActivated" = "Estyniad wedi'i actifadu!";
 "ItemsForUri" = "Eitemau ar gyfer %1$@";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "Mae URLs yr amgylchedd wedi'u cadw.";
 "IdentityUrl" = "URL gweinydd hunaniaeth";
 "SelfHostedEnvironment" = "Amgylchedd hunan-gynnal";
-"SelfHostedEnvironmentFooter" = "Nodwch URL sylfaenol eich gosodiad Bitwarden a gynhelir ar eich safle.";
+"SelfHostedEnvironmentFooter" = "Nodwch URL sylfaenol eich gosodiad Multipass a gynhelir ar eich safle.";
 "ServerUrl" = "URL gweinydd";
 "WebVaultUrl" = "URL gweinydd cwpwrdd gwe";
 "CustomFields" = "Meysydd addasedig";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "Dangos eiconau gwefannau";
 "ShowWebsiteIconsDescription" = "Dangos delwedd adnabyddadwy wrth ymyl pob eitem.";
 "IconsUrl" = "URL gweinydd eiconau";
-"AutofillWithBitwarden" = "Llenwi awtomatig gyda Bitwarden";
+"AutofillWithBitwarden" = "Llenwi awtomatig gyda Multipass";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "Casgliadau";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. Tapiwch “Cyfrineiriau”";
 "AutofillTurnOn3" = "3. Tapiwch “Llenwi Cyfrineiriau yn Awtomatig”";
 "AutofillTurnOn4" = "4. Trowch Llenwi Awtomatig ymlaen";
-"AutofillTurnOn5" = "5. Dewiswch “Bitwarden”";
+"AutofillTurnOn5" = "5. Dewiswch “Multipass”";
 "PasswordAutofill" = "Llenwi cyfrinair yn awtomatig";
-"BitwardenAutofillAlert2" = "Y ffordd hawsaf i ychwanegu mewngofnodiadau newydd i'ch cwpwrdd yw trwy ddefnyddio estyniad Llenwi Cyfrineiriau yn Awtomatig Bitwarden. Dysgwch fwy am ddefnyddio estyniad Llenwi Cyfrineiriau yn Awtomatig Bitwarden trwy lywio i'r sgrin “Settings”.";
+"BitwardenAutofillAlert2" = "Y ffordd hawsaf i ychwanegu mewngofnodiadau newydd i'ch cwpwrdd yw trwy ddefnyddio estyniad Llenwi Cyfrineiriau yn Awtomatig Multipass. Dysgwch fwy am ddefnyddio estyniad Llenwi Cyfrineiriau yn Awtomatig Multipass trwy lywio i'r sgrin “Settings”.";
 "InvalidEmail" = "Cyfeiriad e-bost annilys.";
 "InvalidEmailAddresses" = "Cyfeiriadau e-bost annilys";
 "NoEmailAddressesEntered" = "Dim cyfeiriadau e-bost wedi'u nodi";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "Parhau i'r polisi preifatrwydd?";
 "ContinueToAppStore" = "Parhau i'r siop apiau?";
 "ContinueWithoutSyncing" = "Parhau heb gydamseru";
-"TwoStepLoginDescriptionLong" = "Gallwch wneud eich cyfrif yn fwy diogel drwy alluogi mewngofnodi dau gam yn ap gwe Bitwarden.";
+"TwoStepLoginDescriptionLong" = "Gallwch wneud eich cyfrif yn fwy diogel drwy alluogi mewngofnodi dau gam yn ap gwe Multipass.";
 "YouCanImportDataToYourVaultOnX" = "Gallwch fewnforio data i'ch cwpwrdd ar %1$@.";
 "PrivacyPolicyDescriptionLong" = "Edrychwch ar ein polisi preifatrwydd ar bitwarden.com.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Archwiliwch fwy o nodweddion eich cyfrif Bitwarden ar y cymhwysiad gwe.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Archwiliwch fwy o nodweddion eich cyfrif Multipass ar y cymhwysiad gwe.";
 "LearnAboutOrganizationsDescriptionLong" = "Mae Bitwarden yn caniatáu i chi rannu eich eitemau cwpwrdd ag eraill trwy ddefnyddio sefydliad. Dysgwch fwy ar wefan bitwarden.com.";
-"RateAppDescriptionLong" = "Helpwch eraill i ddarganfod a yw Bitwarden yn addas iddyn nhw. Ewch i'r siop apiau a gadewch sgôr nawr.";
+"RateAppDescriptionLong" = "Helpwch eraill i ddarganfod a yw Multipass yn addas iddyn nhw. Ewch i'r siop apiau a gadewch sgôr nawr.";
 "CreatedX" = "Wedi'i greu %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "Diweddarwyd caniatadau eich sefydliad, sy'n gofyn i chi osod cyfrinair meistr.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "Mae eich sefydliad yn gofyn i chi osod cyfrinair meistr.";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "Dysgwch fwy am gynhyrchu tystlythyrau mewngofnodi diogel gyda thaith dywys.";
 "ExportVaultFilePwProtectInfo" = "Bydd yr allforiad ffeil hwn wedi'i ddiogelu gan gyfrinair a bydd angen cyfrinair y ffeil i'w ddadgryptio.";
 "IntroCarouselPage1Title" = "Diogelwch, yn flaenoriaeth";
-"IntroCarouselPage1Message" = "Cadwch fewngofnodiadau, cardiau, a hunaniaethau i'ch cwpwrdd diogel. Mae Bitwarden yn defnyddio amgryptio di-gwybodaeth, pen-i-ben i ddiogelu'r hyn sy'n bwysig i chi.";
+"IntroCarouselPage1Message" = "Cadwch fewngofnodiadau, cardiau, a hunaniaethau i'ch cwpwrdd diogel. Mae Multipass yn defnyddio amgryptio di-gwybodaeth, pen-i-ben i ddiogelu'r hyn sy'n bwysig i chi.";
 "IntroCarouselPage2Title" = "Mewngofnodi cyflym a hawdd";
 "IntroCarouselPage2Message" = "Sefydlwch ddatgloi biometrig a llenwi awtomatig i fewngofnodi i'ch cyfrifon heb deipio un llythyren.";
 "IntroCarouselPage3Title" = "Uwchraddio'ch mewngofnodiadau";
 "IntroCarouselPage3Message" = "Defnyddiwch y cynhyrchydd i greu a chadw cyfrineiriau cryf, unigryw ar gyfer eich holl gyfrifon.";
 "IntroCarouselPage4Title" = "Eich data, pan a lle bynnag y mae ei angen arnoch";
-"IntroCarouselPage4Message" = "Cadwch gyfrineiriau diderfyn ar draws dyfeisiau diderfyn gyda Bitwarden symudol, porwr, ac apiau bwrdd gwaith.";
+"IntroCarouselPage4Message" = "Cadwch gyfrineiriau diderfyn ar draws dyfeisiau diderfyn gyda Multipass symudol, porwr, ac apiau bwrdd gwaith.";
 "AccountSetup" = "Sefydlu cyfrif";
 "SetUpUnlock" = "Sefydlu datgloi";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "Sefydlwch fiometreg neu dewiswch god PIN i gael mynediad cyflym i'ch cwpwrdd a llenwi'ch mewngofnodiadau yn awtomatig.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "Cyfrinair meistr (gofynnol)";
 "RetypeMasterPasswordRequired" = "Ail-deipio cyfrinair meistr (gofynnol)";
 "RetypeNewMasterPasswordRequired" = "Ail-deipio cyfrinair meistr newydd (gofynnol)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Ni all Bitwarden ailosod cyfrinair meistr coll neu anghofiedig.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Ni all Multipass ailosod cyfrinair meistr coll neu anghofiedig.";
 "LearnAboutWaysToPreventAccountLockout" = "Dysgwch am ffyrdd i atal cloi cyfrif";
 "RestartRegistration" = "Ailgychwyn cofrestru";
 "Expired" = "Wedi dod i ben";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Gwall wrth gysylltu â gwasanaeth Duo. Defnyddiwch ddull mewngofnodi dau-gam arall neu cysylltwch â Duo am gymorth.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "Ni ellid llwytho'r URLs Pre Auth i ddechrau creu'r cyfrif.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "O'ch gosodiadau dyfais, **trowch llenwi awtomatig Cyfrineiriau a Passkeys ymlaen.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Trowch iCloud Keychain i ffwrdd** i wneud Bitwarden yn ffynhonnell llenwi awtomatig ddiofyn.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Trowch Bitwarden ymlaen** i ddefnyddio'ch cyfrineiriau wedi'u cadw i fewngofnodi i'ch cyfrifon.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Trowch iCloud Keychain i ffwrdd** i wneud Multipass yn ffynhonnell llenwi awtomatig ddiofyn.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Trowch Multipass ymlaen** i ddefnyddio'ch cyfrineiriau wedi'u cadw i fewngofnodi i'ch cyfrifon.";
 "TurnOnAutoFill" = "Trowch llenwi awtomatig ymlaen";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "Defnyddiwch lenwi awtomatig i fewngofnodi i'ch cyfrifon gydag un tapiad.";
 "NeedHelpCheckOutAutofillHelp" = "Angen cymorth? Edrychwch ar **[cymorth llenwi awtomatig](%1$@)**";
 "TurnOnLater" = "Troi ymlaen yn hwyrach";
 "TurnOnAutoFillLaterQuestion" = "Troi llenwi awtomatig ymlaen yn hwyrach?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "Gallwch ddychwelyd i gwblhau'r cam hwn unrhyw bryd yn Gosodiadau.";
-"ContinueToBitwarden" = "Parhau i Bitwarden";
+"ContinueToBitwarden" = "Parhau i Multipass";
 "BackToSettings" = "Yn ôl i osodiadau";
 "YoureAllSet" = "Rydych chi wedi gorffen!";
-"AutoFillActivatedDescriptionLong" = "Gallwch nawr ddefnyddio llenwi awtomatig i fewngofnodi i apiau a gwefannau gan ddefnyddio'ch cyfrineiriau wedi'u cadw. Nawr, gallwch archwilio popeth arall sydd gan Bitwarden i'w gynnig.";
+"AutoFillActivatedDescriptionLong" = "Gallwch nawr ddefnyddio llenwi awtomatig i fewngofnodi i apiau a gwefannau gan ddefnyddio'ch cyfrineiriau wedi'u cadw. Nawr, gallwch archwilio popeth arall sydd gan Multipass i'w gynnig.";
 "GetStarted" = "Cychwyn";
 "Dismiss" = "Diystyru";
 "SaveAndProtectYourData" = "Cadw a diogelu'ch data";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "Defnyddiwch gyfrifiadur i fewnforio mewngofnodiadau o reolwr cyfrineiriau presennol.";
 "ImportLogins" = "Mewnforio mewngofnodiadau";
 "GiveYourVaultAHeadStart" = "Rhowch fantais gychwynnol i'ch cwpwrdd";
-"ImportLoginsDescriptionLong" = "O'ch cyfrifiadur, dilynwch y cyfarwyddiadau hyn i allforio cyfrineiriau wedi'u cadw o'ch porwr neu reolwr cyfrineiriau arall. Yna, mewnforiwch nhw'n ddiogel i Bitwarden.";
+"ImportLoginsDescriptionLong" = "O'ch cyfrifiadur, dilynwch y cyfarwyddiadau hyn i allforio cyfrineiriau wedi'u cadw o'ch porwr neu reolwr cyfrineiriau arall. Yna, mewnforiwch nhw'n ddiogel i Multipass.";
 "ImportLoginsLater" = "Mewnforio mewngofnodiadau yn hwyrach";
 "ImportLoginsLaterQuestion" = "Mewnforio mewngofnodiadau yn hwyrach?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "Gallwch ddychwelyd i gwblhau'r cam hwn unrhyw bryd yn Cwpwrdd o dan Gosodiadau.";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "Byddwch yn dileu'r ffeil hon ar ôl i'r mewnforio ddod i ben.";
 "NeedHelpCheckOutImportHelp" = "Angen cymorth? Edrychwch ar **[cymorth mewnforio](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "Ar eich cyfrifiadur, agorwch dab porwr newydd ac **ewch i %1$@**.";
-"LogInToTheBitwardenWebApp" = "**Mewngofnodwch i ap gwe Bitwarden.**";
-"ImportLoginsToBitwarden" = "Mewnforio mewngofnodiadau i Bitwarden";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Yn llywio Bitwarden, **dewch o hyd i'r opsiwn Offer** a **dewiswch Mewnforio data.**";
+"LogInToTheBitwardenWebApp" = "**Mewngofnodwch i ap gwe Multipass.**";
+"ImportLoginsToBitwarden" = "Mewnforio mewngofnodiadau i Multipass";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "Yn llywio Multipass, **dewch o hyd i'r opsiwn Offer** a **dewiswch Mewnforio data.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "Llenwch y ffurflen a **mewnforiwch eich ffeil cyfrineiriau wedi'u cadw.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "**Dewiswch Mewnforio data** yn yr ap gwe, yna **Done** i orffen cydamseru.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "Er eich diogelwch, gwnewch yn siŵr i **ddileu eich ffeil cyfrineiriau wedi'u cadw.**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "Ni ddarganfuwyd cyfrif. Mewngofnodwch eto os byddwch yn parhau i weld y gwall hwn.";
 "ImportError" = "Gwall mewnforio";
 "NoLoginsWereImported" = "Ni fewnforiwyd unrhyw fewngofnodiadau";
-"ThisIsNotARecognizedServerDescriptionLong" = "Nid yw hwn yn weinydd Bitwarden adnabyddus. Efallai y bydd angen i chi wirio gyda'ch darparwr neu ddiweddaru'ch gweinydd.";
+"ThisIsNotARecognizedServerDescriptionLong" = "Nid yw hwn yn weinydd Multipass adnabyddus. Efallai y bydd angen i chi wirio gyda'ch darparwr neu ddiweddaru'ch gweinydd.";
 "LoginsImported" = "Mewngofnodiadau wedi'u mewnforio";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "Cofiwch ddileu eich ffeil cyfrineiriau wedi'u mewnforio o'ch cyfrifiadur.";
 "SomethingWentWrong" = "Aeth rhywbeth o'i le";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "Galluogi logio dros dro i gasglu ac archwilio logiau'n lleol. Pan fydd wedi'i alluogi, gellir logio cyflyrau cymhwysiad a galwadau rhwydwaith—byth gwybodaeth sensitif cwpwrdd.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "I ddechrau, gosodwch hyd logio. Bydd logio yn diffodd yn awtomatig ar ôl y cyfnod hwn, gan roi amser i chi ddal gweithgaredd wrth ailgynhyrchu unrhyw broblemau.";
 "LoggingDuration" = "Hyd logio";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Bydd logiau'n cael eu dileu'n awtomatig ar ôl 30 diwrnod. Dim ond pan fyddwch yn ei rannu y gall Bitwarden gael mynediad at eich data log.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Bydd logiau'n cael eu dileu'n awtomatig ar ôl 30 diwrnod. Dim ond pan fyddwch yn ei rannu y gall Multipass gael mynediad at eich data log.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "Am fanylion am yr hyn sy'n cael ei logio a'r hyn nad yw'n cael ei logio, ewch i **[ganolfan gymorth Bitwarden](%1$@)**.";
 "ShowMore" = "Dangos mwy";
 "ShowLess" = "Dangos llai";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "Cadarnhewch y parth isod gyda gweinyddwr eich sefydliad.\n\nParth Cysylltydd Allwedd:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "Ydych chi wir am ddileu'r log hwn?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "Ydych chi wir am ddileu'r holl logiau wedi'u recordio?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Bydd y cyfrif hwn yn cael ei ddileu yn fuan. Mewngofnodwch yn %1$@ i barhau i ddefnyddio Bitwarden.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Bydd y cyfrif hwn yn cael ei ddileu yn fuan. Mewngofnodwch yn %1$@ i barhau i ddefnyddio Multipass.";
 "AppSettings" = "Gosodiadau ap";
 "ViewFileSend" = "Gweld Anfon ffeil";
 "ViewTextSend" = "Gweld Anfon testun";
@@ -942,7 +942,7 @@
 "LastEdited" = "Golygwyd ddiwethaf: %1$@";
 "PasswordLastUpdated" = "Cyfrinair wedi'i ddiweddaru ddiwethaf: %1$@";
 "DecryptionError" = "Gwall dadgryptio";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Ni allai Bitwarden ddadgryptio'r eitem cwpwrdd hon. Copïwch a rhannwch yr adroddiad gwall hwn gyda llwyddiant cwsmeriaid i osgoi colli data ychwanegol.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Ni allai Multipass ddadgryptio'r eitem cwpwrdd hon. Copïwch a rhannwch yr adroddiad gwall hwn gyda llwyddiant cwsmeriaid i osgoi colli data ychwanegol.";
 "CopyErrorReport" = "Copïo adroddiad gwall";
 "ErrorCannotDecrypt" = "[gwall: ni ellir dadgryptio]";
 "AccountsSyncedFromBitwardenApp" = "Cyfrifon wedi'u cydamseru o ap Bitwarden";
@@ -1000,7 +1000,7 @@
 "Skip" = "Hepgor";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "Storiwch eich holl fewngofnodiadau a chydamserwch godau dilysu yn uniongyrchol gyda'r ap Dilysydd.";
-"SyncWithBrowserDescriptionLong" = "I gysylltu â %1$@, cydamserwch eich porwr diofyn gydag ap symudol Bitwarden. Pan fydd eich porwr yn agor, cwblhewch fewngofnodi os gofynnir. Ar ôl i'r cydamseru ddod i ben, cewch eich dychwelyd i'r ap hwn.";
+"SyncWithBrowserDescriptionLong" = "I gysylltu â %1$@, cydamserwch eich porwr diofyn gydag ap symudol Multipass. Pan fydd eich porwr yn agor, cwblhewch fewngofnodi os gofynnir. Ar ôl i'r cydamseru ddod i ben, cewch eich dychwelyd i'r ap hwn.";
 "SyncWithBitwardenApp" = "Cydamseru gydag ap Bitwarden";
 "SyncWithBrowser" = "Cydamseru gyda phorwr";
 "SyncWithTheBitwardenApp" = "Cydamseru gydag ap Bitwarden";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "Dewis cyfrif";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "Cyfrifon";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "Mae canfod cyfateb URI yn rheoli sut mae Bitwarden yn nodi awgrymiadau llenwi awtomatig.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "Mae canfod cyfateb URI yn rheoli sut mae Multipass yn nodi awgrymiadau llenwi awtomatig.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "Mae “Yn dechrau gyda” yn opsiwn uwch gyda risg uwch o ddangos tystlythyrau.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "Mae “Mynegiad rheolaidd” yn opsiwn uwch gyda risg uwch o ddangos tystlythyrau os caiff ei ddefnyddio'n anghywir.";
 "StartsWithAdvanced" = "Yn dechrau gyda (uwch)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "Cysylltwch â'ch gweinyddwr i adennill mynediad.";
 "LeaveX" = "Gadael %1$@";
 "YouLeftTheOrganization" = "Gadawsoch y sefydliad";
-"ItemTransferRequiresMainAppDescriptionLong" = "Mae sefydliad yn gofyn am berchnogaeth ar eich eitemau personol. Agorwch ap Bitwarden prif i adolygu a chwblhau'r cais hwn.";
+"ItemTransferRequiresMainAppDescriptionLong" = "Mae sefydliad yn gofyn am berchnogaeth ar eich eitemau personol. Agorwch ap Multipass prif i adolygu a chwblhau'r cais hwn.";
 "ThisSettingIsManagedByYourOrganization" = "Mae'r gosodiad hwn yn cael ei reoli gan eich sefydliad.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "Mae eich sefydliad wedi gosod yr amser allan sesiwn uchaf i %1$@.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "Mae eich sefydliad wedi gosod yr amser allan sesiwn diofyn i byth.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock wedi'i glirio.";
 "SsoCookiesCleared" = "Cwcis SSO wedi'u clirio";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "Torrwyd ar draws eich cais oherwydd bod angen i'r ap ail-dilysu. Ceisiwch eto.";
-"AutofillWithBitwardenDescriptionLong" = "Gall Bitwarden awgrymu'ch cyfrineiriau a thystlythyrau eraill pan fyddwch yn mewngofnodi i apiau a gwefannau.";
+"AutofillWithBitwardenDescriptionLong" = "Gall Multipass awgrymu'ch cyfrineiriau a thystlythyrau eraill pan fyddwch yn mewngofnodi i apiau a gwefannau.";
 "LearnMoreAboutAutofill" = "Dysgu mwy am lenwi awtomatig";
 "TurnOnNow" = "Troi ymlaen nawr";
 "AcceptTransfer" = "Derbyn trosglwyddiad";

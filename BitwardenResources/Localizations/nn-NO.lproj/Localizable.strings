@@ -3,7 +3,7 @@
 "AddFolder" = "Legg til ei mappe";
 "AnErrorHasOccurred" = "Noko gjekk gale.";
 "Back" = "Attende";
-"Bitwarden" = "Bitwarden";
+"Bitwarden" = "Multipass";
 "Cancel" = "Avbryt";
 "Copy" = "Skriv av";
 "CopyLicenseNumber" = "Kopier løyvenummer";
@@ -67,7 +67,7 @@
 "PassphrasesAreOftenEasierToRememberDescriptionLong" = "Passordfraser er ofte enklare å hugse og bruke enn tilfeldige passord. Dei kan vere nyttige når du skal logge inn på kontoar der autoutfylling ikkje er tilgjengeleg, for eksempel på ei strøymeteneste på TV-en din.";
 "UniqueUsernamesAddAnExtraLayerOfSecurityAndCanHelpPreventHackersFromFindingYourAccounts" = "Unike brukarnamn legg til eit ekstra lag sikkerheit og kan bidra til å hindre at hackarar finn kontoane dine.";
 "UseTheseOptionsToAdjustYourPasswordToMeetYourAccountWebsitesRequirements" = "Bruk desse innstillingane for å justere passordet ditt til kontoen sine krav.";
-"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Etter at du har lagra det nye passordet ditt til Bitwarden, ikkje gløym å oppdatere det på konto-nettsida di.";
+"AfterYouSaveYourNewPasswordToBitwardenDontForgetToUpdateItOnYourAccountWebsite" = "Etter at du har lagra det nye passordet ditt til Multipass, ikkje gløym å oppdatere det på konto-nettsida di.";
 "YouMustAddAWebAddressToUseAutofillToAccessThisAccount" = "Du må leggje til ei nettadresse for å bruke autoutfyll for å få tilgang til denne kontoen.";
 "Username" = "Brukarnamn";
 "ValidationFieldRequired" = "Feltet %1$@ er påkravt.";
@@ -93,13 +93,13 @@
 "ReactivateAppExtension" = "Slå på app-utvidinga att";
 "ExtensionAlmostDone" = "Snart ferdig!";
 "ExtensionEnable" = "Slå på app-utvidinga";
-"ExtensionInSafari" = "Finn Bitwarden i Safari ved å bruka deleikonet (vink: skroll til høgre på rekka i botn av menyen).";
+"ExtensionInSafari" = "Finn Multipass i Safari ved å bruka deleikonet (vink: skroll til høgre på rekka i botn av menyen).";
 "ExtensionInstantAccess" = "Få tilgjenge til passorda dine med éin gong!";
 "ExtensionReady" = "Du er klar til å logge inn!";
 "ExtensionSetup" = "Innskrivingane dine er no lett tilgjengelege gjennom Safari, Chrome og andre appar som er støtta.";
-"ExtensionSetup2" = "Finn Bitwarden i Safari og Chrome ved å bruka deleikonet (vink: skroll til høgre på rekka i botn av menyen).";
-"ExtensionTapIcon" = "Trykk på Bitwarden-ikonet i menyen for å byrja utvidinga.";
-"ExtensionTurnOn" = "For å slå på Bitwarden i Safari og andre appar, trykk på «meir»-ikonet nedst på menyen.";
+"ExtensionSetup2" = "Finn Multipass i Safari og Chrome ved å bruka deleikonet (vink: skroll til høgre på rekka i botn av menyen).";
+"ExtensionTapIcon" = "Trykk på Multipass-ikonet i menyen for å byrja utvidinga.";
+"ExtensionTurnOn" = "For å slå på Multipass i Safari og andre appar, trykk på «meir»-ikonet nedst på menyen.";
 "Favorite" = "Favoritt";
 "Fingerprint" = "Fingeravtrykk";
 "GeneratePassword" = "Laga passord";
@@ -110,7 +110,7 @@
 "Immediately" = "Med éin gong";
 "VaultTimeoutLogOutConfirmation" = "Ved å skriva deg ut vil du ikkje lenger ha tilgjenge til kvelvet ditt, og det krevst nettautentisering etter avbrotsbolken. Er du trygg på at du vil bruka denne innstillinga?";
 "LoggingIn" = "Loggar inn…";
-"LogInToBitwarden" = "Logg inn til Bitwarden";
+"LogInToBitwarden" = "Logg inn til Multipass";
 "MasterPasswordConfirmationValMessage" = "Passorda stemmer ikkje.";
 "TheMasterPasswordIsThePasswordYouUseToAccessYourVault" = "Hovudpassordet er passordet du bruker for å få tilgang til kvelvet ditt.";
 "MasterPasswordHint" = "Hovudpassordhint";
@@ -127,7 +127,7 @@
 "PasswordHint" = "Passordvink";
 "PasswordHintAlert" = "Vi har sendt deg ein e-post med hovudpassordhintet ditt.";
 "PasswordOverrideAlert" = "Er du trygg på at du vil skriva over passordet du har no?";
-"PushNotificationAlert" = "Bitwarden held kvelvet ditt automatisk synkronisert ved hjelp av push-varsel. For best mogleg oppleving, vel «Tillat» på den følgjande førespurnaden når du blir spurd om å tillate push-varsel.";
+"PushNotificationAlert" = "Multipass held kvelvet ditt automatisk synkronisert ved hjelp av push-varsel. For best mogleg oppleving, vel «Tillat» på den følgjande førespurnaden når du blir spurd om å tillate push-varsel.";
 "Security" = "Tryggleik";
 "Select" = "Vel";
 "ItemUpdated" = "Oppføringa er retta.";
@@ -143,7 +143,7 @@
 "UnlockWithOpticID" = "Lås opp med Optic ID";
 "UnlockWithPIN" = "Lås opp med PIN-kode";
 "VerificationCode" = "Stadfestingskode";
-"WebVault" = "Bitwarden nettkvelv";
+"WebVault" = "Multipass nettkvelv";
 "Items" = "Oppføringar";
 "ExtensionActivated" = "Utvidinga er slegen på!";
 "ItemsForUri" = "Oppføringar for %1$@";
@@ -197,7 +197,7 @@
 "EnvironmentSaved" = "Omgjevnadsnettadressene er lagra.";
 "IdentityUrl" = "URL for identitetstenar";
 "SelfHostedEnvironment" = "Sjølvstelt omgjevnad";
-"SelfHostedEnvironmentFooter" = "Oppgi base-URL for din lokalt installerte Bitwarden-installasjon.";
+"SelfHostedEnvironmentFooter" = "Oppgi base-URL for din lokalt installerte Multipass-installasjon.";
 "ServerUrl" = "Tenarnettadresse";
 "WebVaultUrl" = "Tenaradressa åt Nettkvelv";
 "CustomFields" = "Eigendefinerte felt";
@@ -260,7 +260,7 @@
 "ShowWebsiteIcons" = "Vis nettstadikon";
 "ShowWebsiteIconsDescription" = "Vis eit gjenkjenneleg bilete ved sida av kvar pålogging.";
 "IconsUrl" = "Ikon-tenar-URL";
-"AutofillWithBitwarden" = "Autoutfyll med Bitwarden";
+"AutofillWithBitwarden" = "Autoutfyll med Multipass";
 /* Section header and screen title for viewing/managing a cipher's collections. */
 "Collections" = "Samlingar";
 /* Section header and screen title for viewing/managing a cipher's shared folders. */
@@ -301,9 +301,9 @@
 "AutofillTurnOn2" = "2. Trykk «Passord»";
 "AutofillTurnOn3" = "3. Trykk «Autoutfyll passord»";
 "AutofillTurnOn4" = "4. Slå på ubeden utfylling";
-"AutofillTurnOn5" = "5. Vel «Bitwarden»";
+"AutofillTurnOn5" = "5. Vel «Multipass»";
 "PasswordAutofill" = "Passordautoutfyll";
-"BitwardenAutofillAlert2" = "Den enklaste måten å leggje til nye påloggingar i kvelvet ditt, er ved å bruke Bitwarden Password AutoFill-utvidinga. Lær meir om bruk av Bitwarden Password AutoFill-utvidinga ved å gå til «Innstillingar».";
+"BitwardenAutofillAlert2" = "Den enklaste måten å leggje til nye påloggingar i kvelvet ditt, er ved å bruke Multipass Password AutoFill-utvidinga. Lær meir om bruk av Multipass Password AutoFill-utvidinga ved å gå til «Innstillingar».";
 "InvalidEmail" = "Ugild e-postadresse.";
 "InvalidEmailAddresses" = "Ugyldige e-postadresser";
 "NoEmailAddressesEntered" = "Ingen e-postadresser skrivne inn";
@@ -627,12 +627,12 @@
 "ContinueToPrivacyPolicy" = "Fortset til personvernerklæringa?";
 "ContinueToAppStore" = "Halde fram til app-butikk?";
 "ContinueWithoutSyncing" = "Halde fram utan synkronisering";
-"TwoStepLoginDescriptionLong" = "Gjer kontoen din meir sikker ved å setje opp to-trinns pålogging i Bitwarden-nettappen.";
+"TwoStepLoginDescriptionLong" = "Gjer kontoen din meir sikker ved å setje opp to-trinns pålogging i Multipass-nettappen.";
 "YouCanImportDataToYourVaultOnX" = "Du kan importere data til kvelvet på %1$@.";
 "PrivacyPolicyDescriptionLong" = "Sjekk ut personvernerklæringa vår på bitwarden.com.";
-"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Utforsk fleire funksjonar i Bitwarden-kontoen din i nettappen.";
+"ExploreMoreFeaturesOfYourBitwardenAccountOnTheWebApp" = "Utforsk fleire funksjonar i Multipass-kontoen din i nettappen.";
 "LearnAboutOrganizationsDescriptionLong" = "Bitwarden let deg dele kvelelementa dine med andre ved å bruke ein organisasjon. Lær meir på bitwarden.com.";
-"RateAppDescriptionLong" = "Hjelp andre med å finne ut om Bitwarden passar for dei. Besøk app-butikken og gje ei vurdering no.";
+"RateAppDescriptionLong" = "Hjelp andre med å finne ut om Multipass passar for dei. Besøk app-butikken og gje ei vurdering no.";
 "CreatedX" = "Oppretta %1$@";
 "YourOrganizationPermissionsWereUpdatedRequeringYouToSetAMasterPassword" = "Organisasjonsrettane dine vart oppdaterte, noko som krev at du set eit hovudpassord.";
 "YourOrganizationRequiresYouToSetAMasterPassword" = "Organisasjonen din krev at du set eit hovudpassord.";
@@ -672,13 +672,13 @@
 "LearnMoreAboutGeneratingSecureLoginCredentialsWithAGuidedTour" = "Lær meir om å generere sikre påloggingsdokumentasjon med ein omvising.";
 "ExportVaultFilePwProtectInfo" = "Denne fileksporten vil vere passordbeskytta og krevje filpassord for å dekryptere.";
 "IntroCarouselPage1Title" = "Sikkerheit, prioritert";
-"IntroCarouselPage1Message" = "Lagre påloggingar, kort og identitetar i det trygge kvelvet ditt. Bitwarden bruker nullkunnskap, ende-til-ende-kryptering for å beskytte det som er viktig for deg.";
+"IntroCarouselPage1Message" = "Lagre påloggingar, kort og identitetar i det trygge kvelvet ditt. Multipass bruker nullkunnskap, ende-til-ende-kryptering for å beskytte det som er viktig for deg.";
 "IntroCarouselPage2Title" = "Rask og enkel pålogging";
 "IntroCarouselPage2Message" = "Set opp biometrisk opplåsing og autoutfyll for å logge inn på kontoane dine utan å skrive ein einaste bokstav.";
 "IntroCarouselPage3Title" = "Løft påloggingane dine";
 "IntroCarouselPage3Message" = "Bruk generatoren til å lage og lagre sterke, unike passord for alle kontoane dine.";
 "IntroCarouselPage4Title" = "Dataa dine, når og kor du treng dei";
-"IntroCarouselPage4Message" = "Lagre ubegrensa passord på ubegrensa einingar med Bitwarden-appar for mobil, nettlesar og skrivebord.";
+"IntroCarouselPage4Message" = "Lagre ubegrensa passord på ubegrensa einingar med Multipass-appar for mobil, nettlesar og skrivebord.";
 "AccountSetup" = "Kontoinnstilling";
 "SetUpUnlock" = "Set opp opplåsing";
 "SetUpBiometricsOrChooseAPinCodeToQuicklyAccessYourVaultAndAutofillYourLogins" = "Set opp biometri eller vel ein PIN-kode for raskt å få tilgang til kvelvet og autoutfylle påloggingane dine.";
@@ -711,7 +711,7 @@
 "MasterPasswordRequired" = "Hovudpassord (påkravd)";
 "RetypeMasterPasswordRequired" = "Skriv inn hovudpassord på nytt (påkravd)";
 "RetypeNewMasterPasswordRequired" = "Skriv inn nytt hovudpassord på nytt (påkravd)";
-"BitwardenCannotResetALostOrForgottenMasterPassword" = "Bitwarden kan ikkje tilbakestille eit tapt eller gløymt hovudpassord.";
+"BitwardenCannotResetALostOrForgottenMasterPassword" = "Multipass kan ikkje tilbakestille eit tapt eller gløymt hovudpassord.";
 "LearnAboutWaysToPreventAccountLockout" = "Lær om måtar å førebyggje kontoustenging";
 "RestartRegistration" = "Start registreringa på nytt";
 "Expired" = "Utgått";
@@ -729,18 +729,18 @@
 "ErrorConnectingWithTheDuoServiceUseADifferentTwoStepLoginMethodOrContactDuoForAssistance" = "Feil under tilkopling til Duo-tenesta. Bruk ein annan 2-trinnsinnloggingsmetode eller kontakt Duo for assistanse.";
 "ThePreAuthUrlsCouldNotBeLoadedToStartTheAccountCreation" = "Før-autentiserings-URL-ane kunne ikkje lastast for å starte kontoopprettinga.";
 "FromYourDeviceSettingsToggleOnAutoFillPasswordsAndPasskeys" = "Frå eininga sine innstillingar, **slå på autoutfyll for passord og passnøklar.**";
-"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Slå av iCloud Keychain** for å gjere Bitwarden til standard autoutfyllkjelde.";
-"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Slå på Bitwarden** for å bruke lagra passord til å logge inn på kontoane dine.";
+"ToggleOffICloudToMakeBitwardenYourDefaultAutoFillSource" = "**Slå av iCloud Keychain** for å gjere Multipass til standard autoutfyllkjelde.";
+"ToggleOnBitwardenToUseYourSavedPasswordsToLogIntoYourAccounts" = "**Slå på Multipass** for å bruke lagra passord til å logge inn på kontoane dine.";
 "TurnOnAutoFill" = "Slå på autoutfyll";
 "UseAutoFillToLogIntoYourAccountsWithASingleTap" = "Bruk autoutfyll for å logge inn på kontoane dine med eit enkelt trykk.";
 "NeedHelpCheckOutAutofillHelp" = "Treng du hjelp? Sjå **[hjelp for autoutfyll](%1$@)**";
 "TurnOnLater" = "Slå på seinare";
 "TurnOnAutoFillLaterQuestion" = "Slå på autoutfyll seinare?";
 "YouCanReturnToCompleteThisStepAnytimeInSettings" = "Du kan kome tilbake for å fullføre dette steget når som helst under Innstillingar.";
-"ContinueToBitwarden" = "Halde fram til Bitwarden";
+"ContinueToBitwarden" = "Halde fram til Multipass";
 "BackToSettings" = "Tilbake til innstillingar";
 "YoureAllSet" = "No er alt klart!";
-"AutoFillActivatedDescriptionLong" = "Du kan no bruke autoutfyll for å logge inn i appar og nettstader med lagra passord. No kan du utforske alt anna Bitwarden har å tilby.";
+"AutoFillActivatedDescriptionLong" = "Du kan no bruke autoutfyll for å logge inn i appar og nettstader med lagra passord. No kan du utforske alt anna Multipass har å tilby.";
 "GetStarted" = "Kom i gang";
 "Dismiss" = "Lukk";
 "SaveAndProtectYourData" = "Lagre og beskytt dataa dine";
@@ -775,7 +775,7 @@
 "ImportSavedLoginsDescriptionLong" = "Bruk ein datamaskin til å importere påloggingar frå ein eksisterande passordbehandlar.";
 "ImportLogins" = "Importer påloggingar";
 "GiveYourVaultAHeadStart" = "Gi kvelvet ditt eit forsprang";
-"ImportLoginsDescriptionLong" = "Frå datamaskina, følg desse instruksjonane for å eksportere lagra passord frå nettlesaren din eller ein annan passordbehandlar. Deretter kan du importere dei trygt til Bitwarden.";
+"ImportLoginsDescriptionLong" = "Frå datamaskina, følg desse instruksjonane for å eksportere lagra passord frå nettlesaren din eller ein annan passordbehandlar. Deretter kan du importere dei trygt til Multipass.";
 "ImportLoginsLater" = "Importer innloggingar seinare";
 "ImportLoginsLaterQuestion" = "Importer innloggingar seinare?";
 "YouCanReturnToCompleteThisStepAnytimeInVaultUnderSettings" = "Du kan kome tilbake for å fullføre dette steget når som helst i Kvelv under Innstillingar.";
@@ -789,9 +789,9 @@
 "YoullDeleteThisFileAfterImportIsComplete" = "Du vil slette denne fila etter at importen er fullført.";
 "NeedHelpCheckOutImportHelp" = "Treng du hjelp? Sjå **[hjelp for import](%1$@)**";
 "OnYourComputerOpenANewBrowserTabAndGoTo" = "På datamaskinen, opne ein ny nettlesarfane og **gå til %1$@**.";
-"LogInToTheBitwardenWebApp" = "**Logg inn i Bitwarden-nettappen.**";
-"ImportLoginsToBitwarden" = "Importer innloggingar til Bitwarden";
-"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "I Bitwarden sin navigasjon, **finn Verktøy-alternativet** og **vel Importer data.**";
+"LogInToTheBitwardenWebApp" = "**Logg inn i Multipass-nettappen.**";
+"ImportLoginsToBitwarden" = "Importer innloggingar til Multipass";
+"InTheBitwardenNavigationFindTheToolsOptionAndSelectImportData" = "I Multipass sin navigasjon, **finn Verktøy-alternativet** og **vel Importer data.**";
 "FillOutTheFormAndImportYourSavedPasswordFile" = "Fyll ut skjemaet og **importer den lagra passordfila di.**";
 "SelectImportDataInTheWebAppThenDoneToFinishSyncing" = "**Vel Importér data** i nettappen, og så **Ferdig** for å fullføre synkroniseringa.";
 "ForYourSecurityBeSureToDeleteYourSavedPasswordFile" = "For di sikkerheit, ver sikker på å **slette di lagra passordfil.**";
@@ -818,7 +818,7 @@
 "NoAccountFoundPleaseLogInAgainIfYouContinueToSeeThisError" = "Ingen konto funnen. Logg inn på nytt viss du framleis ser denne feilen.";
 "ImportError" = "Importfeil";
 "NoLoginsWereImported" = "Ingen påloggingar vart importerte";
-"ThisIsNotARecognizedServerDescriptionLong" = "Dette er ikkje ein gjenkjent Bitwarden-tenar. Du må kanskje sjekke med leverandøren din eller oppdatere tenaren.";
+"ThisIsNotARecognizedServerDescriptionLong" = "Dette er ikkje ein gjenkjent Multipass-tenar. Du må kanskje sjekke med leverandøren din eller oppdatere tenaren.";
 "LoginsImported" = "Påloggingar importerte";
 "RememberToDeleteYourImportedPasswordFileFromYourComputer" = "Husk å slette den importerte passordfila frå datamaskinen.";
 "SomethingWentWrong" = "Noko gjekk gale";
@@ -888,7 +888,7 @@
 "EnableTemporaryLoggingDescriptionLong" = "Aktiver mellombels logging for å samle og inspisere loggar lokalt. Når aktivert, kan applikasjonstilstandar og nettverkskall bli logga – aldri sensitiv kvelvinformasjon.";
 "ToGetStartedSetALoggingDurationDescriptionLong" = "For å komme i gang, set ein loggvarigheit. Logginga vil automatisk slå seg av etter denne perioden, og gi deg tid til å fange aktivitet medan du reproduserer eventuelle problem.";
 "LoggingDuration" = "Loggvarigheit";
-"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Loggar blir automatisk sletta etter 30 dagar. Bitwarden kan berre få tilgang til loggdataa dine når du deler dei.";
+"LogsWillBeAutomaticallyDeletedAfter30DaysDescriptionLong" = "Loggar blir automatisk sletta etter 30 dagar. Multipass kan berre få tilgang til loggdataa dine når du deler dei.";
 "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter" = "For detaljar om kva som blir logga og ikkje, besøk **[Bitwarden hjelpesenter](%1$@)**.";
 "ShowMore" = "Vis meir";
 "ShowLess" = "Vis mindre";
@@ -919,7 +919,7 @@
 "KeyConnectorConfirmDomainWithAdmin" = "Stadfest domenet nedanfor med organisasjonsadministratoren.\n\nKey Connector-domene:\n%1$@";
 "DoYouReallyWantToDeleteThisLog" = "Vil du verkeleg slette denne oppføringa?";
 "DoYouReallyWantToDeleteAllRecordedLogs" = "Vil du verkeleg slette alle oppføringane?";
-"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Denne kontoen vil snart bli sletta. Logg inn på %1$@ for å fortsette å bruke Bitwarden.";
+"ThisAccountWillSoonBeDeletedLogInAtXToContinueUsingBitwarden" = "Denne kontoen vil snart bli sletta. Logg inn på %1$@ for å fortsette å bruke Multipass.";
 "AppSettings" = "Appinnstillingar";
 "ViewFileSend" = "Vis fil-Send";
 "ViewTextSend" = "Vis tekst-Send";
@@ -942,7 +942,7 @@
 "LastEdited" = "Sist redigert: %1$@";
 "PasswordLastUpdated" = "Passord sist oppdatert: %1$@";
 "DecryptionError" = "Dekrypteringsfeil";
-"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Bitwarden kunne ikkje dekryptere dette kvelelementet. Kopier og del denne feilmeldinga med kundestøtte for å unngå ytterlegare datatap.";
+"BitwardenCouldNotDecryptThisVaultItemDescriptionLong" = "Multipass kunne ikkje dekryptere dette kvelelementet. Kopier og del denne feilmeldinga med kundestøtte for å unngå ytterlegare datatap.";
 "CopyErrorReport" = "Kopier feilmelding";
 "ErrorCannotDecrypt" = "[feil: kan ikkje dekryptere]";
 "AccountsSyncedFromBitwardenApp" = "Kontoar synkroniserte frå Bitwarden-appen";
@@ -1000,7 +1000,7 @@
 "Skip" = "Hopp over";
 "Steam" = "Steam";
 "StoreAllOfYourLoginsAndSyncVerificationCodesDirectlyWithTheAuthenticatorApp" = "Lagre alle påloggingane dine og synkroniser verifiseringskode direkte med Authenticator-appen.";
-"SyncWithBrowserDescriptionLong" = "For å kople til %1$@, synkroniser standardnettlesaren din med Bitwarden-mobilappen. Når nettlesaren opnar seg, fullfør innlogging viss du blir beden om det. Når synkroniseringa er fullført, kjem du tilbake til denne appen.";
+"SyncWithBrowserDescriptionLong" = "For å kople til %1$@, synkroniser standardnettlesaren din med Multipass-mobilappen. Når nettlesaren opnar seg, fullfør innlogging viss du blir beden om det. Når synkroniseringa er fullført, kjem du tilbake til denne appen.";
 "SyncWithBitwardenApp" = "Synkroniser med Bitwarden-appen";
 "SyncWithBrowser" = "Synkroniser med nettlesar";
 "SyncWithTheBitwardenApp" = "Synkroniser med Bitwarden-appen";
@@ -1016,7 +1016,7 @@
 "SelectAccount" = "Vel konto";
 /* The header for the account switcher sheet. This is always plural (maximally so) if applicable regardless of the number of accounts being displayed. */
 "Accounts" = "Kontoar";
-"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI-samsvarsregistrering styrer korleis Bitwarden identifiserer autoutfyllforslag.";
+"UriMatchDetectionControlsHowBitwardenIdentifiesAutofillSuggestions" = "URI-samsvarsregistrering styrer korleis Multipass identifiserer autoutfyllforslag.";
 "StartsWithIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "«Byrjar med» er eit avansert alternativ med auka risiko for å eksponere legitimasjon.";
 "RegularExpressionIsAnAdvancedOptionWithIncreasedRiskOfExposingCredentials" = "«Regulært uttrykk» er eit avansert alternativ med auka risiko for å eksponere legitimasjon viss det blir brukt feil.";
 "StartsWithAdvanced" = "Byrjar med (avansert)";
@@ -1043,7 +1043,7 @@
 "ContactYourAdminToRegainAccess" = "Kontakt administratoren din for å få tilgang att.";
 "LeaveX" = "Forlat %1$@";
 "YouLeftTheOrganization" = "Du forlet organisasjonen";
-"ItemTransferRequiresMainAppDescriptionLong" = "Ein organisasjon ber om eigarskap til dei personlege elementa dine. Opne hovudappen Bitwarden for å vurdere og fullføre denne førespurnaden.";
+"ItemTransferRequiresMainAppDescriptionLong" = "Ein organisasjon ber om eigarskap til dei personlege elementa dine. Opne hovudappen Multipass for å vurdere og fullføre denne førespurnaden.";
 "ThisSettingIsManagedByYourOrganization" = "Denne innstillinga blir styrt av organisasjonen din.";
 "YourOrganizationHasSetTheMaximumSessionTimeoutToX" = "Organisasjonen din har sett maksimal øktavbrotstid til %1$@.";
 "YourOrganizationHasSetTheDefaultSessionTimeoutToNever" = "Organisasjonen din har sett standard øktavbrot til aldri.";
@@ -1101,7 +1101,7 @@
 "MasterPasswordUnlockCleared" = "masterPasswordUnlock tømt.";
 "SsoCookiesCleared" = "SSO-informasjonskapslar tømde";
 "YourRequestWasInterruptedBecauseTheAppNeededToReAuthenticatePleaseTryAgain" = "Førespurnaden din vart avbroten fordi appen måtte autentisere på nytt. Prøv igjen.";
-"AutofillWithBitwardenDescriptionLong" = "Bitwarden kan foreslå passorda dine og andre legitimasjonsdetaljar når du loggar inn i appar og på nettstader.";
+"AutofillWithBitwardenDescriptionLong" = "Multipass kan foreslå passorda dine og andre legitimasjonsdetaljar når du loggar inn i appar og på nettstader.";
 "LearnMoreAboutAutofill" = "Lær meir om autoutfyll";
 "TurnOnNow" = "Slå på no";
 "AcceptTransfer" = "Godta overføring";
