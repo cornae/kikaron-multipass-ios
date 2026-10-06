@@ -14,7 +14,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>Multipass 无法解密 %d 个密码库项目。</string>
+        <string>Bitwarden 无法解密 %d 个密码库项目。</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

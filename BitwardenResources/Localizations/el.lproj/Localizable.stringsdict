@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Το Multipass δεν μπόρεσε να αποκρυπτογραφήσει %d στοιχείο της κρύπτης.</string>
+        <string>Το Bitwarden δεν μπόρεσε να αποκρυπτογραφήσει %d στοιχείο της κρύπτης.</string>
         <key>other</key>
-        <string>Το Multipass δεν μπόρεσε να αποκρυπτογραφήσει %d στοιχεία της κρύπτης.</string>
+        <string>Το Bitwarden δεν μπόρεσε να αποκρυπτογραφήσει %d στοιχεία της κρύπτης.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

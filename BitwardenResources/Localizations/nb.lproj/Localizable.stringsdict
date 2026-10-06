@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass kunne ikke dekryptere %d hvelvelement.</string>
+        <string>Bitwarden kunne ikke dekryptere %d hvelvelement.</string>
         <key>other</key>
-        <string>Multipass kunne ikke dekryptere %d hvelvelementer.</string>
+        <string>Bitwarden kunne ikke dekryptere %d hvelvelementer.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

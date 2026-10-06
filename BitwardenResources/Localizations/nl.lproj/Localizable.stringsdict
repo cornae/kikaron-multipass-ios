@@ -14,16 +14,16 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass kon %d kluisitem niet decoderen.</string>
+        <string>Bitwarden kon %d kluisitem niet decoderen.</string>
         <key>other</key>
-        <string>Multipass kon %d kluisitems niet decoderen.</string>
+        <string>Bitwarden kon %d kluisitems niet decoderen.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->
     <key>MasterPasswordMustBeAtLeastXCharactersLong</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
-      <string>Multipass-wachtwoord moet minstens %#@characters@ tekens lang zijn.</string>
+      <string>Hoofdwachtwoord moet minstens %#@characters@ tekens lang zijn.</string>
       <key>MasterPasswordMustBeAtLeastCharactersLong</key>
       <dict>
         <key>NSStringFormatSpecTypeKey</key>
@@ -31,9 +31,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass-wachtwoord moet minstens %d teken lang zijn.</string>
+        <string>Hoofdwachtwoord moet minstens %d teken lang zijn.</string>
         <key>other</key>
-        <string>Multipass-wachtwoord moet minstens %d tekens lang zijn.</string>
+        <string>Hoofdwachtwoord moet minstens %d tekens lang zijn.</string>
       </dict>
     </dict>
     <!-- A warning if we have determined that a password has been exposed in a data breach. -->

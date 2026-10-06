@@ -14,7 +14,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>Multipass သည် ဗော်လ်တ်ပစ္စည်း %d ခုကို ကုဒ်ဖြင့်ဖွင့်၍ မရပါ။</string>
+        <string>Bitwarden သည် ဗော်လ်တ်ပစ္စည်း %d ခုကို ကုဒ်ဖြင့်ဖွင့်၍ မရပါ။</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

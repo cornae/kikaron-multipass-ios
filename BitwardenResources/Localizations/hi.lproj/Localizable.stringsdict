@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass %d वॉल्ट आइटम को डिक्रिप्ट नहीं कर सका।</string>
+        <string>Bitwarden %d वॉल्ट आइटम को डिक्रिप्ट नहीं कर सका।</string>
         <key>other</key>
-        <string>Multipass %d वॉल्ट आइटम को डिक्रिप्ट नहीं कर सका।</string>
+        <string>Bitwarden %d वॉल्ट आइटम को डिक्रिप्ट नहीं कर सका।</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

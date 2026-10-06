@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass %d तिजोरी आयटम डिक्रिप्ट करू शकला नाही.</string>
+        <string>Bitwarden %d तिजोरी आयटम डिक्रिप्ट करू शकला नाही.</string>
         <key>other</key>
-        <string>Multipass %d तिजोरी आयटम डिक्रिप्ट करू शकला नाही.</string>
+        <string>Bitwarden %d तिजोरी आयटम डिक्रिप्ट करू शकला नाही.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

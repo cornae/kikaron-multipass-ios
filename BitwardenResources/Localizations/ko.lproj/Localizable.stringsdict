@@ -14,7 +14,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>Multipass이 보관함 항목 %d개를 복호화할 수 없었습니다.</string>
+        <string>Bitwarden이 보관함 항목 %d개를 복호화할 수 없었습니다.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

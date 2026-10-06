@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass ei pystynyt purkamaan %d holvin kohteen salausta.</string>
+        <string>Bitwarden ei pystynyt purkamaan %d holvin kohteen salausta.</string>
         <key>other</key>
-        <string>Multipass ei pystynyt purkamaan %d holvin kohteen salausta.</string>
+        <string>Bitwarden ei pystynyt purkamaan %d holvin kohteen salausta.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

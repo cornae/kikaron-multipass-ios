@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>A Multipass nem tudott visszafejteni %d széf elemet.</string>
+        <string>A Bitwarden nem tudott visszafejteni %d széf elemet.</string>
         <key>other</key>
-        <string>A Multipass nem tudott visszafejteni %d széf elemet.</string>
+        <string>A Bitwarden nem tudott visszafejteni %d széf elemet.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass %d ভল্ট আইটেম ডিক্রিপ্ট করতে পারেনি।</string>
+        <string>Bitwarden %d ভল্ট আইটেম ডিক্রিপ্ট করতে পারেনি।</string>
         <key>other</key>
-        <string>Multipass %d ভল্ট আইটেম ডিক্রিপ্ট করতে পারেনি।</string>
+        <string>Bitwarden %d ভল্ট আইটেম ডিক্রিপ্ট করতে পারেনি।</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

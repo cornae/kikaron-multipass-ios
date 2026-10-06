@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass kasadaki %d kaydın şifresini çözemedi.</string>
+        <string>Bitwarden kasadaki %d kaydın şifresini çözemedi.</string>
         <key>other</key>
-        <string>Multipass kasadaki %d kaydın şifresini çözemedi.</string>
+        <string>Bitwarden kasadaki %d kaydın şifresini çözemedi.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

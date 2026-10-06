@@ -14,13 +14,13 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass nie mógł odszyfrować %d elementu sejfu.</string>
+        <string>Bitwarden nie mógł odszyfrować %d elementu sejfu.</string>
         <key>few</key>
-        <string>Multipass nie mógł odszyfrować %d elementów sejfu.</string>
+        <string>Bitwarden nie mógł odszyfrować %d elementów sejfu.</string>
         <key>many</key>
-        <string>Multipass nie mógł odszyfrować %d elementów sejfu.</string>
+        <string>Bitwarden nie mógł odszyfrować %d elementów sejfu.</string>
         <key>other</key>
-        <string>Multipass nie mógł odszyfrować %d elementów sejfu.</string>
+        <string>Bitwarden nie mógł odszyfrować %d elementów sejfu.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

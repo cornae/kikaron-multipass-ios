@@ -35,6 +35,7 @@ def read(rel):
 
 
 def write(rel, text):
+    os.makedirs(os.path.dirname(p(rel)), exist_ok=True)
     with open(p(rel), "w", encoding="utf-8") as fh:
         fh.write(text)
 

@@ -14,7 +14,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>Multipass không thể giải mã %d mục trong kho.</string>
+        <string>Bitwarden không thể giải mã %d mục trong kho.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

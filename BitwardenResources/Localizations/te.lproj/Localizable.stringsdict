@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass %d ఖజానా అంశాన్ని డీక్రిప్ట్ చేయలేకపోయింది.</string>
+        <string>Bitwarden %d ఖజానా అంశాన్ని డీక్రిప్ట్ చేయలేకపోయింది.</string>
         <key>other</key>
-        <string>Multipass %d ఖజానా అంశాలను డీక్రిప్ట్ చేయలేకపోయింది.</string>
+        <string>Bitwarden %d ఖజానా అంశాలను డీక్రిప్ట్ చేయలేకపోయింది.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

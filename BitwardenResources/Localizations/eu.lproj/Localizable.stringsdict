@@ -14,9 +14,9 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>one</key>
-        <string>Multipass-ek ezin du %d kutxako elementu desenkriptatu.</string>
+        <string>Bitwarden-ek ezin du %d kutxako elementu desenkriptatu.</string>
         <key>other</key>
-        <string>Multipass-ek ezin du %d kutxako elementu desenkriptatu.</string>
+        <string>Bitwarden-ek ezin du %d kutxako elementu desenkriptatu.</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->

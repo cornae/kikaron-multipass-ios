@@ -14,7 +14,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>d</string>
         <key>other</key>
-        <string>Multipass ไม่สามารถถอดรหัสรายการในตู้นิรภัยได้ %d รายการ</string>
+        <string>Bitwarden ไม่สามารถถอดรหัสรายการในตู้นิรภัยได้ %d รายการ</string>
       </dict>
     </dict>
     <!-- A message indicating the minimum length of a master password in characters. -->
