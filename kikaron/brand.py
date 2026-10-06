@@ -194,8 +194,42 @@ STRINGS_LINE = re.compile(r'^([ \t]*"(?:[^"\\]|\\.)*"[ \t]*=[ \t]*")(.*)(";[ \t]
 DICT_STRING = re.compile(r"(<string>)(.*?)(</string>)")
 
 
+# Strings in which "Bitwarden" is not this app but something of Bitwarden's: another
+# Bitwarden app (Authenticator), its website / help centre, its newsletter or its
+# subscriptions. Renaming them would present Bitwarden's things as ours, so they keep
+# the name (a factual mention, which Bitwarden's trademark guidelines allow). Matched
+# as prefixes of the string's key.
+KEEP_BITWARDEN = (
+    "BitwardenHelpCenter",
+    "PrivacyPolicyDescriptionLong",
+    "LearnAboutOrganizationsDescriptionLong",
+    "GetAdviceAnnouncementsAndResearchOpportunitiesFromBitwarden",
+    "GoToBitwardenToIntegrateBitwarden",
+    "ManageYourSubscriptionPlanInTheBitwardenWebApp",
+    "LogInAtBitwardenToEasilyManageYourAccount",
+    "ForDetailsOnWhatIsAndIsntLoggedVisitTheBitwardenHelpCenter",
+    "ManageYourLoginsFromAnywhereWithBitwardenTools",
+    "BitwardenTools",
+    "AccountsSyncedFromBitwardenApp",
+    "BitwardenAuthenticator",
+    "CopyToBitwardenVault",
+    "DownloadTheBitwardenApp",
+    "SaveThisAuthenticatorKeyHereOrAddItToALoginInYourBitwardenApp",
+    "SaveToBitwarden",
+    "SecureYourAssetsWithBitwardenAuthenticator",
+    "SetSaveToBitwardenAsYourDefaultSaveOption",
+    "SyncWithBitwardenApp",
+    "SyncWithTheBitwardenApp",
+    "UnableToSyncCodesFromTheBitwardenApp",
+)
+KEY = re.compile(r'[ \t]*"((?:[^"\\]|\\.)*)"')
+
+
 def debrand(m):
     """Keep the key / markup (group 1 and 3), rebrand the value (group 2)."""
+    key = KEY.match(m.group(1))
+    if key and key.group(1).startswith(KEEP_BITWARDEN):
+        return m.group(0)
     # (?<!@): leave %#@BitwardenSomething@ plural variable names alone.
     return m.group(1) + re.sub(r"(?<!@)Bitwarden", PRODUCT_NAME, m.group(2)) + m.group(3)
 
@@ -607,6 +641,116 @@ def unlock_screen():
                  "            }\n")
 
 
+# --- 11. The legal notices (GPL-3.0 section 5) ------------------------------
+# Upstream's copyright line stays as it is; under it the About screen says that this
+# is a modified version, by whom and when, under which licence, without warranty,
+# and where the source is - in the wording Bitwarden's trademark guidelines give.
+
+SOURCE_URL = "https://github.com/cornae/kikaron-multipass-ios"
+
+
+def notices():
+    replace("BitwardenKit/Core/Platform/Services/AppInfoService.swift",
+            '        "© Bitwarden Inc. 2015\\(String.enDash)\\(Calendar.current.component(.year, from: timeProvider.presentTime))"\n',
+            '        // Kikaron: the GPL-3.0 notices of this modified version, in the wording of\n'
+            "        // Bitwarden's trademark guidelines.\n"
+            '        """\n'
+            '        © Bitwarden Inc. 2015\\(String.enDash)\\(Calendar.current.component(.year, from: timeProvider.presentTime))\n'
+            '        Kikaron Multipass was developed using Bitwarden® open source software. \\\n'
+            '        Not affiliated with or endorsed by Bitwarden, Inc.\n'
+            '        Modified by Cornae (2026). GPL-3.0, without any warranty.\n'
+            f'        Source: {SOURCE_URL}\n'
+            '        """\n')
+
+
+# --- 12. The splash: how every Kikaron app opens ----------------------------
+# A plain ground (white; #1D1A16 in the dark) with the app's own line glyph in the
+# middle, 158 pt, in its colour - no wordmark, no tile. The same window is shown
+# when the app goes to the background, so it is also the privacy cover: nothing of
+# the vault behind it.
+
+SPLASH_STORYBOARD = """<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina5_9" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="SplashGlyph" translatesAutoresizingMaskIntoConstraints="NO" id="BLO-Tb-egS">
+                                <rect key="frame" x="108.5" y="327" width="158" height="158"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="158" id="bDQ-uQ-eee"/>
+                                    <constraint firstAttribute="height" constant="158" id="ssv-dM-0pp"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Bcu-3y-fUS"/>
+                        <color key="backgroundColor" name="SplashBackground"/>
+                        <constraints>
+                            <constraint firstItem="BLO-Tb-egS" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="ZNN-2t-45e"/>
+                            <constraint firstItem="BLO-Tb-egS" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="rFh-72-gEC"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.671755725190835" y="374.64788732394368"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="SplashGlyph" width="158" height="158"/>
+        <namedColor name="SplashBackground">
+            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
+"""
+
+SPLASH_GLYPH_CONTENTS = """{
+  "images" : [
+    { "filename" : "splash-glyph.svg", "idiom" : "universal" },
+    { "appearances" : [ { "appearance" : "luminosity", "value" : "dark" } ],
+      "filename" : "splash-glyph-dark.svg", "idiom" : "universal" }
+  ],
+  "info" : { "author" : "xcode", "version" : 1 },
+  "properties" : { "preserves-vector-representation" : true }
+}
+"""
+
+SPLASH_COLOUR_CONTENTS = """{
+  "colors" : [
+    { "color" : { "color-space" : "srgb", "components" : { "alpha" : "1.000", "blue" : "0xFF", "green" : "0xFF", "red" : "0xFF" } },
+      "idiom" : "universal" },
+    { "appearances" : [ { "appearance" : "luminosity", "value" : "dark" } ],
+      "color" : { "color-space" : "srgb", "components" : { "alpha" : "1.000", "blue" : "0x16", "green" : "0x1A", "red" : "0x1D" } },
+      "idiom" : "universal" }
+  ],
+  "info" : { "author" : "xcode", "version" : 1 }
+}
+"""
+
+
+def splash():
+    cat = "Bitwarden/Application/Support/Assets.xcassets/"
+    write(cat + "SplashGlyph.imageset/Contents.json", SPLASH_GLYPH_CONTENTS)
+    write(cat + "SplashGlyph.imageset/splash-glyph.svg", read("kikaron/splash-glyph.svg"))
+    write(cat + "SplashGlyph.imageset/splash-glyph-dark.svg", read("kikaron/splash-glyph-dark.svg"))
+    write(cat + "SplashBackground.colorset/Contents.json", SPLASH_COLOUR_CONTENTS)
+    write("Bitwarden/Application/Support/Resources/LaunchScreen.storyboard", SPLASH_STORYBOARD)
+
+
 def main():
     local_xcconfig()
     project()
@@ -618,6 +762,8 @@ def main():
     settings()
     unlock_screen()
     colours()
+    notices()
+    splash()
     if failures:
         print("kikaron/brand.py: upstream moved, update the anchors:", file=sys.stderr)
         for f in failures:
